@@ -1,0 +1,267 @@
+{
+    "total": 13,
+    "time": 9.982152700424194,
+    "AEST.2210": {
+        "name": "AEST.2210 20th Century Art (Formerly 79.221)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/2210/",
+        "id": "007415",
+        "description": "A study of American and European movements in painting, sculpture, and architecture from 1900 to the present. Emphasis is placed on Fauvism, Cubism, Expressionism, Surrealism, International Style, Pop, Op Art, Minimal Art, Photorealism, and Post-Modernism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ARHI 2030 History of Art:Preh-Med and ARHI 2040 Hist of Art II: Ren-Mod or Studio Art Minor or Art Minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARHI.2030"
+                ],
+                [
+                    "ARHI.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.2250": {
+        "name": "AEST.2250 History of Photography (Formerly 79.225)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/2250/",
+        "id": "006828",
+        "description": "Less than 200 years old, photography seems to span millennia. With 1839 as the invention's launch date, there is no photograph of George Washington, but very soon we are flooded with the faces of composers, painters, and presidents: we know and are reminded of the ravages of civil and world wars, industrial progress and social injustice, or the beauty of pristine landscapes and their ecological demise. In this course, students will become familiar with some 100 notable photographers, from the beginning years of its invention to contemporary times with works by major artists and forgotten visionaries, all serving as a foundation for inspiration and understanding of the art worlds most visible medium. Grading in the course is based on a mid-term and final exam along with a major research paper.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARHI.2030 History of Art:Preh-Med, or ARHI.2040 History of Art II:Ren-Mod, or ARHI.1010 Art Appreciation, or Studio Art Minor or Art Minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARHI.2030",
+                    "ARHI.2040",
+                    "ARHI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.2310": {
+        "name": "AEST.2310 Aesthetics and Critical Studies Seminar (Formerly 79.231/490)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/2310/",
+        "id": "001237",
+        "description": "The Aesthetics and Critical Studies Seminar introduces a wide variety of artists, designers, images, concepts, movements and theories. The objective of this course is to improve critical awareness and provide a theoretical background to art and design studio courses. Topics to be announced. Course may be repeated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, and (ENGL.1020 College Writing II or HONR.1100). This course is for Juniors and Seniors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "HONR.1100)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.2410": {
+        "name": "AEST.2410 Art Serving Political, Religious, & Social Needs (Formerly 79.241)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/2410/",
+        "id": "007417",
+        "description": "The objectives are to study the production of meaning in paintings and frescos, sculpture, stained glass, architecture and other art forms that were commissioned through the church and state patronage system; to analyze how these images are used to represent and define social order; how these images support the patron's interpretation of history while appealing to aesthetic needs; and ways in which art supported the educational and evangelical aims of church and state. The course will introduce students to the visual and critical language of art produced at this time and analyze works in the context of contemporary history. The thematic focus of this class is designed for Italian cultural studies. No knowledge of Italian is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.2800": {
+        "name": "AEST.2800 From Collective to Personal Aesthetics (Formerly 79.280)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/2800/",
+        "id": "038880",
+        "description": "This course is an exploration in aesthetics and culture. The seminar examines a variety of works by contemporary artists and designers; and also introduces important texts by philosophers, art theorists, and critics. Throughout the semester, student will study current trends in visual studies. They will examine a range of works form popular culture to high art and respond to various readings through class discussions and papers. In addition, the course will facilitate intellectual engagement with ones own visual work. Through their research, student will explore the connections between their work and that of other artists and designers. They will situate their artwork within the field of criticism, creating a bridge across the traditional divide between theory and practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and Junior or Senior Status or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.3600": {
+        "name": "AEST.3600 Aesthetics and Critical Studies of Graphic Design (Formerly 79.360)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/3600/",
+        "id": "007427",
+        "description": "Examination of the aesthetic theories and practice of graphic design. Significant practitioners of the art will be highlighted.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ARHI 2030 History of Art:Preh-Med and ARHI 2040 Hist of Art II: Ren-Mod or Studio Art Minor or Art Minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARHI.2030"
+                ],
+                [
+                    "ARHI.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.3620": {
+        "name": "AEST.3620 Post-digital Aesthetics",
+        "url": "https://www.uml.edu/catalog/courses/AEST/3620/",
+        "id": "040168",
+        "description": "Post-digital Aesthetics explores art after the digital revolution focusing on critical analysis of digital images and environments. We will study how digital technology has transformed art making and also how it impacts the very definition of art. The blurring of boundaries between art, life and design is more than ever evident as human experiences are increasingly mediated through technological devices and high-quality design. The internet has dramatically altered how and why we make art while virtual presence and embodiment in VR bring unprecedented questions about the role of artists and designers in our understanding of the world. This course will be taught as a face-to-face seminar. However, we will also travel beyond the classroom walls into virtual worlds and environments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and Junior or Senior Status or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.3623": {
+        "name": "AEST.3623 Politics and a photograph",
+        "url": "https://www.uml.edu/catalog/courses/AEST/3623/",
+        "id": "042049",
+        "description": "The course will examine the existing discourses around photography's role in important individual social and cultural issues. Through lectures, readings, discussions, writing, and creative projects we will explore the medium as inherently political. In the studio portion of the class, students will focus on producing a self-defined body of work that will explore the political dimension of photographic images. Students are expected to be active participants in the course by producing photographic projects, participating in class discussions, and looking and thinking about images and texts beyond those offered in class.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.3700": {
+        "name": "AEST.3700 Strategies of Visual Dissent",
+        "url": "https://www.uml.edu/catalog/courses/AEST/3700/",
+        "id": "042121",
+        "description": "This course will study visual modes of social & political dissent. As an art and design history course, we will examine cases of social, legal, cultural repression and the methods used to successfully change those realities. This course focuses on examples of ethical, non-violent, social intervention, education, and calls for action. We will look at history, identify current areas of social concern, study the issues, and create artwork, design, and engagement strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.3800": {
+        "name": "AEST.3800 Understanding Movies: Cinema as Social Commentary (Formerly 79.380)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/3800/",
+        "id": "037494",
+        "description": "This film theory seminar has several main objectives: to study the production of meaning in films; to analyze how moving images are used in social representation; and to introduce students to the visual and critical language of cinema.  In this course, we will view a series of films by international authors.  These address some of the most pressing issues of today's global world such as identity, subjectivity, difference and otherness, race relations, representations of gender and sexuality, immigration, war, colonialism and post-colonialism, poverty, and social inequalities.  The films that we watch will be studied not as isolated cinematic texts but as illustrations and examples of theories of representation.  Students will develop their critical analysis skills by being introduced to theoretical concepts such as \"the gaze\" in art and cinema as well as formal elements such as mise-in-scene, cinematography, editing, and sound.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "42.102 College Writing II, This is a 300 level course intended for Junior and Seniors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AEST.4900": {
+        "name": "AEST.4900 Aesthetics and Critical Studies Seminar (Formerly 79.231/490)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/4900/",
+        "id": "001237",
+        "description": "The Aesthetics and Critical Studies Seminar introduces a wide variety of artists, designers, images, concepts, movements and theories. The objective of this course is to improve critical awareness and provide a theoretical background to art and design studio courses. Topics to be announced. Course may be repeated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, and (ENGL.1020 College Writing II or HONR.1100). This course is for Juniors and Seniors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "HONR.1100)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.4940": {
+        "name": "AEST.4940 Directed Study in Aesthetic Concepts (Formerly 79.494)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/4940/",
+        "id": "007430",
+        "description": "An individual supervised research project relating to questions of aesthetic interpretation and understandings. Fall and Spring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ARHI 2030 History of Art:Preh-Med and ARHI 2040 Hist of Art II: Ren-Mod or Studio Art Minor or Art Minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARHI.2030"
+                ],
+                [
+                    "ARHI.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AEST.4960": {
+        "name": "AEST.4960 Practicum Experience in Aesthetic Concepts (Formerly 79.496)",
+        "url": "https://www.uml.edu/catalog/courses/AEST/4960/",
+        "id": "007432",
+        "description": "A program of on-campus and/or off-campus experiences for art majors only. Specific requirements will vary depending upon department policies and the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a community, social, cultural or artistic area and for applying techniques of problem solving and/or credits. Students will be graded \"satisfactory\" or \"unsatisfactory\".  Fall and Spring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ARHI 2030 History of Art:Preh-Med and ARHI 2040 Hist of Art II: Ren-Mod or Studio Art Minor or Art Minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARHI.2030"
+                ],
+                [
+                    "ARHI.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

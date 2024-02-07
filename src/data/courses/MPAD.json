@@ -1,0 +1,263 @@
+{
+    "total": 17,
+    "time": 13.622000932693481,
+    "MPAD.4910": {
+        "name": "MPAD.4910 Directed Study:Public Administration",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/4910/",
+        "id": "040347",
+        "description": "Directed Study: Through frequent consultation with the instructor, the student carries out the investigation of a particularly specialized area of interest.",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5010": {
+        "name": "MPAD.5010 Foundations of Public Administration",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5010/",
+        "id": "039963",
+        "description": "This course provides an introduction to the field of public administration, including both its theoretical and practical dimensions. Beyond exploring the history and evolution of the field, the course will examine the contours of the public sector, the workings of public institutions and bureaucracies, and the ways in which analytic tools can be applied to understand public policy problems and questions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5020": {
+        "name": "MPAD.5020 Public and Non-Profit Budgeting and Financial Management",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5020/",
+        "id": "040139",
+        "description": "This course provides students with a conceptual and practical introduction to budgeting and financial management in the public sector. It examines the relationship between the budget and agency strategy, reviews the mechanics of the public budgeting process, and introduces students to the basics of financial management practice and financial analysis. It also emphasizes budgeting as a tool for performance management and accountability to the public. Topics covered in the course include an overview of the structure and sources of government revenue, the politics of the budget process, capital budgeting, intergovernmental fiscal relations, the process of budget formulation, performance-based budgeting, financial reporting, and an overview of generally accepted accounting principles.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5030": {
+        "name": "MPAD.5030 Public and Non-Profit Management and Leadership",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5030/",
+        "id": "040150",
+        "description": "This course offers students an overview of the practical and theoretical foundations of managing, planning, and leadership within public and community-serving organizations. Topics and issues explored through the course include the role of professional managers within the public sector, the process of executive decision-making, employee incentives and motivation, conflict management, performance measurement, ethical challenges faced by managers, workplace diversity, strategic planning, and power dynamics. Course activities will include weekly critical readings and case studies, as well as individual and group problem-solving exercises.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5040": {
+        "name": "MPAD.5040 Data Analysis",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5040/",
+        "id": "040142",
+        "description": "This course provides students with a basic introduction to the use of quantitative methods in policy research.  It is very much designed as a course in applied statistics, covering common topics such as types of variables and data, probability theory, hypothesis testing, measures of central tendency and variance, as well as tools for examining basic relationships between two variables: contingency tables, correlation and bivariate regression. Weekly homework assignments ask students to work with actual data and develop skills for quickly analyzing data, reporting the results, and using their conclusions to inform decision-making.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5045": {
+        "name": "MPAD.5045 Advanced Research with Survey Data",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5045/",
+        "id": "041113",
+        "description": "Public and private organizations use survey data to evaluate policies and to understand their customers, clients, constituents, research subjects, and the public at-large improve operations. Students in Advanced Research with Survey Data will learn to conduct, analyze, or interpret survey-based research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5050": {
+        "name": "MPAD.5050 Professional Practicum",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5050/",
+        "id": "040536",
+        "description": "The MPA Professional Practicum is designed to draw upon experiences in an MPA related internship or current professional work and engage students in applying and integrating public administration theories and concepts in the field. This one-credit required professional practicum builds upon the relevant work experience and/or field experience of students. Students will engage in active facilitated reflection on their work experiences.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-req or Co-req: MPAD.5060 Internships in Public Administration.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MPAD.5060"
+                ]
+            ]
+        }
+    },
+    "MPAD.5060": {
+        "name": "MPAD.5060 Internships in Public Administration",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5060/",
+        "id": "040535",
+        "description": "The overall purpose for Public Administration Internships is for students to acquire practical experiences through a professional unpaid internship at public or non-profit organizations. Students will spend twelve weeks ten hours/week (120 hours total) working in an individually defined internship placement at an organization (\"the placement\") that provides in-depth experience in an area related to their MPA field of choice (i.e.-public humanities and arts, human service management or justice administration). Students will complete fieldwork under the supervision and with the permission of the instructor assigned to the course. Supervision will typically occur through a combination of online or in-person meetings on a weekly basis. Course arranged independently with faculty member.",
+        "credits": {
+            "min": "3",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5100": {
+        "name": "MPAD.5100 Public Policy Analysis",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5100/",
+        "id": "040132",
+        "description": "Public Policy Analysis introduces students to the complex, intricate and messy world of public policy-making in democratic institutions. This course will be divided into two parts. In the first section of the course, we will (re)visit the hurdles to achieving policy goals in American democracy with its systems of separation of powers, checks and balances and federalism. How do we theorize about the policy process? How does a problem become something worthy of gaining agenda status? How are policies formulated and passed? The second part of the course will focus on strategies for analyzing the policy process including the role of and tools of the policy analyst including common tools such as cost-benefit analysis and applied microeconomics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5150": {
+        "name": "MPAD.5150 Public and Non-Profit Personnel Management",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5150/",
+        "id": "041112",
+        "description": "Current issues in the management of public sector human resources recruitment, selection, work force training, and development, reward systems, employee health and safety, legal issues, managing diversity, performance evaluation, human resource planning, and labor-management relations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5200": {
+        "name": "MPAD.5200 Arts and Humanities in the Community",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5200/",
+        "id": "040417",
+        "description": "\"Arts and Humanities in the Community\" introduces students to the historical, theoretical, and practical elements of curating, funding, managing, promoting, and executing arts and public-humanities projects in community/public settings ranging from professional museum operations and public cultural agencies to local cultural festivals and community based art projects. The course will include case studies of historical and contemporary public arts and humanities projects. It will also introduce students to practical topics including organizational partnerships, education initiatives, stakeholder and audience development, diversity outreach, co-creation, marketing and digital media, and collaborative grand writing. Students will also be acquainted with potential internships for future work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5300": {
+        "name": "MPAD.5300 Gender and Administration",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5300/",
+        "id": "042066",
+        "description": "This course explores intersection of gender issues and administration in public and non-profit organizations. With a focus on the manner in which governmental organizational structures and also the need for these organizations to assess the impact of their programs on issues of gender equity in the larger community.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5400": {
+        "name": "MPAD.5400 Public Finance",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5400/",
+        "id": "042099",
+        "description": "This course introduces microeconomic theory and considers the role of government in a market economy. Examining common sources of market failure (market power, externalities, asymmetric information) and considering how government policy can address these failures. The course considers equity and fairness in relation to efficiency concerns in terms of policy. The course also attends to empirical considerations of policy. Including the use of data to estimate benefits and costs of policy, government spending and revenue and government deficits and surpluses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5900": {
+        "name": "MPAD.5900 Special Topics in Applied Public Policy and Management",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5900/",
+        "id": "041103",
+        "description": "This course presents a careful and in-depth examination of topics related to the field of public administration.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.5910": {
+        "name": "MPAD.5910 Directed Study: Public Admin.",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/5910/",
+        "id": "040626",
+        "description": "Directed Study: Public Admin.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.6000": {
+        "name": "MPAD.6000 Independent Study: Public Administration",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/6000/",
+        "id": "040659",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MPAD.6010": {
+        "name": "MPAD.6010 Capstone Experience",
+        "url": "https://www.uml.edu/catalog/courses/MPAD/6010/",
+        "id": "041111",
+        "description": "Designed to e taken during the student's final semester in the program, this course offers students the opportunity to apply what they have learned through an analytic and/or management project conducted on behalf of a client agency. The capstone projects will be team-based, with teams consisting of between 3-5 students. Projects and teams will be established in accordance with the focus on the student's selected option, and overseen by faculty mentor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

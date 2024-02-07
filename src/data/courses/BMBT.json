@@ -1,0 +1,378 @@
+{
+    "total": 24,
+    "time": 17.830331325531006,
+    "BMBT.4000": {
+        "name": "BMBT.4000 Introduction to Biomedical Engineering (Formerly IB 400)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/4000/",
+        "id": "037930",
+        "description": "Provides exposure to cutting-edge biomedical technologies in a number of different areas with a balance between biomedical engineering and biotechnology areas.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI 2510 Physiological Chemistry I, or CHEM 1210 Chemistry I, or CHEM 1110 General Chemistry I, and PHYS 1030 General Physics I, and PHYS 1030L General Physics Lab I, or PHYS 1410 Physics I, or PHYS 1410L  Physics I Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2510",
+                    "CHEM.1210",
+                    "CHEM.1110"
+                ],
+                [
+                    "PHYS.1030"
+                ],
+                [
+                    "PHYS.1030L",
+                    "PHYS.1410",
+                    "PHYS.1410L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMBT.5000": {
+        "name": "BMBT.5000 Introduction to Biomedical Engineering & Biotechnology (Formerly IB 500)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5000/",
+        "id": "020110",
+        "description": "This introductory course envelopes a breadth of different topics and fundamental concepts in biomedical engineering and biotechnology (BMEBT) that will allow students to explore and identify areas that may be of interest to them. Topics covered in the course may include, but are not limited to, the following: engineering and ethics, anatomy and physiology, biomechanics, biomaterials, tissue engineering, bioinstrumentation, biomedical sensors, biosignal processing, radiation treatment and medical imaging. Speakers from industry may also be invited to present topics of contemporary importance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5120": {
+        "name": "BMBT.5120 Medical Image Processing (Formerly IB 512)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5120/",
+        "id": "037007",
+        "description": "This course will focus on post-acquisition manipulation and analysis used clinically and in research. Techniques for processing N-dimensional images acquired using several different medical image modalities will be studied including basic image visualization, filtering, segmentation and registration. The emphasis will be on engineering methods & techniques rather than a rigorous mathematical investigation of algorithms and theory. Programming will not be required, but homework and projects will require use of an open-source software tool, ImageJ, to perform image processing tasks. [NOTE: Many students in prior semesters have expressed a preference for using MATLAB from Mathworks for image processing. All assignments can be completed using either ImageJ OR MATLAB].",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5130": {
+        "name": "BMBT.5130 Biomedical Analytics & Informatics (Formerly IB 513)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5130/",
+        "id": "038346",
+        "description": "The focus of this course will be on the analysis of large biomedical data sets using the R Programming Language, an open-source programming language with several development platforms freely available for Windows, Mac, and Linux.  The central topics will cover basic data analytics methods applying the widely used data analysis tool, R. This course will not focus on any specific biotechnology area. Many of the analytical skills obtained can be applied across a number of biomedical applications. The syllabus also covers an overview of major biomedical \"Big Data\" areas. Students may implement their final course project using a dataset in any biomedical application area of their choosing, i.e. genomics, medical imaging, health policy informatics, and personal health monitoring. There is no programming pre-requisite for this course. Students must have the willingness and capacity to learn how to apply R Programming.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5160": {
+        "name": "BMBT.5160 Basic Principles of Nuclear Magnetic Resonance Imaging (Formerly IB 516)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5160/",
+        "id": "037008",
+        "description": "The goal of this course is to provide the student with a general understanding of the physical principles of magnetic resonance imaging (MRI) and the instrumentation used to create a magnetic resonance image.  This goal will be sought without deep exploration of any particular physical science or mathematical discipline.  Background knowledge in freshman-level science and mathematics courses is assumed.  The topics to be covered in this course include:  1) theoretical and experimental aspects of MRI and their application to problems in medicine and biology, 2) physical principles underlying the generation and detection of the nuclear magnetic resonance signal, 3) MRI instrumentation, and 4) Nuclear magnetic resonance relaxation parameters and how they affect contrast in a magnetic resonance image.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5170": {
+        "name": "BMBT.5170 Embedded System Design in Medical Systems (Formerly IB 517)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5170/",
+        "id": "037006",
+        "description": "This course covers the design principles of embedded systems including both the hardware and software aspects.  We will introduce the design methodology and cost effectiveness of embedded systems.  We will discuss the microprocessor, memory and storage subsystems.  The interfacing between the computer system and medical instruments will be reviewed.  Firmware, operating systems,programming tools will be considered.  The course will have a lab component that includes hands-on exercises of embedded Linux (or RTEMS) in an online virtual laboratory environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5200": {
+        "name": "BMBT.5200 Ethical Iss. Biomedical (Formerly IB 520)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5200/",
+        "id": "020111",
+        "description": "The purpose of this course is to illustrate the ethical implications of engineering, and how to reason through these implications and make the best decisions possible. This course addresses ethical issues that arise in the discipline of biomedical engineering. Unlike most bioethics courses, this course draws from the literature in biomedical ethics and from engineering ethics, to cover important emerging issues that face biomedical engineers. Topics may include, but are not limited to, ethics related to general research, public health, robotic surgery, medical device validation, gene editing, artificial organs, longevity research, prosthetics, artificial intelligence, and brain-computer interfaces.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5250": {
+        "name": "BMBT.5250 Introduction to Translational Science (Formerly IB 525)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5250/",
+        "id": "038639",
+        "description": "Introduction to Translational Science will introduce students to the elements of translational research and is targeted toward individuals who have no prior experience with clinical or translational research. This course will focus on the principles and practices of translational medicine as they apply to the development of a new drug (small molecules and/or biologics), device, or diagnostic. The course will cover the following topics: Defining translational research, pre-clinical development of novel targets and leads, clinical development, the regulatory process, the design of the first-in-human clinical trial, protecting human subjects and managing clinical data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5500": {
+        "name": "BMBT.5500 BMBT Laboratory Experience (Formerly IB 550)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5500/",
+        "id": "030396",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.5750": {
+        "name": "BMBT.5750 Quantitative Physiology (Formerly IB 575)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/5750/",
+        "id": "032058",
+        "description": "This course presents physiology at the organ system level with a quantitative approach.  It helps integrate the curriculum for individuals with life science and engineering undergraduate backgrounds, permitting engineers and physical scientists an appreciation of how organisms function from the organ/system perspective and gives life scientists a more rigorous quantitative approach to physiology than is usual in undergardate courses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.6000": {
+        "name": "BMBT.6000 Capstone Project (Formerly IB 600)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/6000/",
+        "id": "020112",
+        "description": "Design or research project, either on campus or in industry, that synthesizes the knowledge accumulated in the BMEBT core curriculum. The course includes a brief project proposal, final report and presentation to be overseen by a UMass Lowell faculty member, as well as industry sponsor if conducting the research in industry. All research must be publishable (i.e. projects with strict IP are not allowed). Students should register in their final semester of MS required coursework.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.6010": {
+        "name": "BMBT.6010 Sem: Biomedical Engineering & Biotechnology (Formerly IB 601)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/6010/",
+        "id": "020113",
+        "description": "The goal of the seminar is to have students develop effective writing and speaking skills required for preparation of research papers and professional presentations.  The course emphasizes the importance of clear, concise writing style and delivery of presentations to both scientists and the lay public.  Outside readings are designed to critically evaluate contemporary issues related to: disclosure and conflict of interest, publishing ethics, the balance of research, security, and publishing censorship, electronic science collaborations, and the social implications of science.  Preparation of research grant proposals, the curriculum vitae, and poster presentations, and the submission of manuscripts for publication are also reviewed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.6050": {
+        "name": "BMBT.6050 1-Credit Continued Capstone Project (Formerly IB 605)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/6050/",
+        "id": "039214",
+        "description": "1-Credit Continued Capstone Project course is for students who need an extra semester to complete their capstone. Part of reduced course load program for international students.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7100": {
+        "name": "BMBT.7100 Directed Study (Formerly BMBT 710)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7100/",
+        "id": "030401",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7120": {
+        "name": "BMBT.7120 Directed Studies (Formerly IB 712)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7120/",
+        "id": "030402",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7200": {
+        "name": "BMBT.7200 Independent Study (Formerly IB 720)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7200/",
+        "id": "030403",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7210": {
+        "name": "BMBT.7210 Independent Study (Formerly IB 721)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7210/",
+        "id": "030404",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7220": {
+        "name": "BMBT.7220 Independent Study (Formerly IB 722)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7220/",
+        "id": "035006",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7560": {
+        "name": "BMBT.7560 Doctoral Dissertation (Formerly IB 756)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7560/",
+        "id": "029832",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7590": {
+        "name": "BMBT.7590 Dissertation Research (Formerly IB 759)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7590/",
+        "id": "030405",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7610": {
+        "name": "BMBT.7610 Continued Graduate Research",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7610/",
+        "id": "041462",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7700": {
+        "name": "BMBT.7700 CPT - Co-op Training (Formerly IB 770)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7700/",
+        "id": "035548",
+        "description": "Course required to perform CPT",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7710": {
+        "name": "BMBT.7710 CPT-Co-op Training (Formerly IB 771)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7710/",
+        "id": "035698",
+        "description": "Course required to perform CPT. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMBT.7800": {
+        "name": "BMBT.7800 Thesis Review (Formerly IB 780)",
+        "url": "https://www.uml.edu/catalog/courses/BMBT/7800/",
+        "id": "036528",
+        "description": "Thesis Review",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

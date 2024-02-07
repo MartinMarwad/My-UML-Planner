@@ -1,0 +1,49 @@
+{
+    "total": 3,
+    "time": 3.9326589107513428,
+    "CORE.AH": {
+        "name": "404 - Page Not Found",
+        "url": "https://www.uml.edu/catalog/courses/CORE/AH/",
+        "id": "",
+        "description": "",
+        "credits": {
+            "min": "",
+            "max": ""
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CORE.SCL": {
+        "name": "CORE.SCL Core Curriculum - (SCL) Sciences with Lab Perspective Perspective",
+        "url": "https://www.uml.edu/catalog/courses/CORE/SCL/",
+        "id": "040396",
+        "description": "The Core Curriculum at UMass Lowell ensures that students are learning deeply and broadly, developing essential intellectual abilities that prepare our students for work, life, and the world. The Science Perspective represents the systematic, organized, and evidence-based empirical study of the natural and physical world. \n  \nSelect two courses with integrated or accompanying laboratory work from the following. \nBIOLOGICAL SCIENCES - Courses with a prefix of BIOL or LIFE (considered as a single discipline) \nStudents only can receive credit for one of the following introductory biology lecture/lab courses: BIOL.1110/1170L, BIOL.1220/1240L; BIOL.2100/2120L; LIFE.1000/1050L; or LIFE.1010/1030L. In addition, the separate components of these courses cannot be mixed & matched for Science with Lab credit. \n\nCHEMISTRY - Courses with a prefix of CHEM \nStudents only can receive credit for one of the following freshmen-level chemistry I lecture/lab courses: CHEM.1110/1130L, CHEM.1210/1230L; or CHEM.1350/1230L. In addition, the separate components of these courses cannot be mixed & matched for Science with Lab credit. \nStudents only can receive credit for one of the following freshmen-level chemistry II lecture/lab courses: CHEM.1120/1140L, CHEM.1220/1240L; or CHEM.1360/1240L. In addition, the separate components of these courses cannot be mixed & matched for Science with Lab credit. \n\nENVIRONMENTAL, EARTH, and ATOMOSPHERIC SCIENCES - Courses with a prefix of ATMO, ENVI, and GEOL  (considered as separate disciplines) \nStudents cannot receive credit for both Astronomy with Lab (ENVI.1150/1170L) AND Exploring the Universe with Lab (PHYS.1210/1210L).  Neither can the components of these courses be mixed & matched for Science with Lab credit. \n\nPHYSICS & APPLIED PHYSICS - Courses with a prefix of PHYS \nStudents cannot receive credit for both Exploring the Universe with Lab (PHYS.1210/1210L) AND Astronomy with Lab (ENVI.1150/1170L).  Neither can the components of these courses be mixed & matched for Science with Lab credit. \nStudents only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L. In addition, the separate components of these courses cannot be mixed & matched for Science with Lab credit. \nStudents only can receive credit for one of the following freshmen-level physics II lecture/lab courses: PHYS.1040/1040L, PHYS.1440/1440L; or PHYS.1640/1640L. In addition, the separate components of these courses cannot be mixed & matched for Science with Lab credit. \n\nRADIOLOGICAL SCIENCES - Courses with a prefix of RADI\n\nInterdisciplinary courses are found on the Core Curriculum site and only one interdisciplinary course can be credited towards the Science with Accompanying Laboratory requirement.\n\nNo more than two courses from the same discipline can be applied to the Sciences Perspective and STEM Perspective requirements combined. Discipline is defined by the course prefix; courses with different prefixes are considered as different disciplines EXCEPT for BIOL and LIFE, which are considered as being the same discipline. NOTE: Some courses may have specific pre-requisites and/or co-requisites or are open only to majors within that discipline.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CORE.SS": {
+        "name": "404 - Page Not Found",
+        "url": "https://www.uml.edu/catalog/courses/CORE/SS/",
+        "id": "",
+        "description": "",
+        "credits": {
+            "min": "",
+            "max": ""
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

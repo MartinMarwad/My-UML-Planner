@@ -1,0 +1,173 @@
+{
+    "total": 10,
+    "time": 8.5538010597229,
+    "SCIE.1500": {
+        "name": "SCIE.1500 Exploring the Sciences",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/1500/",
+        "id": "041935",
+        "description": "The seminar is designed to help undeclared science students make an informed and sound decision regarding their choice of major.  The course surveys the different disciplines and curriculum options within the College of Sciences as well as their associated career paths.  Students will engage in personal assessments and develop career planning and decision-making skills to better guide their selection of a specific major.  The course also provides an introduction to various academic success strategies and an overview of campus resources.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Freshman Undeclared Science majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SCIE.1990L": {
+        "name": "SCIE.1990L Intercollegiate Sciences Lab 1000 level elective.",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/1990L/",
+        "id": "040173",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SCIE.2000": {
+        "name": "SCIE.2000 Job Search Seminar",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/2000/",
+        "id": "041568",
+        "description": "The Job Search Seminar is designed to provide students with the necessary structure, resources, and support to facilitate their career development and the pursuit of career goals. Through a variety of interactive teaching methodologies and assignments, students will participate in a sequence of learning activities including self-assessment, career exploration, and the job search process. The latter will include resume and cover letter writing, the online search, professional networking, and strategic interviewing. The goal of the course is to assist each student in developing a sound plan of action in pursuing their career objectives.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SCIE.2100": {
+        "name": "SCIE.2100 Professional Development Seminar (Formerly 82.210)",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/2100/",
+        "id": "036959",
+        "description": "The Professional Development Seminar is designed to provide students with the necessary structure, resources, and support to successfully secure and engage in their first cooperative education experience.  Through a variety of teaching methodologies and assignments, students will prepare to engage in the job search process through resume writing, strategic interviewing, professional networking and through learning professional behavior and presentation skills.  Course open to undergraduates who have previously applied and been accepted to participate in the Professional Co-op Program.  Enrollment is by Instructor permission only.  For more information on applying to the Professional Co-op Program, see https://www.uml.edu/student-services/Career-Services/Cooperative-Education/Forms-Handbooks.aspx.  Pre-Req:  Permission of Instructor.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "CO-OP - PDS - SCIE Student Group or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SCIE.2200": {
+        "name": "SCIE.2200 Integrated Sciences: Biology, Ecology, and Earth",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/2200/",
+        "id": "042051",
+        "description": "SCIE.2200 is one of two required science courses for BA Ed Elementary Education majors. This course introduces future educators to the basic concepts and applications in Biology, Ecology, and Earth Sciences. Lectures, inquiry-based activities, and laboratory sessions are closely integrated. Students become skilled in scientific practices, including generating and testing hypotheses and gathering and analyzing data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Education Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SCIE.2400": {
+        "name": "SCIE.2400 Integrated Sciences: Astronomy, Physics, and Tech",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/2400/",
+        "id": "042056",
+        "description": "This is one of two required science course for BA Ed Elementary Education majors. This course introduces future educators to the basic concepts and applications of Physics, Chemistry, Astronomy, and Engineering Technology. Lectures, inquiry-based activities, and laboratory sessions are closely integrated. The course explicitly addresses laboratory skills, tools, and the use of technology in the application of content. Students become skilled in scientific practices, including generating and testing hypotheses, and gathering and analyzing data.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Education Majors with Elementary and Moderate Disabilities Option only, Not for Science or Engineering majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SCIE.3100": {
+        "name": "SCIE.3100 Co-op Assessment 1 (Formerly 82.310)",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/3100/",
+        "id": "036960",
+        "description": "The primary goal of this seminar is to assist students in the overall assessment of their overall cooperative education experience.  Through facilitated small group discussion, individual consultation and hands on practice, students will have an opportunity to identify and articulate their technical and professional skills, and explore how these skills and their co-op employment might be translated and leveraged into future work environments and their academic program at UML.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: SCIE.2100 Professional Development Seminar; student should have completed 1 co-op work experience.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SCIE.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SCIE.3200": {
+        "name": "SCIE.3200 Co-op Assessment I (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/3200/",
+        "id": "039900",
+        "description": "This seminar is designed to support and assist students in the assessment of their 6 month cooperative education experience. Students will reflect of their extended time in a work environment, the impact of their experience on their planning, and how organizational culture, personal interests and values can inform their subsequent decisions for career development. Through facilitated small group discussions, individual consultation and hands on practice, students will have the opportunity to identify and articulate their technical and professional skills.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "SCIE.3CE Co-op Experience, and SCIE.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SCIE.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SCIE.4100": {
+        "name": "SCIE.4100 Co-op Assessment 2 (Formerly 82.410)",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/4100/",
+        "id": "036961",
+        "description": "This seminar is designed to support and assist students in the continued assessment of their cooperative education experience.  Through a deepening of their work in Co-op Assessment 1, students will review their overall performance in the cooperative education program, while continuing to demonstrate their technical and professional skills through written work and public presentations to multiple audiences.  It is expected that students will clearly define their future academic and career goals, enhance their professional networks, and develop a future plan to support aspirations related to their major.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "BIOL 2101 Professional Development Seminar and BIOL 3100 Co-op Assessment l, and BIOL 3CE or BIOL 4CE Cooperative Education.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2101"
+                ],
+                [
+                    "BIOL.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SCIE.4200": {
+        "name": "SCIE.4200 Co-op Assessment 2 (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/SCIE/4200/",
+        "id": "039903",
+        "description": "This seminar is designed to support and assist students in the assessment of their second cooperative education work experience that was for a 6 month cycle. Students will reflect on their extended time in this second work environment, and how their two different co-op work experiences impacts their subsequent decisions for career development. Students will review their overall performance in the cooperative education program, and demonstrate their technical and professional skills through written work and public presentations to multiple audiences.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "SCIE.4CE Co-op Experience ll, and SCIE.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SCIE.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

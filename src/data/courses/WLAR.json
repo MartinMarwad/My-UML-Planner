@@ -1,0 +1,87 @@
+{
+    "total": 5,
+    "time": 5.578794002532959,
+    "WLAR.1150": {
+        "name": "WLAR.1150 Arabic 1 and Culture (Formerly 53.115)",
+        "url": "https://www.uml.edu/catalog/courses/WLAR/1150/",
+        "id": "006042",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 115, 116 and 215, 216 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLAR.1160": {
+        "name": "WLAR.1160 Arabic 2 and Culture (Formerly 53.116)",
+        "url": "https://www.uml.edu/catalog/courses/WLAR/1160/",
+        "id": "006043",
+        "description": "This course is for students who have completed 53.115 Arabic 1 and Culture.  Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 115, 116 and 215, 216 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLAR.1150 Arabic 1 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLAR.1150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLAR.2150": {
+        "name": "WLAR.2150 Arabic 3 and Culture (Formerly 53.215)",
+        "url": "https://www.uml.edu/catalog/courses/WLAR/2150/",
+        "id": "006057",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 117, 118 and 215, 217 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 53.116 Arabic 2 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLAR.2160": {
+        "name": "WLAR.2160 Arabic 4 and Culture (Formerly 53.216)",
+        "url": "https://www.uml.edu/catalog/courses/WLAR/2160/",
+        "id": "032067",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 115, 116 and 215, 216 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLAR.2150 Arabic 3 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLAR.2150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLAR.4940": {
+        "name": "WLAR.4940 Directed Study in Arabic (Formerly 53.494)",
+        "url": "https://www.uml.edu/catalog/courses/WLAR/4940/",
+        "id": "036907",
+        "description": "Individual research projects on Arabic or Islamic culture.  Students, through regular and frequent consultation with instructor, pursue a special topic of research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

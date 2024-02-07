@@ -1,0 +1,377 @@
+{
+    "total": 22,
+    "time": 16.00916862487793,
+    "MUTH.1000": {
+        "name": "MUTH.1000 Fundamentals of Musicianship (Formerly 71.100)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1000/",
+        "id": "006896",
+        "description": "A study of the visual and aural symbolics of music and their application to the comprehension of the architectural, organizational, and aural elements of music literature.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.1010": {
+        "name": "MUTH.1010 Music Theory 1 (Formerly 71.101)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1010/",
+        "id": "006897",
+        "description": "An intensive study of the theoretical language of music. Stresses part writing in S.A.T.B. and basso continuo realization with a free instrumental part which utilizes free voice leading relative to the use of non-harmonic activity and the harmonic principles through first and second inversion triads. Instruments of the string section are covered, and appropriate listening assignments are given. Original composition in the style being studied is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.1020": {
+        "name": "MUTH.1020 Music Theory 2 (Formerly 71.102)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1020/",
+        "id": "006898",
+        "description": "Serves as a continuation of the practices of 71.101 relative to part writing (both vocal and instrumental) including secondary triads, the Neapolitan sixth, modal interchange, dominant sevenths in inversion and root position, modulation, and secondary dominants. Instrumentation covers the woodwind section, and original composition in the style being covered is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  71.101 Music Theory 1.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.1030": {
+        "name": "MUTH.1030 Aural Skills 1 (Formerly 71.103)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1030/",
+        "id": "006899",
+        "description": "Development of basic sight singing, listening, and dictation skills as they relate to music theory and analysis. Activities include singing (using moveable do/tonic do solmization), listening, and dictation (melodic, harmonic and rhythmic) of diatonic music. Music majors only. Coreq. 710.101",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.1040": {
+        "name": "MUTH.1040 Aural Skills 2 (Formerly 71.104)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1040/",
+        "id": "006900",
+        "description": "Development of basic sight singing, listening and dictation skills as they relate to music theory and analysis. Activities include singing (using moveable do/tonic do solmization), listening, and dictation (melodic, harmonic and rhythmic) of more diatonic music. Music majors only. Prerequisite: 71.101 and 71.103. Coreq. 71.102",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MUTH 1010 Music Theory I, and MUTH 1030 Aural Skills 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1010"
+                ],
+                [
+                    "MUTH.1030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUTH.1050": {
+        "name": "MUTH.1050 Freshman Chorus (Formerly 71.105)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1050/",
+        "id": "035560",
+        "description": "A vocal ensemble consisting of all first-year music students, the Choir aims to build a community among those students by having them all share a common experience.  Whether they have an extensive musical background or are novice musicians with little or no formal training, the First-Year Choir is intended to help students overcome the natural apprehensions that are associated with the first year of college.  Additionally, the Choir will encourage ALL students to be comfortable singing in front of their peers and instructors, thereby making their experience in Aural Skills less daunting.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Music majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.1080": {
+        "name": "MUTH.1080 Musicianship & Analysis 1 (Formerly 71.108)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1080/",
+        "id": "037726",
+        "description": "An intensive, critical and integrated study of musical concepts.  Through applied experiences composing, improvising, writing, performing, listening, and analyzing, students will explore and develop competencies in hearing, understanding and applying concepts of musical sound, timbre, and texture; time, shape, and form; pulse; meter; rhythmic subdivision; melodic contour; plainchant; pentatonic melodies; and interlocking melodic systems.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.1090": {
+        "name": "MUTH.1090 Musicianship & Analysis 2 (Formerly 71.109)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1090/",
+        "id": "037727",
+        "description": "An intensive, critical and integrated study of intermediate macro, meso, and micro concepts of music and musicianship. Through applied experiences composing, improvising, writing, performing, listening and analyzing, students will explore and develop competencies in hearing, understanding and applying concepts of compound meters; rhythmic subdivision (expanded); major and minor scales; counterpoint; triadic harmony; phrases and cadences; and song forms.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "MUTH 1080 Musicianship & Analysis I, and Co-req: MUTH 1200 Musicianship & Analysis Keyboard Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1080"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUTH.1200"
+                ]
+            ]
+        }
+    },
+    "MUTH.1100": {
+        "name": "MUTH.1100 Basic Music Theory (Formerly 71.110)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1100/",
+        "id": "006901",
+        "description": "This beginning music theory course provides an introduction to the basics of sound: reading music in bass and treble clefs; diatonic and chromatic notes; note and rest values; rhythm, meter, and time signatures; intervals; modes and scales; key signatures; and triads. Non-majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.1110": {
+        "name": "MUTH.1110 Basic Music Theory 2 (Formerly 71.111)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1110/",
+        "id": "039358",
+        "description": "Basic Music Theory 2 builds upon the music theory concepts and skills developed in Basic Music Theory (71.110). This class will include an introduction to the structure of tonality; diatonic chords in keys; counterpoint; chord inversion; figured bass; voice-leading in four voices; seventh chords; phrases and cadences; embellishing tones; principles of harmonic progression, and analysis. Non-Music Majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.1100 Basic Music Theory, or Permission of the Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUTH.1200": {
+        "name": "MUTH.1200 Musicianship and Analysis Keyboard Lab (Formerly 71.120)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/1200/",
+        "id": "039177",
+        "description": "This lab will provide basic keyboard skills required to successfully complete the Musicianship and Analysis sequence including understanding the piano keyboard, notational reading skills in both treble and bass clefs, fingering techniques, left and right hand coordination, and approaches to chord voicings and the execution of melodic improvisation.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH 1080 Musicianship and Analysis I, and Co-req: MUTH 1090 Musicianship and Analysis 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1080"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUTH.1090"
+                ]
+            ]
+        }
+    },
+    "MUTH.2010": {
+        "name": "MUTH.2010 Music Theory 3 (Formerly 71.201)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/2010/",
+        "id": "006902",
+        "description": "A continuation of practices of Music Theory II relative to part writing both vocal and instrumental including remote modulation and satellite keys, the diminished seventh, augmented sixth, ninth, eleventh, and thirteenth extensions, sequential secondary dominants and secondary sevenths. Instrumentation covers the brass section; original work in the style being covered and in various formal configuration is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 71.102 Music Theory 2.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.2020": {
+        "name": "MUTH.2020 Music Theory 4 (Formerly 71.202)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/2020/",
+        "id": "006903",
+        "description": "A study of twentieth century music theory via a compositional approach relative to tertial, quartal, and secundal vertical sonorities, and linear combinations featuring modal and synthetic scale resources as well as serial and preserial atonality.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 71.201 Music Theory 3.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.2030": {
+        "name": "MUTH.2030 Aural Skills 3 (Formerly 71.203)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/2030/",
+        "id": "006904",
+        "description": "Presents an intensive application of requisite skills to chromatic and non-diatonic music, changing and composite meters, displaced accents, cross rhythms, and a vertical approach to reading often necessary in the study of scores. Advanced tonal as well as tonal literature is considered. Harmonic dictation continues to follow the sequence and progress of 71.201.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req:  71.104 Aural Skills 2.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.2040": {
+        "name": "MUTH.2040 Aural Skills 4 (Formerly 71.204)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/2040/",
+        "id": "006905",
+        "description": "A concentration on the techniques employed in solving the notation and musical problems of the music of the 20th century. The consideration include synthetic and nonwestern scales, pitch sets and twelve-tone serialism.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Reguisite:  71.203 Aural Skills 3.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.2080": {
+        "name": "MUTH.2080 Musicianship & Analysis 3 (Formerly 71.208)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/2080/",
+        "id": "037728",
+        "description": "An intensive, critical, and integrated study of intermediate macro, meso, and micro concepts of music and musicianship. Through applied experiences composing, improvising, writing, performing (vocally, on keyboard and on the students primary instrument), listening and analyzing, students will explore and develop competencies in hearing, understanding and applying concepts of pitch modes; syncopation; mixed meters; extended harmony; expanded song forms, and multi-timbrel transcription.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "MUTH.1090 Musicianship & Analysis 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUTH.2090": {
+        "name": "MUTH.2090 Musicianship & Analysis 4 (Formerly 71.209)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/2090/",
+        "id": "037729",
+        "description": "An intensive, critical, and integrated study of advanced macro, meso, and micro concepts of music and musicianship. Through applied experiences composing, improvising, writing, performing (vocally, on keyboard and on the students primary instrument), listening and analyzing, students will explore and develop competencies in hearing, understanding and applying concepts of multi-timbrel transcription; chromaticism; microtonal intonation; polyrythm; extended modulations; altered chords and extensions; polytonality; and atonality.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "71.208 Musicianship and Analysis 3.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.3001": {
+        "name": "MUTH.3001 Songwriting",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/3001/",
+        "id": "040230",
+        "description": "This course is designed to facilitate a greater range of creative expression for aspiring songwriters by analyzing the musical and lyric components of song composition, posing songwriting problems to be solved, and developing an identifiable musical style.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.2090 Musicianship and Analysis 4, and Co-req: MUEN.3450 Songwriting Ensemble.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUEN.3450"
+                ]
+            ]
+        }
+    },
+    "MUTH.3350": {
+        "name": "MUTH.3350 Arranging (Formerly 71.335)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/3350/",
+        "id": "006915",
+        "description": "Analysis and practical application of techniques of scoring for vocal and instrumental combinations in varied configurations. Scoring projects for in-class performance, effective arranging of music in a variety of styles, and problem solving for the arranger will be included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUTH.4950": {
+        "name": "MUTH.4950 Directed Study in Music Theory (Formerly 71.495)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/4950/",
+        "id": "006933",
+        "description": "Individual work under the supervision of a member of the music theory faculty on a wide variety of topics approved by the instructor and the theory faculty. Permission of chairperson required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.5950": {
+        "name": "MUTH.5950 Graduate Directed Study in Music Theory (Formerly 71.595)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/5950/",
+        "id": "006943",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUTH.6100": {
+        "name": "MUTH.6100 Structure, Context and Style (Formerly 71.610)",
+        "url": "https://www.uml.edu/catalog/courses/MUTH/6100/",
+        "id": "006945",
+        "description": "This course will bring the student to a concept of music in its theoretical, historical and cultural contexts, building on the materials and techniques acquired in undergraduate studies.  Required for all Master of Music Students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,1073 @@
+{
+    "total": 49,
+    "time": 36.414252042770386,
+    "MGMT.1010": {
+        "name": "MGMT.1010 First-Year Management Seminar - 2 (Formerly MGMT/66.101)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/1010/",
+        "id": "035081",
+        "description": "The purpose of the First-Year Management - 2 (FYMS - 2) is to deepen students understanding and appreciation of the functional areas within the College of Management along with their understanding of themselves as learners in the College. This will be accomplished through the administration of self-assessment tools such as the Myers Briggs Type Indicator (MBTI), participation in an online business simulation addressing the business functional areas and through participation on in-class and virtual teams.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req:  66.100 First-Year Management Sem - 1.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.1CO-OP": {
+        "name": "MGMT.1CO-OP Curricula Practical Training (Formerly 66.1CO-OP)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/1CO-OP/",
+        "id": "039192",
+        "description": "Curricula Practical Training. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.3010": {
+        "name": "MGMT.3010 Organizational Behavior (Formerly MGMT/66.301)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/3010/",
+        "id": "006612",
+        "description": "Examination of individuals, groups, and organizations from a behavioral and structural perspective. Topics include employee motivation and satisfaction, communication, power and politics, the dynamics of groups and teams, conflict management, and organizational design and change.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior standing; or Business Minor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.3100": {
+        "name": "MGMT.3100 Human Resources Management (Formerly MGMT/66.310)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/3100/",
+        "id": "006613",
+        "description": "Current issues in the management of human resources. Recruitment, selection, work force training and development, reward systems, employee health and safety, legal issues, managing diversity, performance evaluation, and human resource planning.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG Concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.3800": {
+        "name": "MGMT.3800 Business Ethics (Formerly BUSI 380/3800)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/3800/",
+        "id": "039398",
+        "description": "This course will explore the intersection between business leadership and ethics in various context. It provides the opportunity for students to explore complex issues in societal and professional contexts while engaging in probing conversations with classmates.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4100": {
+        "name": "MGMT.4100 Negotiation Strategy and Process (Formerly MGMT/66.410)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4100/",
+        "id": "006637",
+        "description": "Analysis and application of the key factors that shape and characterize different negotiation situations; the analytical skill to diagnose potential areas of difference and select appropriate strategies to address them; the interpersonal skills to tactically manage the specific communication and decision-making behaviors during the actual bargaining; and the ability to recognize how one's own personality, value system and perceptions affect the choice of tactics and behavior.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4150": {
+        "name": "MGMT.4150 Managing Teams and Projects (Formerly MGMT/66.415)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4150/",
+        "id": "006638",
+        "description": "Provides students with the knowledge and skills to effectively manage in the more flexible, team-oriented environments increasingly found in contemporary organizations. Emphasis on the dynamics of groups and how they are transformed into productive teams; strategies for systematic goal setting; building team structure; using the team as a basis for problem-solving; facilitating team processes. The course focuses on today's smaller, \"self-renewing\" organizations, as well as on more traditional work group settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4200": {
+        "name": "MGMT.4200 Leadership Processes (Formerly MGMT/66.420)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4200/",
+        "id": "006639",
+        "description": "Examines leadership as a dynamic influence process in organizations. The role of leader characteristics and styles, matching leadership behavior and situations, issues in power and politics, empowerment and participation, conditions for leadership effectiveness.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4250": {
+        "name": "MGMT.4250 Business Process Management",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4250/",
+        "id": "040405",
+        "description": "Business Process Management (BPM) addresses the foundational concepts, tools and methods involved in the identification, design, redesign, and measurement of key business processes. The goal of BPM is to eliminate non-value added steps in business activities (e.g., reducing cycle times and costs), Thus improving organizational efficiencies and productivity, and providing more quality products to customers in a timelier manner. Business interrelated processes that span horizontally across functional boundaries and, in a global economy, are often connected across geographies. Students will learn the difference between a vertical functional view and horizontal process view; what process ownership entails; and what specific activities are required for successful BPM implementation. Both quantitative approaches are covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4300": {
+        "name": "MGMT.4300 Managing Change",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4300/",
+        "id": "040406",
+        "description": "The ability to execute appropriate and timely change is often a key measure of success for individuals and organizations. This course helps students develop skills to innovate, lead and successfully implement sustainable change at the individual, group and organizational levels. Students acquire capabilities as change agents, including identifying change opportunities, objectives and potential pitfalls to navigate change throughout their careers. Relevant change management experience is cultivated through individual and group exercises and projects. Specific issues addressed include problem diagnosis, gaining and leveraging influence, managing resistance to change, and evaluating organizational factors such as culture, structure and incentives that influence behavior in change contexts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4350": {
+        "name": "MGMT.4350 International Management (Formerly MGMT/66.435)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4350/",
+        "id": "006650",
+        "description": "Comparison of management concepts, systems and practices in different societies, and institutional settings. The impact of economic, social, political, and cultural variables on management styles, processes and organizational structures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4400": {
+        "name": "MGMT.4400 International Business (Formerly MGMT/66.440)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4400/",
+        "id": "006652",
+        "description": "Ninety-five percent of the world's customers, 80 percent of the world's economy, and the world's fastest-growing markets are outside the United States. Thus, it is not surprising that business has become global. Therefore, learning about international business and its unique challenges are an important part of a business education. The course will first address the concept of globalization, the international business environment, and the foreign national business environment, including the variety of cultures and different economic, political, and legal systems around the world. The course will then focus on international business management, including how to analyze global business opportunities, create a strategy and choose entry modes, and how to market, operate, and manage international companies. We will consider a wide variety of regions and countries, and industries and companies of all sizes including recent successful global start-ups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4450": {
+        "name": "MGMT.4450 Contemporary Management Development (Formerly MGMT/66.445)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4450/",
+        "id": "006653",
+        "description": "Provides students the opportunity to develop the skills and capabilities needed to select, gather, synthesize and use new information to enhance their professional growth and development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4500": {
+        "name": "MGMT.4500 Managing Diversity in Organizations (Formerly MGMT/66.450)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4500/",
+        "id": "006654",
+        "description": "This course explores the opportunities and challenges of working within an increasingly diverse workforce. Examines the knowledge and skills that employees and manages must develop to diagnose and address diversity-related conflicts and dilemmas and to leverage differences and commonalities as a catalyst for organizational learning and effectiveness. Special attention is paid to the effect of gender, socioeconomic, and racial diversity on individuals, work groups, and the organization as a whole.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4550": {
+        "name": "MGMT.4550 International Import/Export Management",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4550/",
+        "id": "006658",
+        "description": "International trade and globalization has grown significantly over the last century, and importing and exporting of goods and services has become increasingly complex. This comprehensive course emphasizes real-world applications of international trade concepts and processes. Strategies and guidelines for how to successfully manage and control regulatory compliance issues in business is addressed. Topics covered include organizing your compliance department, international trade terminology, procedures and documentation, regulatory controls and licenses, classification and valuation, country of origin, trade agreements, and global customs considerations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4800": {
+        "name": "MGMT.4800 Current Topics in Management (Formerly MGMT/66.480)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4800/",
+        "id": "006668",
+        "description": "Topics of current interest in management. Subject matter to be announced in advance. For a current semester course title, please log on to SIS, the Student Information System. Please see \"notes\" for the class to see the full description for individual topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MGMT.3010 Organizational Behavior, preference MG concentrators.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4890": {
+        "name": "MGMT.4890 Internship In Management (Formerly MGMT/66.489)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4890/",
+        "id": "006670",
+        "description": "Opportunity for students to earn academic credit through the integration of professional work experience with related academic work. Project jointly supervised by a faculty member and representative of the employing organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs:  66.301 Organizational Behavior, and Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.4900": {
+        "name": "MGMT.4900 Strategic Management (Formerly MGMT/66.490)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4900/",
+        "id": "006671",
+        "description": "An integration of knowledge in the various functional areas of management toward solution of problems affecting the character and success of the total enterprise. Corporate strategy and its implementation via appropriate policies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.3010, MKTG.2010, POMS.3010, MGMT.3010, and Senior Level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ],
+                [
+                    "MKTG.2010"
+                ],
+                [
+                    "POMS.3010"
+                ],
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.4910": {
+        "name": "MGMT.4910 Independent Study in Management (Formerly MGMT/66.491)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/4910/",
+        "id": "038747",
+        "description": "An opportunity for the student to carry out individualized study relating to the field of management under the supervision of a member of the faculty.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Reqs: 66.301 Organizational Behavior, and Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.5010": {
+        "name": "MGMT.5010 Organizational Behavior (Formerly MGMT/66.501)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/5010/",
+        "id": "006680",
+        "description": "Introduces students to management and organizational behavior. Its general purpose is to study and understand the behavior of individuals and groups in organizations. It is directed toward behavioral action components and emphasizes the close relationship between the study of organizational behavior and the practice of management. Pre-requisites: MBA or Certificate Programs, or Permission of MBA Director.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Matriculated MBA students or MSF or MSEM or MGFB Certificate or PSM or MPA or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.5040": {
+        "name": "MGMT.5040 Curricular Practical Training (Formerly MGMT/66.504)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/5040/",
+        "id": "037811",
+        "description": "An internship, practicum or other type of employment that is either required by the student's academic program or an experience for which a student receives academic credit.  To be eligible the student must be in legal F-1 status and have been enrolled full-time for one academic year.  CPT work experience must be in the student's field of study and contain a curricular component.  Contact the Manning School of Business Graduate Programs office for additional details.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.5110": {
+        "name": "MGMT.5110 Global Enterprise and Competition (Formerly MGMT/66.511)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/5110/",
+        "id": "006682",
+        "description": "To be taken as last course in foundation core. Is an integrated investigation of global competitive issues to help students understand the processes of organization and technological innovation which permit businesses to achieve competitive advantages in a global environment. This course also deals with the nature and techniques of industry analysis necessary to the formulation of effective global strategy for the firm.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, and MBA or MGFB Certificate or PSM or Doctor of Engineering majors or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.5750": {
+        "name": "MGMT.5750 Business Fundamentals for Scientists and Engineers (Formerly PSM 575)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/5750/",
+        "id": "039418",
+        "description": "Is designed for science and other non-business professionals seeking to excel as managers. This course will introduce core business principles. Starting with\nmanaging ourselves, and others, we will move through the functional business\ndisciplines. There will be weekly, theme-based case studies and related articles\nthat will provide ample opportunity to work individually and in teams. The goal\nof this course is to build your knowledge of business principles and develop the\nanalytic and practical skills necessary to contribute in decision-making and\noperations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.6010": {
+        "name": "MGMT.6010 Managing Organizational Change (Formerly MGMT/66.601)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6010/",
+        "id": "006686",
+        "description": "Examines how business enterprises are designed, managed and changed to operate efficiently and perform effectively within their competitive environments. It critically examines organizations that vary in terms of such characteristics as size, complexity, goals, and technology as they operate under different circumstances and at various stages of their life cycles. The role and impact of individual managers receive particular attention.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6100": {
+        "name": "MGMT.6100 Managerial Leadership",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6100/",
+        "id": "006690",
+        "description": "This course examines leadership theory and research with an emphasis on preparing students for the leadership challenges they face in their professional careers. Topic covered include: the difference between management and leadership; the role of experience; effective use of power and influence; leader traits and characteristics; and the situational factors leaders must assess in facilitating group effectiveness and teambuilding. Students will have the opportunity throughout the course to develop specific leadership skills and practice these skills through exercises, applied reading and class projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.5010 Fin Acct, FINA.5010 Bus Fin Analysis, MKTG.5010 Marketing Fundamentals, POMS.5010 Operations Fundamentals, MGMT.5010 Organizational Behavior, and MGMT.5110 Global Enterprise and Competition, or Permission of the Graduate Program Coord.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6150": {
+        "name": "MGMT.6150 International Business",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6150/",
+        "id": "032002",
+        "description": "This course addresses the issues involved in doing business overseas, and how it differs form purely domestic business. It surveys the changing international business landscape, focusing on the opportunities and challenges that company decision makers face in the global marketplace, and the factors that influence their decision to internationalize. Special attention is given to the broad concept of globalization - of markets and production - multinational enterprises include: governments, central banks, financial markets, regional and multilateral institutions (e.g., World Band, IMF, WTO), and the role of individuals who shape the international environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.5010 Fin Acct, FINA.5010 Bus Fin Analysis, MKTG.5010 Marketing Fundamentals, POMS.5010 Operations Fundamentals, MGMT.5010 Organizational Behavior, and MGMT.5110 Global Enterprise and Competition, or Permission of the Graduate Program Coord.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6250": {
+        "name": "MGMT.6250 Negotiations (Formerly MGMT/66.625)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6250/",
+        "id": "006716",
+        "description": "Pre-Requisite: MBA Foundation Core.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MBA, Business Certificate, Doctor of Engineering programs, or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.6301": {
+        "name": "MGMT.6301 Management Consulting",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6301/",
+        "id": "040356",
+        "description": "Management Consulting is a global industry with over 4200 billion in annual revenue. This course provides students with an in-depth conceptual and practical understanding of the consulting industry; how consulting firms are organized; project proposal writing; project life cycles; management of the consultant-client relationship; and consulting processes and tools relevant to the management and organizational issues many companies often face and that consultants often address. Upon completion of the course students will have a sufficient understanding of the consulting profession to explore this field as a potential career option.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.5010 Fin Acct, FINA.5010 Bus Fin Analysis, MKTG.5010 Marketing Fundamentals, POMS.5010 Operations Fundamentals, MGMT.5010 Organizational Behavior, and MGMT.5110 Global Enterprise and Competition, or Permission of the Graduate Program Coord.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6400": {
+        "name": "MGMT.6400 Building and Managing Teams (Formerly MGMT/66.640)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6400/",
+        "id": "035585",
+        "description": "One critical determinant of success in an on-going corporate venture or launch of a new product, service or company is the performance of teams.  This course examines the key roles of leader and follower in the development of project teams in both start startups and existing companies.  It will address issues relating to team composition, team member capabilities, and team dynamics as teams develop and change over time.  Emphasis is placed on acquiring the interpersonal, communication and collaboration skills necessary for effective team performance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010,MGMT.5110 OR MSITE major OR New Venture Certificate OR PSM major OR MSA major OR permission of graduate program coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6450": {
+        "name": "MGMT.6450 Advanced Professional Communication (Formerly MGMT/66.645)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6450/",
+        "id": "035731",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA students, MBA Foundation Core, MSITE program, or PSM sub-plan, or permission of Grad Prog Coordinator",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.6500": {
+        "name": "MGMT.6500 Workforce Analytics",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6500/",
+        "id": "040355",
+        "description": "Workforce analytics is the use of empirical data to improve the management of an organization's human resources. The goal is for students to develop analytical literacy that will enable them to understand and apply fundamental analytic techniques, engage knowledgeably with data scientists in the application of more complex forms of analysis, interpret the analytical reporting of others with greater sophistication, and apply empirical evidence to employee-related decisions. The course emphasizes the link between workforce analytics and strategic decision making at all levels of leadership that will guide strategic performance management, talent development, and optimal investment in human capital. It is thus a high value leadership tool central to the achievement of organizational goals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.5010 Fin Acct, FINA.5010 Bus Fin Analysis, MKTG.5010 Marketing Fundamentals, POMS.5010 Operations Fundamentals, MGMT.5010 Organizational Behavior, and MGMT.5110 Global Enterprise and Competition, or Permission of the Graduate Program Coord.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6520": {
+        "name": "MGMT.6520 Human Resources Management (Formerly MGMT/66.652)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6520/",
+        "id": "006696",
+        "description": "An introduction to the primary human resource functions-job design, recruitment, selection, training, managing workforce diversity, employee development, performance appraisal, compensation and benefits, with an emphasis on how these functions are affected by Equal Employment Opportunity requirements. 3 credits",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA Manning; ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010 or permission of Grad Prog Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6530": {
+        "name": "MGMT.6530 Ethical Leadership in the Global Economy",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6530/",
+        "id": "042082",
+        "description": "This course explores the role of ethical values, including the value of sustainability, as a core leadership responsibility in organizations operating in a global context. Reviewing several pedagogical approaches, students will become versed in ethical thought, analysis, and action. The course covers the decision making process from idea formulation through communication among various stakeholders to the creation and implementation of ethical organizational processes and goals. Students are provided with the tools needed to become leaders in establishing ethical programs in various settings including small, medium, and large companies with diverse operations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students, or certificate students who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6540": {
+        "name": "MGMT.6540 Managing Global and workforce Diversity",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6540/",
+        "id": "041894",
+        "description": "As business becomes increasingly global and U.S. demographics continue to change, leaders need specific knowledge and skills to navigate, manage, and develop a perspective that incorporates cross-cultural and demographic diversity. This course considers how employers respond to these new workforce realities, by examining the concepts, policies, and practices facing managers in a global, diverse workplace.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.5010 Fin Acct, FINA.5010 Bus Fin Analysis, MKTG.5010 Marketing Fundamentals, POMS.5010 Operations Fundamentals, MGMT.5010 Organizational Behavior, and MGMT.5110 Global Enterprise and Competition, or Permission of the Graduate Program Coord.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6550": {
+        "name": "MGMT.6550 Mid-Management Skills for the New Business Environment (Formerly MGMT/66.655)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6550/",
+        "id": "035730",
+        "description": "This reading and discussion course for advanced MBA students explores the new skill and performance requirements imposed on middle managers by globalization and technology.  Particular attention is given to emerging organizational forms that expand the emphasis on such things as individual free agency, the creation and synthesis of innovations, internal entrepreneurship, influence without authority and the coordination of activities over remote work sites.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MBA, Business Certificate, Doctor of Engineering programs, or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.6600": {
+        "name": "MGMT.6600 The Future of Work: Understanding the Global, Strategic and Managerial Implications",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6600/",
+        "id": "041203",
+        "description": "Automation, artificial intelligence, and other disruptive technologies are changing the fundamental nature and characteristics of work. This tidal wave of change is being referred to as the \"future of work.\" The purpose of this course is to help students understand these shifts to make them become better managers, entrepreneurs and strategist. Specifically, it will enable students to: 1) identify and understand the technological drivers that are changing the nature of work; 2) assess the industry implications of such changes; 3 examine how these larger changes are affecting how we organize and strategize; 4) understand the challenges of implementing new approaches to work; and 5) assess the ways in which individuals can adapt to the new work environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110 or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6650": {
+        "name": "MGMT.6650 Managing in the Digital Economy",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6650/",
+        "id": "041204",
+        "description": "This course exposes students to managerial challenges in the digital economy with a focus on platform businesses such as Amazon, Uber, AirBnb, and others. Also addressed are the challenges faced by traditional firms in competing and interacting with platform firms. The course considers strategic and organizational issues, and explores subjects such as open and user innovation, crowdsourcing, ecosystem-based business models, and building and managing network effects. It is highly interactive case-based.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110 or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6770": {
+        "name": "MGMT.6770 Independent Study: Management (Formerly MGMT/66.677)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6770/",
+        "id": "006702",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Req: MGMT.6010 Managing Organizational Change and MBA Foundation Core, or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6880": {
+        "name": "MGMT.6880 Current Topics in Management (Formerly MGMT/66.688)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6880/",
+        "id": "006703",
+        "description": "Topics of current interest in Management.  Subject matter to be announced in advance.  For a current semester course title, please log onto ISIS, the Inter-Campus Student Information System. Please see \"notes\" for the class to see the full description for individual topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.6910": {
+        "name": "MGMT.6910 Strategy Formation and Implementation (Formerly MGMT/66.691)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/6910/",
+        "id": "006705",
+        "description": "Reviews strategies for positioning a firm within its competitive environment. Fundamental concepts in strategic management; role of the CEO, levels and components of strategy, competitive analysis, and formulation and implementation of strategy are explored. Pre-Requisite: MBA Advanced Core.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.6010 Acct. Info. for Mgmt. Decisions, and FINA.6010 Corporate Finance, and MKTG.6010 Customers and Markets, and MIST.6010 Mgmt. Info.Sys., and POMS.6010 Operations Mgmt., and MGMT.6010 Managing Organization Design and Change.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.6010"
+                ],
+                [
+                    "FINA.6010"
+                ],
+                [
+                    "MKTG.6010"
+                ],
+                [
+                    "MIST.6010"
+                ],
+                [
+                    "POMS.6010"
+                ],
+                [
+                    "MGMT.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MGMT.7300": {
+        "name": "MGMT.7300 Research Design I (Formerly MGMT/66.730)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7300/",
+        "id": "036925",
+        "description": "Seminar will address study design, including but not limited to methods, hypothesis development and testing, reliability, and validity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7330": {
+        "name": "MGMT.7330 Research Design Methods II (Formerly MGMT/66.733)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7330/",
+        "id": "036926",
+        "description": "Expanding beyond Research Design Methods I Student will begin the design of a research project which considers the range of research methodologies and the implications of their use.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Doctoral Student in good standing or with Instructor's Permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7440": {
+        "name": "MGMT.7440 Independent Study (Formerly MGMT/66.744)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7440/",
+        "id": "036968",
+        "description": "Students will be expected to establish a relationship with a faculty member and develop and submit a paper to a top academic conference within their first two years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7450": {
+        "name": "MGMT.7450 Seminar in Organization Theory (Formerly MGMT/66.745)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7450/",
+        "id": "039043",
+        "description": "This course focuses on how organizations form, interact, thrive and decline. Drawing on foundational and contemporary research literature, we study major schools of thought including classical management theory; behavioral theory of organizational decision making and learning; social construction processes (including sensemaking); organizational identity, culture and conflict; forms of organizing; interorganizational relationships and networks; population ecology; organizational economics; institutional theories (old and new); and organizational change processes. For each topic, we analyze theoretical and empirical research to consider how different theories benefit from various research methods and how specific methods are used to explore different theoretical perspectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Business-PhD Students only or permission of the Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7460": {
+        "name": "MGMT.7460 Seminar in Organizational Behavior (Formerly MGMT/66.746)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7460/",
+        "id": "039185",
+        "description": "The doctoral seminar in organizational behavior focuses on theoretical perspectives that explain individual behavior and social processes in organizational settings. The course will draw on literature at the micro and meso levels of analysis. It will provide a broad exposure to the major research domains of this discipline such as motivation, organizational justice, decision making, leadership, power, and organizational change. Emphasis will be placed on critical evaluation of existing paradigms and emerging trends.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7470": {
+        "name": "MGMT.7470 Leadership Theory and Concepts (Formerly MGMT/66.747)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7470/",
+        "id": "039319",
+        "description": "This doctoral seminar will provide an in-depth review of the theoretical and conceptual frameworks that characterize organizational leadership research, and provide an overview of the empirical research stemming from these frameworks. Students will develop a critical understanding of the literature and an ability to engage in the scholarly discourse surrounding leadership. The course will also help students develop their ideas regarding their own contribution to the field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7820": {
+        "name": "MGMT.7820 Business Policy & Strategy (Formerly MGMT/66.782)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7820/",
+        "id": "036984",
+        "description": "This course will focus on the various schools of thought for explaining firm performance variance, specifically industry structure, competitive advantage, and competitive position.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7960": {
+        "name": "MGMT.7960 Doctoral Dissertation (Formerly MGMT 796)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7960/",
+        "id": "039424",
+        "description": "Doctoral dissertation research.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MGMT.7970": {
+        "name": "MGMT.7970 Managerial Research Seminar (Formerly MGMT 797)",
+        "url": "https://www.uml.edu/catalog/courses/MGMT/7970/",
+        "id": "039241",
+        "description": "This course will involve mandatory attendance at on-going monthly presentations by invited scholars from local, national, and international universities. The goal of the course is to enhance PhD student appreciation for, and familiarity with, high quality research in various business-related disciplines.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

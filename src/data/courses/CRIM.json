@@ -1,0 +1,2160 @@
+{
+    "total": 136,
+    "time": 92.05369520187378,
+    "CRIM.1010": {
+        "name": "CRIM.1010 The Criminal Justice System  (Formerly 44.101)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/1010/",
+        "id": "005347",
+        "description": "This course presents a brief history of the Criminal Justice System and an analysis of its structure and function.  This course required of all CJ majors and is a prerequisite for all other courses in criminal justice. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.1150": {
+        "name": "CRIM.1150 Introduction to Homeland Security  (Formerly 44.115)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/1150/",
+        "id": "030826",
+        "description": "This course will encompass the study and relationship between those entities and institutions necessary for the protection of the United States. Course instructional material will examine the components of Federal, State and Local Police Agencies, as well as the role of Private Security and Emergency Responders needed to facilitate the implementation of the Homeland Security Act. Particular attention will be focused on Policy, Plans and Procedures at governmental and community levels.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.1410": {
+        "name": "CRIM.1410 Introduction to Policing  (Formerly 44.141)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/1410/",
+        "id": "005350",
+        "description": "This course provides an examination of the historical development of police work with special emphasis on the conflicting role expectations facing police officer.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.1510": {
+        "name": "CRIM.1510 Introduction to Corrections  (Formerly 44.151)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/1510/",
+        "id": "005351",
+        "description": "This course provides an overview of the American correction system including the history of corrections, probation, incarceration, community corrections, the prison experience and release.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2010": {
+        "name": "CRIM.2010 Systemic Issues in Criminal Justice",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2010/",
+        "id": "041906",
+        "description": "This course is designed to inform students about the legacy of bias, discrimination, and inequality in the United States, and how this is particularly reflected in our criminal justice system. Drawing on a number of disciplines the course will explore theories of bias and discrimination both individually and collectively, what common stereotypes and misconceptions exist, and how they impact contemporary criminal justice practices. Evidence-based solutions to the reduction of these systemic issues will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2030": {
+        "name": "CRIM.2030 Technology and the Criminal Justice System  (Formerly 44.203)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2030/",
+        "id": "030356",
+        "description": "This course is designed to introduce students to the latest innovations in the applications of new technological advances in the criminal justice system.  Topic areas include an examination of the new technology of crime commission, and the corresponding new technology of crime control strategies.  Our focus will be on the application of both \"hard\" technology (e.g. equipment, hardware, devices, etc.) and \"soft\" technology (e.g. computer software programs, information systems, classification devices, and other problem-solving applications) in each of the following areas: crime prevention, police, courts, institutional corrections, community corrections and the private sector.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2120": {
+        "name": "CRIM.2120 Weapons of Mass Destruction  (Formerly 44.212)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2120/",
+        "id": "030825",
+        "description": "This course will center on Weapons of Mass Destruction (WMD) and their potential use by terrorists to obtain their goals. We will explore the origins, development and weaponization of Chemical, Biological, Nuclear and Radiological Systems and Devices. The course content is designed particularly for the First Responder to such incidents of WMD. The class will focus on the preparation and execution of plans and policies to counter this threat.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2130": {
+        "name": "CRIM.2130 Emergency Management  (Formerly 44.213)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2130/",
+        "id": "036270",
+        "description": "The purpose of this course is to introduce the student to the various ways in which a corporation and local municipality can plan for a disaster before it occurs.  Topics covered include risk identification and assessment of multi-hazards whether natural and man-made, violence in the workplace, development of crisis and disaster incident management programs, and business/agency continuation planning.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2210": {
+        "name": "CRIM.2210 Criminology  (Formerly 44.221)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2210/",
+        "id": "005356",
+        "description": "The definition and nature of crime, criminal statistics, and theories of crime causation are included. Required of all CJ majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2230": {
+        "name": "CRIM.2230 Crime and the Media  (Formerly 44.223)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2230/",
+        "id": "005357",
+        "description": "This course provides an overview about how the media portrays crime and its impact on the general public, crime, and victims and offenders.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2330": {
+        "name": "CRIM.2330 Criminal Procedure  (Formerly 44.233)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2330/",
+        "id": "005358",
+        "description": "Examines the rules that govern the everyday operation of the criminal justice system from investigation to sentencing and appeal.  Topics include:  Investigation, arrest, search and seizure, interrogation, pretrial detention and hearings, plea bargaining, trial procedures, sentencing, and appeals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2340": {
+        "name": "CRIM.2340 Criminal Law  (Formerly 44.234)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2340/",
+        "id": "005359",
+        "description": "The historical origins and development of criminal law from the early common law to contemporary decisions and statutes. Constitutional and statutory factors as they pertain to criminal responsibility, capacity, crimes against persons and property, defenses to criminal charges and sentences. Sections of the Massachusetts Criminal Code and other statutes will be covered where applicable.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2350": {
+        "name": "CRIM.2350 Introduction to the Law and Politics of Constitutional Development  (Formerly 44.235)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2350/",
+        "id": "005360",
+        "description": "A course examining American constitutional doctrine as it has developed historically through the process of constitutional adjudication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2410": {
+        "name": "CRIM.2410 Physical Security  (Formerly 44.241)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2410/",
+        "id": "005362",
+        "description": "The basic principles of physical security with emphasis on tailoring these principles to the protection of specific operations and facilities. Proper planning, appropriate design, and use of modern techniques and devices to enhance security while reducing costs are discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2430": {
+        "name": "CRIM.2430 Criminalistics I  (Formerly 44.243)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2430/",
+        "id": "005363",
+        "description": "This laboratory course will cover basic procedures in arrest, search and seizure, and the gathering and evaluation of evidence as to admissibility, weight, and competence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2440": {
+        "name": "CRIM.2440 Criminalistics II  (Formerly 44.244)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2440/",
+        "id": "005364",
+        "description": "This course is a continuation of Criminalistics I. It is intended to familiarize the student with various types of physical evidence that can be found at the more violent crime scenes. Methods of identification, preservation, collection and analysis of physical evidence relating to specific criminal activities shall be stressed. Topics shall include Bloodstain Pattern Analysis, DNA Typing, Crime Scene Reconstruction, Point of Origin Determination and evidence associated with Death Investigations, Sexual Assaults, Bombings, Arsons, Motor Vehicle Homicides, Robberies and Burglaries.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2480": {
+        "name": "CRIM.2480 Terrorism (international and domestic)  (Formerly 44.248)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2480/",
+        "id": "005368",
+        "description": "This course acquaints the Criminal Justice student with the concept of terrorism at both the international and domestic levels. Topics include the history of terrorism, terrorism today and terrorism in the future. Counter measures taken to respond to terrorist threats are also examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2610": {
+        "name": "CRIM.2610 Juvenile Delinquency  (Formerly 44.261)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2610/",
+        "id": "005370",
+        "description": "An examination of causative factors in the development of youthful offenders and the development and philosophy behind treatment and rehabilitative practices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2800": {
+        "name": "CRIM.2800 Criminal Justice Ethics  (Formerly 44.280)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2800/",
+        "id": "005371",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.2910": {
+        "name": "CRIM.2910 Short Study Abroad: Selected Topics  (Formerly 44.291)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/2910/",
+        "id": "038292",
+        "description": "This is a short study abroad course, usually 3 weeks in duration. Topic and location vary.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3120": {
+        "name": "CRIM.3120 Security Management  (Formerly 44.312)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3120/",
+        "id": "005375",
+        "description": "Addresses the basic interdisciplinary principles of security management including planning, budgeting, organizing, staffing, directing, and controlling. This course will also cover marketing security services to management, risk management, civil and criminal liability, and labor relations. Each aspect of the course is designed to prepare security managers to face the new challenges as broader and more cost-effective protection is required with fewer resources. The course will also bring about greater awareness and understanding of the various options available in security and loss control. It will identify a number of risk areas and outline various deterrent and preventative methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CRIM 1110  Industrial Security or CRIM 1150 Intro to Homeland Security; CJ majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1110",
+                    "CRIM.1150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3230": {
+        "name": "CRIM.3230 White Collar and Elite Deviance  (Formerly 44.323)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3230/",
+        "id": "005378",
+        "description": "This course will provide an overview of white collar crime including white collar, corporate, occupational, workplace, and organized crime.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CRIM 1010 Criminal Justice System, and CRIM 2210 Criminology I, and Criminal Justice (BS) majors or minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010"
+                ],
+                [
+                    "CRIM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3260": {
+        "name": "CRIM.3260 Hate Crime  (Formerly 44.326)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3260/",
+        "id": "005379",
+        "description": "This course examines prejudice as a motivation for criminal behavior.  The criminological theory for hate crime is reviewed, as well as historical perspectives of this crime category.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CRIM.1010 Criminal Justice System.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3270": {
+        "name": "CRIM.3270 Violence in America  (Formerly 44.327)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3270/",
+        "id": "030803",
+        "description": "This course provides students with an in-depth analysis of the courses, context, and control of a wide range of violent crimes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 1010 Criminal Justice System or CRIM 2210 Criminology 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010",
+                    "CRIM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3420": {
+        "name": "CRIM.3420 Criminal Profiling  (Formerly 44.342)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3420/",
+        "id": "005383",
+        "description": "This course provides an overview of the development and character of the many types of offenders who become criminal psychopaths.  The course explores the various methods used in classifying and predicting criminal behavior derived form the field of Criminology, Psychology and Forensic Science.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CJ Majors and Minors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3430": {
+        "name": "CRIM.3430 Forensic Psychology  (Formerly 44.343)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3430/",
+        "id": "030368",
+        "description": "This course examines the application of psychological theories, principles, and research to issues of concern to the criminal justice system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3450": {
+        "name": "CRIM.3450 The Role of Women in Terrorism and War",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3450/",
+        "id": "040934",
+        "description": "This interdisciplinary course will examine the gendered processes of war, sub-state violence, counter-terrorism/insurgency and conflict resolution. More specifically, we will review relevant conceptual and theoretical frameworks which focus on the relationships between gender, armed conflict and conflict resolution. In addition, we will examine the strategies used by women's and feminist movements to promote specific security related policy. The class will explore cases from Africa, the Americas, Asia, Europe, and the Middle East and North Africa.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Level or Higher or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3460": {
+        "name": "CRIM.3460 Critical Infrastructure Protection (Formerly CRIM 346)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3460/",
+        "id": "039528",
+        "description": "This course provides an overview on critical infrastructure and the protection. The course will cover the concept and components of the country's critical assets and threat environment; federal government plans and how public-private partnership protection efforts are leveraged; and strategies and methods of protecting critical infrastructure.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.1150 Introduction to Homeland Security.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3470": {
+        "name": "CRIM.3470 Police Innovations  (Formerly 44.347)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3470/",
+        "id": "005385",
+        "description": "This course is concerned with contemporary efforts to change police agencies, particularly in the United States.  Contemporary reform revolves mainly around what we now know as \"community policing\" and this course will dwell at some length on these initiatives.  Other innovations, some of which may complement community policing, and all of which are narrower in scope, are also considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CRIM.1410 Into. to Policing;  Criminal Justice (BS) majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3480": {
+        "name": "CRIM.3480 Advanced Seminar on Weapons of Mass Destruction and Terrorism  (Formerly 44.348)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3480/",
+        "id": "037471",
+        "description": "This course will examine the scientific and technological details of chemical, biological, radiological and nuclear (CBRN) weapons; the proliferation of these weapons and international CBRN prevention efforts (like the Nuclear Nonproliferation Treaty, the Chemical Weapons Convention, and the Biological Weapons Convention); and the threat of terrorist groups seeking to acquire and use CBRN weapons, and explore ways to improve our response to this complex threat.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "44.248 Terrorism (Domestic & International).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3490": {
+        "name": "CRIM.3490 Intelligence & National Security  (Formerly 44.349)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3490/",
+        "id": "039349",
+        "description": "This course is designed to provide students with an understanding of how the U.S. intelligence community functions, where it fits in the policy making and law enforcement systems of U.S. democracy, and its role in the protection of national security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.1150 Introduction to Homeland Security.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3500": {
+        "name": "CRIM.3500 Institutional Correction  (Formerly 44.350)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3500/",
+        "id": "005386",
+        "description": "This course provides an in-depth examination of the history, function, structure, and operation of American adult and juvenile correctional institutions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "44.151 Introduction to Corrections.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3510": {
+        "name": "CRIM.3510 Community -Based Corrections  (Formerly 44.351)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3510/",
+        "id": "005387",
+        "description": "A comprehensive review of community-based sanctions and community-based, early-release mechanisms. In addition to traditional probation and parole reviews, \"new\" intermediate sanctions such as electronic monitoring, intensive supervision, boot camps, day fines, day reporting centers, and community service sentences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "44.151 Introduction to Corrections; Criminal Justice (BS) majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3520": {
+        "name": "CRIM.3520 Decision Making Under Uncertainty",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3520/",
+        "id": "041212",
+        "description": "In this course we explore the psychological process of making (or not making) high-stakes decisions in a range o f situations. Most theories of decision making (in police, business, medical and ethical contexts) emphasize selecting the \"best\" course of action, yet the reality is that, in the real world, there is not always a 'best' option. Most options are high-risk and most carry negative consequences. In such instances decisions involve choosing the least-worst outcome. In this course, and drawing upon the decades of psychological research in areas of decision making (in high-and-low stakes environments), and touching on cognitive, social and neurological research we look at the psychological process of making decisions in range of high-stakes environments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.1010 The Criminal Justice System, or PSYC.1010 Introduction to Psychological Science.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010",
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3600": {
+        "name": "CRIM.3600 Gender, Race, and Crime  (Formerly 44.360)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3600/",
+        "id": "005390",
+        "description": "This course examines gender and racial implications of criminal laws, criminal justice practices and programs will be examined. The position of women and racial/ethnic minorities will be assessed from the different perspectives of victims, offenders, and criminal justice practitioners.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3650": {
+        "name": "CRIM.3650 Hate Crimes  (Formerly 44.365)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3650/",
+        "id": "005392",
+        "description": "Hate crimes illustrate bigotry plus criminal acts. This course examines prejudice as a motivation for criminal behavior. The criminological theory for hate crime is reviewed, as well as historical perspectives of this crime category. This is a rich and comprehensive exploration that begins with understanding the psychology of prejudice and ends with reviewing genocide as a mass hate crime.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3660": {
+        "name": "CRIM.3660 Miscarriages of Justice",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3660/",
+        "id": "041849",
+        "description": "This course will provide a critical analysis of our Criminal Justice system, focusing specifically on policies and practices that lead to errors and unjust outcomes.  Students will also explore the factors that contribute to miscarriages of justice, and the impacts on victims, their families, and society.  Socio-political and socio-economic factors that contribute to miscarriages of justice will be specifically adressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Requisite CRIM.1010 The Criminal Justice System",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3730": {
+        "name": "CRIM.3730 Contemporary Issues in Policing (Formerly 44.373)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3730/",
+        "id": "005396",
+        "description": "This course will explore a number of fundamental issues relevant to contemporary public police in America. Such issues could include, but are not limited to: the impact of police on crime and disorder; police discretion and its control; legitimacy and public support; police culture; the changing role of police in society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CRIM 1010 Criminal Justice System, CRIM 1410 Police Process.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010"
+                ],
+                [
+                    "CRIM.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3800": {
+        "name": "CRIM.3800 Selected Topics in Criminal Justice  (Formerly 44.380)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3800/",
+        "id": "005397",
+        "description": "An advanced course of study and examination of a variety of current issues and topics in criminal justice. Students without a sufficient background in criminal justice courses should not attempt this course.  Subject matter to be announced in advance. Visit the current semester schedule on the Continuing Studies website for more details.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 44.221 Criminology I , CJ majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3850": {
+        "name": "CRIM.3850 Crime and Mental Illness  (Formerly 44.385)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3850/",
+        "id": "005401",
+        "description": "This course examines the realities and myths surrounding the involvement of individuals with mental illness in the criminal justice system.  Material from criminal justice and psychology will be examined, with emphasis on service models that foster collaboration between mental health professionals, law enforcement, the courts, and corrections.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 1010 Criminal Justice System or CRIM 2210 Criminology 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010",
+                    "CRIM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3870": {
+        "name": "CRIM.3870 Criminal Mind and Behavior  (Formerly 44.387)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3870/",
+        "id": "005402",
+        "description": "This course will explore the psychological dimensions of criminal thinking and behavior.  The course will cover the psychological origins and types of crime, the multidimensional influences on criminal behavior, developmental criminal pathways, diagnoses, assessment and treatment approaches and a description of the continuum of psychopathic behavior.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 1010 Criminal Justice System or CRIM 2210 Criminology 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010",
+                    "CRIM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3880": {
+        "name": "CRIM.3880 Forensic Psychopathology  (Formerly 44.388)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3880/",
+        "id": "005403",
+        "description": "This course addresses psychopathology in forensic settings, providing students with an integrative approach to understanding the multiple causes of psychological problems and disorders of adult and juvenile offenders as well as crime victims including biological, social, emotional, cognitive, and behavioral influences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3900": {
+        "name": "CRIM.3900 Criminal Justice Research Methods  (Formerly 44.390)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3900/",
+        "id": "005404",
+        "description": "An introduction to research methods for the criminal justice professional including terminology, standard methodologies, and elementary statistics. Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Academic Plan  Criminal Justice (BS) and Junior/Senior Standing only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3950": {
+        "name": "CRIM.3950 Statistics in Criminal Justice  (Formerly 44.395)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3950/",
+        "id": "005406",
+        "description": "This course is an extension of concepts learned in 44.390 (Introduction to Criminal Justice Research Methods). Statistics will be utilized as a mathematical language for interpreting the interrelation of social forces impacting criminality and deviance. The course will focus on how various statistics are calculated, but more importantly, the meaning of these figures for criminal justice scholars and practitioners will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Academic Plan  Criminal Justice (BS) and Junior/Senior Standing only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.3970": {
+        "name": "CRIM.3970 Crime Mapping  (Formerly 44.397)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3970/",
+        "id": "005407",
+        "description": "This course examines the use of new technologies to analyze crime patterns and develop crime prevention strategies. Students study theories that explain the geographic distribution of crime and learn how to use Geographic Information Systems to study crime in ways that draw upon theory as well as how to apply GIS techniques in the law enforcement and corrections fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CRIM 3900 CJ Research Methods or PSYC 2690 Research I: Basics; CJ (BS) Junior/Senior standing only",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.3900",
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.3980": {
+        "name": "CRIM.3980 Criminal Justice Data Analysis  (Formerly 44.398)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/3980/",
+        "id": "005408",
+        "description": "The student is introduced to computer software packages (i.e. SPSS) used to analyze large quantitative data sets common in criminal justice/criminology. This course is seen as the capstone to the research methods/technology component of the major, and is intended for upper level students, especially those preparing for graduate study.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.3950 Statistics in Criminal Justice.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.3950"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.4010": {
+        "name": "CRIM.4010 Substance Abuse and Crime  (Formerly 44.401)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4010/",
+        "id": "005409",
+        "description": "Covers the problems posed by substance use/abuse and examines the role and impact of the legal, criminal justice, and public health systems, as well as current treatment/intervention approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 1010 Criminal Justice System or CRIM 2210 Criminology I, Junior/Senior standing only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010",
+                    "CRIM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.4180": {
+        "name": "CRIM.4180 American Courts and Judicial Process  (Formerly CRIM.418)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4180/",
+        "id": "033792",
+        "description": "This course will study the organization of and the processes employed by American Courts in an intensive participation format.  Traditional text lessons on the U.S. Court system will be supplemented by simulations and mock trial problems.  Using this two track approach, students will learn about the courts and simultaneously develop the analytical, critical reasoning and public speaking skills used in the Judicial system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4220": {
+        "name": "CRIM.4220 Victimology  (Formerly 44.422)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4220/",
+        "id": "005413",
+        "description": "This course examines the patterns of victimization, the characteristics and lifestyles of crime victims, and the impact of their victimizations.  The treatment of victims by the criminal justice system will be examined along with possible reforms in these approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 1010 Criminal Justice System or CRIM 2210 Criminology I, Junior/Senior standing only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010",
+                    "CRIM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.4770": {
+        "name": "CRIM.4770 Intimate Partner Violence  (Formerly 44.477)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4770/",
+        "id": "005417",
+        "description": "This course examines the causes and consequences of domestic violence and the latest research regarding the responses of the criminal justice system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Level is Junior or Senior Standing Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4780": {
+        "name": "CRIM.4780 Child Maltreatment  (Formerly 44.478)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4780/",
+        "id": "005418",
+        "description": "This course introduces students to empirical findings and theoretical perspectives concerned with the maltreatment of Children and youth.  One of the major course goals is to balance the view of children and youth in the criminal justice system by focusing of their victimization instead of exclusively on their offending behavior.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4890": {
+        "name": "CRIM.4890 Capstone Seminar in Criminology & Criminal Justice  (Formerly 44.489)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4890/",
+        "id": "038519",
+        "description": "This course is designed to provide criminal justice majors with a capstone experience emphasizing integration of knowledge acquired in previous courses on the causes of criminal behavior and responses to it, particularly the institutions, policies and practices of the criminal justice system. Students engage in the development and production of a senior level research paper grounded in relevant criminology and criminal justice literature.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 1010 Criminal Justice System, CRIM 2210 Criminology l,  CRIM 3900 CJ Research Methods and Senior-level standing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.1010"
+                ],
+                [
+                    "CRIM.2210"
+                ],
+                [
+                    "CRIM.3900"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.4900": {
+        "name": "CRIM.4900 Criminal Justice Honors Seminar  (Formerly 44.490)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4900/",
+        "id": "005419",
+        "description": "Specific practice in the definition, design, and execution of a research project, and an analysis of the impact of contemporary criminal justice research on policy development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Level Junior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4910": {
+        "name": "CRIM.4910 Directed Study - Criminal Justice  (Formerly 44.491)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4910/",
+        "id": "005420",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4920": {
+        "name": "CRIM.4920 Short Directed Study  (Formerly 44.492)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4920/",
+        "id": "032152",
+        "description": "This course is designed as an independent study of a subject with Chair's permission.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Level Senior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4930": {
+        "name": "CRIM.4930 Issues in Technology and Security  (Formerly 44.493)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4930/",
+        "id": "005421",
+        "description": "An examination of the causes and consequences of computer crime as well as the criminal justice system's response to the problem.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Criminal Justice majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4950": {
+        "name": "CRIM.4950 Criminal Justice Field Studies  (Formerly 44.495)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4950/",
+        "id": "005423",
+        "description": "This is an intense internship program for Criminal Justice majors which requires approval by the Department Chair.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Req: Criminal Justice majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4960": {
+        "name": "CRIM.4960 Criminal Justice Internship  (Formerly 44.496)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4960/",
+        "id": "005424",
+        "description": "Assigned fieldwork under the supervision and with the permission of the instructor assigned to the course. The purpose is to broaden the educational experience of pre-service students in law enforcement, probation, and correctional agencies within this area. This course is designed to provide a correlation of theoretical knowledge with practical experience in an area of particular interest to the student.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Criminal Justice majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.4970": {
+        "name": "CRIM.4970 Terrorism Internship",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/4970/",
+        "id": "005425",
+        "description": "This course is a semester long internship with the Center for Terrorism & Security Studies (CTSS) where students will work on one or more of the center's research projects. After an initial period of training in data collection and coding, CTSS interns will then work under the supervision of Center faculty and staff.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5010": {
+        "name": "CRIM.5010 Criminological Theory: Foundations (Formerly CRIM 501/521)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5010/",
+        "id": "005431",
+        "description": "This course provides a detailed examination of the best known and most influential theories of crime causation. Topics include: theory construction, hypothesis testing, theory integration, and the links among theory, research, and policy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5200": {
+        "name": "CRIM.5200 Administration of Justice  (Formerly 44.503/CRIM 520)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5200/",
+        "id": "005428",
+        "description": "An examination of the components of the criminal justice system and a review of the administration of federal, state and local criminal justice agencies, including a focus on criminal law and procedure.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5210": {
+        "name": "CRIM.5210 Managing Justice Organizations (Formerly 44.570/CRIM 521)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5210/",
+        "id": "005452",
+        "description": "A range of criminal justice management issues are addressed, including organizational structure, purpose, rewards and relationships, leadership and management styles, and the development of effective change strategies by criminal justice agencies. The complex role of the criminal justice manager in both the adult and juvenile justice system is emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5230": {
+        "name": "CRIM.5230 Issues in Policing",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5230/",
+        "id": "037081",
+        "description": "The course provides a foundation for understanding policing in the United States. The American public has voluntarily given the police the right to use coercive force; and yet, the modern police force is often taken for granted with little analysis of its function in a free society. The implications of this function provide the context for the current course, which reviews fundamental issues, both historical contemporary, in policing a democratic society. Such issues include, but are not limited to: the police function, culture, discretion, misconduct, legitimacy, accountability, and contemporary reforms.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5240": {
+        "name": "CRIM.5240 Issues in Corrections  (Formerly 44.550/CRIM 524)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5240/",
+        "id": "005445",
+        "description": "This course reviews the development of institutional corrections and the issues surrounding the punishment of criminals in secure settings.  The course also surveys the management of correctional institutions, including custody, classification, reception, programming, release, staffing, scheduling, collective bargaining, prisoners' rights, and other related issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5250": {
+        "name": "CRIM.5250 Juvenile Justice and Youth Crime (Formerly CRIM.525)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5250/",
+        "id": "037082",
+        "description": "Examines the historical development of juvenile justice in the U.S., how the juvenile justice system operates, the rationale for treating juveniles differently from adults, and the extent of youth crime in the United States according to official statistics and self-report data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5400": {
+        "name": "CRIM.5400 Criminal Profiling  (Formerly 44.542/CRIM 540)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5400/",
+        "id": "005440",
+        "description": "An overview of the development and characteristics of violent offenders, some of whom will evolve to become criminal psychopaths. The class provides an analytical understanding of the unique characteristics of serial criminals and the methodologies used to commit their crimes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5410": {
+        "name": "CRIM.5410 Forensic Psychology  (Formerly 44.543/CRIM 541)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5410/",
+        "id": "005441",
+        "description": "This course applies psychological theories, principles, and research to issues of concern to the criminal justice system with a special focus on the intersection of the mental health and criminal justice systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5600": {
+        "name": "CRIM.5600 Gender, Race & Crime  (Formerly 44.560)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5600/",
+        "id": "005448",
+        "description": "The implications of criminal laws, criminal justice practices and programs. Focus on inequalities based on gender, race and class.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5660": {
+        "name": "CRIM.5660 Transportation Systems Safety and Security  (Formerly 44.566)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5660/",
+        "id": "039340",
+        "description": "This course will look at safety, security and emergency management with regard to transportation operations; multi-modal transportation security threats, vulnerabilities, risk and strategies to mitigate and incident; and the security of supply chains and critical infrastructure. The course will use case studies to provide the student with the knowledge, skills, and abilities to effectively safeguard the movement of assets within interconnected transportation networks.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.5740 Overview of Homeland Security",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.5740"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.5670": {
+        "name": "CRIM.5670 Technology, Crime, and Criminal Justice",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5670/",
+        "id": "042193",
+        "description": "This course will examine the history and evolving nature of the relationship between technology, crime, and criminal justice. We will study major issues in technocrime and cybercrime with particular focus of (I) use of technology in committing crime, (II) Technology for crime prevention, (III) technology for punishment, and (IV) crime prevention and prediction. This course will be taught specifically for non-computer science majors, although students with computer science backgrounds are welcome to join for the experience that they can bring to class discussions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5700": {
+        "name": "CRIM.5700 Crisis and Emergency Management  (Formerly 44.513/CRIM 570)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5700/",
+        "id": "034637",
+        "description": "This course will provide a broad introduction to the critical challenges of disaster management. The course will address past and present strategies for reducing and responding to hazards posed by both manmade and natural disasters. Emphasis will be placed on what we can learn from the history of disasters, and on how we can apply those lessons to the management of future events.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5710": {
+        "name": "CRIM.5710 Domestic Terrorism and Violent Extremism  (Formerly 44.526/CRIM 571)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5710/",
+        "id": "005434",
+        "description": "This course examines the evolution and contemporary nature of domestic terrorist threats and violent extremist movements that the U.S. has confronted over the past several decades. Special attention is focused on right-wing militias, religious extremists, racial supremacist/hate groups, and extreme environmental and animal rights groups. Students will also learn about political and socioeconomic factors that enable a terrorist group's ideological resonance, prison radicalization, the role of the Internet in mobilizing individuals toward violent behavior, and the legal and criminal justice dimensions of responses to terrorism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5720": {
+        "name": "CRIM.5720 Comparative Terrorism and Counterterrorism  (Formerly 44.549/CRIM 572)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5720/",
+        "id": "005444",
+        "description": "This course examines a broad spectrum of terrorist groups and counterterrorism responses in over a dozen countries, including Colombia, Germany, India, Israel, Italy, Northern Ireland/UK, Pakistan, Somalia, Spain, Sri Lanka, Turkey and Yemen. This comparative analysis will help students develop and understanding of patterns and trends within political violence (including radicalization, tactics, financing, targeting behavior, malevolent creativity, disengagement and de-radicalization) and the many different policies and strategies adopted by governments in response to terrorist threat.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5730": {
+        "name": "CRIM.5730 Threat Assessment and Risk Management  (Formerly 44.554/CRIM 573)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5730/",
+        "id": "032166",
+        "description": "The goal of this course is to enhance understanding and increase expertise regarding risk management and the impact of terrorism on economic and other critical infrastructures in the United States. The course will provide the tools (operational and statistical) and technology required to mitigate these risks. A second purpose of the course is to examine and critically discuss current and future methods to create best practices in security management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5740": {
+        "name": "CRIM.5740 Overview of Homeland Security  (Formerly 44.567/CRIM 574)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5740/",
+        "id": "032167",
+        "description": "The U.S. has embraced the homeland security monolith without a full understanding of what it encompasses. This course provides a comprehensive overview of homeland security and defense as undertaken in the United States since 9/11. The course critically examines the current body of knowledge with a specific focus on understanding security threats, sources, and reasons for these threats. The roles of the key players at the federal, state and local levels, the policies and procedures enacted since 9/11, and the homeland security system in practice are also examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5750": {
+        "name": "CRIM.5750 Contemporary Security Studies  (Formerly 44.568/CRIM 575)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5750/",
+        "id": "036405",
+        "description": "This course examines the complex nature of key domestic and international security threats and responses. Topics include terrorism and insurgency, transnational organized crime, WMD proliferation, cyber-security, intelligence, national and homeland security strategies, critical infrastructure protection, and theories of international security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5780": {
+        "name": "CRIM.5780 Intelligence Analysis Policy and Practice (Formerly CRIM.578)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5780/",
+        "id": "037085",
+        "description": "Students will examine the tradecraft of intelligence collection and analysis from various perspectives. Topics will include strategies, tactics, legal and ethical implications, sources, means, methods, limitations, covert action, methods of analysis, and case studies of prominent intelligence successes and failures in the last half century.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5830": {
+        "name": "CRIM.5830 Master's Thesis - Criminal Justice  (Formerly 44.743/CRIM 583)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5830/",
+        "id": "005488",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5860": {
+        "name": "CRIM.5860 Master's Thesis - Criminal Justice  (Formerly 44.746/CRIM 586)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5860/",
+        "id": "005489",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5900": {
+        "name": "CRIM.5900 Descriptive & Inferential Statistics (Formerly 44.580/44.590)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5900/",
+        "id": "005455",
+        "description": "This course is a rigorous introduction to statistical inference: probability theory, confidence intervals, and hypothesis tests. The course also covers regression analysis, which is developed in a non-technical way, with an emphasis on interpretation of regression results, using examples from recent research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5910": {
+        "name": "CRIM.5910 Research Design (Formerly CRIM.591)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5910/",
+        "id": "005456",
+        "description": "Research design is a graduate-level introduction to methodology as used in criminology/criminal justice. The course surveys the research design enterprise and covers a host of issues on the measurement and collection of data, and other procedures that influence whether a research study will lead the investigator to scientifically rigorous information.  This course explains various strategies for devising social science studies, compares the relative benefits of various designs, and identifies the tools necessary to conduct studies that will yield data worthy of analysis and interpretation. This material will be valuable for students who will conduct research and administrators who must evaluate the research of others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5920": {
+        "name": "CRIM.5920 From Data to Practice and Policy",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5920/",
+        "id": "042055",
+        "description": "This course provides students with the tools and understanding needed to collect, process, and analyze data, turn it into useful information, and communicate knowledge to a variety of audiences via written and visual means. Students will earn how they can take unprocessed, messy, and complex data from a variety of sources, turn this into something useful (and reliable), and then effectively communicate the underlying 'so what' to other people to help influence policy and practice.As part of this process, students will learn the skills needed to spot incomplete, suspect, and/or fake data, and to identify misinformation, disinformation, and propaganda. Students will learn these skills through a combination of different modalities. At the conclusion of the course, students will be able to produce their own impactful policy briefs and data visualizations to effectively communicate impactful information to a variety of audiences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5950": {
+        "name": "CRIM.5950 Program Evaluation  (Formerly 44.595)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5950/",
+        "id": "005461",
+        "description": "A detailed examination of methods of evaluating criminal justice programs. Focuses on both process and outcome evaluation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.5CO-OP": {
+        "name": "CRIM.5CO-OP Curricula Practical Training  (Formerly 44.5CO-OP)(Never Offered)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/5CO-OP/",
+        "id": "037989",
+        "description": "Curricula Practical Training",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6000": {
+        "name": "CRIM.6000 Professional Development",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6000/",
+        "id": "040981",
+        "description": "This course is designed to support the professional development of doctoral students as they pursue a research-oriented graduate degree. Specific material will sensitize students to the expectations for the quality of their work, as well as enhance preparation for developing a research agenda, publishing scholarly manuscripts, seeking external funding, and navigating the job market. This course will also discuss topics relevant to preparing graduate students for teaching at the undergraduate level, including course development, lecture/activity planning, and classroom management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6010": {
+        "name": "CRIM.6010 Criminological Theory Advanced  (Formerly 44.601)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6010/",
+        "id": "037083",
+        "description": "The course examines contemporary criminological thought by assessing major theories that anchor the discipline of criminology. Also explores the causal structure of these theories, the level of analysis at which they reside, the assumptions that underlie them, their strengths and weaknesses, and their policy implications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 501 Criminological Theory: Foundations, and CJC-PHD students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6020": {
+        "name": "CRIM.6020 Nature and Extent of Crime and Criminals  (Formerly CRIM 602)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6020/",
+        "id": "037084",
+        "description": "Exposes students to the major measurement methods for the incidence of crime and prevalence of criminals.  Students will become versed in using data derived from any of the three primary sources of crime statistics: police-based measures (UCR, NIBRS), victim surveys (NCVS), and self-reports of criminal behavior (Monitoring the Future, National Youth Survey).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PhD Students only, or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6030": {
+        "name": "CRIM.6030 Correlates of Crime and Justice  (Formerly CRIM 603)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6030/",
+        "id": "037751",
+        "description": "This course examines the nature of the relationships among attributes and indices at the individual, situational, and aggregate levels to various forms of crime and systems of justice.  The implications of criminal laws, criminal justice practices, and programs are examined with a focus on inequalities based on gender and race.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PhD Students only, or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6050": {
+        "name": "CRIM.6050 Advanced Theory of Political Violence",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6050/",
+        "id": "041145",
+        "description": "The course aims to provide advanced understanding of the various ways in which social scientists explain the manifestations of political violence, such as terrorism, insurgency, and political assassinations.  Theories from the fields of political science, sociology, criminology, international relations, and economics will be introduced, and critically analyzed, to examine their utility in answering questions such as: How does violence differ from other types political action? When and why is violence employed in place of peaceful solutions to conflict? How is violence being rationalized? The course will force students to grapple with research from different disciplinary traditions, and with various methodologies, and in general, exercise an interdisciplinary approach.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PhD Students only, or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6110": {
+        "name": "CRIM.6110 Law and Social Control  (Formerly CRIM 611)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6110/",
+        "id": "037086",
+        "description": "This course examines and analyzes the various means by which society attempts to control criminal conduct. Social control encompasses both formal and informal mechanisms and a variety of institutions and social processes to deter inappropriate conduct, if possible, and/or punish and reform such conduct. Social control has evolved considerably over time and various social control philosophies and techniques have been prevalent at one time but not in others. Because social control is a response to inappropriate conduct, the course will also provide a brief introduction to the concepts of deviance and crime and the differential social control needs and priorities posed by different kinds of inappropriate conduct.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6120": {
+        "name": "CRIM.6120 Drugs, Crime and Justice  (Formerly CRIM 612)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6120/",
+        "id": "037087",
+        "description": "This course surveys the historical development and contemporary context of the use of criminal sanctions to combat the use of illicit drugs.  The relationship between drug use/abuse and crime is explored.  The course also provides a policy analysis of the alternative means available to deal with the drugs-crime issue (legalization, decriminalization, interdiction, tougher criminalization).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6130": {
+        "name": "CRIM.6130 Law and Public Policy  (Formerly 44.573/CRIM 613)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6130/",
+        "id": "005454",
+        "description": "The course is an introduction to crime and the efforts to control crime through public policy. We explore the foundations of the policy-making process at the federal, state, and local levels. The course also considers broad theoretical applications pertaining to public opinion, national culture, and comparative analyses among Western democracies and their differing approaches to crime. This course employs a variety of learning tools, from roundtable discussions to policy cases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6220": {
+        "name": "CRIM.6220 Seminar in Policing (Formerly CRIM 622)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6220/",
+        "id": "037088",
+        "description": "This seminar examines the contemporary research literature in policing with a focus on the key research issues. Through a critical examination of the literature, students gain an understanding of the significant topic areas that have been pursued and develop an agenda for further research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6230": {
+        "name": "CRIM.6230 Seminar in Courts and Sentencing (Formerly CRIM.623)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6230/",
+        "id": "037089",
+        "description": "This seminar examines the contemporary research literature in adjudication and sentencing with a focus on the key research issues. Through a critical examination of the literature, students gain an understanding of the significant topic areas that have been pursued and develop an agenda for further research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6250": {
+        "name": "CRIM.6250 Seminar in Juvenile Justice and Youth Crime  (Formerly CRIM 625)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6250/",
+        "id": "037091",
+        "description": "This seminar examines the contemporary research literature concerning juvenile justice with a focus on the key research issues. Through a critical examination of the literature, students gain an understanding of the significant topical areas that have been pursued and develop an agenda for further research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6260": {
+        "name": "CRIM.6260 Community Based Correction  (Formerly 44.650/CRIM 626 )",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6260/",
+        "id": "005470",
+        "description": "This course presents a detailed examination of current theory, research, and policy development in the field of community corrections, both nationally and internationally.  Topic areas include sentencing, probation, parole, fines, community service, and intermediate sanctions (intensive supervision, house arrest/electronic monitoring, boot camps).  Issues include the punishment vs. control argument, community justice models, special offender populations (drug offenders, sex offenders, mentally ill offenders, AIDS), and the cost effectiveness of community corrections.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6300": {
+        "name": "CRIM.6300 Victimology  (Formerly CRIM 522)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6300/",
+        "id": "005432",
+        "description": "This course examines the study of crime victims and of the patterns, impact, and formal responses to criminal victimization.  Particular attention is given to research issues such as measurement of victimization, fear of crime and related measures, and conducting research with victimized populations, as well as discussion of current issues in the field of Victimology.  Substantive topics may include theories of victimization, the overlap between victims and offenders, social-psychological and other impacts of victimization on primary and secondary victims, media coverage of victimization, and evaluation of prevention and intervention programs for victims (criminal justice system based programs and others).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6310": {
+        "name": "CRIM.6310 Intimate Partner Violence  (Formerly 44.622/CRIM 631 )",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6310/",
+        "id": "005463",
+        "description": "An examination of the nature and extent of intimate partner violence and an analysis of the causes and consequences of violence between partners as well as the latest research regarding the criminal justice response.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6320": {
+        "name": "CRIM.6320 Responding to Child Maltreatment  (Formerly 44.623/CRIM 632)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6320/",
+        "id": "005464",
+        "description": "Introduction to empirical findings and theoretical perspectives concerned with the maltreatment of children and youth. Includes an examination of prevalence rates, risk factors, consequences, and system responses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6400": {
+        "name": "CRIM.6400 Criminal Mind and Behavior  (Formerly 44.545)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6400/",
+        "id": "005443",
+        "description": "This course is designed to address a broad range of topics relevant to criminal behavior and the development of the so called criminal personality. Factors that are considered to influence the evolution of criminal mentality are examined and the laws and the past and current response of the criminal justice system to repeat offenders are explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6410": {
+        "name": "CRIM.6410 Mental Health & Criminal Justice  (Formerly 44.546/CRIM 641)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6410/",
+        "id": "033236",
+        "description": "The course focuses on how and why individuals with serious mental illness become involved in the criminal justice system, and on how the criminal justice and public mental health systems respond to that involvement. Topics include law enforcement responses, court-based strategies, mental health and corrections, community supervision of individuals with mental illness, violence and mental disorder, and unique challenges associated with female and juvenile populations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6420": {
+        "name": "CRIM.6420 Sex Crimes and Offenders  (Formerly 44.646/CRIM 642)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6420/",
+        "id": "032172",
+        "description": "This course examines the nature of sex offenses as well as the mind of the sex offender, and focuses on motives, possible victims, and rehabilitation. The responses of the mental health and criminal justice systems are examined and the effectiveness of those responses is assessed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6500": {
+        "name": "CRIM.6500 Violence in America (Formerly CRIM 650)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6500/",
+        "id": "005465",
+        "description": "This course provides an in-depth analysis of the causes, context, and control of a wide range of violent crimes. Topics covered in this class include: Murder, rape, robbery, assault, and violence in the helping professions, the workplace, school, gang violence, cult violence, and institutional violence. For each form of violence, we examine issues related to(1) the extent of the problem, characteristics of the crime, victim, and offender, (2) causation, (3) crime  prevention, and (4)crime control strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6510": {
+        "name": "CRIM.6510 Criminal Homicide  (Formerly 44.575/CRIM 575)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6510/",
+        "id": "036676",
+        "description": "A survey of the nature and extent of criminal homicide. There will be five main components: statutory definitions of homicide; theories of homicide; homicide rates over time and across jurisdictions; trends and patterns in homicide characteristics; and cross-cultural comparisons. Homicide is an important topic in criminology for three reasons: (1) it is the crime of greatest severity in any penal code; (2) it is a fairly reliable barometer of all violent crime; and (3) at a national level, no other crime is measured as accurately, precisely, and comprehensively.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6540": {
+        "name": "CRIM.6540 Elite Deviance and White Collar Crime (Formerly 44.523)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6540/",
+        "id": "005433",
+        "description": "This course introduces the concept of white collar crime as an area of scientific inquiry and theory formation.  It critically examines the latest scholarship on the subject by looking at white collar crime from a multiplicity of perspectives and reference points, ranging from a focus on the offense, offender, legal structure, organizational structure, individual and organizational behavior, to victimization and guardianship, with special attention on the interaction between these components.  The course also pays special attention to definitional issues, typologies of white collar crime, and assesses the nature, extent and consequences of white collar crime nationally and internationally.  To enhance the understanding of white collar crime in today's IT development and society, the course will pay a special attention to roles of information and technology and E-commerce within white collar crime.  Finally, the course examines current criminal justice system efforts at controlling white collar crime.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6550": {
+        "name": "CRIM.6550 Substance Abuse and Crime  (Formerly 44.563/CRIM 655)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6550/",
+        "id": "005451",
+        "description": "This course examines the dynamics of substance abuse, the interrelationship between substance abuse and crime, and the use of both criminal and civil law to deal with the problems posed by substance abuse.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6580": {
+        "name": "CRIM.6580 Issues in Computer Crime and Cyber Security  (Formerly 44.642/CRIM 658)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6580/",
+        "id": "037097",
+        "description": "This course will examine the history and evolving nature of the relationship between technology, crime, and security, with a particular focus on legitimate and illegitimate Internet commerce, and cyber criminal methodologies and techniques. We will study major issues in cyber security including criminal and state-sponsored hacking; data, intellectual property, and identity theft; financial and personal data security; cyber-terrorism; tools and methods used to exploit computer networks, and strategies to protect against them; and new and emerging technologies. This course will be taught specifically for non-computer science majors, although students with computer science backgrounds are welcome for the experiences that they can bring to the class discussions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6640": {
+        "name": "CRIM.6640 Weapons of Mass Destruction  (Formerly 44.643/CRIM 664)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6640/",
+        "id": "037100",
+        "description": "This course explores the threats that weapons of mass destruction (WMD) pose to the U.S. and its interests along with the strategies to meet those threats. The course will examine the technical aspects, history, and contemporary threat of each category of weapon Chemical, biological, radiological, and nuclear followed by a critical analysis of U.S. and global efforts to limit access to these weapons and prohibit their production, proliferation and use. The course will also review some aspects of WMD attack response, recovery, and mitigation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6650": {
+        "name": "CRIM.6650 Global Trafficking and Criminal Networks  (Formerly 44.644/CRIM 665)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6650/",
+        "id": "037101",
+        "description": "Illicit economic activities are a global phenomenon with local impact. This course will examine the threat that global trafficking poses to a nation's security, political stability, economic development, and social fabric. The lessons in this advanced graduate-level seminar are organized around the trafficking activities of greatest concern to the United Nations, Interpol, IAEA and other international agencies' as well as to the U.S. Departments of State, Defense, Justice, and Homeland Security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6660": {
+        "name": "CRIM.6660 Terrorism Networks  (Formerly 44.577/CRIM 666)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6660/",
+        "id": "037102",
+        "description": "This course will explore the dynamics of terrorist networks and will equip students with an understanding of the drivers of terrorist network formation, development and disintegration. The course will also provide students with knowledge and understanding of how, why and when networks expand, affiliate, and occasionally splinter. And finally, students will be guided through the applicability of network theory and analysis to the design of hypothetical operational responses and contingency planning surrounding the disruption or containment of terrorist networks.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req; CRIM.5720 Terrorism/Counter-Terrorism (CRIM 5490).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.5720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.6670": {
+        "name": "CRIM.6670 Advanced Security Studies  (Formerly CRIM 667)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6670/",
+        "id": "037126",
+        "description": "This course examines the complex nature of key domestic and international security threats and how nations respond to them. While the traditional focus of security studies has been the phenomenon of war, the past two decades have seen tremendous growth and expansion of the field. Some scholars have studied the threat, use and control of military force, while others have studied various forms of political violence such as terrorism, organized crime, and insurgency or armed rebellion. Research in this field also incorporates scholarship on the politics of defense and foreign policymaking, traditional theories of international relations, comparative analysis of national and regional case studies, ethics and morality of security policies, and transnational issues like arms trafficking, piracy, and the proliferation of materials and technology for weapons of mass destruction. Overall, the study of national and international security has evolved into a complex, interdisciplinary field, as demonstrated on the list of journals and websites provided on the last page of this syllabus. Each lesson in this course draws on a large and diverse body of readings, including academic journal articles, government reports, and original source materials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6680": {
+        "name": "CRIM.6680 Scientific & Technological Dimensions of National Security  (Formerly 44.569/CRIM 668)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6680/",
+        "id": "037103",
+        "description": "In this required course for the MS in Security Studies program, students will take this course to learn all about the efforts in the public and private sector to design new sensors, scanner, and the general role of science and technology in homeland and national security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6690": {
+        "name": "CRIM.6690 Counterterrorism Policies and Strategies  (Formerly 44.576/CRIM 669)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6690/",
+        "id": "037105",
+        "description": "This course examines the formulation and implementation of U.S. national strategies for combating terrorism, protecting critical infrastructure, and preventing the proliferation of chemical, biological, radiological and nuclear weapons or materials that could be used by terrorists. Students will develop an understanding of the structure and operations of key federal agencies, state and local fusion centers, and examine the political, legal, moral and ethical issues of countering modern terrorism threats.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.571 (CRIM 5490) Domestic Terrorism and Violence Extremism, or CRIM.572 (CRIM 5710) Comparative Terrorism and Counterterrorism. or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6700": {
+        "name": "CRIM.6700 Seminar in Terrorism Studies  (Formerly CRIM 670)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6700/",
+        "id": "039405",
+        "description": "This course will offer an in-dept examination of one more special topics within the field of terrorism. Examples include terrorist psychology, the use of women and children by terrorist groups, models of successful hostage negotiation or the use of social network analysis to understand the evolving nature of a terrorist threat. Students should consult with their advisor and the program director before registering for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6800": {
+        "name": "CRIM.6800 Selected Topics  (Formerly 44.680)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6800/",
+        "id": "005473",
+        "description": "A comprehensive examination of a current issue in criminal justice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6830": {
+        "name": "CRIM.6830 Directed Study (Formerly CRIM 683)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6830/",
+        "id": "038163",
+        "description": "This course is designed as an independent study of a subject not offered in the standard curriculum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6860": {
+        "name": "CRIM.6860 Directed Study (Formerly 44.696/CRIM.686)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6860/",
+        "id": "005481",
+        "description": "This course is designed as an independent study of a subject not offered in the standard curriculum.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6890": {
+        "name": "CRIM.6890 Special topics in Criminal Justice and Criminology (Formerly CRIM.689)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6890/",
+        "id": "037106",
+        "description": "Special topics classes are used to address timely issues that do not fit into the regular course offerings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate level or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6900": {
+        "name": "CRIM.6900 Advanced Regression Analysis (Formerly CRIM 690)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6900/",
+        "id": "037107",
+        "description": "This course focuses on statistical methods that are useful in the investigation of hypotheses in the social sciences and the analysis of public policies and programs. The bulk of the course is a detailed examination of the bivariate and multiple regression models estimated using Ordinary Least Squares (OLS), with an emphasis on constructing regression models to test social and economic hypotheses. Several special topics in regression analysis are addressed as well, including violations of OLS assumptions and the use of dummy variables, and interaction effects. Throughout, examples are dawn from the literature so students can see the models and methods in action.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.5900 Descriptive and Inferential Statistics, and CJC-PHD students only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.5900"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.6910": {
+        "name": "CRIM.6910 Advanced Research Design (Formerly 44.691)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6910/",
+        "id": "037108",
+        "description": "This course focuses on measurement and data development strategies and techniques to facilitate effective statistical analysis. Topics include the logic of causal inquiry and inference, the elaboration paradigm and model specification, handling threats to internal validity, hierarchies of design structure (experimental, quasi-experimental and non-experimental), linking design structure to affect estimation strategies, and analyzing design elements in published literature. Students will select a research topic in consultation with the instructor and prepare a written comparative design analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.591 Research Design, and CJC-PHD Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6919": {
+        "name": "CRIM.6919 Directed Study in Criminal Justice (Formerly CRIM.691)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6919/",
+        "id": "005478",
+        "description": "This course is designed as an independent study of a subject not offered in the standard curriculum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6920": {
+        "name": "CRIM.6920 Qualitative Research Methods (Formerly CRIM 692)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6920/",
+        "id": "037109",
+        "description": "This course designed to increase students' knowledge and understanding of the design and process of qualitative research in criminology. The material covered in this course includes the nature and uses of qualitative research; the design of qualitative research; grounded theory and the use of qualitative research to advance new theories and critically evaluate tenants or assumptions of widely held explanations of criminal behavior and justice system functioning; and the ethics of qualitative research. Qualitative research methodologies including ethnography, case studies, participant observation, interviewing, content analysis, and life history narrative / life course analysis will be studied. Students will develop and initiate their own qualitative research and learn first-hand about the conduct of such research, the sequencing of data collection, data analysis, and more data collection.  Students will learn the uses of computer assisted software programs designed to assist qualitative data analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 591 Research Design.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6930": {
+        "name": "CRIM.6930 Survey Methods (Formerly CRIM 693)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6930/",
+        "id": "037110",
+        "description": "This course exposes students to the use of survey methods in social science research. Emphasis is placed on interview and questionnaire techniques and the construction and sequencing of survey questions as well as the use of Likert and Thurstone sales.  Attention is also devoted to sampling theory, sampling designs, and sampling and non-sampling errors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM 591 Research Design.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6940": {
+        "name": "CRIM.6940 Crime Analysis and Mapping  (Formerly 44.594/CRIM 694)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6940/",
+        "id": "005460",
+        "description": "This course examines the use of new technologies to analyze crime patterns and develop crime prevention strategies. Students study theories that explain the geographic distribution of crime and learn how to use Geographic Information Systems to study crime in ways that draw upon theory as well as how to apply GIS techniques in the law enforcement and corrections fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6990": {
+        "name": "CRIM.6990 Security Studies Capstone Research Paper (Formerly 44.699/ CRIM.699)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6990/",
+        "id": "037113",
+        "description": "This course represents the culminating capstone experience for students in the MA in Security Studies program at UMass Lowell. Incorporating the tools learned in CRIM.5900, Research Design and Methods, students are required to design a research question, gather and analyze information, and write a Masters level research paper of at least 50 pages on a topic of their choosing related to security studies. Students will provide drafts of their paper to their faculty supervisor periodically during the semester, and the final version will be submitted for grading on the basis of quality research and writing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.6993": {
+        "name": "CRIM.6993 Capstone Research Paper in Criminal Justice",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/6993/",
+        "id": "039813",
+        "description": "This course is the culminating, final core requirement for the Masters in Criminal Justice. In this course, students will write an integrative research paper (generally 50-6- pages in length, double---spaced) on a topic of their choosing within the realm of criminal justice. By integrative, we mean you are expected to draw upon material you have covered in several of the courses in this program, including (but not limited to) Administration of Criminal Justice, Criminological Theory: Foundations, Descriptive and Inferential Statistics, Research Design, Managing Criminal Justice Organizations, or Law & Public Policy. You may enroll in this course at the same time as on of your elective courses, but it is assumed that you have already completed all requirements for the Masters in Criminal.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.7030": {
+        "name": "CRIM.7030 Dissertation Supervision (Formerly CRIM 703)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7030/",
+        "id": "037116",
+        "description": "Direct supervision with a dissertation advisor (3 credits).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Advanced PhD standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.7060": {
+        "name": "CRIM.7060 Dissertation Supervision  (Formerly CRIM 706)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7060/",
+        "id": "037117",
+        "description": "Direct supervision with a dissertation advisor (6 credits).",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Req: Advanced PhD standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.7090": {
+        "name": "CRIM.7090 Dissertation Supervision  (Formerly CRIM 709)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7090/",
+        "id": "037119",
+        "description": "Direct supervision with a dissertation advisor (9 credits).",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "Pre-Req: Advanced PhD standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.7100": {
+        "name": "CRIM.7100 Advanced Research in Terrorism (CRIM 710)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7100/",
+        "id": "039406",
+        "description": "This course focuses on describing and understanding how research and evidence-based analysis helps us to understand, explain and predict changes in terrorist behavior. The course makes use of case studies to illustrate quantitative and qualitative research methods, and to approach research questions on terrorism from multiple levels of analysis. The course will also examine successful examples of interdisciplinary research and will help students navigate the pathway from theoretically informed research on terrorism to policy and practitioner-relevant counter-terrorism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PhD Students only, or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.7110": {
+        "name": "CRIM.7110 Continued Dissertation Review  (Formerly CRIM 711)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7110/",
+        "id": "039074",
+        "description": "Direct supervision with a dissertation advisor (1 credit).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Criminal Justice PhD Students Only, Pre-Req:CRIM703, or CRIM706 or CRIM709.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.7900": {
+        "name": "CRIM.7900 Categorical and Limited Dependent Variables (Formerly CRIM 790)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7900/",
+        "id": "037120",
+        "description": "The estimation of empirical models is essential to public policy analysis and social science research. Ordinary Least Squares (OLS) regression analysis is the most frequently used empirical model, and is appropriate for analyzing continuous dependent variables that meet certain distributional assumptions. This course examines several types of advanced regression models for dependent variables that violate one or more of the assumptions of the OLS regression model. For example, some dependent variables may be categorical, such as pregnant or not, employed or not, etc. Other dependent variables may be truncated or censored, such as contributions to an individual retirement account that are limited by law to certain dollar amounts. Still others may be counts of things, like the number of children born to a given woman or the number of traffic accidents on a given day. The principal models examined in the course are binary logit and probit, multinomial logit, ordinal logit and probit, tobit, and the family of Poisson regression models. The Heckman correction for selection and Event History Analysis are also addressed. All these models are estimated using maximum likelihood estimation (MLE). The course focuses on the application and interpretation of the models, rather than statistical theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Crim.690 Advanced Regression Analysis and PhD students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CRIM.7910": {
+        "name": "CRIM.7910 Structural Equation Modeling  (Formerly CRIM 791)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7910/",
+        "id": "037121",
+        "description": "This course is an introduction to structural equation modeling (SEM).  SEM represents a general approach to the statistical examination of the fit of a theoretical model to empirical data. Topics include observed variable (path) analysis, latent variable models (e.g., confirmatory factor analysis), and latent variable SEM analyses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CRIM 6900 Advanced Regression Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.6900"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.7920": {
+        "name": "CRIM.7920 Survival Analysis and Longitudinal Data  (Formerly CRIM 792)",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7920/",
+        "id": "037122",
+        "description": "Criminological research often involves the study of change over time in both individuals and groups. Analyzing such over time poses a number of methodological and statistical challenges, however, and these must be addressed to derive valid inferences from data analysis. This course will examine several techniques that are appropriate for such analyses. These include the family of univariate, bivariate and multivariate techniques collectively known as \"survival\" or \"event history analysis\" that are appropriate for studying processes such as recidivism and length of time individuals spend in various programs.  The course will also describe zero-inflated Poisson trajectory and latent growth curve models, as well as multilevel models for change. Emphasis will be on application as opposed to theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Crim.6900 Advanced Regression Analysis and PhD students only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.6900"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.7940": {
+        "name": "CRIM.7940 Multi-Level Modeling",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7940/",
+        "id": "039814",
+        "description": "This course covers multilevel statistical models, which are increasingly being used in the social sciences to analyze clustered data. The course will introduce students to the theory and concepts of multilevel model and will address both the statistical and theoretical advantages to using multilevel models to analyze clustered data. The course will largely take an applied approach, meaning that it is designed to prepare students for putting the techniques covered in the course to use in a \"real world\" context. As such, course lectures and assignments will cover a range of relevant issues, including data acquisition, data exploration, estimation of multilevel models with statistical software, and reporting of results from multilevel analyses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CRIM 6900 Advanced Regression Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.6900"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CRIM.7950": {
+        "name": "CRIM.7950 Advanced Qualitative Methods",
+        "url": "https://www.uml.edu/catalog/courses/CRIM/7950/",
+        "id": "041114",
+        "description": "This course is designed to train graduate students in qualitative research methods in criminology and criminal justice, using an applied and collaborative approach. Students in the course will activity engage in designing and collecting data for a primary research project. The collaborative project will best fit, to the extent possible each students' research interests. Data collection will be a joint effort, with each student in the course responsible for collecting data and conducting analysis, the merged dataset will be utilized by each student to develop an independent research paper on a specific topic pertinent to the project's larger research goals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.6920 Qualitative Research Methods, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.6920"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

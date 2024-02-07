@@ -1,0 +1,552 @@
+{
+    "total": 36,
+    "time": 25.548230171203613,
+    "ETEC.1300": {
+        "name": "ETEC.1300 Electrical Basics and Laboratory (Formerly 17.130)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/1300/",
+        "id": "003412",
+        "description": "This course introduces the basic principles of electrical engineering, including the concepts of voltage, current, resistance, inductance and capacitance.  Ohm's Law, Kirchhoff's Laws, superposition, Thevenin's theorem, and Norton's theorem will be covered. Alternating current concepts, frequency response and filters are discussed.  The use of laboratory power supplies and measuring instruments such as oscilloscopes, voltmeters, ammeters and ohmmeters are demonstrated.  Written reports are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.1310": {
+        "name": "ETEC.1310 Electronic Basics and Laboratory (Formerly 17.131)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/1310/",
+        "id": "003413",
+        "description": "The Electronic Basics and Laboratory serves as a continuation and elaboration of 17.130.  The course covers diodes, transistors and electronic amplifiers, power supplies, Magnetics and electromechanics. Further use of laboratory equipment, function generators, power supplies, DMM and oscilloscope will be demonstrated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.1320": {
+        "name": "ETEC.1320 Digital Basics and Laboratory (Formerly 17.132)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/1320/",
+        "id": "003414",
+        "description": "This course presents an introduction to number systems and digital logic, including both combinational and sequential digital logic networks. Other topics include: binary, decimal, octal, and hexadecimal number systems; base conversion; Boolean algebra; Karnaugh maps; and sequential counters. Computer terminals are available in the laboratory and their use is expected. Written reports are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.2130": {
+        "name": "ETEC.2130 Electric Circuits I (Formerly 17.213)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/2130/",
+        "id": "003420",
+        "description": "Discusses: electrical circuits; voltage, current and resistance; energy, power and charge; Ohm's Law, Kirchhoff's Current Law and Kirchhoff's Voltage Law; simplification and conversion techniques for networks containing sources and/or resistance; Thevenin's and Norton's theorems; fundamentals of magnetism and magnetic circuits; properties of capacitance and inductance and associated transient behavior of circuits.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.2140": {
+        "name": "ETEC.2140 Circuits II and Laboratory (Formerly 17.214)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/2140/",
+        "id": "003421",
+        "description": "This course provides a continuation of ETEC.2130. Topics include sinusoidal waveforms, phasors, impedance and network elements. Mesh and nodal analysis of AC circuits; series and parallel circuits, superposition and Wye/Delta conversions are also covered. The use of power supplies and various electrical measuring instruments will be studied. DC circuit analysis concepts studied in 17.213 will be verified by laboratory experiments. Written reports are required. Alternate lecture and laboratory sessions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ETEC.2130 Electric Circuits I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ETEC.2130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ETEC.2160": {
+        "name": "ETEC.2160 Circuits IV (Formerly 17.216)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/2160/",
+        "id": "003423",
+        "description": "Advanced Circuits is a continuation of passive circuit analysis, where the student is introduced into the frequency domain. LaPlace techniques are used to analyze electric circuits using sources and elements similar to those in earlier circuit analysis courses. The concept of boundary conditions is introduced along with initial value and final value theorems. There is a brief review of mathematical concepts such as logarithm, exponential functions and partial fraction expansion to aid the student for newer analysis techniques. The S plane is introduced as a graphical technique to plot the poles and zeros of a function and acquire an insight into the time domain. The dualities of electrical elements in other engineering fields (mechanical, fluids and thermal) are introduced and analyzed using LaPlace techniques. Bode plots are used as another tool to gain insight into the time domain. The cascade interconnect is introduced along with the concept of transfer functions and the impulse response. Filter circuits are again analyzed but this time in the frequency domain using the concepts of LaPlace and Bode.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3220": {
+        "name": "ETEC.3220 Signals and Systems I (Formerly 17.322)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3220/",
+        "id": "038851",
+        "description": "Introduction to signals and systems. Signal classification, Normalized energy and power. Signal families, time-domain representation by differential equations, linear time invariance, classical solution to various signal families, frequency domain representation, total solution of system with initial conditions. Impulse and pulse response of LTI systems.Convolution methods, Fourier series analysis, Fourier transforms, properties and use, inversion by partial fractions, resides with s-plane vectors, application to LTI systems with initial conditions and sources. Introductions to digital elements and equations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2340 Differential Equations and Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ETEC.3410": {
+        "name": "ETEC.3410 Logic Design I and Laboratory (Formerly 17.341)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3410/",
+        "id": "003431",
+        "description": "This course studies numbers, switching (Boolean) algebra, switching functions, and combinational circuits. Number systems and conversion. Binary codes. Switching algebra. Algebraic simplification of switching functions. Canonical forms of switching functions. Switching function minimization using Karnaugh maps. Two-level and multi-level combinational circuits. Gate conversion. Decoders, encoders, multiplexers, and demultiplexers. Programmable logic devices: read-only memories, programmable logic arrays and programmable array logic.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3420": {
+        "name": "ETEC.3420 Logic Design II and Laboratory (Formerly 17.342)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3420/",
+        "id": "003432",
+        "description": "This course studies synchronous sequential circuits and register transfer logic. Latches and flip-flops. Registers. Counters. Analysis and design of synchronous sequential circuits. Moore model and Mealy model. Two's complement arithmetic. Algorithmic state machine (ASM) chart. One-hot state assignment. Register transfer logic. Data-path and control circuit. Design of a simple arithmetic processor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3450": {
+        "name": "ETEC.3450 Programmable Logic Controllers and Lab I (Formerly 17.345)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3450/",
+        "id": "036829",
+        "description": "This course introduces Programmable Logic Controllers from a fundamental perspective and analyses of programming and operation from a practical point of view.  We will look inside the PLC and cover general programming procedures, basic functions along with intermediate, data handling, and advanced functions.  There will be laboratory sessions with \"Koyo\" DLOS modules and using Koto PL Software, PLC simulating software will also be used in homework problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3500": {
+        "name": "ETEC.3500 Control Systems I (Formerly 17.350)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3500/",
+        "id": "003436",
+        "description": "This course covers the concepts of feedback; open loop and closed loop systems, feedback in electrical and mechanical systems, mathematical models of systems and linear approximations, transfer functions of linear systems, block diagrams and signal flow graphs, sensitivity, control of transient response, disturbance signals, time domain performance: steady state errors, performance indices, stability related to s-plane location of the roots of the characteristic equation, Routh-Hurwitz criterion, graphical analysis techniques: root locus, frequency response as polar plot and Bode diagrams, closed loop frequency response. A control system design project is included in the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3530": {
+        "name": "ETEC.3530 Digital Electronics (Formerly 17.353)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3530/",
+        "id": "003437",
+        "description": "This course presents the building blocks and concepts associated with digital electronic networks. The material presented will cover the design requirements necessary to develop successfully functioning digital logic circuits. The lectures will cover combinatorial networks, the Eber-Moll Transistor model, state devices, RTL, TTL, ECL, and CMOS logic families, read-only memories (ROMs), static and dynamic MOS random access memories (RAMs), programmable logic arrays (PLAs) and macrocell logic. Homework, based on actual applications, is designed to provide practice in the use of the fundamental circuit design. Real life examples are given to show the application of design theory.\nPre-Requisites: 27.356, 17.341.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3540": {
+        "name": "ETEC.3540 PSPICE Simulation (Formerly 17.354)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3540/",
+        "id": "003438",
+        "description": "OrCAD\u00c6s Capture is used as the schematic entry tool to generate circuits that will be simulated using PSPICE. AC and DC independent and dependent sources and device models will be used in these circuits that will then be evaluated by various simulation methods using voltage, current and frequency sweeping as well as temperature and time sweeps. The graphical analysis tool, Probe, will be used to display the results of the simulations and Probe\u00c6s mathematical functions will be used to further analyze the simulation results. All of these functions will be presented in a combination of lecture, homework, and hands-on PC lab environment. Applications learned in class will be reinforced by homework problems which will then be applied in the PC lab.\nPre-Requisite: 17.355",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3550": {
+        "name": "ETEC.3550 Electronics I and Laboratory (Formerly 17.355)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3550/",
+        "id": "003439",
+        "description": "This course introduces Electronics from a fundamental perspective and analyses of circuits from a practical point of view. Semiconductor devices and their application are stressed. This course surveys the operating characteristics of pn junction diodes, transistors and operational amplifiers, and analyzes their application in actual circuits. The use of diodes in power switching circuits and the use of transistors in logic circuits and amplifiers will be covered extensively. Examples and homework, based on present-day applications, are designed to provide practice in the use of fundamental concepts and applications. It is expected that following the four-course electronic sequence, students will be able to use the textbook used in this course or other professional level electronic texts for further study of specific electronic topics. The course includes computer applications in solving problems involving models of electronic devices and circuits. Coverage of some topics is based on notes handed out that augments coverage in Sedra and SMith.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3560": {
+        "name": "ETEC.3560 Electronics II and Laboratory (Formerly 17.356)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3560/",
+        "id": "003440",
+        "description": "This is the second course in a series of four courses with Labs.  It introduces Electronics from a fundamental perspective and analyzes circuits from a practical point of view. Semiconductor devices and their application are stressed.   P-and N-channel MOSFETs and junction field effect transistors (FET) will be introduced and discussed.  These include linear small-signal AC models, and amplifier.  This course surveys the operating characteristics of MOSFET and bipolar junction transistors (BJT) its circuit symbols; nonlinear large signal behavior and operational amplifiers, and analyses; their application in actual circuits.  Large signal piecewise linear DC circuits, and small signal AC circuits will be studied.  This course will include MOSFET and BJT as used in amplifiers, switches cut-off and saturation will be discussed.  Examples and homework, based on present day applications, are designed to provide practice in the use of fundamental concepts, and applications.  It is expected that following the four course electronic sequence, students will be able to use the textbook used in this course or other professional level electronic texts for further study of specific electronic topics.  The course includes computer applications in solving problems involving models of electronic devices and circuits.  Coverage of some topics is based on notes handed out that augments coverage in Sedra and Smith. \nPre-Requisites: 17.215, 17.355, 42.226, 92.126",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3570": {
+        "name": "ETEC.3570 Electronics III and Laboratory (Formerly 17.357)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3570/",
+        "id": "003441",
+        "description": "This course introduces Electronics from a fundamental perspective and analyses of circuits from a practical point of view.  It is expected that following the four course electronic sequence, students will be able to use the textbook used in this course or other professional level electronic texts for further study of specific electronic topics.  The following topics will be covered: review BJT and MOSFET,  differential amplifiers, and frequency response of different types of amplifiers will be discussed,  diff. pair, small signal analysis,  biasing, current source, active load CMOS, Frequency response, Bode Plots cascode configuration.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3580": {
+        "name": "ETEC.3580 Electronics IV and Laboratory (Formerly 17.358)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3580/",
+        "id": "003442",
+        "description": "This course provides the student with the understanding of feedback. The course covers the feedback equations, the four topologies of feedback, two port theory, Bode Plots, active filters, Weinbridge Oscillators, and power amplifiers. There are two experiments the first covers finite gain, finite band width, output resistance, input resistance, and nonlinear distortion. The second covers multiple poles and loop stability, stabilization with three coincident poles, and loop gain for oscillation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3600": {
+        "name": "ETEC.3600 Mathematics and Statistics/E.E.T. (Formerly 17.360)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3600/",
+        "id": "003443",
+        "description": "Uses the computer to apply mathematics, probability and statistics to technological problems. Topics include: probability, statistics, regression, correlation, goodness of fit, variance, probability distributions and the computer solution of algebraic equations associated with multivariable statistical problems.\nPre-Requisites: 17.353, 17.358, 17.365",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3610": {
+        "name": "ETEC.3610 Project Laboratory A (Formerly 17.361)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3610/",
+        "id": "003444",
+        "description": "The project lab runs for 14 weeks with design, fabrication, and testing of the project during the weeks one through twelve, and the last two weeks for presentation of the projects to the class. It is expected that all projects be presented operational and meeting the design performance requirements. There are exceptions to this. In the case of non-working projects the progress and final report will be heavily relied on for grading.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3650": {
+        "name": "ETEC.3650 Applied Linear Devices (Formerly 17.365)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3650/",
+        "id": "003445",
+        "description": "Discusses the linear and nonlinear applications and characteristics of linear-integrated devices. Optimal use of industry-published specifications, application notes and handbook data will be stressed. Topics to be covered include operational amplifiers, regulators, comparators, analog switches, time-function generators, instrument circuits, logarithmic circuits, computing circuits, and signal processing circuits.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3680": {
+        "name": "ETEC.3680 Data Conversion and Laboratory (Formerly 17.368)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3680/",
+        "id": "003447",
+        "description": "This course teaches the fundamentals of data conversion including digital to analog converters (DACs) using R/2R ladder networks, analog to digital converters (ADCs), sampling theory, coding schemes, sources of errors in DAC's and ADC's, voltage to frequency converters, frequency to voltage converters, sample and hold circuits, transfer functions of converters, wave shaping devices, and applications by designing and constructing a data conversion system.  \nPre-Requisite: 17.341",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3760": {
+        "name": "ETEC.3760 Electromagnetic Theory (Formerly 17.376)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3760/",
+        "id": "003450",
+        "description": "This course examines waves and phasors, transmission lines as distributed circuits, Smith chart calculations, impedance matching, transients on transmission lines, vector analysis, electrostatics and capacitance, steady current flow in conductors and resistance, magnetostatics and inductance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3830": {
+        "name": "ETEC.3830 Microprocessors A (Formerly 17.383)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3830/",
+        "id": "003453",
+        "description": "Introduces the microprocessor and microprocessor programming through an integrated set of experiments and related lectures. Topics include: binary, decimal, and hexadecimal numbers; the microprocessor; memory devices; structure of microprocessor-based systems; programming and instruction sets; addressing modes; arithmetic, logical, and shift instructions; branch conditions and instructions; indexed addressing; the tack; subroutines; assembly language; floating-point routines; and software development techniques. Approximately one-half of the course time will be an associated laboratory, culminating with a programming project.\nPre-Requisite: 17.341",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3840": {
+        "name": "ETEC.3840 Microprocessors B (Formerly 17.384)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3840/",
+        "id": "003454",
+        "description": "Extends the skills developed in 17.393 to interfacing the microprocessor to the outside world through an integrated set of experiments and related lectures. Topics include: architecture of microprocessor-based systems; microcontrollers; parallel I/O ports; interrupts; A/D and D/A converters; programmable timers; handshaking; and serial communications. The course will contain a three-week project applying the functions learned to a real world design. Approximately one-half of the course time will be an associated laboratory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3910": {
+        "name": "ETEC.3910 Capstone Design (Formerly 17.391)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3910/",
+        "id": "003455",
+        "description": "The project lab runs for 14 weeks with design, fabrication, and testing of the project during the weeks one through twelve, and the last two weeks for presentation of the projects to the class. It is expected that all projects be presented operational and meeting the design performance requirements. There are exceptions to this. In the case of non-working projects the progress and final report will be heavily relied on for grading. May do project at work (all requirements of reports,  presentation, etc. still required).\nPre-Requisites: 17.361, or 17.353 and 17.358 and 17.365",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.3920": {
+        "name": "ETEC.3920 Capstone Execution  (Formerly 17.392)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/3920/",
+        "id": "003456",
+        "description": "The project lab runs for 14 weeks with design, fabrication, and testing of the project during the weeks one through twelve, and the last two weeks for presentation of the projects to the class. It is expected that all projects be presented operational and meeting the design performance requirements. There are exceptions to this. In the case of non-working projects the progress and final report will be heavily relied on for grading. May do project at work (all requirements of reports,  presentation, etc. still required).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4030": {
+        "name": "ETEC.4030 Foundations of Microwave Design (Formerly 17.403)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4030/",
+        "id": "034020",
+        "description": "An introductory course in the analysis and design of microwave circuits beginning with a review of time-varying electromagnetic field concepts and transmission lines. Smith Chart problems; single and double stub matching; impedance transformer design; microstrip transmission lines, slot lines, coplanar lines; rectangular and circular waveguides; characteristics of low-pass, high-pass, band-pass, band-stop filters; two-port network representation of junctions; Z and Y parameters, ABCD parameters, scattering matrix; microwave measurements; measurement of VSWR, complex impedance, attenuation, and power; noise basic concepts and representation; gain definitions, amplifier design; low-noise amplifiers, power amplifiers, distributed amplifiers, other circuits for microwave applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4100": {
+        "name": "ETEC.4100 System Engineering and Analysis (Formerly 17.410)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4100/",
+        "id": "037880",
+        "description": "This course describes the entire development of complex systems form needs and requirements analysis through the life cycle design process.  Phases of system design form conceptual to detailed design are described.  Program management and control techniques, including risk management and configuration management, are discussed  Analysis of alternatives and decision making under risk and uncertainty are covered.  Mathematical tools for quantitative analysis are described.  Costing issues are discussed and the \"ilities\" (i.e., reliability, maintainability, supportability, etc.) are introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4220": {
+        "name": "ETEC.4220 GPS: Principles and Applications (Formerly 17.422)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4220/",
+        "id": "036919",
+        "description": "This course provides an introduction into how GPS works and the variety of applications for GPS.  The general methodology of satellite navigation is described.  Then there is an overview of the GPS system including the space segment and the control segment in addition to the GPS receivers themselves.  The signal characteristics are presented.  Satellite orbital mechanics and various earth coordinate systems are described.  GPS receiver operations are then discussed focusing on signal acquisition and tracking.  The impact of interference is considered.  The performance of stand-alone GPS is described.  Next, the techniques of differential GPS are presented.  Finally, the integration of GPS with other navigation systems such as inertial systems in considered.  Applications are discussed throughout the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4270": {
+        "name": "ETEC.4270 Digital Signal Processing (Formerly 17.427)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4270/",
+        "id": "003460",
+        "description": "This course covers the basic theory of digital signal processing.  Sampling theory, discrete time signals and systems, and transform methods - Z transform and Fourier series and transforms - are discussed in detail. Computational techniques, such as the Fast Fourier Transform are discussed.  The basic concepts of digital filter design are described.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4590": {
+        "name": "ETEC.4590 Power Conversion Design I (Formerly 17.459)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4590/",
+        "id": "003465",
+        "description": "Power supply design is introduced starting with a simple half wave and full wave rectifier capacitor filter power supply. The student will develop a design process that details performance requirements that will translate into topology selection and component requirements. To improve line and load regulation as well as output voltage tolerance, feedback control is introduced using linear regulator. Circuit elements which effect regulation are explored and the improvements in regulation through regulator gain is demonstrated. Protection circuits, regulator efficiency and thermal design are also introduced. The high frequency switching forward conversion topologies are explored, detailing the output filter design and its effect on control and loop stability. Bode plots are used to determine loop stability and selection of the amplifier's break frequencies. PSPICE is used as a tool to plot over all regulator frequency response. The output filter inductor design is studied with respect to core selection, wire size and thermal analysis. The switching regulator efficiency is also studied. Along with the forward converter, the flyback regulators are also introduced both in continuous and discontinuous mode of operation.\nPre-Requisites: 17.350 and 17.365",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4600": {
+        "name": "ETEC.4600 Power Conversion Design II (Formerly 17.460)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4600/",
+        "id": "003466",
+        "description": "Forward converter topologies are reviewed and core selection equations are developed from magnetic fundamentals, power and winding requirements. Transformer design and winding layups are studied for their effects on eddy currents, proximity effect and AC resistance. Drive requirements and circuits are investigated for both BJT\u00c6s and MOSFET\u00c6s along with snubber circuits.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4690": {
+        "name": "ETEC.4690 Control Systems II (Formerly 17.469)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4690/",
+        "id": "003473",
+        "description": "Serves as a complement to 17.350 in that modern approaches to control system design are described. State space modeling techniques are presented. State feedback using pole placement is introduced. State estimation using observers is presented in the context of closed loop state feedback design. Techniques for digital control are discussed along with concepts from optimal and nonlinear control.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4850": {
+        "name": "ETEC.4850 Fundamentals of Communication Systems (Formerly 17.485)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4850/",
+        "id": "003481",
+        "description": "The course will provide an overview of various techniques and technologies used in communication systems. Signal analysis and linear system analysis will be discussed along with various nonlinear techniques. Various modulation techniques to be discussed will include linear modulation (AM), angle modulation (FM), and several types of digital modulation. Issues related to wireless systems as well as computer communication will be addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4870": {
+        "name": "ETEC.4870 Analog Filter Design (Formerly 17.487)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4870/",
+        "id": "003483",
+        "description": "Presents a review of network analysis. This course also provides an introduction to synthesis, driving point impedance, approximation theory and transfer function realization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ETEC.4960": {
+        "name": "ETEC.4960 Radar Systems (Formerly 17.496)",
+        "url": "https://www.uml.edu/catalog/courses/ETEC/4960/",
+        "id": "003487",
+        "description": "Offers an introduction to radar system analysis. An overview of basic radar operation is followed by a discussion of the factors influencing the radar operations of target detection and parameter estimation. Transmitters, antennas, receivers and system losses will be discussed. Propagation effects and clutter interference will be presented. Signal processing techniques will be described. Synthetic aperture radar and pulse compression techniques will also be discussed. Time permitting, various applications will be described.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

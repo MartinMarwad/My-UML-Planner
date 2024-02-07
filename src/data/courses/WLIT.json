@@ -1,0 +1,401 @@
+{
+    "total": 23,
+    "time": 16.418014526367188,
+    "WLIT.1010": {
+        "name": "WLIT.1010 Italian 1 and Culture (Formerly 52.101)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/1010/",
+        "id": "006005",
+        "description": "Develops Italian speaking, listening, reading and writing skills through the discovery of the culture of Italy in a communicative approach (instruction occurs in Italian with clarification in English). This class is the 1st of the 4-course Italian language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.1020": {
+        "name": "WLIT.1020 Italian 2 and Culture (Formerly 52.102)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/1020/",
+        "id": "006006",
+        "description": "Continuation of Italian 1 and Culture (or equivalent), which is a pre-requisite. Strengthens Italian speaking, listening, reading and writing skills acquired in Italian 1 and Culture through the discovery of the culture of Italy in a communicative approach (instruction occurs in Italian with some clarification in English). This class is the 2nd of the 4-course Italian language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLIT.1010 Italian 1 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.2110": {
+        "name": "WLIT.2110 Italian 3 and Culture (Formerly 52.211)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/2110/",
+        "id": "006010",
+        "description": "Enhances the four skills acquired in Italian 2 and Culture (or equivalent), which is a pre-requisite: speaking, listening, reading and writing through the discovery of the culture of Italy in a communicative approach (instruction occurs in Italian with minimal use of English). This class is the 3rd of the 4-course Italian language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 52.102 Italian 2 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.2120": {
+        "name": "WLIT.2120 Italian 4 and Culture (Formerly 52.212)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/2120/",
+        "id": "006011",
+        "description": "This course has Italian 3 and Culture (or equivalent) as a pre-requisite and is the 4th and last of the 4-course Italian language program offered at UML. The course strengthens the four skill acquired in prior levels. It emphasizes increased accuracy and depth of students' abilities and knowledge of the culture of Italy in a communicative approach (instruction occurs in Italian with almost no use of English). Students express themselves orally and in writing at the national standards level of high-intermediate and understand key-concepts when spoken clearly at native speed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; 52.211 Italian 3 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.3000": {
+        "name": "WLIT.3000 Modern & Contemporary Italian Civilization and Culture (Formerly 52.300)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3000/",
+        "id": "039115",
+        "description": "This interdisciplinary and multimedia course will provide a comprehensive view of Italian civilization from the Unification to the present.  Through readings, movies, documentaries, pictures, and paintings, students will gain  a critical understanding of many of the key events that have shaped Italian history, politics,and economy, and will be guided  to discover questions of national identity, language, religion, gender and sexuality, ethnicity, immigration, media and fashion. Conducted in English (English reading material; film screenings In Italian with English subtitles.)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3100": {
+        "name": "WLIT.3100 Special Topics in Italian Studies",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3100/",
+        "id": "006013",
+        "description": "A limited topic of special interest in culture, civilization, or literature. May be taught in English or Italian. Course content and approach varies depending on instructor. The faculty post and distribute a detailed course description each semester, and students are urged to use this information in making their selections.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3200": {
+        "name": "WLIT.3200 Special Topics: Italian Study (Formerly 52.320)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3200/",
+        "id": "006016",
+        "description": "Depends on faculty and student interests associated with Italian literature, composition and culture .",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3250": {
+        "name": "WLIT.3250 Italian American Literature and Culture (Formerly 52.325)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3250/",
+        "id": "006017",
+        "description": "Discusses the most prominent authors and works of Italian-American Literature as they, by using the ethnic setting, are able to convey universal human concerns and themes. The discussion on Italian-American ethnic issues will include such films as The Godfather, Moonstruck, The Sicilian, Goodfellas, and The Untouchables. Conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.3300": {
+        "name": "WLIT.3300 Italian Women Writers (Formerly 52.330)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3300/",
+        "id": "006018",
+        "description": "Studies women writers of Italy by giving attention to the genres of narrative, poetry, theater and autobiography. Authors are selected according to their impact on issues affecting women, gender studies, feminism, avant-garde, modernism, social relations and psychological discourse. Conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.3400": {
+        "name": "WLIT.3400 Readings in Contemporary Italian Literature",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3400/",
+        "id": "040723",
+        "description": "This course covers selected works from contemporary Italian prose and poetry, with particular attention to texts written in the last twenty years. It focuses on textual analysis and interpretation, and is intended to improve students' familiarity with idioms and vocabulary of contemporary Italian language. The course is taught in Italian and will advance students' skills in all areas of Italian language and culture.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3440": {
+        "name": "WLIT.3440 Advanced Italian Grammar",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3440/",
+        "id": "041488",
+        "description": "A systematic study of complex grammatical structures in Italian. Conducted in Italian only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3450": {
+        "name": "WLIT.3450 Advanced Italian Conversation (Formerly 52.345)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3450/",
+        "id": "030416",
+        "description": "Advanced oral practice in rapid and idiomatic speech. Topics of contemporary significance are selected from contemporary prose.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLIT 2110 Italian 3 and Culture, or WLIT 2120 Italian 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.2110"
+                ],
+                [
+                    "WLIT.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3500": {
+        "name": "WLIT.3500 Italian Language and Culture Through Films",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3500/",
+        "id": "040724",
+        "description": "This course offers a systematic approach to learning Italian language and culture through films. It is designed to improve students' language skills and enrich their knowledge of Italian contemporary society. This class is taught in Italian.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3600": {
+        "name": "WLIT.3600 Advanced Italian Conversation and Composition",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3600/",
+        "id": "040725",
+        "description": "The course aims at developing advanced written and oral proficiency. Topics of contemporary significance are selected for discussions. This class is taught in Italian.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLIT 2110 Italian 3 and Culture or ITA3 or ITA4 student group.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLIT.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3730": {
+        "name": "WLIT.3730 Italian Humanism (Formerly 52.373)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3730/",
+        "id": "006022",
+        "description": "A study of the waning of the Middle Ages and the dawning of the Renaissance as seen through the work of Petrarch and Boccaccio. Emphasis is on the study of sources and the influence of Petrarch and Boccaccio upon the literatures of western Europe. Conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.3780": {
+        "name": "WLIT.3780 Italian Cinema and Culture (Formerly 52.378)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3780/",
+        "id": "006025",
+        "description": "A guide to contemporary Italian studies through literary and cultural approaches. The works of central figures in contemporary Italian letters are examined in view of their impact on Italian life. Emphasis is given to poets, novelists, the new cinema, the influences of existentialism, and the impact of America on Italian literature. Conducted in Italian/English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.3790": {
+        "name": "WLIT.3790 Black Italy: Debunking Italian-ness",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3790/",
+        "id": "042156",
+        "description": "This course explores literary, cinematic and social media representations of race and identity in Italy from the late 19th century to today. Through the study of texts and drawing form history, sociology, critical race theory, media and cultural studies, students will discover how Black Italians challenge mainstream discourses, thus contributing to redefine the multilayered composition of Italian society. This course will be taught in English. Knowledge of Italian is preferred but not required. Italian majors and minors will complete all written assignments, reviews, and exams in Italian.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, or WLIT.1020 Italian 2 and Culture, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020",
+                    "WLIT.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3800": {
+        "name": "WLIT.3800 Italian Cinema: Directors and Themes (Formerly 52.380)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3800/",
+        "id": "006026",
+        "description": "A study  of Italian film history and its accomplishment by exploring the relationship of cinema to sociopolitical, economic, cultural, and literary events. The course will discuss in depth either a) one or two major and well known directors; b) a major thematic and stylistic division in a century of cinematic creativity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLIT.3805": {
+        "name": "WLIT.3805 Italian Women Filmmakers",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/3805/",
+        "id": "042275",
+        "description": "This course explores crucial works of Italian cinema directed by women from the early 20th century to present day. Students will engage in critical discussions, analyzing and debating a vast array of social and ethical topics as well as private and political issues such as family ties, motherhood, work, gender discrimination, displacement, and violence. This course will be taught in English. Knowledge of Italian is preferred but not required. Italian majors and minors enrolled in this course will complete all written assignments, reviews, and exams in Italian, consolidating their intermediate high/advanced low ACTFL language proficiency level. This course satisfies credits for those students who are in the World Ready Italian Track and in the Film Studies minor. If students complete the course work in Italian, then the course also satisfies credit for those students in the Italian Studies minor, and Italian/Spanish major degree programs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ]
+        }
+    },
+    "WLIT.4910": {
+        "name": "WLIT.4910 Directed Study in Italian Literature (Formerly 52.491)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/4910/",
+        "id": "006027",
+        "description": "Individual research projects for modern language majors. Students, through regular and frequent consultation with their instructor, develop a course of directed study in Italian literature and define a subject for individual research. The student's findings are presented in a paper of significant proportions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.4920": {
+        "name": "WLIT.4920 Directed Studies Italian Composition (Formerly 52.492)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/4920/",
+        "id": "006028",
+        "description": "Individual research projects for modern language majors. Students, through regular and frequent consultation with their instructor, pursue a special topic of composition or creative expression.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.4950": {
+        "name": "WLIT.4950 Advanced Italian Tutorial (Formerly 52.495)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/4950/",
+        "id": "006029",
+        "description": "A program of directed study which affords Language majors an additional opportunity to pursue a previously explored topic in greater depth or to initiate an additional topic. The purpose of this tutorial is to sharpen and refine techniques of scholarly research, presentation and creative expression. Permission of Instructor.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLIT.4960": {
+        "name": "WLIT.4960 Italian Practicum Experience (Formerly 52.496)",
+        "url": "https://www.uml.edu/catalog/courses/WLIT/4960/",
+        "id": "006030",
+        "description": "A program of on-campus and/or off-campus experiences (for Italian and Language Majors only). Specific requirements vary depending upon faculty policies and the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a community, social, cultural, or artistic area and for applying techniques of problem solving and/or skills which are appropriate to the student's major discipline. The practicum experience may not be substituted for a required course in the major. Permission of Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

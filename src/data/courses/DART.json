@@ -1,0 +1,124 @@
+{
+    "total": 8,
+    "time": 7.688781499862671,
+    "DART.416CHM": {
+        "name": "DART.416CHM Comp Meth Biochem&Bioinformat",
+        "url": "https://www.uml.edu/catalog/courses/DART/416CHM/",
+        "id": "039809",
+        "description": "Intercampus Course -refer to the UMASS Dartmouth Course Catalog for details.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DART.512CHM": {
+        "name": "DART.512CHM Biochemistry II",
+        "url": "https://www.uml.edu/catalog/courses/DART/512CHM/",
+        "id": "040908",
+        "description": "Intercampus Course--Please refer to UMASS Dartmouth Course Catalog for details.  (CHM512)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DART.520BMB": {
+        "name": "DART.520BMB Quantitative Physiology",
+        "url": "https://www.uml.edu/catalog/courses/DART/520BMB/",
+        "id": "040633",
+        "description": "Intercampus Course - Please refer to the UMASS Dartmouth Course Catalog for details.\n(BMB.520)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DART.524BIO": {
+        "name": "DART.524BIO Human Organogenesis",
+        "url": "https://www.uml.edu/catalog/courses/DART/524BIO/",
+        "id": "039815",
+        "description": "Intercampus Course - Please refer to UMASS Dartmouth Course Catalog for details.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DART.560BIO": {
+        "name": "DART.560BIO Bioinformatics",
+        "url": "https://www.uml.edu/catalog/courses/DART/560BIO/",
+        "id": "039816",
+        "description": "Intercampus Course - Please refer to the UMASS Dartmouth Course Catalog for details. (BIO.560)",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DART.572MAR": {
+        "name": "DART.572MAR Environment and Resource Economics and Policy (Formerly DAR 572MAR)",
+        "url": "https://www.uml.edu/catalog/courses/DART/572MAR/",
+        "id": "039305",
+        "description": "Intercampus Course -- Please refer to the UMASS Dartmouth Course Catalog for details. (MAR572)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DART.625BIO": {
+        "name": "DART.625BIO Genomics and Biotechnology",
+        "url": "https://www.uml.edu/catalog/courses/DART/625BIO/",
+        "id": "039817",
+        "description": "Intercampus Course - Please refer to the UMASS Dartmouth Course Catalog for details.  (BIO.625)",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DART.656MAR": {
+        "name": "DART.656MAR Ocean Atmosphere Dynamic",
+        "url": "https://www.uml.edu/catalog/courses/DART/656MAR/",
+        "id": "040846",
+        "description": "Intercampus Course--Please refer to UMASS Dartmouth Course Catalog for details. (MAR 656)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

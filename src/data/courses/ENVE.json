@@ -1,0 +1,263 @@
+{
+    "total": 12,
+    "time": 10.297475814819336,
+    "ENVE.2010": {
+        "name": "ENVE.2010 Environmental Engineering Chemistry",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/2010/",
+        "id": "040682",
+        "description": "Overview of fundamental chemistry related to the source, fate and reactivity of compounds in the atmosphere, hydrosphere, and lithosphere. Topics include reaction kinetics, chemical equilibrium, redox reactions, chemical thermodynamics, carbonate systems, environmental fate of chemicals in natural and polluted environments, anthropogenic and natural pollution.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM.1220 Chemistry II OR equivalent course.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.3020": {
+        "name": "ENVE.3020 Fluid Mechanics Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/3020/",
+        "id": "040683",
+        "description": "Laboratory and field experiments on fluid mechanics including measurement of fluid properties, analysis of fluid flow patterns and fluid flow in closed conduits, and flow measurements. Course emphasizes data acquisition and analysis, and report writing.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MATH.2310 Calculus III, and ENGN.2070 Dynamics, and MATH.2360/2340 Differential Equations, and Co-req: CIVE.3010 Fluid Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "ENGN.2070"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CIVE.3010"
+                ]
+            ]
+        }
+    },
+    "ENVE.3105": {
+        "name": "ENVE.3105 Material Science for Environmental Engineering",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/3105/",
+        "id": "040684",
+        "description": "A treatment of the properties of engineering materials that influence the design, construction and maintenance of Civil Engineering works. Included are such materials as ferrous and non-ferrous metals.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "CHEM.1220 Chemistry II, or CHEM.1360 Honors Chemistry II, and ENGN.2070 Dynamics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220",
+                    "CHEM.1360"
+                ],
+                [
+                    "ENGN.2070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.3630": {
+        "name": "ENVE.3630 Environmental Engineering II",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/3630/",
+        "id": "040686",
+        "description": "This course emphasizes the ecology and physical-chemical processes used in water and wastewater treatment. Topics covered include Streeter-Phelps model, coagulation, flocculation, water softening, precipitation, filtration, activated carbon adsorption, and disinfection.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3620 Environmental Engineering I, and ENVE.2010 Environmental Engineering Chemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3620"
+                ],
+                [
+                    "ENVE.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.3640": {
+        "name": "ENVE.3640 Energy and the Sustainable Environment",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/3640/",
+        "id": "040692",
+        "description": "Thermodynamic laws, energy balance, conservation of energy, heat transfer, energy conversion and efficiency, ideal and non-ideal gas and gas mixtures, design and evaluation of renewable energy systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.1410 Physics I, and CHEM.1220 Chemistry II, and MATH.1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410"
+                ],
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.3650": {
+        "name": "ENVE.3650 Groundwater Hydrogeology and Remediation",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/3650/",
+        "id": "040685",
+        "description": "Groundwater flow and aquifer behavior in response to pumping will be addressed. Analysis of contaminant transport and the formation of multi-dimensional contaminant plume formation will be conducted. Physical, chemical and biological based technologies for contaminated aquifer remediation are covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2100 Biology for Engineers, and CIVE.3010 Fluid Mechanics, and CIVE.3620 Environmental Engineering I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2100"
+                ],
+                [
+                    "CIVE.3010"
+                ],
+                [
+                    "CIVE.3620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.3660": {
+        "name": "ENVE.3660 Biological Processes in Environmental Engineering",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/3660/",
+        "id": "040687",
+        "description": "This course focuses on the fundamental aspects of biological processes that are commonly used in water and wastewater treatment. Topics covered include: the mechanisms and kinetics of biological reactions, mass balances of biological reactors, biological reactor design and diagnosis, and aeration and gas transfer.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3620 Environmental Engineering I, and BIOL.2100 Biology for Engineers.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3620"
+                ],
+                [
+                    "BIOL.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.4610": {
+        "name": "ENVE.4610 Chemical Fate and Transport in the Environment",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/4610/",
+        "id": "040693",
+        "description": "The properties of organic chemicals and equilibrium chemistry controlling the distribution of these chemicals between air, water and soil will be studied. Transport processes and the lifetime of chemicals in the environment will be investigated. Risk assessment for the exposure to chemical contaminants will be addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENVE.3650 Groundwater Hydrogeology and Remediation.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVE.3650"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.4620": {
+        "name": "ENVE.4620 Air Quality",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/4620/",
+        "id": "040691",
+        "description": "Review of gaseous pollutants, their chemistry and properties. Emissions of air pollutants (mass balances) and atmospheric sciences related to air pollution. Gas and particulate handling and treatment technologies are addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3010 Fluid Mechanics, and CIVE.3620 Environmental Engineering I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3010"
+                ],
+                [
+                    "CIVE.3620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.4630": {
+        "name": "ENVE.4630 Environmental Eng. Ethics and Professional Practice",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/4630/",
+        "id": "040689",
+        "description": "This course introduces students to the American Society of Civil Engineers (ASCE) code of ethics and standards of practice for environmental professionals. Topics include codes of ethics, agreements and contracts, ethical and legal considerations, professional liability, public protection issues, environmental regulations, and environmental sustainability considerations. It prepares students to think critically while working with complex environmental issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3620 Environmental Engineering I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.4640": {
+        "name": "ENVE.4640 Solid Waste Engineering and Management",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/4640/",
+        "id": "040688",
+        "description": "Generation, storage, collection, transfer and transport, processing and disposal of municipal solid wastes; treatment and disposal of water and wastewater treatment sludge; landfill design; alternative waste management and disposal strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENVE.3630 Environmental Engineering II, and ENVE,3660 Biological Processes in Environmental Engineering, and CIVE.3720 Civil Engineering Systems.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVE.3630"
+                ],
+                [
+                    "CIVE.3720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVE.4855": {
+        "name": "ENVE.4855 Capstone Design",
+        "url": "https://www.uml.edu/catalog/courses/ENVE/4855/",
+        "id": "040690",
+        "description": "Introduction to the essentials of engineering design and a forum for practicing the design process. Integrates many elements of the curriculum through a comprehensive design project to professional standards. Project includes the use of open-ended design problems, feasibility and impact analysis, complete design process, consideration of alternative solutions, and cost estimation and scheduling. Students practice team effort, development of a system perspective, communication skills, reporting, and presentations. The course is fast paced and covers new design elements in each module.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

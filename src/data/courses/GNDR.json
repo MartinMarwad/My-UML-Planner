@@ -1,0 +1,64 @@
+{
+    "total": 4,
+    "time": 5.236321687698364,
+    "GNDR.2000": {
+        "name": "GNDR.2000 Special Topics in Gender Studies (200-level) (Formerly GNDR 200)(Never Offered)",
+        "url": "https://www.uml.edu/catalog/courses/GNDR/2000/",
+        "id": "036387",
+        "description": "\"Special Topics in Gender Studies\" (200-level) offers students the opportunity to study a topic of special interest in the field of Gender Studies from an interdisciplinary perspective.  The content and approach will vary depending upon the research and teaching interests of the faculty member teaching the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GNDR.2400": {
+        "name": "GNDR.2400 Introduction to Gender Studies (Formerly GNDR 240)",
+        "url": "https://www.uml.edu/catalog/courses/GNDR/2400/",
+        "id": "036625",
+        "description": "This course is an interdisciplinary introduction to the field of Gender Studies that examines both commonalities and differences among diverse groups of women.  A variety of topics are presented such as past and present stratification in work and family, sexual identities, medial representations of women, and violence against women.  Social movements for women's equality and feminist theories and methods are also introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GNDR.4010": {
+        "name": "GNDR.4010 Gender Studies Practicum (Formerly GNDR 401)",
+        "url": "https://www.uml.edu/catalog/courses/GNDR/4010/",
+        "id": "036397",
+        "description": "This course provides a link between the UMASS Lowell campus and the community, offering students a unique learning experience.  This Community Service-Learning course provides opportunities for students to learn through thoughtful engagement in community service, applying knowledge of gender issues gained in the classroom to the world outside the classroom.  Students and their faculty supervisors together will determine the kind of service work students will engage in during the semester, choosing from a wide range of available placements.  They will be using their hard-won knowledge from their years in the classroom and  applying it to help meet urgent needs in the he community.  Students will have the opportunity to make lasting connections and effect positive change in our community.  Ideally, this course will promote good citizenship through reflection on gender issues and testing of personal values, leading students toward a heightened sense of social responsibility and a lifelong commitment to their local, national, and global communities.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GNDR.4100": {
+        "name": "GNDR.4100 Directed Studies (400-level) (Formerly GNDR 410)",
+        "url": "https://www.uml.edu/catalog/courses/GNDR/4100/",
+        "id": "036243",
+        "description": "This course, taken for 1 or 3 credits, may serve as a capstone experience for advanced gender studies students, helping them to explore a gender-related topic of interest while working closely with a faculty member. Projects that students complete for the Directed Studies will vary in length, scope, and topic, depending on how many credits are taken and which faculty member the student agrees to work with the student.  What all projects will have in common is (1) a topic clearly relevant to gender studies, (2) an emphasis on achieving deep learning through advanced study, and (3) the integration of two or more distinct disciplines, integrating these disciplinary insights in order to solve a complex problem or analyze a complicated issue. This course allows for a student and professor to work closely together on a project of mutual interest. It is expected that the faculty member will be supporting and guiding the student's work, and thus regular meetings will be necessary. In some cases the faculty member may not feel competent to oversee all aspects of a project in which an unfamiliar discipline is employed. In such cases, a second (and even third) faculty member may be asked to participate in the Directed Study as a consultant and final reader.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

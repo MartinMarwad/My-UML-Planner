@@ -1,0 +1,575 @@
+{
+    "total": 37,
+    "time": 27.9583740234375,
+    "PCST.1250": {
+        "name": "PCST.1250 Introduction to Peace and Conflict Studies (Formerly PCS 125)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/1250/",
+        "id": "036942",
+        "description": "This course will focus on the causes of conflict, conflict resolution methods, and ways to sustain peace.  The course will explain and define each of those areas.  A mid-term will be administered to examine the students' grasp of the concepts and key terminology.  The second part of the class will emphasize student participation and the application of concepts learned earlier in class.  The final is a take home exam that will require the application of theory and praxis in the field of Peace and Conflict Studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.2010": {
+        "name": "PCST.2010 Research Methods in Peace and Conflict Studies",
+        "url": "https://www.uml.edu/catalog/courses/PCST/2010/",
+        "id": "041848",
+        "description": "To introduce students to the different approaches to research (qualitative and quantitative) in Peace and Conflict Studies and to help students differentiate between theory testing and theory building, and to provide a general framework for research design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.4030": {
+        "name": "PCST.4030 Diplomacy and Cross Cultural Negotiations",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4030/",
+        "id": "042242",
+        "description": "This course introduces the students to the breadth and depth of diplomatic historical practices, and theories. It will also introduce methods of negotiation and conflict resolution utilizing the different models focusing on cross-cultural negotiations. The role of cultural differences in the processes of negotiation and diplomatic practice and the multiple layers of public diplomacy will also be analyzed stressing the role of cultural differences in the processes of negotiation and diplomatic practice. The course will lastly examine democratic transition in conflicted countries and how to advocate for the transition as part and parcel of peace building.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PCST.4040": {
+        "name": "PCST.4040 Restorative Justice: Repairing Harm Through Dialog",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4040/",
+        "id": "042271",
+        "description": "This course introduces students to the principles, values, and practices of restorative justice to repair harm through dialogue and build positive peace. Students develop a working knowledge of the general theories of restorative justice and gain practical experience with peacemaking techniques. Traditional assumptions about justice and the adversarial legal process will be explored and challenged. Students will critically examine how restorative justice addresses the needs and harms of multiple stakeholders, draws from indigenous approaches, and challenges interpersonal and structural forms of harm, including practical challenges in implementing restorative justice and the relationship between restorative justice, restorative practices, and other conflict resolution methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PCST.4200": {
+        "name": "PCST.4200 Gender in Peace and Conflict (Formerly PCS 420)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4200/",
+        "id": "037452",
+        "description": "\"Gender, Work and Peace\" will explore the relationship between human rights, gender and nonviolence in the 21st century.  We will examine how current and future reality can be shaped by related policies, specifically those on the micro and macro level concerned with gender.  Today we live in a period of global transition comparable to the period that followed the Industrial Revolution.  It presents us with enormous challenges and opportunities regarding factors we will address in class:  economic globalization, government restructuring, work-family balancing, environmental safety at work, gender inequalities and the connection between human rights and dignity at work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PCST.4530": {
+        "name": "PCST.4530 Integrative Seminar in Peace and Conflict Studies (Formerly PCS 453/553)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4530/",
+        "id": "037444",
+        "description": "The purpose of the integrative seminar is to assist students in developing a robust and mature understanding of the three PCS core questions as they relate to PCS coursework.  With a strong evidence focus, students identify patterns, principles, questions, and dilemmas relevant to the core questions emerge from multiple courses they have taken within the PCS program.  Students develop a reflective journal, a series of essays, a portfolio of their accumulated work,  and a culminating portfolio presentation.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PCST.1250 Introduction to Peace and Conflict Studies; and Peace and Conflict Studies major or undeclared.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PCST.1250"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PCST.4550": {
+        "name": "PCST.4550 Mediation: Theory and Practice (Formerly PCS 455/555)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4550/",
+        "id": "038199",
+        "description": "Mediation is a form of dispute resolution in which a neutral person helps two or more parties discuss their conflict, explore wants and needs, generate options, and reach an agreement. Mediation has become more prevalent over the past few decades in the courts, community-setting, and schools because it empowers the disputing parties to reach a resolution that works for them. This course introduces mediation in the context of other forms of alternative dispute resolution, teaches the principles and theory behind mediation, and trains students in the fundamentals of the mediation process. Interactive exercises and mediation role-plays will be used to provide experiential practice. Upon completion of the course, students will be connected to opportunities to practice mediation in the local courts or with community organizations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.4580": {
+        "name": "PCST.4580 Peace and Conflict Field Experience (Formerly PCS 458/558)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4580/",
+        "id": "037366",
+        "description": "A program of practical experience in the field of Peace and Conflict.  Students can work in a variety of areas related to Peace and Conflict Studies.  Students meet regularly as a class on campus with the designated instructor to discuss their experiences and to learn more about the settings in which they practice and the challenges that they confront.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.4730": {
+        "name": "PCST.4730 Seminar in Peace and Conflict Studies (Formerly PCS 473/502)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4730/",
+        "id": "037460",
+        "description": "Offered from time to time to highlight specialized areas of faculty interest and to acquaint the student with new developments from a broad range of theory and research and how these developments might affect the field of Peace and Conflict Studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.4750": {
+        "name": "PCST.4750 Community Conflict Resolution (Formerly 57.475)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4750/",
+        "id": "006173",
+        "description": "This course gives students an understanding of the main issues and solutions involved in community level conflict resolution; e.g., in neighborhoods, workplaces, and other institutions. It develops students' skills in practicing conflict resolution and/or evaluating programs in the field of dispute resolution.It is important to understand why conflict happens and how to resolve conflict.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.4910": {
+        "name": "PCST.4910 Directed Study (Formerly PCS 491)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4910/",
+        "id": "037218",
+        "description": "Through frequent consultation with the instructor, the student carries out the investigation of a particularly specialized area of interest.\nThis course may be repeated for up to a total of 9 credits.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "PCS.125 Introduction to Peace and Conflict Studies.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.4960": {
+        "name": "PCST.4960 Practicum in Peace and Conflict Studies (Formerly PCS 496)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/4960/",
+        "id": "037217",
+        "description": "Specific requirements vary, but the Practicum experience enables Junior and Senior level students to work and study in a variety of areas related to Peace and Conflict Studies.  Students meet regularly as a class on campus with the designated instructor to discuss their experiences and to learn more about the settings in which they practice and the challenges that they confront.  Practicum may be repeated for a maximum of nine credits.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "PCS.125 Introduction to Peace and Conflict Studies.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5010": {
+        "name": "PCST.5010 Strategies of Conflict Transformation (Formerly PCS 501)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5010/",
+        "id": "036946",
+        "description": "This course will examine the underlying connections between causes of conflict on the local, national and global levels and the processes that advance peaceful resolution.  The course is designed to provide a cross-disciplinary approach to the relevant social, political, economic and cultural conditions leading to conflict and the variety of approaches to solve such conflict through both violent and nonviolent means.  The beginning of the course will focus on issues of power and inequality related to class, race (and related divisions of ethnicity, religion, caste, nationality, immigration status) and gender.  We will look at structures and system of power ranging from the family, to the community, the workplace and the national and international dimensions.  The goal is to link theoretical analysis with the study of practical problem solving.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Peace and Conflict Studies M.A, or Graduate Certificate Students.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5020": {
+        "name": "PCST.5020 Seminar in Peace and Conflict Studies (Formerly PCS 473/502)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5020/",
+        "id": "037460",
+        "description": "Offered from time to time to highlight specialized areas of faculty interest and to acquaint the student with new developments from a broad range of theory and research and how these developments might affect the field of Peace and Conflict Studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5030": {
+        "name": "PCST.5030 Diplomacy and Cross Cultural Negotiations",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5030/",
+        "id": "040649",
+        "description": "This course introduces the students to the breadth and depth of diplomatic historical practices, and theories. It will also introduce methods of negotiation and conflict resolution utilizing the different models focusing on cross-cultural negotiations. The role of cultural differences in the processes of negotiation and diplomatic practice and the multiple layers of public diplomacy will also be analyzed stressing the role of cultural differences in the processes of negotiation and diplomatic practice. The course will lastly examine democratic transition in conflicted countries and how to advocate for the transition as part and parcel of peace building.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5040": {
+        "name": "PCST.5040 Restorative Justice: Repairing Harm Through Dialogue",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5040/",
+        "id": "041211",
+        "description": "This course introduces students to the principles, values, and practices of restorative justice to repair harm through dialogue and build positive peace. Students develop a working knowledge of the general theories of restorative justice and gain practical experience with peacemaking techniques. Traditional assumptions about justice and the adversarial legal process will be explored and challenged. Students will critically examine how restorative justice addresses the needs and harms of multiple stakeholders, draws from indigenous approaches, and challenges interpersonal and structural forms of harm, including practical challenges in implementing restorative justice and the relationship between restorative justice, restorative practices, and other conflict resolution methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5060": {
+        "name": "PCST.5060 Research Methods (Formerly 57.506)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5060/",
+        "id": "006186",
+        "description": "This course is an applied survey of research methods appropriate for regional economic and social development. Students will learn data presentation and basic descriptive and inferential statistics, as well as the basics of researching data sources and primary data-gathering techniques (survey, case study, archival), and a framework for deciding when particular methods of data-gathering and analysis are appropriate. Students will apply the techniques as they learn them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5080": {
+        "name": "PCST.5080 Theories of Political and Criminal Violence",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5080/",
+        "id": "040131",
+        "description": "The study of violence has been a central piece of debates in comparative politics that range from the causes of revolution to the analysis of civil wars. Since the 1990s, and as a result of the crucial changes the world experienced with the end of the Cold War, interest and research on civil wars increased notably, bringing in innovative theoretical insights. Yet, for the most part, research on political and criminal violence remains scattered across these different subfields, with research on civil war being the most active research field. This course aims to provide a broad overview of different bodies of research on violence and to analyze whether more dialogue between subfields could contribute to the accumulation of knowledge.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5120": {
+        "name": "PCST.5120 Community Conflict Resolution (Formerly PCS 512)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5120/",
+        "id": "006190",
+        "description": "This course gives students an understanding of the main issues and solutions involved in community level conflict resolution; e.g., in neighborhoods, workplaces, and other institutions. It develops students' skills in practicing conflict resolution and/or evaluating programs in the field of dispute resolution.It is important to understand why conflict happens and how to resolve conflict.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5230": {
+        "name": "PCST.5230 Everyday Peace: Community-based Approaches to Peace and Peacebuilding (Formerly PCS 523)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5230/",
+        "id": "038106",
+        "description": "This course will introduce students to a range of issues in community-based approaches to everyday conflict and peacebuilding.  Premised on the idea that peace cannot be understood or studied in isolation of other of other social processes, the course will allow students to collectively engage with key conceptual, methodological and praxis related issues in peacebuilding drawing from community-based and critical perspectives in the social sciences, we will focus on developing the notion of 'everyday peace', that is, building community capacities and promoting social justice as an antidote to the normalized and endemic violence in society.  The course will critically examine relevant empirical literature as well as ongoing peace initiatives that utilize community-based approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5250": {
+        "name": "PCST.5250 Gender, Work and Peace (Formerly PCS 525)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5250/",
+        "id": "037367",
+        "description": "\"Gender, Work and Peace\" will explore the relationship between human rights, gender and nonviolence in the 21st century.  We will examine how current and future reality can be shaped by related policies, specifically those on the micro and macro level concerned with gender.  Today we live in a period of global transition comparable to the period that followed the Industrial Revolution.  It presents us with enormous challenges and opportunities regarding factors we will address in class: economic globalization, government restructuring, work-family balancing, environmental safety at work, gender inequalities and the connection between human rights and dignity at work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5270": {
+        "name": "PCST.5270 Sustainable Housing Development and Land Use: Conflict, Policy, and Practice (Formerly PCS 527)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5270/",
+        "id": "037781",
+        "description": "Housing is fundamental to the quality of life in communities, and housing conflict, policy and practice shape the availability of this fundamental good.  This course will examine the economic, environmental, social, and cultural factors that shape housing and its sustainability.  The contentious nature of housing and land use policy in the United States will be summarized, with students learning how housing policy impacts communities, states, and regions.  The course will then give students a detailed understanding of the conflictive process through which housing is developed and the role the market, government, funders, workers, and housing consumers play in influencing the creation and development of housing.  The course will highlight ways in which current housing development policy and practices are not sustainable, and will examine more recent efforts to establish standards and practices that enhance consensus and sustainability.  Students will learn how to manage conflict and take a housing project through the various stages, such as project conceptualization, market analysis, design, site acquisition, financing, construction, and occupancy.  While the course focuses on the U.S. context, students will learn of international efforts to achieve greater sustainability in housing.  The course will provide students with both practical and theoretical knowledge of housing and land use conflict, policy and development practices.  Case studies of actual projects will be presented.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5390": {
+        "name": "PCST.5390 Bridging Minds for Peace: Interfaith Perspectives and The Universal Moral System (Formerly PCS 539)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5390/",
+        "id": "038122",
+        "description": "There has been a consensus among the intellectuals and followers of religions that one of the major reasons for the accumulating political, economical, and environmental crises in the Middle East and around world is the absence of a grand vision that can guide the future and inspire humanity to create peace everywhere. The core premises of this theory are: Without peace among religions, there is no peace among nations; Without dialogue among religions, there is no peace among religions; Without a universal moral system, there is no dialogue among religions; A new model of international relations based on a set of morals universally accepted, can help human race to live in peace and justice; and the major religions have the set of morals that can be universally accepted by all, even the non-religious. This course will examine the possibilities and obstacles to bridging the religious divide through a universal, interfaith moral code.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5450": {
+        "name": "PCST.5450 Politics of Repression and Dissent (Formerly PCS 545)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5450/",
+        "id": "039607",
+        "description": "A focus on the dark side of politics - political repression, including politically motivated imprisonment, torture, murder, and disappearance- and the struggle of critics to bring about change through non-violent and violent demonstrations, general strikes and armed resistance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5530": {
+        "name": "PCST.5530 Integrative Seminar in Peace and Conflict Studies (Formerly PCS 453/553)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5530/",
+        "id": "037444",
+        "description": "The purpose of the integrative seminar is to assist students in developing a robust and mature understanding of the three PCS core questions as they relate to PCS coursework.  With a strong evidence focus, students identify patterns, principles, questions, and dilemmas relevant to the core questions emerge from multiple courses they have taken within the PCS program.  Students develop a reflective journal, a series of essays, a portfolio of their accumulated work,  and a culminating portfolio presentation.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Peace and Conflict Studies M.A, or Graduate Certificate Students.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5550": {
+        "name": "PCST.5550 Mediation: Theory and Practice (Formerly PCS 455/555)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5550/",
+        "id": "038199",
+        "description": "Mediation is a form of dispute resolution in which a neutral person helps two or more parties discuss their conflict, explore wants and needs, generate options, and reach an agreement. Mediation has become more prevalent over the past few decades in the courts, community-setting, and schools because it empowers the disputing parties to reach a resolution that works for them. This course introduces mediation in the context of other forms of alternative dispute resolution, teaches the principles and theory behind mediation, and trains students in the fundamentals of the mediation process. Interactive exercises and mediation role-plays will be used to provide experiential practice. Upon completion of the course, students will be connected to opportunities to practice mediation in the local courts or with community organizations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5580": {
+        "name": "PCST.5580 Peace and Conflict Field Experience (Formerly PCS 458/558)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5580/",
+        "id": "037366",
+        "description": "A program of practical experience in the field of Peace and Conflict.  Students can work in a variety of areas related to Peace and Conflict Studies.  Students meet regularly as a class on campus with the designated instructor to discuss their experiences and to learn more about the settings in which they practice and the challenges that they confront.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.5910": {
+        "name": "PCST.5910 Directed Study in Peace and Conflict Studies (Formerly PCS 591)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/5910/",
+        "id": "037311",
+        "description": "Through frequent consultation with the instructor, the student carries out the investigation of a particularly specialized area of interest.  This course may be repeated for up to a total of 6 credits.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.6010": {
+        "name": "PCST.6010 Peace and Conflict Studies Study Abroad I (Formerly PCS 601)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/6010/",
+        "id": "037312",
+        "description": "Graduate study abroad in an institution with a University - approved Graduate - level exchange program.  The specific course to be taken will be approved by the Graduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.6020": {
+        "name": "PCST.6020 Peace and Conflict Studies Study Abroad II (Formerly PCS 602)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/6020/",
+        "id": "037313",
+        "description": "Graduate study abroad in an institution with a University - approved graduate - level exchange program.  The specific course to be taken will be approved by the Graduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.6030": {
+        "name": "PCST.6030 Peace and Conflict Studies Study Abroad III (Formerly PCS 603)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/6030/",
+        "id": "037314",
+        "description": "Graduate study abroad in an institution with a University - approved Graduate - level exchange program.  The specific course to be taken will be approved by the Graduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.6310": {
+        "name": "PCST.6310 Practicum in Peace and Conflict studies I (Formerly PCS 631)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/6310/",
+        "id": "037315",
+        "description": "The practicum allows students to intern at an organization related to the field of Peace and Conflict studies.  The primary purpose of the Practicum is two-fold:  1) to allow students to apply, integrate, and evaluate the information and skills they have acquired in their masters - level academic course work; \n2) to gain new understandings and competencies while contributing to a field setting.  \nStudents participate in placements for approximately 10 hours per week.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.7330": {
+        "name": "PCST.7330 Project in Peace and Conflict Studies I (Formerly PCS 733)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/7330/",
+        "id": "037317",
+        "description": "The project will consist of a scholarly investigation, such as a review, report, synthesis or design in the student's field resulting in a written document.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.7340": {
+        "name": "PCST.7340 Project in Peace and Conflict Studies II (Formerly PCS 734)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/7340/",
+        "id": "037318",
+        "description": "For a student who wants to complete a 2-semester project.  The project will consist of a scholarly investigation, such as a review, report, synthesis or design in the student's field resulting in a written document.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PCS.733 Project in Peace and Conflict Studies I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.7430": {
+        "name": "PCST.7430 Master's Thesis in Peace and Conflict Studies (Formerly PCS 743)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/7430/",
+        "id": "037319",
+        "description": "For graduate student actively engaged in research leading toward the submission of written thesis.  A program of supervised study will be arranged between student and a faculty supervisor.  This course may be repeated for credit, but only a total of 6 credits may be counted toward the Master's Degree.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.7460": {
+        "name": "PCST.7460 Masters Thesis in Peace and Conflict Studies (Formerly PCS 746)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/7460/",
+        "id": "037320",
+        "description": "For graduate students actively engaged in research leading toward the submission of a written thesis.  A program of supervised study will be arranged between the student and a faculty supervisor.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PCST.7610": {
+        "name": "PCST.7610 Continued Graduate Research (Formerly PCS 761)",
+        "url": "https://www.uml.edu/catalog/courses/PCST/7610/",
+        "id": "038715",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

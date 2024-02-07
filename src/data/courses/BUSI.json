@@ -1,0 +1,158 @@
+{
+    "total": 9,
+    "time": 8.319231510162354,
+    "BUSI.1500": {
+        "name": "BUSI.1500 Business 101 (formerly 66.017, MGMT 150, BUSI 150)",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/1500/",
+        "id": "038128",
+        "description": "This course will provide a foundational understanding of business, the various types of business organization, the key functional areas of business and how these functional areas are interconnected. Crucial skills such as use of technology, team-building, information literacy and communication will be emphasized. In addition, the course will provide an overview of contemporary business issues such as ethics and globalization. A major course goal is to enable students to gain a basic understanding of career opportunities particularly in relation to the areas of specialization within the Manning School of Business undergraduate curriculum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "All students are required to take this course if they have fewer than 30 earned credits. This course is open only to students in Business Administration.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BUSI.2100": {
+        "name": "BUSI.2100 Professional Development Seminar (Formerly BUSI 210)",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/2100/",
+        "id": "036956",
+        "description": "The Professional Development Seminar is designed to provide students with the necessary structure, resources, and support to successfully secure and engage in their first cooperative education experience.  Through a variety of teaching methodologies and assignments, students will prepare to engage in the job search process through resume writing, strategic interviewing, professional networking and through learning professional behavior and presentation skills.  Course open to undergraduates who have previously applied and been accepted to participate in the Professional Co-op Program.  Enrollment is by Instructor permission only.  For more information on applying to the Professional Co-op Program, see https://www.uml.edu/student-services/Career-Services/Cooperative-Education/Forms-Handbooks.aspx.  Pre-Req:  Permission of Instructor.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BUSI.3100": {
+        "name": "BUSI.3100 Co-op Assessment 1 (Formerly BUSI 310)",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/3100/",
+        "id": "036957",
+        "description": "The primary goal of this seminar is to assist students in the overall assessment of their overall cooperative education experience.  Through facilitated small group discussion, individual consultation and hands on practice, students will have an opportunity to identify and articulate their technical and professional skills, and explore how these skills and their co-op employment might be translated and leveraged into future work environments and their academic program at UML.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: BUSI.2110 Professional Development Seminar.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BUSI.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BUSI.3200": {
+        "name": "BUSI.3200 Co-op Assessment I (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/3200/",
+        "id": "039897",
+        "description": "This seminar is designed to support and assist students in the assessment of their 6 month cooperative education experience. Students will reflect of their extended time in a work environment, the impact of their experience on their planning, and how organizational culture, personal interests and values can inform their subsequent decisions for career development. Through facilitated small group discussions, individual consultation and hands on practice, students will have the opportunity to identify and articulate their technical and professional skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BUSI.3CE Co-op Experience and BUSI.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BUSI.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BUSI.4100": {
+        "name": "BUSI.4100 Co-op Assessment 2 (Formerly BUSI 410)",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/4100/",
+        "id": "036958",
+        "description": "This seminar is designed to support and assist students in the continued assessment of their cooperative education experience.  Through a deepening of their work in Co-op Assessment 1, students will review their overall performance in the cooperative education program, while continuing to demonstrate their technical and professional skills through written work and public presentations to multiple audiences.  It is expected that students will clearly define their future academic and career goals, enhance their professional networks, and develop a future plan to support aspirations related to their major.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "BUSI.2100 Professional Develop Seminar, and BUSI.3100 Co-op Assessment l, and BUSI.3CE or 4CE Cooperative Education.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BUSI.2100"
+                ],
+                [
+                    "BUSI.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BUSI.4200": {
+        "name": "BUSI.4200 Co-op Assessment 2 (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/4200/",
+        "id": "039901",
+        "description": "This seminar is designed to support and assist students in the assessment of their second cooperative education work experience that was for a 6 month cycle. Students will reflect on their extended time in this second work environment, and how their two different co-op work experiences impacts their subsequent decisions for career development. Students will review their overall performance in the cooperative education program, and demonstrate their technical and professional skills through written work and public presentations to multiple audiences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BUSI.4CE Co-op Experience ll, and BUSI.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BUSI.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BUSI.4800": {
+        "name": "BUSI.4800 Current Topics in Business",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/4800/",
+        "id": "040650",
+        "description": "Topics of current interest in Business. Subject matter to be announced in advance. For a current semester course title, please log on to SIS, the Student Information System. Please see \"notes\" for the class to see the full description for individual topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BUSI.4890": {
+        "name": "BUSI.4890 Internship in Business Administration",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/4890/",
+        "id": "041365",
+        "description": "The Internship in Business provides three academic credits that count as a Manning elective for working in a business related position that integrates more than one business discipline with a minimum of 11 hours per week for a single semester. After developing a proposal in cooperation with their employer, students obtain the permission of the internship coordinator to enroll in the course. Students then perform their designated work duties during the semester, and also write a reflective term paper which describes their work experience and relates it to their academic work in the other courses taken at UML. The grading of the internship course is based upon the evaluation from the employer and course deliverable determined by the internship coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must be in a Manning Sch. of Bus.Concentration. Students must be at least first sem. Juniors with a GPA greater than 3.0. Permission of Instructor required.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BUSI.7010": {
+        "name": "BUSI.7010 Doctoral Curricular Practical Training (Formerly BUSI 701)",
+        "url": "https://www.uml.edu/catalog/courses/BUSI/7010/",
+        "id": "039083",
+        "description": "An internship, practicum or other type of employment that is either required by the student's academic program or an experience for which a student receives academic credit. To be eligible the student must be in legal F-1 status and have been enrolled full-time for one academic year. CPT work experience must be in the student's field of study and contain a curricular component.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

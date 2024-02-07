@@ -1,0 +1,177 @@
+{
+    "total": 11,
+    "time": 9.912671566009521,
+    "ROTC.0001": {
+        "name": "ROTC.0001 Independent Study (MSL IS I) (Formerly 28.001)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/0001/",
+        "id": "004412",
+        "description": "Advanced topics in leadership and management utilizing the military decision making process not covered in the regular curriculum.  Content may vary from year to year.\nDue to the unique nature of this course, entrance into this course requires a permission number granted by the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.0002": {
+        "name": "ROTC.0002 Independent Study II (MSL IS II) (Formerly 28.002)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/0002/",
+        "id": "034682",
+        "description": "Advanced topics in leadership in a tactical environment with a focus on adventure training.  Content may vary from year to year.\nDue to the unique nature of this course, entrance into this course requires a permission number granted by the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.1400": {
+        "name": "ROTC.1400 Leadership and Personal Development (MSL 101) (Formerly 28.140)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/1400/",
+        "id": "004413",
+        "description": "Leadership and personal development introduces students to the personal challenges and competencies that are critical for effective leadership.  They will learn how the personal development of life skills such as goal setting, time management, physical fitness, and stress management relate to leadership, officership, and the Army profession.  The focus is on developing basic knowledge and comprehension of Army leadership dimensions, attributes and core leader competencies while gaining a big picture understanding of the ROTC program, its purpose in the Army, and its advantages for the student.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.1700": {
+        "name": "ROTC.1700 Introduction to Tactical Leadership (MSL 102) (Formerly 28.170)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/1700/",
+        "id": "004416",
+        "description": "Introduction to tactical leadership overviews leadership fundamentals such as setting direction, problem-solving, listening, presenting briefs, providing feedback, and using effective writing skills.  Students will explore dimensions of leadership attributes and core leader competencies in the context of practical, hands-on, and interactive exercises.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.2000L": {
+        "name": "ROTC.2000L ROTC Leadership Lab",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/2000L/",
+        "id": "041222",
+        "description": "ROTC Leadership Lab.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.2300": {
+        "name": "ROTC.2300 Foundations of Leadership (MSL 201) (Formerly 28.230)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/2300/",
+        "id": "004419",
+        "description": "Foundations of Leadership explores the dimensions of creative and innovative tactical leadership strategies and styles by examining team dynamics and two historical leadership theories that form the basis of the Army leadership framework. Aspects of personal motivation and team building are practiced planning, executing and assessing team exercises.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.2400": {
+        "name": "ROTC.2400 Foundations of Tactical Leadership (MSL 202) (Formerly 28.240)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/2400/",
+        "id": "004420",
+        "description": "Foundations of Tactical Leadership examines the challenges of leading tactical teams in the complex contemporary operating environment (COE). This course highlights dimensions of terrain analysis, patrolling, and operation orders.  Further study of the theoretical basis of the Army Leadership Requirements Model explores the dynamics of adaptive leadership in the context of military operations.\nMSL 202 provides a smooth transition into MSL 301.  Cadets develop greater self-awareness as they assess their own leadership styles and practice communication and team-building skills.  COE case studies give insight into the importance and practice of teamwork and tactics in real-world scenarios.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.3300": {
+        "name": "ROTC.3300 Adaptive Team Leadership (MSL 301) (Formerly 28.330)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/3300/",
+        "id": "004422",
+        "description": "During this course students will study, practice, and apply the Fundamentals of Army Leadership, Officership, Army values and Ethics, personal development, and small unit tactics at the team and squad level.  At the conclusion of this course, students will be capable of planning, coordinating, navigating, motivating and leading a team or squad in the execution of a tactical mission during a classroom PE, a Leadership Lab, or during a Situational Training Exercise (STX) in a field environment.  Students will receive systematic and specific feedback on their leader attributes, values and core leader competencies using the ROTC Leader Development Program (LSP) model.\nDue to the unique nature of this course, entrance into this course requires a permission number granted by the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.3400": {
+        "name": "ROTC.3400 Applied Team Leadership (MSL 302) (Formerly 28.340)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/3400/",
+        "id": "004423",
+        "description": "During this course students will study, practice, and apply the fundamentals of Army leadership, Officership, Army values and ethics, personal development, and small unit tactics at the team and squad level.  At the conclusion of this course, students will be capable of planning, coordinating, navigating, motivating and leading a team or squad in the execution of a tactical mission during a classroom PE, a Leadership Lab, or during a Situational Training Exercise (STX) in a field environment.  Students will receive systematic and specific feedback on their leader attributes values and core leader competencies using the ROTC Leader Development Program (LDP) model.\nDue to the unique nature of this course, entrance into this course requires a permission number granted by the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: ROTC.2000L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ROTC.2000L"
+                ]
+            ]
+        }
+    },
+    "ROTC.4400": {
+        "name": "ROTC.4400 Adaptive Leadership (MSL 401) (Formerly 28.440)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/4400/",
+        "id": "004427",
+        "description": "Adaptive Leadership is designed for students to apply their leadership techniques.  Throughout the semester, students are assigned the duties and responsibilities of an Army staff officer and must apply the fundamentals of principles of training and the military decision making process to plan, execute and assess ROTC training.  Students will be given numerous opportunities to train, mentor and evaluate underclass students enrolled in the ROTC Basic Course.  Students will study how Army values and leader ethics are applied in the Contemporary Operating environment and how these values and ethics are relevant to everyday life.  Students will study the Army officer's role in the counseling of subordinates, administrative actions and the management of an Army Officer's career. \nDue to the unique nature of this course, entrance into this course requires a permission number granted by the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ROTC.4500": {
+        "name": "ROTC.4500 Leadership in a Complex World (MSL 402) (Formerly 28.450)",
+        "url": "https://www.uml.edu/catalog/courses/ROTC/4500/",
+        "id": "004428",
+        "description": "Leadership in a Complex World explores the dynamics of leading in the complex situations of current military operations in the contemporary operating environment (COE).  Students will examine differences in customs and courtesies, military law, principles of war, and rules of engagement in the face of international terrorism.  This course places significant emphasis on preparing students for their careers in the military.  It uses various case studies and scenarios to prepare students to face the complex ethical and practical demands of leading as a commissioned officer in the United States Army.\nDue to the unique nature of this course, entrance into this course requires a permission number granted by the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: ROTC.2000L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ROTC.2000L"
+                ]
+            ]
+        }
+    }
+}

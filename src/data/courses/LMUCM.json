@@ -1,0 +1,64 @@
+{
+    "total": 4,
+    "time": 5.254393577575684,
+    "LMUCM.1990": {
+        "name": "LMUCM.1990 Music Composition 1000 Elective",
+        "url": "https://www.uml.edu/catalog/courses/LMUCM/1990/",
+        "id": "040962",
+        "description": "Music Composition 1000 Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LMUCM.2990": {
+        "name": "LMUCM.2990 Music Composition 2000 Elective",
+        "url": "https://www.uml.edu/catalog/courses/LMUCM/2990/",
+        "id": "040963",
+        "description": "Music Composition 2000 Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LMUCM.3990": {
+        "name": "LMUCM.3990 Music Composition 3000 Elective",
+        "url": "https://www.uml.edu/catalog/courses/LMUCM/3990/",
+        "id": "040964",
+        "description": "Music Composition 3000 Elective",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LMUCM.4990": {
+        "name": "LMUCM.4990 Music Composition 4000 Elective",
+        "url": "https://www.uml.edu/catalog/courses/LMUCM/4990/",
+        "id": "040965",
+        "description": "Music Composition 4000 Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

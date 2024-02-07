@@ -1,0 +1,874 @@
+{
+    "total": 58,
+    "time": 39.68743658065796,
+    "MUEN.0100": {
+        "name": "MUEN.0100 Ensemble 1 (Formerly 76.010)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/0100/",
+        "id": "007311",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.0200": {
+        "name": "MUEN.0200 Ensemble 2 (Formerly 76.020)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/0200/",
+        "id": "007312",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1010": {
+        "name": "MUEN.1010 University Orchestra (Formerly 76.101)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1010/",
+        "id": "007313",
+        "description": "Open to all students by audition. Works from the orchestral repertoire are studied and publicly performed with additional opportunities for solo accompaniment.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1030": {
+        "name": "MUEN.1030 Wind Ensemble (Formerly 76.103)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1030/",
+        "id": "007315",
+        "description": "Open to all students by audition. Compositions are selected from a wide repertoire of wind ensemble literature for study and performance. Opportunity for solo performance with wind ensemble accompaniment.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1050": {
+        "name": "MUEN.1050 Concert Band (Formerly 76.105)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1050/",
+        "id": "007316",
+        "description": "Open to all students by audition. Selected band repertoire studied and performed.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1060": {
+        "name": "MUEN.1060 Marching Band (Formerly 76.106)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1060/",
+        "id": "007317",
+        "description": "Open to all students of the University, without regard for major field of study. The marching band performs at University events and at selected band festivals throughout New England. Custom musical arrangements and visual designs are featured. No audition required.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1080": {
+        "name": "MUEN.1080 Studio Orchestra (Formerly 76.108)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1080/",
+        "id": "007318",
+        "description": "Open to all students by audition. A wide spectrum of jazz orchestration and solo performance is studied and performed.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1220": {
+        "name": "MUEN.1220 Early Music Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1220/",
+        "id": "041786",
+        "description": "The Early Music Ensemble provides the opportunity to explore the music of the Medieval, Renaissance, and Baroque Eras in ensembles of various sizes. Students may perform on any combination of their primary or secondary instruments. In cooperation with other members of the course, students will have the chance to tailor their repertoire choices to their own musicological interests and desired areas of growth. By Audition.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1240": {
+        "name": "MUEN.1240 Blues Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1240/",
+        "id": "041787",
+        "description": "This ensemble course explores the wide array of blues and blues based musical traditions including their fundamental forms and grooves, as well as common riffs and melodic structures. Particular focus is given to creating compelling, spontaneous performances through the use of improvisation, body language, audience interaction/participation, effective phrasing, musical communications and cueing. Open to instrumentalists and vocalists of all types by audition.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1260": {
+        "name": "MUEN.1260 Accompanying Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1260/",
+        "id": "041788",
+        "description": "Accompanying Ensemble focuses on developing collaborative skills among duos, trios, and quartets. Students will learn how to lead efficient rehearsals, explore interpretive possibilities, and increase aural sensitivity to other musicians. Weekly coachings for each group will be scheduled by the instructor. Open to all genres and instrument/voice combinations. By Audition.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1280": {
+        "name": "MUEN.1280 R&B Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1280/",
+        "id": "041789",
+        "description": "This ensemble is open to both instrumentalists and vocalists and is designed to familiarize students with Rhythm and Blues material, from classic repertoire of the 1960's through the present, while preparing for a concert at the end of the semester. Students are guided through the process of putting a working band together and rehearsing repertoire for performance, including attention to authentic stylistic approaches. By Audition.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1470": {
+        "name": "MUEN.1470 Ensemble Performance 1 (Formerly 76.147)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1470/",
+        "id": "007319",
+        "description": "This ensemble provides students with an introduction to the skills, knowledge, and attitudes necessary for satisfactory ensemble performance, namely: adequate technical facility for successful ensemble participation; functional knowledge of musical grammar and syntax in reference to its application in ensemble performance; proper application of aural and rhythmic skills in an ensemble setting; music sensitivity in relation to ensemble performance; and a knowledge of the protocols of ensemble preparation and performance. Emphasis on utilization of major scales and chords through application in both classical and jazz styles.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1480": {
+        "name": "MUEN.1480 Ensemble Performance 2 (Formerly 76.148)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1480/",
+        "id": "007320",
+        "description": "Ensemble Performance 2 is an introduction to the fundamentals of the jazz idiom, jazz theory, and jazz improvisation.  Topics include correct interpretation of jazz rhythm and articulation, basic jazz theory, and the development of improvised melodies.  Students will play in small ensembles, or \"combos\", in this course.  Students are expected to have at least an intermediate level of skill on their instruments at the time they begin this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1490": {
+        "name": "MUEN.1490 Ensemble Performance 3 (Formerly 76.149)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1490/",
+        "id": "007321",
+        "description": "Introduction to multiple styles of American popular music: more advanced harmony and rhythm; improvisiong on common chord progressions; semi-independent combos.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1500": {
+        "name": "MUEN.1500 Ensemble Performance 4 (Formerly 76.150)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1500/",
+        "id": "007322",
+        "description": "Performing advanced jaz and pop compositions; advanced improvisation; semi-independent combos.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1510": {
+        "name": "MUEN.1510 Brass Ensemble (Formerly 76.151)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1510/",
+        "id": "007323",
+        "description": "Open to all students by audition. Provides a wide range of performance experience through varied brass literature.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1530": {
+        "name": "MUEN.1530 Percussion Ensemble (Formerly 76.153)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1530/",
+        "id": "007324",
+        "description": "Open to all students by audition. Exploration of the growing body of literature for percussion ensemble. Public performance.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1540": {
+        "name": "MUEN.1540 Classical Guitar Ensemble (Formerly 76.154)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1540/",
+        "id": "007325",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1560": {
+        "name": "MUEN.1560 Electric Guitar Ensemble (Formerly 76.156)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1560/",
+        "id": "007327",
+        "description": "Open to all students by audition. Provides study and performance of literature for guitar, lute, etc. Required of all guitar majors each semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1580": {
+        "name": "MUEN.1580 Piano Ensemble (Formerly 76.158)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1580/",
+        "id": "007328",
+        "description": "Open to all students by audition. Provides performance experiences through varied piano ensemble literature for one and two pianos.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1590": {
+        "name": "MUEN.1590 Mixed Chamber Ensemble (Formerly 76.159)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1590/",
+        "id": "007329",
+        "description": "Open to all students by audition. Offers a wide range of performance experience through a selection of literature for varying combinations of instruments.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Not for Graduate Students.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1600": {
+        "name": "MUEN.1600 String Ensembles (Formerly 76.160)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1600/",
+        "id": "007330",
+        "description": "Open to all students by audition. Provides experience in the performance of string orchestra literature.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1610": {
+        "name": "MUEN.1610 Small Jazz Ensemble (Formerly 76.161)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1610/",
+        "id": "007331",
+        "description": "Open to all students by audition. Provides experience in the performance of jazz literature for groups ranging from four to eight members.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1620": {
+        "name": "MUEN.1620 Jazz Laboratory Ensemble (Formerly 76.162)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1620/",
+        "id": "007332",
+        "description": "Open to all students by audition. Provides students with a clear understanding of the skills, knowledge and attitudes necessary to satisfactory ensemble performance and practical experience in the application of such skills, knowledge and attitudes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1640": {
+        "name": "MUEN.1640 World Music Ensemble (Formerly 76.164)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1640/",
+        "id": "037357",
+        "description": "An immersion into the music of non-western cultures, this course will provide instrumental and vocal instruction, as well as and introduction to the theory and cultural contexts that shape the practice of traditional music.  The ensemble will meet weekly, with the coal of a public performance at the close of the semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1650": {
+        "name": "MUEN.1650 Jazz/Rock Big Band (Formerly 76.165)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1650/",
+        "id": "007334",
+        "description": "Open to all students by audition. Fusion big band covering a wide variety of contemporary jazz rock literature. Solo improvisational opportunities. Numerous performances.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1700": {
+        "name": "MUEN.1700 Contemporary  Electronic Ensemble (Formerly 76.170)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1700/",
+        "id": "007335",
+        "description": "Explores the electronic production and manipulation of music in a live ensemble setting.  Students will incorporate synthesis, signal processing, sampling, etc. into a musical framework.  Beside performing from the constantly expanding repertoire of electronic music, students will be encouraged to create original compositions and arrangements for the ensemble.  A public performance will be given at the end of each semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1711": {
+        "name": "MUEN.1711 Diverse Practices Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1711/",
+        "id": "040409",
+        "description": "This ensemble will feature variable topics focusing on musical practices that fall outside of typical Western-music traditions. Possibilities include contemporary concert music, improvisation, early music, electronic dance music, performances for music therapy, and many more. The ensemble is open to all students based on audition.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1721": {
+        "name": "MUEN.1721 Secondary Instrument Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1721/",
+        "id": "040410",
+        "description": "This ensemble will offer students the opportunity to explore and develop their abilities on a secondary instrument. Topics for section include percussion for non-percussionists, piano for non-pianists, and guitar for non-guitarists. Open to all students based on permission of instructor.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.1750": {
+        "name": "MUEN.1750 Video Game Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/1750/",
+        "id": "042064",
+        "description": "This ensemble will perform live music based on video games. Potential projects may include: 1) performing student arrangements of game soundtracks for ensemble members (acoustic or electroacoustic). 2) Using in-game mechanics to develop a live performance. 3) Developing actual games to feature original sound and music. Live performance in semester-end concert required for all participants. Open to all vocalists and instrumentalists by permission only.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Music Majors Only, Audition/Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.2010": {
+        "name": "MUEN.2010 Chamber Singers (Formerly 76.201)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/2010/",
+        "id": "007336",
+        "description": "A small, select choir open to all singers by audition. Performs music ranging from the present day to the Middle Ages.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.2020": {
+        "name": "MUEN.2020 University Choir (Formerly 76.202)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/2020/",
+        "id": "007337",
+        "description": "Open to all students by audition. Includes the study and performance of a wide variety of choral compositions.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.2100": {
+        "name": "MUEN.2100 Opera Workshop (Formerly 76.210/510)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/2100/",
+        "id": "007339",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.2510": {
+        "name": "MUEN.2510 Choral Union (Formerly 76.251)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/2510/",
+        "id": "007340",
+        "description": "A large chorus open to the campus and the community without audition. Performs larger works in the choral repertoire including oratorios, masses, motets and opera.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.3450": {
+        "name": "MUEN.3450 Songwriting Ensemble",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/3450/",
+        "id": "040411",
+        "description": "This course is designed to facilitate a greater range of creative expression for aspiring songwriters by analyzing the musical and lyric components of a song composition, posing songwriting problems to be solved, and developing an identifiable musical style.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5010": {
+        "name": "MUEN.5010 University Orchestra (Formerly 76.501)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5010/",
+        "id": "007346",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5020": {
+        "name": "MUEN.5020 Wind Ensemble (Formerly 76.502)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5020/",
+        "id": "007347",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5030": {
+        "name": "MUEN.5030 Chamber Singers (Formerly 76.503)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5030/",
+        "id": "007348",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5040": {
+        "name": "MUEN.5040 University Choir (Formerly 76.504)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5040/",
+        "id": "007349",
+        "description": "Open to all students by audition. Includes the study and performance of a wide variety of choral compositions.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5050": {
+        "name": "MUEN.5050 Concert Band (Formerly 76.505)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5050/",
+        "id": "007350",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5080": {
+        "name": "MUEN.5080 Studio Orchestra (Formerly 76.508)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5080/",
+        "id": "007351",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5100": {
+        "name": "MUEN.5100 Opera Workshop (Formerly 76.210/510)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5100/",
+        "id": "007339",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5510": {
+        "name": "MUEN.5510 Choral Union (Formerly 76.551)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5510/",
+        "id": "007352",
+        "description": "A large chorus open to the campus and the community without audition. Performs larger works in the choral repertoire including oratorios, masses, motets and opera.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5530": {
+        "name": "MUEN.5530 Percussion Ensemble (Formerly 76.553)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5530/",
+        "id": "007354",
+        "description": "Open to all students by audition. Exploration of the growing body of literature for percussion ensemble. Public performance.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5540": {
+        "name": "MUEN.5540 Classical Guitar Ensemble (Formerly 76.554)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5540/",
+        "id": "007355",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5550": {
+        "name": "MUEN.5550 Brass Ensemble (Formerly 76.555)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5550/",
+        "id": "007356",
+        "description": "Open to all students by audition. Provides a wide range of performance experience through varied brass literature.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5560": {
+        "name": "MUEN.5560 Electric Guitar Ensemble (Formerly 76.556)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5560/",
+        "id": "007357",
+        "description": "Open to all students by audition. Provides study and performance of literature for guitar, lute, etc. Required of all guitar majors each semester",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5580": {
+        "name": "MUEN.5580 Piano Ensemble (Formerly 76.558)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5580/",
+        "id": "007359",
+        "description": "Open to all students by audition. Provides performance experiences through varied piano ensemble literature for one and two pianos.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5590": {
+        "name": "MUEN.5590 Mixed Chamber Ensemble (Formerly 76.559)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5590/",
+        "id": "007360",
+        "description": "Open to all students by audition. Offers a wide range of performance experience through a selection of literature for varying combinations of instruments.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5600": {
+        "name": "MUEN.5600 String Ensemble (Formerly 76.560)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5600/",
+        "id": "007361",
+        "description": "Open to all students by audition. Provides experience in the performance of string orchestra literature.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5610": {
+        "name": "MUEN.5610 Small Jazz Ensemble (Formerly 76.561)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5610/",
+        "id": "007362",
+        "description": "Open to all students by audition. Provides experience in the performance of jazz literature for groups ranging from four to eight members.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5620": {
+        "name": "MUEN.5620 Jazz Laboratory  Ensemble (Formerly 76.562)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5620/",
+        "id": "007363",
+        "description": "Open to all students by audition. Provides students with a clear understanding of the skills, knowledge and attitudes necessary to satisfactory ensemble performance and practical experience in the application of such skills, knowledge and attitudes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5630": {
+        "name": "MUEN.5630 Recording Studio Ensemble (Formerly 76.563)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5630/",
+        "id": "033122",
+        "description": "This course introduces students to the music-making paradigm of the recording studio.  Issues of musicianship and ensemble performance are addressed within the context of creating music recordings.  Recording musicians must demonstrate music abilities in a range of spaces from live rooms to sound isolation booths, interacting with other musicians via microphones and headphones, contributing to music played live and previously recorded to a multitrack recorder by musicians at earlier recording sessions, collaborating with music producers and recording engineers.  The ensenble includes a core rock/pop rythm section of drums, electric bass,  electric guitar, keyboards, and vocalists.  Other musicians are welcome to contribute to the Studio ensemble as repertoire requires.  Students will prepare representative recording studio works and original compositions.  Students will complete several recordings by the end of the semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5650": {
+        "name": "MUEN.5650 Jazz/Rock Big Band (Formerly 76.565)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5650/",
+        "id": "007364",
+        "description": "Open to all students by audition. Fusion big band covering a wide variety of contemporary jazz rock literature. Solo improvisational opportunities. Numerous performances.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.5700": {
+        "name": "MUEN.5700 Contemp Electronic Ensemble (Formerly 76.570)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/5700/",
+        "id": "007365",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.6010": {
+        "name": "MUEN.6010 World Music Ensemble (Formerly 76.601)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/6010/",
+        "id": "007366",
+        "description": "An immersion into the music of non-Western cultures, this course will provide instrumental and vocal instruction, as well as an introduction to the theory and cultural contexts that shape the practice of traditional music.  The ensemble will meet weekly, with the goal of a public performance at the close of the semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.6020": {
+        "name": "MUEN.6020 Graduate  Instrumental Ensemble (Formerly 76.602)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/6020/",
+        "id": "007367",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUEN.6250": {
+        "name": "MUEN.6250 Community Internship (Formerly 76.625)",
+        "url": "https://www.uml.edu/catalog/courses/MUEN/6250/",
+        "id": "035593",
+        "description": "This course will provide students with the opportunity to gain real world experience in the administration of a Community Arts organization.  Students will be required to undergo 300 hours of work under the direct supervision of the director of a Community Arts organization, in coordination with a University advisor.  Students will conduct research into various arts organizations, revise resumes, and draft cover letters under the guidance of the course advisor in preparation for the internship application process.  Students will be required to secure the internship pending approval of the course advisor.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

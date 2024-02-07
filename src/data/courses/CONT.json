@@ -1,0 +1,34 @@
+{
+    "total": 2,
+    "time": 3.9916326999664307,
+    "CONT.6010": {
+        "name": "CONT.6010 Continued Matriculation (Master candidates)",
+        "url": "https://www.uml.edu/catalog/courses/CONT/6010/",
+        "id": "002043",
+        "description": "Continued Matriculation does not entitle a student to any use of university facilities or resources, but only maintains an active record and provides for appropriate mailings. Master's students may only register for two semesters of Continued Matriculation. Doctoral candidates may register for up to three semesters. Exceptions to this rule may be granted with approval of the academic department (Graduate Coordinator/Department Chair) and college dean. Students completing a thesis or dissertation must also have the approval of their thesis/dissertation advisor. Exceptions must be requested via a Graduate Academic Petition. If an exception is not granted, the student will be withdrawn from the University and will need to reapply. If a student reapplies and is readmitted, the rules regarding the Statute of Limitations restart.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Req: Students in Masters Degree Programs only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CONT.7010": {
+        "name": "CONT.7010 Continued Matriculation (Doctoral candidates)",
+        "url": "https://www.uml.edu/catalog/courses/CONT/7010/",
+        "id": "040363",
+        "description": "Continued Matriculation does not entitle a student to any use of university facilities or resources, but only maintains an active record and provides for appropriate mailings. Master's students may only register for two semesters of Continued Matriculation. Doctoral candidates may register for up to three semesters. Exceptions to this rule may be granted with approval of the academic department (Graduate Coordinator/Department Chair) and college dean. Students completing a thesis or dissertation must also have the approval of their thesis/dissertation advisor. Exceptions must be requested via a Graduate Academic Petition. If an exception is not granted, the student will be withdrawn from the University and will need to reapply. If a student reapplies and is readmitted, the rules regarding the Statute of Limitations restart.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Doctoral Programs Only",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,823 @@
+{
+    "total": 46,
+    "time": 32.155500411987305,
+    "MUSR.1100": {
+        "name": "MUSR.1100 Introduction to Music Technology",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/1100/",
+        "id": "041182",
+        "description": "This is a one semester course exploring the inventive ways today's musicians incorporate technology for creative, promotional, and education purposes in their careers. This course provides a practical and hands-on approach to notation software, MIDI sequencing and electronic instruments, audio and video applications, the computer as a performance instrument, and other web-based professional resources.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Music Performance or Sound Recording Technology majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.1150": {
+        "name": "MUSR.1150 SRT Colloquium",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/1150/",
+        "id": "041338",
+        "description": "A weekly colloquium series for all Sound Recording Technology majors, providing opportunities for the presentation of student work, masterclasses, and guest lectures, as well as a place to address program-wide topics and issues. Note: Only first-year SRT students enroll in this course. Attendance and participation is required as part of all SRT courses for upperclassmen.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "SRT Majors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.1600": {
+        "name": "MUSR.1600 Audio Practicum",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/1600/",
+        "id": "041339",
+        "description": "Basic training in core practices in the recording studio in preparation for subsequent SRT courses. This will include proper handling of equipment, check-out and check-in procedures, scheduling procedures, lab rules, session etiquette, and PA/Live sound setup and teardown. In addition to the one hour weekly class meeting, each student will work a weekly shift in the SRT office as part of their contact time. This will give them first hand experience in the day-to-day management and practices of out studio facilities.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "SRT Majors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.2100": {
+        "name": "MUSR.2100 Audio in Theory and Practice",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/2100/",
+        "id": "041340",
+        "description": "The theory and usage of audio-recording/reproduction components are explored at a basic level and supplemented by hands-on experience. The aesthetics of recording media and their influence on society are discussed in relation to the artistic and commercial functions of the media.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUSR.1600 Audio Practicum.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.1600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.2600": {
+        "name": "MUSR.2600 Music Production",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/2600/",
+        "id": "041341",
+        "description": "Intermediate audio production. Planning and executing recording sessions which involve a variety of musical ensembles under diverse recording conditions; live-performance/concert recordings; multi-track recording, overdub, and remix procedures; and research in recording techniques. Laboratory required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.2100  Audio in Theory and Practice.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.3010": {
+        "name": "MUSR.3010 Music, Technology and Society (Formerly 78.301)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/3010/",
+        "id": "007387",
+        "description": "Examines how recording technology has changed music and the relationships of music and society. The course studies and evaluates the application of technology to making music, to music listening, to styles of music, and to music's roles in society, other art forms, and media. The evolving importance of technology in music over the past century is charted through the study of musical examples and through viewing how human values are reflected in this century's timely music. Studies will be based on assigned readings, lectures and discussions, examination of current and historically significant music recordings, motion pictures and media pieces for this artistry, their use of available technology, and their impact on human values and society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.3050": {
+        "name": "MUSR.3050 Survey: Music Technology (Formerly 78.305)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/3050/",
+        "id": "007388",
+        "description": "The use of technology in music listening, performance, analysis, composition, recording and music study will be presented. The dimensions and applications of technology will be discussed as related to aesthetics, the musician's experiences, musical style, and the musical experience. Basic introduction to the technologies of audio recording. Course includes required reading, listening, session participation. Music Majors Only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUBU.3010 Music Business 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.3100": {
+        "name": "MUSR.3100 Introduction To Recording (Formerly 78.310)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/3100/",
+        "id": "007389",
+        "description": "The theory and usage of audio-recording/reproduction components are explored at a basic level and supplemented by hands-on experience. The aesthetics of recording media and their influence on society are discussed in relation to the artistic and commercial functions of  the media. Individual research on a subject of interest to the student is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1310 Calculus I or MATH 1380 Calculus for Life Sciences, or Permission of Instructor/Coordinator or Chair.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1310",
+                    "MATH.1380"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.3200": {
+        "name": "MUSR.3200 Mixing and Mastering Audio",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/3200/",
+        "id": "041349",
+        "description": "This course builds on the material presented in Music Production, following the recording process through post-production tasks including mixing and mastering. Students will explore the application of informed musical judgment to the mixing process, learn about creative and technical uses of signal processing, and gain a basic understanding of the tasks involved in mastering.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUSR.2600 Music Production, and Co-req: MUSR.3600 Critical I Analytical Listening, and MUSR.3900 Acoustics & Psychoacoustics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.2600"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUSR.3600"
+                ],
+                [
+                    "MUSR.3900"
+                ]
+            ]
+        }
+    },
+    "MUSR.3500": {
+        "name": "MUSR.3500 Video Production for SRT (Formerly 78.350)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/3500/",
+        "id": "007390",
+        "description": "An introductory course in the fundamentals of video technology and production; encompassing signal transmission, tape formats, transduction, optical characteristics of lenses and cameras, production equipment and procedures, and post-production equipment and techniques; hands-on experience via video and audio for video projects. Permission of Coordinator and Chair.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.2100  Audio in Theory and Practice.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.3600": {
+        "name": "MUSR.3600 Critical and Analytical Listening (Formerly 78.360)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/3600/",
+        "id": "007391",
+        "description": "The recognition and identification of timbral modifications and spatial characteristics. Aural analysis of historically significant and current music recordings for recording techniques, musicalbalance, performance intensity, sound quality and imaging. Development of critical listening skills and sound evaluation techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.3100 Intro to Recording, or MUSR.2600 Music Prod, and MUTH.2030 Aural Skills 3, or MUTH.2080 Musicianship & Analysis 3, and Co-req: MUSR.3900 Acoustics & Psychoacoustics, and MUSR.4100 Recording Prod., or MUSR.3200 Mixing & Mastering Audio.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.3100",
+                    "MUSR.2600"
+                ],
+                [
+                    "MUTH.2030",
+                    "MUTH.2080"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUSR.3900"
+                ],
+                [
+                    "MUSR.4100",
+                    "MUSR.3200"
+                ]
+            ]
+        }
+    },
+    "MUSR.3900": {
+        "name": "MUSR.3900 Acoustics & Psychoacoustics (Formerly 78.390)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/3900/",
+        "id": "007392",
+        "description": "The physical attributes of sound and acoustic measurement; displacement, time, velocity, acceleration, force, energy, resonance, wave shapes and spectral energy distribution are examined for most instruments; acoustic properties of the ear and enclosed environments; acoustic measurements and instruments. The interrelationships and differences of physical acoustics and psychoacoustics are stressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.3100 Intro to Recording, or MUSR.2100 Audio in Theory and Practice, and MATH.1320 Calculus II, and PHYS.1010 Introductory Physics, and Co-req: MUSR.3600 Critical Listening.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.3100",
+                    "MUSR.2100"
+                ],
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.1010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUSR.3600"
+                ]
+            ]
+        }
+    },
+    "MUSR.4010": {
+        "name": "MUSR.4010 Music of The Beatles (Formerly 78.401)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4010/",
+        "id": "035289",
+        "description": "This course will explore how technology shaped, enhanced and defined the music of The Beatles.  In doing so their music will also be studied for its musical materials, stylistic content, the sound qualities of recordings, cultural impacts, and extra-musical aspects, as well as the music and cultural ideas that influenced the music of The Beatles.  Selected solo recordings and compositions of the artists will also be examined to trace the growth of ideas and materials with their roots in The Beatles' music.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.4100": {
+        "name": "MUSR.4100 Recording Production (Formerly 78.410)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4100/",
+        "id": "007393",
+        "description": "Intermediate audio production. Planning and executing recording sessions which involve a variety of musical ensembles under diverse recording conditions; live-performance/concert recordings; multi-track recording, overdub, and remix procedures; application of informed musical judgment to the mixing process; and research in recording techniques. Laboratory required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUSR 3100 Intro To Recording;  Co-Reqs: MUSR 3600 Critical Listening, and MUSR 3900 Acoustics & Psychoacoust.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.3100"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUSR.3600"
+                ],
+                [
+                    "MUSR.3900"
+                ]
+            ]
+        }
+    },
+    "MUSR.4110": {
+        "name": "MUSR.4110 Audio Theory (Formerly 78.411)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4110/",
+        "id": "007394",
+        "description": "Advanced audio theory. An in-depth examination of the principles and operating specifications of the major components of the modern recording studio: mastering and multi-track recorders, mixing consoles, microphones, monitoring systems, and signal processing equipment. Recording projects and technical research. Laboratory required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUSR.4100 Recording Production.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.4100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4130": {
+        "name": "MUSR.4130 Advanced Audio theory",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4130/",
+        "id": "041342",
+        "description": "Advanced audio theory. An in-dept examination of the principles and operating specifications of the major components of the modern recording studio: mastering and multi-track recorders, mixing consoles, microphones, monitoring systems, and signal processing equipment. Recording projects and technical research. Laboratory required.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUSR.3900 Acoustics & Psychoacoustics and MUSR.3600 Critical & Analytical Listening.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.3900"
+                ],
+                [
+                    "MUSR.3600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4200": {
+        "name": "MUSR.4200 Sound Synthesis 1 (Formerly 78.420)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4200/",
+        "id": "007395",
+        "description": "Sound synthesis equipment and techniques are studied and supplemented with sound synthesis studio laboratory work. The course will cover practices and principles of analog and digital sound synthesis and their historic origins, related audio equipment and applications, theories of sound samplers and sequencers, and an introduction to MIDI applications in sound synthesis and recording production.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUSR.4100 Recording Production.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.4100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4210": {
+        "name": "MUSR.4210 Sound Synthesis 2 (Formerly 78.421/521)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4210/",
+        "id": "007396",
+        "description": "Advanced sound synthesis techniques are studied and supplemented with sound synthesis studio laboratory work. The course will cover MIDI implementation in analog and digital sound synthesis, the historic origins of computer music and electro-acoustic music, live electronic music performance, audio equipment and applications of MIDI-based and functional devices and processors, advanced music production and sound synthesis via MIDI. Permission of Coordinator\nand Chair.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.4200 Sound Synthesis I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.4200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4300": {
+        "name": "MUSR.4300 Computer Applications in Music (Formerly 78.430)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4300/",
+        "id": "007397",
+        "description": "Applications of computers to audio production is emphasized in studies of computer generated and controlled sound sources and devices, algorithmic composition, computer music, digital signal processing, advanced MIDI applications and programming, and computer synchronization of audio and video. Laboratory work required. SRT majors and minors. Permission of Coordinator and Chair.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.4400": {
+        "name": "MUSR.4400 Multitrack Production (Formerly 78.440)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4400/",
+        "id": "007398",
+        "description": "24-track recording. Session planning and preparation, tracking process; microphone techniques and applications; incorporating processing; planning the mix and sound stage; MIDI applications, rough mixdown. Recording project required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: MUSR.4130 Advanced Audition Theory.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MUSR.4130"
+                ]
+            ]
+        }
+    },
+    "MUSR.4410": {
+        "name": "MUSR.4410 Advanced Multitrack Production (Formerly 78.441)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4410/",
+        "id": "007399",
+        "description": "Advanced production techniques; tape machine calibration; automation and final mixdown; digital multitracking; SMPTE applications; premastering and mastering.  Recording project required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.4400 Multitrack Production.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.4400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4500": {
+        "name": "MUSR.4500 The Recording Industry (Formerly 78.450)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4500/",
+        "id": "007400",
+        "description": "A detailed survey of the many career options of the audio-recording industry: position duties and responsibilities. Guest lecturers from diverse careers in the industry share their experiences, disciplines, and backgrounds. Permission of Coordinator and Chair.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUSR.4100 Recording Production.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.4100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4550": {
+        "name": "MUSR.4550 Careers in Audio",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4550/",
+        "id": "041343",
+        "description": "A detailed survey of the numerous career paths in audio-related industries. Skills required to find and obtain internships and job opportunities are explored. Guest lecturers from diverse careers in the industry share their experiences, disciplines, and backgrounds.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUSR.3900 Acoustics & Psychoacoustics and MUSR.3600 Critical & Analytical Listening.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.3900"
+                ],
+                [
+                    "MUSR.3600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4600": {
+        "name": "MUSR.4600 Audio for Visual and Interactive Media (Formerly 78.460)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4600/",
+        "id": "007401",
+        "description": "This course is designed to introduce students to the theory and practice of audio for visual media including production and post-production sound. Students will study of the aesthetics and philosophies of sound design for visual media through the study of important films and television shows and through applied projects which include the planning and execution of production sound, dialog editing and ADR, the creation and design of sound effects, performance of Foley, sound effects editing, music editing, current and historic synchronization technologies, and re-recording",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.3500 Video Production for SRT, and MUSR.4110 Audio Theory, or MUSR.4130 Advanced Audio Theory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.3500"
+                ],
+                [
+                    "MUSR.4110",
+                    "MUSR.4130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4700": {
+        "name": "MUSR.4700 Recording Studio Repair and Maintenance (Formerly 78.470)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4700/",
+        "id": "007402",
+        "description": "Hands-on experience in repair and maintenance techniques. Common minor repairs and routine maintenance of recording equipment; test equipment and tools; power supplies, op-amps, and low-noise amplifiers; distortion; analog and digital hardware; and interface considerations. Permission of Coordinator and Chair",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUSR.4110 Audio Theory, or MUSR.4130 Advanced Audio Theory, and EECE.2140 Fundamentals of Sound Recording.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUSR.4110",
+                    "MUSR.4130"
+                ],
+                [
+                    "EECE.2140"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUSR.4930": {
+        "name": "MUSR.4930 Internship in SRT (Formerly 78.493)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4930/",
+        "id": "007405",
+        "description": "Practical experience in audio-recording under the supervision of a professional firm.  At least twenty hours per week for fifteen weeks is spent working at an entry-level position for a firm involved in audio.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.4940": {
+        "name": "MUSR.4940 Senior Project In Sound Recording Technology (Formerly 78.494)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4940/",
+        "id": "007406",
+        "description": "Advanced projects developed in consultation with faculty advisor. Typical projects include production of a complete record album, investigation of experimental recording techniques, and original research in recording technology. To be completed in place of MUSR.4930 by students not choosing an internship. Permission of Coordinator and Chair",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.4950": {
+        "name": "MUSR.4950 Directed Study in Sound Recording Technology (Formerly 78.495)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/4950/",
+        "id": "007407",
+        "description": "Individual work under the supervision of a member of the SRT faculty on a topic or area of production approved by the instructor and the Coordinator of SRT. Permission of Coordinator and Chair",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.5200": {
+        "name": "MUSR.5200 Recording Analysis (Formerly 78.520)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/5200/",
+        "id": "030835",
+        "description": "Recognition of the unique dimensions of audio recordings, and evaluation of how they can be crafted to support musical expression.  Aural analysis of audio device performance, integrity of audio quality, recording environments, and sound source characteristics.   Understanding of the mix as musical interpretation and performance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.5210": {
+        "name": "MUSR.5210 Sound Synthesis 2 (Formerly 78.421/521)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/5210/",
+        "id": "007396",
+        "description": "Advanced sound synthesis techniques are studied and supplemented with sound synthesis studio laboratory work. The course will cover MIDI implementation in analog and digital sound synthesis, the historic origins of computer music and electro-acoustic music, live electronic music performance, audio equipment and applications of MIDI-based and functional devices and processors, advanced music production and sound synthesis via MIDI. Permission of Coordinator\nand Chair.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.5310": {
+        "name": "MUSR.5310 Special Topics in Sound Recording Technology",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/5310/",
+        "id": "041792",
+        "description": "Contemporary topics in sound recording technology and related disciplines. Course content is chosen by instructor to meet needs and interest of students.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.5450": {
+        "name": "MUSR.5450 Advanced Mix Techniques (Formerly 78.545)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/5450/",
+        "id": "038317",
+        "description": "This course develops deep technical mastery and advanced aesthetic achievement in the multitrack mixdown phase of sound recording. Key families of effects are covered form first principles and technical basics to advanced applications. Processes are integrated into contemporary production strategies for music, film, game, broadcast, and live mixing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.5500": {
+        "name": "MUSR.5500 Advanced Video Production (Formerly 78.550)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/5500/",
+        "id": "032802",
+        "description": "Extends basic music production skills into the professional sphere.  Hands on experience is emphasized.  Students are involved with exercises that teach approaches to dramatic lighting, audio-recording skills for challenging environments, specialized camera techniques used in Hollywood productions, and refined editing techniques.  After completing several short video presentations, students will produce a multi-tracked production that demonstrates their competency in video and audio recording, sound effects, narration, and refined editing techniques.  Prerequisite:  78.350",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.5900": {
+        "name": "MUSR.5900 Advanced Acoustics for Audio (Formerly 78.590)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/5900/",
+        "id": "032804",
+        "description": "This course includes measuring, predicting and modifying the acoustic behavior of rooms, instruments, and speaker enclosures, culminating in original student designs.  An in-depth study of sound perception will also be included along with the latest research in live sound reinforcement and related technologies.  Students must complete an original research project by the end of the term.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.5950": {
+        "name": "MUSR.5950 Graduate Directed Study in SRT (Formerly 78.595)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/5950/",
+        "id": "033472",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.6300": {
+        "name": "MUSR.6300 Technologies of Audio (Formerly 78.630)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/6300/",
+        "id": "030377",
+        "description": "In-depth study of historical, current, and cutting edge technologies of audio devices, systems, and software; includes performance specifications, design and operational parameters, and interface considerations at all systems levels.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.6400": {
+        "name": "MUSR.6400 Production Practicum (Formerly 78.640)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/6400/",
+        "id": "032215",
+        "description": "Experimental and current recording production techniques, and historically significant approaches to recording.  Performance of advanced production work including acoustic and electronic sound sources, automated mixdown, stereo and surround mixing,synchronization and MIDI, audio for visuals, multimedia.  Studio production work led by lecture/demonstration classes and individual student research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.6500": {
+        "name": "MUSR.6500 Research in Sound Recording Technology (Formerly 78.650)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/6500/",
+        "id": "032809",
+        "description": "An introduction to the knowledge and skills common to research in all areas of music:  finding resources, reading and interpreting research, and understanding and applying the  principles of objective investigation  The research paradigms of technology and  engineering, the humanities, the natural sciences, and the social and behavioral sciences are explored and contrasted.  This course consists of a sequence of lectures on the fundamental topics, followed by a series of modules or case studies in specific research areas pertaining to SRT.  Each class meeting involves a project or lab for which the  student must write a report or research document.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.6950": {
+        "name": "MUSR.6950 Directed Study and Research in SRT. (Formerly 78.695)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/6950/",
+        "id": "033362",
+        "description": "An in-depth independent study with a member of the Sound Recording Technology faculty.  The topic and scope of the study must be approved by the faculty member and the Coordinator of SRT,",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.7400": {
+        "name": "MUSR.7400 Masters Recording Project (Formerly 78.740)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/7400/",
+        "id": "032844",
+        "description": "Planning and execution of a substantial recording project under the supervision of an SRT faculty member.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.7410": {
+        "name": "MUSR.7410 Masters Recording Project A (Formerly 78.741)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/7410/",
+        "id": "038315",
+        "description": "Planning and execution of a substantial recording project under the supervision of an SRT faculty member. First part of two-course sequence. 78.742 - Masters Recording Project B must subsequently be taken to satisfy masters degree capstone requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.7420": {
+        "name": "MUSR.7420 Masters Recording Project B (Formerly 78.742)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/7420/",
+        "id": "038316",
+        "description": "Planning and execution of a substantial recording project under the supervision of an SRT faculty member. Second part of two-course sequence to satisfy masters degree capstone requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "78.741 Masters Recording Project A.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.7430": {
+        "name": "MUSR.7430 SRT Masters Thesis (Formerly 78.743)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/7430/",
+        "id": "032846",
+        "description": "The thesis is a scholarly investigation in SRt or an audio-related field resulting in a  comprehensive written document.  The student must complete acceptable research and defend it before a thesis committee.  The choice of a thesis topic and a thesis advisor, the formation of a thesis committee, and the procedures for the preparation of the thesis and its defense are described in detail in the Master's Degree Requirements section of the UMASS Lowell Graduate Catalog.  The specific procedures required y the Department of Music are published by the Department and are available in the main office.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.7440": {
+        "name": "MUSR.7440 SRT Masters Thesis A (Formerly 78.744)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/7440/",
+        "id": "038318",
+        "description": "The thesis is a scholarly investigation in SRT or an audio-related field resulting in a comprehensive written document. The student must complete acceptable research and defend it before a thesis committee. The choice of a thesis topic and a thesis advisor, the formation of a thesis committee, and the procedures fo rthe preparation of the thesis and its defense are described in detail in the Master's Degree Requirements section of the University of Massachusetts Lowell Graduate Catalog. The specific procedures required by the Department of Music are published by the Department and are available in the main office. First part of two-course sequence. 78.745 - SRT Masters Thesis B must subsequently be taken to satisfy masters degree capstone requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.7450": {
+        "name": "MUSR.7450 Continued Graduate Research SRT (Formerly 78.745)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/7450/",
+        "id": "035280",
+        "description": "Thesis/Project Continued Research",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUSR.7460": {
+        "name": "MUSR.7460 SRT Masters Thesis B (Formerly 78.746)",
+        "url": "https://www.uml.edu/catalog/courses/MUSR/7460/",
+        "id": "038341",
+        "description": "The thesis is a scholarly investigation in SRT or an audio-related field resulting in a comprehensive written document. The student must complete research and defend it before a thesis committee. The choice of a thesis topic and a thesis advisor, the formation of a thesis committee, and the procedures for the preparation of the thesis and its defense are described in detail in the Master's Degree Requirements section of the University of Massachusetts Lowell Graduate Catalog. The specific procedures required by the Department of Music are published by the Department and are available in the main office. Second part of two course sequence to satisfy masters degree capstone requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "78.744 SRT Masters Thesis A.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

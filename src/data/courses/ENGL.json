@@ -1,0 +1,3469 @@
+{
+    "total": 178,
+    "time": 119.9451220035553,
+    "ENGL.1010": {
+        "name": "ENGL.1010 College Writing I (Formerly 42.101)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1010/",
+        "id": "005014",
+        "description": "A workshop course that thoroughly explores the writing process from pre-writing to revision, with an emphasis on critical thinking, sound essay structure, mechanics, and academic integrity. Students will read, conduct rhetorical analyses, and practice the skills required for participation in academic discourse. Students will write expository essays throughout the semester, producing a minimum of four formal essays.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Anti Req for ENGL.1010 - students cannot receive credit for both ENGL.1010, ENGL.1110 and ENGL.1010S.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1110"
+                ],
+                [
+                    "ENGL.1010S"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.1010S": {
+        "name": "ENGL.1010S College Writing Studio",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1010S/",
+        "id": "039824",
+        "description": "A workshop course that thoroughly explores the writing process from prewriting to revision, with an emphasis on critical reading, essay structure, mechanics, and academic integrity. Students will read, conduct rhetorical analyses, and practice the skills required for participation in academic discourse. Students will write expository essays throughout the semester, producing a minimum of four formal essays. This 4-credit version of the course provides extra time and guidance each week for critical reading, sentence-level work, and revision. Anti Req for ENGL.1011 and ENGL.1010. Placement test score determines enrollment.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Anti Req for ENGL.1010 - students cannot receive credit for both ENGL.1010, ENGL.1110 and ENGL.1010S.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1110"
+                ],
+                [
+                    "ENGL.1010S"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.1010SI": {
+        "name": "ENGL.1010SI Intensive Writing Lab - Supplemental Instruction (Formerly 42.101SI)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1010SI/",
+        "id": "036232",
+        "description": "Taken simultaneously with College Writing I, the Intensive Writing Lab offers students supplemental instruction to complement their work in that course. Students who place into the Writing Lab will receive extensive training in grammar, mechanics, and the use of Standard English.  The once-per-week lab encourages students' success in College Writing I and in their other classes. The course credit cannot be used to satisfy the credits required for graduation, but may be used to satisfy credits required for full time student status.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: ENGL.1010  College Writing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ]
+        }
+    },
+    "ENGL.1020": {
+        "name": "ENGL.1020 College Writing II (Formerly 42.102)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1020/",
+        "id": "005015",
+        "description": "A workshop course that thoroughly explores the academic research writing process with an emphasis on entering into academic conversation. Building on the skills acquired in College Writing I, students will learn to write extensively with source material. Key skills addressed include finding,assessing, and integrating primary and secondary sources, and using proper documentation to ensure academic integrity. Students will produce analytical writing throughout the semester, including a minimum of four formal, researched essays.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1010 or ENGL.1110 or HONR.1100 or CW1 Student Group waiver;  Anti Req for ENGL.1020 - students cannot receive credit for both ENGL.1020 and ENGL.1120.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "ENGL.1110",
+                    "HONR.1100",
+                    "ENGL.1020",
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.1020SI": {
+        "name": "ENGL.1020SI Intensive Writing Lab 2",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1020SI/",
+        "id": "040628",
+        "description": "Taken simultaneously with College Writing II, the Intensive Writing Lab offers students supplemental instruction to complement their work in that course. Students who place into the Writing Lab will receive extensive training in grammar, mechanics, and the use of Standard English.  The once-per-week lab encourages students' success in College Writing I and in their other classes. The course credit cannot be used to satisfy the credits required for graduation.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.1100": {
+        "name": "ENGL.1100 College Writing Workshop (Formerly 42.110)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1100/",
+        "id": "033851",
+        "description": "A workshop course that provides a thorough review of the basics of essay writing in preparation for success in College Writing I, with a focus on the particular needs of multilingual students. Students placed into this course will use the writing process to strengthen the fundamental skills necessary for clear academic writing in English, including the basic rules of grammar and principles of rhetoric. Credit for both 42.100/ENGL.1000 and 42.110/ENGL.1100 will not be granted.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Instructor consent required; Anti req for 42.110 - students cannot receive credit for both 42.110 and 42.100",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.1100SI": {
+        "name": "ENGL.1100SI College Writing A ESL Supplemental Instruction",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1100SI/",
+        "id": "040225",
+        "description": "College Writing A ESL Supplemental Instruction.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.1110": {
+        "name": "ENGL.1110 College Writing I ESL (formerly 42.103/111)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1110/",
+        "id": "033852",
+        "description": "Satisfies the first half of the first-year writing requirement, equivalent to 42.101 College Writing I, with a focus on the particular needs of multilingual students. Credit for both 42.101 and 42.111 will not be granted, nor credit for both 42.101 and 42.103.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Instructor consent required; Anti Req for 42.111, 103 - students cannot receive credit for both 42.111 (103) and 42.101.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.1110SI": {
+        "name": "ENGL.1110SI Supplemental Instruction for College Writing I ESL (Formerly 42.111SI)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1110SI/",
+        "id": "038178",
+        "description": "Supplemental Instruction for College Writing I ESL.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: ENGL.1110 College Writing I ESL.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1110"
+                ]
+            ]
+        }
+    },
+    "ENGL.1120": {
+        "name": "ENGL.1120 College Writing II ESL (formerly 42.104/112)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1120/",
+        "id": "005018",
+        "description": "Satisfies the second half of the first-year writing requirement, equivalent to 42.102 College Writing II, with a focus on the particular needs of multilingual students. Credit for both 42.102 and 42.112 will not be granted, nor credit for both 42.102 and 42.104.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 42.103/111 Col Writing I-Internatl; Anti Req for 42.112, 104 - students cannot receive credit for both 42.112 (104) & 42.102.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.1120SI": {
+        "name": "ENGL.1120SI College Writing II ESL Supplemental Instruction (Formerly 42.112SI)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1120SI/",
+        "id": "038209",
+        "description": "College Writing II ESL Supplemental Instruction",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: ENGL.1120 College Writing II ESL.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1120"
+                ]
+            ]
+        }
+    },
+    "ENGL.1281": {
+        "name": "ENGL.1281 Introduction to Creative Writing (All Majors)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1281/",
+        "id": "041150",
+        "description": "This course is an introductory level workshop in creative writing. Students will read and discuss works of poetry, fiction, and creative nonfiction by established writers, and practice craft in all three genres through short exercises and assignments. Students will have an opportunity to workshop their creative work, and critique peer works. Class time will e divided between brief lectures on specific aspects of writing, craft techniques, group discussions of assigned reading, in-class writing exercises, and discussion of student writing assignments. This course is open to all majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.1810": {
+        "name": "ENGL.1810 Introduction to Literature",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/1810/",
+        "id": "040841",
+        "description": "This course, as the name implies, serves as an introduction to literature. We will read and discuss works in the main genres of the short story, short novel, poetry, and drama. In addition to presenting the conventions and development of each of these genres, the course will provide opportunities to strengthen skills in close reading and critical thinking.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.2000": {
+        "name": "ENGL.2000 Critical Methods of Literary Inquiry (Formerly 42.200)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2000/",
+        "id": "031885",
+        "description": "Examination of diverse critical and theoretical approaches to literature in the development of literary analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Engl.1010, and ENGL.1020, and Must be an English major, or and English minor, or and BLA-writing concentrator, or BLA-literature concentrator, or a Journalism and Professional Writing minor, or Creative Writing minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2010": {
+        "name": "ENGL.2010 Classical Mythology (Formerly 42.201)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2010/",
+        "id": "005019",
+        "description": "This course takes a literary approach to the mythology of Ancient Greece and Rome. We will explore stories of creation of the world, the fall of Troy, the travels of Odysseus and Theseus, the sins of Oedipus, and the rage of Medea. These texts examine some of the most disturbing and violent of human experiences, as well as some of the most moving: men and women's encounters with community, family, war, death, and love. We will address how these narratives form ethical and social codes that underpin western culture, and devote some attention to how these texts are reinterpreted by later authors. Authors may include Homer, Hesiod, Ovid, Virgil, and the Greek tragedians.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2011": {
+        "name": "ENGL.2011 Medieval Myth and Legend",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2011/",
+        "id": "041939",
+        "description": "Explores myth and legend in the literatures of England, Europe, and the World in the Middle Ages (500-1500). Topics may include dragons, djinns, and King Arthur, as well as knights, chivalry, the storyteller Scheherazade, Dante's walk through the Inferno, werewolves, and magic.  We will discover how these fantastic tales negotiate cultural issues like genders, race, and ethnicity, political power, and the creation of art.  All readings in modern English translation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2020": {
+        "name": "ENGL.2020 Great Books of the Modern Period (Formerly 42.202)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2020/",
+        "id": "005020",
+        "description": "Much of what we consider \"contemporary\" was born out of the modernist period, roughly 1900-1950, and was considered radical, even salacious, in its time.This course provides a sampling of modernist literature. Students will explore this period by examining exemplary texts, numerous historical and social events, and a few films.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2070": {
+        "name": "ENGL.2070 English Studies in a Digital Environment (Formerly 42.207)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2070/",
+        "id": "005024",
+        "description": "Students build on skills acquired in College Writing to gain English Studies discipline-speific mastery of the writing conventions, research, and citation practices used in departments of English. In addition, students practice the digital skills that will support them as they join the online learning community of the UML Department of English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2080": {
+        "name": "ENGL.2080 Language in Everyday Life",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2080/",
+        "id": "042237",
+        "description": "Language is personal, social, cultural, and political. This course introduces students to how language works in everyday life. Topics may include language socialization, multilingualism, language ideology, language prejudice, linguistic racism, language in the media, language and identity, differences and similarities across languages and dialects, and the emergence of new words and new meanings. There will be particular focus on English, Spanish, and other languages and dialects relevant to the local region. Students will have opportunities to write and conduct research on topics and languages of their choice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2100": {
+        "name": "ENGL.2100 Drama (Formerly 42.210)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2100/",
+        "id": "005027",
+        "description": "Presents a study of plays from the classical period to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ]
+        }
+    },
+    "ENGL.2110": {
+        "name": "ENGL.2110 Poetry (Formerly 42.211)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2110/",
+        "id": "005028",
+        "description": "Studies selections from the Renaissance through contemporary periods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2120": {
+        "name": "ENGL.2120 The Short Story (Formerly 42.212)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2120/",
+        "id": "005029",
+        "description": "This course teaches students how to sharpen their critical reading skills by learning to think about the short story in terms of its evolution over the last 200 years and by studying its literary techniques and themes. Student practice close, active reading as they examine and express their reactions to authors' works Readings may include authors such as Alexie, Alvarez, Baldwin, Bambara, Bechdel, Chekhov, Diaz, Faulkner, Gilman, Hawthorne, Hemingway, Irving, LeGuin, Lispector, Marquez, O'Connor, Poe, and Tolstoy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2160": {
+        "name": "ENGL.2160 Monsters, Apes & Nightmares (Formerly 42.216)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2160/",
+        "id": "005033",
+        "description": "This course examines literary responses to science in England and the United States from the early Nineteenth Century to the present. Readings include novels--Frankenstein, The Island of Doctor Moreau, Dr. Jekyll and Mr. Hyde, Jurassic Park--essays, and poems.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2170": {
+        "name": "ENGL.2170 The Horror Story (Formerly 42.217)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2170/",
+        "id": "005034",
+        "description": "Explores the genre from Poe to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2180": {
+        "name": "ENGL.2180 Comedy (Formerly 42.218)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2180/",
+        "id": "005035",
+        "description": "Presents the theory and practice of comedy from the Greeks to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2200": {
+        "name": "ENGL.2200 Oral & Written Communication for Computer Science (Formerly 42.220)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2200/",
+        "id": "005036",
+        "description": "The main goal of this course is to enhance the student's understanding of the elements of effective communication, and to put that knowledge into practice in a supportive, co-operative, workshop environment.  Limited to Computer Science majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGL 1020 College Writing II; Computer Science Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2220": {
+        "name": "ENGL.2220 Oral Communication (Formerly 42.222)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2220/",
+        "id": "005038",
+        "description": "Develops and applies the basic speaking skills that can be adapted to a variety of personal and professional contexts. Emphasis is placed on selection, analysis, organization and presentation of speech materials. Practice skills include listening, interviewing and the delivery and critique of extemporaneous speeches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2222": {
+        "name": "ENGL.2222 writing as a Daily Practice",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2222/",
+        "id": "042267",
+        "description": "In this course, students learn how to use accountability structures for developing writing habits.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2240": {
+        "name": "ENGL.2240 Business Writing (Formerly 42.224)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2240/",
+        "id": "005040",
+        "description": "Studies the theory and practice of writing letters, memoranda and reports on specific business and technical problems. Registration preference for students enrolled in Business programs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2260": {
+        "name": "ENGL.2260 Scientific and Technical Communication (Formerly 42.226)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2260/",
+        "id": "005042",
+        "description": "Studies the theory and practice of letters, memoranda, reports and oral presentations on specific scientific and technical problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2270": {
+        "name": "ENGL.2270 Essay Writing for English Majors (Formerly 42.227)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2270/",
+        "id": "005043",
+        "description": "Analyzes and discusses the techniques and styles of selected professional essayists as well as the preparation of student essays. Emphasis will be placed on the writing process from prewriting through drafting and revising. English majors and minors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre/Co-req: ENGL.1020 College Writing II, and English Majors, or English Minors, or BLA-Writing or BLA-English Concentration Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ]
+        }
+    },
+    "ENGL.2320": {
+        "name": "ENGL.2320 Turning Fiction into Film (Formerly 42.232)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2320/",
+        "id": "005048",
+        "description": "This course explores film adaptation by looking at how writing can be turned into the visual and auditory forms. Through reading novels and watching their film adaptations, students learn conventions of fiction and film, and draw on this knowledge to discover the implications of adapting a written story into a movie. By asking students to think about the different ways writers and filmmakers convey meaning to their audiences, this course attempts to answer the question of why the movie is never exactly like the book.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2330": {
+        "name": "ENGL.2330 Play Analysis (Formerly 42.233)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2330/",
+        "id": "036436",
+        "description": "An introduction to the principles of play construction and the vocabulary and methods of interpreting play texts for theatrical production.  Required of all theatre arts concentrators.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.2360": {
+        "name": "ENGL.2360 Science Fiction and Fantasy (Formerly 42.236)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2360/",
+        "id": "005051",
+        "description": "Designed to introduce students to understand science fiction and fantasy within the broader context of literature and literary theory. It attempts to develop and hone student's skills of critical analysis as it supplies them with the tools to contextualize their reading experience - i.e., to understand the origins and politics of the books that they read.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2380": {
+        "name": "ENGL.2380 Introduction to Creative Writing (Formerly 42.238)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2380/",
+        "id": "036923",
+        "description": "A course for aspiring creative writers among freshman and sophomores which offers an introduction to the craft of creative writing in its primary genres: poetry, fiction, drama, creative non-fiction (emphases will vary depending upon instructor).  The focus of this course will be on learning the fundamentals of craft techniques and peer review.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre/Co-req: ENGL.1020 College Writing II, and English Majors, or English Minors, or BLA-Writing or BLA-English Concentration Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ]
+        }
+    },
+    "ENGL.2381": {
+        "name": "ENGL.2381 Introduction to Creative Writing (All Majors)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2381/",
+        "id": "041150",
+        "description": "This course is an introductory level workshop in creative writing. Students will read and discuss works of poetry, fiction, and creative nonfiction by established writers, and practice craft in all three genres through short exercises and assignments. Students will have an opportunity to workshop their creative work, and critique peer works. Class time will e divided between brief lectures on specific aspects of writing, craft techniques, group discussions of assigned reading, in-class writing exercises, and discussion of student writing assignments. This course is open to all majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2390": {
+        "name": "ENGL.2390 Introduction to Professional Writing (Formerly 42.239)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2390/",
+        "id": "039328",
+        "description": "This course offers an introduction to different types of professional writing, including journalism, technical writing, business writing, and other professional communication. Focus in the course will be on understanding the rhetorical situation, including the audience, purpose, and context of each communication task. Students will learn how to work effectively and ethically in a collaborative and professional environment. Students may not earn credit for both ENGL.2270 and ENGL.2390.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2400": {
+        "name": "ENGL.2400 Literature and Women (Formerly 42.240)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2400/",
+        "id": "005053",
+        "description": "A survey of literary attitudes toward women from the Judaic and Hellenic periods through the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2420": {
+        "name": "ENGL.2420 The Heroine in Modern Fiction (Formerly 42.242)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2420/",
+        "id": "005055",
+        "description": "Provides a study of selected short stories and novels which deal sympathetically with the changing roles of women.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2430": {
+        "name": "ENGL.2430 Contemporary Women Writers (Formerly 42.243)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2430/",
+        "id": "005056",
+        "description": "Contemporary Women Writers introduces students to American women writers of the last fifty years. We examine the historical,socio-cultural, political, and personal influences on these writers' work by studying trends and events in recent American history and themes reflected in the works. By studying contemporary women's writing in this contextualized fashion, students can appreciate larger trends in our society, the role writing plays in examining such trends, and the value of literature as an exploration of human growth and struggle. Through discussion, group collaboration, critical analysis, and by designing their own graphic organizers, students gain a breadth of knowledge in the following areas: the themes and stylistic concerns of contemporary American women writers; the key historical events that influence contemporary American women's writing; the critical reading of literary texts.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2460": {
+        "name": "ENGL.2460 Gay & Lesbian Literature (Formerly 42.246)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2460/",
+        "id": "005059",
+        "description": "Explores the treatment of homoeroticism and homosexual love in literature from Antiquity to the present. Emphasis is given to texts reflecting the  construction of a homosexual identity and recurring motifs among gay, lesbian, and bisexual writers.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2490": {
+        "name": "ENGL.2490 Literature on Technology and Human Values (Formerly 42.249)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2490/",
+        "id": "005060",
+        "description": "A study of the relationship between works of fiction, cultural attitudes toward technology, and social values.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2500": {
+        "name": "ENGL.2500 The Bible as Literature (Formerly 42.250)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2500/",
+        "id": "005061",
+        "description": "Presents a literary and historical analysis of selected Old and New Testament books.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2510": {
+        "name": "ENGL.2510 War in Literature (Formerly 42.251)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2510/",
+        "id": "005062",
+        "description": "In \"War in Lierature\" we will study conflict and human values in times of war, focusing on the literature of World War I, World War II, Vietnam, and the Gulf War.  Content covered includes a selection of representative (and divergent) literary texts written throughout the 20th century in a variety of genres (poetry, essays, memoir, short story, novel, and hybrid forms like the \"graphic novel\").  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2530": {
+        "name": "ENGL.2530 The Culture of American Sport (Formerly 42.253)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2530/",
+        "id": "005063",
+        "description": "An examination of the history, literature, sociology, and aesthetics of sport. Attention to corollary issues and values including racism, sexism, and violence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2570": {
+        "name": "ENGL.2570 The Family in American Literature (Formerly 42.257)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2570/",
+        "id": "005065",
+        "description": "A study of literary selections dealing with traditions of family life, the individual, and social change.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2580": {
+        "name": "ENGL.2580 Disability in Literature (Formerly 42.258)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2580/",
+        "id": "034574",
+        "description": "This course explores how texts -- including novels, short stories, poems, memoirs, essays, plays, and videos -- portray people with disabilities. We will consider the problematic stereotypes about disabilities that sometimes appear in popular culture and literary depictions, and read texts that provide insight into a diverse community of people with a range of disabilities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2670": {
+        "name": "ENGL.2670 Discovering Shakespeare  (Formerly 42.267)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2670/",
+        "id": "005074",
+        "description": "This class introduces students to some of the Bard's most popular and accessible plays. We will learn to understand Shakespeare's language and see how the plays were produced in Renaissance England, as well as examine his living legacy, in theater, film, and popular culture, throughout the modern world today . No previous experience with Shakespeare needed.\n\nOld Title: Introduction to Shakespeare.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2673": {
+        "name": "ENGL.2673 Robin Hood: From Outlaw to Icon",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2673/",
+        "id": "041664",
+        "description": "From its medieval origins, the Robin Hood stories developed over centuries from violent rebel to aristocratic hero. This class will explore the English folk tale as it transitioned from stories of men in the forest, to commentary on the clergy and aristocracy, to tales of economic justice as Robin Hood stole form the rich and gave to the poor. The larger part of the class will study the literary and cultural traditions from medieval to nineteenth-century depictions. The latter part will investigate how Robin Hood moved from England to America, and from books to films, culminating in recent Hollywood blockbusters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2675": {
+        "name": "ENGL.2675 Vikings",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2675/",
+        "id": "040784",
+        "description": "An introduction to Norse mythology, sagas, and culture. The class will read translations of medieval texts recalling traditions of the old Norse gods and their cults during the Viking Age (ca. 800-1050 AD), as these were preserved in 13th-century Icelandic texts, but also in Latin, Arabic, Old High German, Old Swedish and Old English manuscripts and runic inscriptions. Students will explore the worldview and value system of this unique culture, and examine relations, often violent but sometimes comic or friendly, between groups of highly intelligent, vulnerable beings, both living and dead, male and female, animal and human, god and giant - a crowded universe full of trolls, elves witches, dwarfs, valkyries, berserks, shapeshifters, and various social classes of human beings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010/S College Writing I, or ENGL.1020 College Writing II, or HONR.110 First Year Seminar in Honors:Text in the City.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2720": {
+        "name": "ENGL.2720 Modern European Fiction (Formerly 42.272)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2720/",
+        "id": "005077",
+        "description": "A study of selected fiction by major continental writers of the nineteenth and twentieth centuries.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2760": {
+        "name": "ENGL.2760 First-Generation Stories",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2760/",
+        "id": "042283",
+        "description": "This course explores the stories of first-generation individuals, which includes both people who are first in their family to be born in a new country and individuals who are first in their family to go to college/university. Attending to the importance and the power of having a voice and using a voice, we will study the ways underrepresented authors of fiction and non-fiction are sharing their stories and carving out a place for first-generation voices not only to be heard, but to be recognized and appreciated for their richness and cultural contributions to American society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2770": {
+        "name": "ENGL.2770 American Ethnic Literature (Formerly 42.277)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2770/",
+        "id": "031898",
+        "description": "The course addresses the literature of America's immigrant and cultural groups and how it contributes to defining our national character. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2772": {
+        "name": "ENGL.2772 Introduction to Latinx Literature",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2772/",
+        "id": "041151",
+        "description": "Describing a wide range of racial and ethnic denominations, Latinx is a complicated term which this course will examine the trouble. This course emphasizes the historical and aesthetic networks established in the Latinx literary canon that continue into the present, while also exploring the relationship between genre and socio-historical issues. Reading from a diverse tradition that reflects the contested definition of \"Latinx\" and its shifting demographics in the U.S., this course investigates how U.S. Latinx literature speaks to and expands \"American\" literary traditions, and how unique ethnic identities such as the Mexican American, Dominican American, Cuban American, or mainland Puerto Rican offer different yet interconnecting representations of what it means to be Latinx in the U.S.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2810": {
+        "name": "ENGL.2810 British Literary Traditions (Formerly 42.281)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2810/",
+        "id": "036426",
+        "description": "A survey of British Literary history from the medieval through the modernist periods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 1020 College Writing II, or English Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2820": {
+        "name": "ENGL.2820 American Literary Traditions (Formerly 42.282)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2820/",
+        "id": "005081",
+        "description": "A survey of American Literary history from early contact between Native American populations and European colonists through contemporary American writing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 1020 College Writing II, or English Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2830": {
+        "name": "ENGL.2830 World Literature in Translation I",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2830/",
+        "id": "040286",
+        "description": "A survey of world literature (works outside British and American literary traditions) through 1660; all course readings are translated into English. Students will become familiar with conventions of different literary genres, including epic and lyric poetry, drama, fables and folktales, and religious and philosophical texts. The course also provides the major cultural, religious, and political contexts of the literary texts. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 1020 College Writing II, or English Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2840": {
+        "name": "ENGL.2840 World Literature in Translation II",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2840/",
+        "id": "040287",
+        "description": "A survey of world literature (works outside British and American literary traditions) since 1660; all course readings are translated into English. Students will become familiar with conventions of various literary genres, including short and long fiction, autobiography, lyric poetry, and drama. The course also provides the major cultural, religious, and political contexts of the literary texts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2850": {
+        "name": "ENGL.2850 Crime in Literature (Formerly 42.285)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2850/",
+        "id": "005082",
+        "description": "A study of how various authors use crime as a plotting device to study character, reveal social order, and critique social institutions. This course will focus particularly on detective and mystery fiction, sketching the history and development of these genres. Students might also study fiction and film outside these genres that explore significant questions of crime or criminality. Ultimately, students will think about how fictional representations of criminals, victims, policing, gender, and race relate to cultural assumptions and expectations. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2860": {
+        "name": "ENGL.2860 The Graphic Narrative: Comics in Context (Formerly 42.286)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2860/",
+        "id": "033659",
+        "description": "While picture-images date as far back as sthe Egyptian tombs, or the caves of Lascaux, this course wiill consider the development of the modern comic in twentieth-and twenty-first century America.  Readings will include not just comics, but also the history of comics, art and literary theory, a novel about comics, and articles that consider the legal, political, and social issues surrounding comics.  We will also look at traditional and  contemporary comic strips and graphic novels to explore what we can learn from them about American Popular Culture.  Comics are on the cutting edge of contemporary literature, and there are many avenues to pursue in the study of this narrative form.  This course will include intensive reading and writing, and will ask students to engage with demanding theoretical works, in addition to incorporating a considerable amount of research.  While the subject matter can be lighthearted the course takes these texts seriously, and asks for intellectual engagement with the issues and concerns of culture depicted in these words and pictures.  (Full proposal and supplemental material available).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2910": {
+        "name": "ENGL.2910 History of English Literature I (Formerly 42.291)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2910/",
+        "id": "005083",
+        "description": "A survey of representative writers and works from the Anglo-Saxon period to the mid-seventeenth century.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2920": {
+        "name": "ENGL.2920 History of English Literature II (Formerly 42.292)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2920/",
+        "id": "005084",
+        "description": "A survey of representative writers and works from Milton into the twentieth century.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2940": {
+        "name": "ENGL.2940 History of American Literature I (Formerly 42.294)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2940/",
+        "id": "005086",
+        "description": "Studies the historical development of American literature from the Colonial period to the Civil War. Selected works by representative authors from each period are studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2950": {
+        "name": "ENGL.2950 History of American Literature II (Formerly 42.295)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2950/",
+        "id": "005087",
+        "description": "Studies the historical development of American literature from the Civil War to World War I.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.2980": {
+        "name": "ENGL.2980 Children's Literature (Formerly 42.298)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/2980/",
+        "id": "032364",
+        "description": "A survey course covering traditional and contemporary children's literature.  Texts are selected to represent different historical periods and a diversity of authorial perspectives.   Attention is given to changing views of children and childhood as reflected in selected texts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3000": {
+        "name": "ENGL.3000 Intro to Journalism (Formerly 42.300)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3000/",
+        "id": "005090",
+        "description": "An introduction to techniques of writing for the news media.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGL1020 College Writing II and ENGL 2270 Essay Writing/Eng Majors or ENGL 2290 Essay Writing or ENGL 2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3020": {
+        "name": "ENGL.3020 Creative Writing: Fiction (Formerly 42.302)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3020/",
+        "id": "005092",
+        "description": "Studies the theory and practice of fiction. Conducted as a workshop with close analysis of student work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and ENGL.2380 Intro to Creative Writing, or ENGL.2381 Intro to Creative Writing for all Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2380",
+                    "ENGL.2381"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3030": {
+        "name": "ENGL.3030 Creative Writing: Poetry (Formerly 42.303)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3030/",
+        "id": "005093",
+        "description": "Discusses the theory and practice of poetry. Conducted as a workshop with close analysis of student work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and ENGL.2380 Intro to Creative Writing, or ENGL.2381 Intro to Creative Writing for all Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2380",
+                    "ENGL.2381"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3040": {
+        "name": "ENGL.3040 Creative Writing: Playwriting (Formerly 42.304)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3040/",
+        "id": "005094",
+        "description": "Studies the theory and practice of playwriting. Conducted as a workshop with close analysis of student work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and ENGL.233. Play Analysis, or ENGL.2380 Intro to Creative Writing, or ENGL.2381 Intro to Creative Writing for all Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2380",
+                    "ENGL.2381"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3050": {
+        "name": "ENGL.3050 Reviewing the Arts (Formerly 42.305)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3050/",
+        "id": "005095",
+        "description": "Theory and practice of writing short, critical essays in a journalistic mode on the visual and performing arts. Special attention to theater, movie, and television criticism. Conducted as a workshop with close analysis of student work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II and ENGL.2270 Essay Writing/Eng Majors, or ENGL.2290 Essay Writing or ENGL.2380 Intro to Creative Writing or ENGL 2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3060": {
+        "name": "ENGL.3060 Intermediate Professional Writing (Formerly 42.306)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3060/",
+        "id": "005096",
+        "description": "This course develops more advanced skills in professional writing and communication. Students will focus on analyzing and responding to professional writing situations, in which they will consider purpose and audience. Students will work in a collaborative and professional environment. This course may include a service-learning component. Contact the instructor for more information.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 1020 College Writing ll, and ENGL 2270 Essay Writing/English Majors, or ENGL 2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2270",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3070": {
+        "name": "ENGL.3070 History of the English Language (Formerly 42.307)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3070/",
+        "id": "005097",
+        "description": "Explores the origins and structure of the English language, tracing the ways that English has evolved from Old English through Middle English to the varieties of Modern English in England and its former colonies, including the United States. We will also examine the literary, social, and political implications of these developments, for instance the evolution of Standard English or the use of dialects. The course does not assume any knowledge of Old or Middle English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3080": {
+        "name": "ENGL.3080 Structure and Variation of the English Language",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3080/",
+        "id": "005098",
+        "description": "This course introduces students to a variety of approaches to the contemporary English language, with a focus on both structure and variation.  Students will explore how English works in terms of its sounds (phonetics and phonology), words (morphology), sentence structures (syntax), meanings (semantics), and uses (discourse).  Areas of variation may include social and regional dialects, World Englishes, accents, pidgins, creoles, multilingualism, language acquisition, registers, style, literacy, media, power, and identity.  The course will also address attitudes towards language (language ideology), and the implications of language issues for education, work, policy, and everyday life.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3100": {
+        "name": "ENGL.3100 Writing Popular Fiction (Formerly 42.310)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3100/",
+        "id": "005100",
+        "description": "This course is designed for students who are interested in writing in one or more of the popular forms of genre fiction: the mystery, the horror story, science fiction, fantasy, romance, and the thriller.  Class time will be spent discussing and work-shopping student writing.   Some time will also be devoted each week to brief lectures on practical matters like choosing between the short story and the novel, finding ideas, constructing plots, building characters, pacing, generating suspense, and marketing one's work.  In addition, there will be assigned readings to illustrate the above.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3110": {
+        "name": "ENGL.3110 The South in American Literature (Formerly 42.311)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3110/",
+        "id": "005101",
+        "description": "A study of the writers, movements, and social culture of the South, from both the nineteenth- and twentieth-centuries.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3120": {
+        "name": "ENGL.3120 Literature of Colonial America (Formerly 42.312)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3120/",
+        "id": "005102",
+        "description": "This course will explore the literatures (including some selections in translation) written during America's colonial era. The periods of exploration, first encounters, settlement, the rise of Anglo-America, the emergence of a national sensibility, and the years of transition in the new republic will be considered. The course will also treat a small selection of nineteenth century texts that present visions and re-visions of the colonial past.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3125": {
+        "name": "ENGL.3125 Literature of New England Witch Trials",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3125/",
+        "id": "041907",
+        "description": "This course focuses on accounts of witchcraft and witchcraft trials, including traditions imported from England and both little-known and infamous cases in the American colonies. We'll read original court transcripts and non-fiction, fiction, and poetry about the trials created during the period and down through to the present day. Notable cases to be discussed include The Witches of Warboys, England (1593), Mary Parsons of Northampton, Massachusetts (1656, 1674), Mary Webster of Hadley, Massachusetts (1683), the Connecticut Witchcraft Trials (1647 to 1663), and the Salem Witch Trials (1692), Authors include Cotton Mather, Benjamin Franklin, Nathaniel Hawthorne, Elizabeth Gaskell, and Margaret Atwood. Students will write several short papers and develop a final project of their own design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3130": {
+        "name": "ENGL.3130 Realism and Naturalism American Fiction (Formerly 42.313)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3130/",
+        "id": "005103",
+        "description": "A study of realism and naturalism in fiction from the end of the Civil War to World War I.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3150": {
+        "name": "ENGL.3150 Old English Language and Literature (Formerly 42.315)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3150/",
+        "id": "030353",
+        "description": "Students will acquire reading knowledge of the Old English Language, spending half the semester mastering grammar and vocabulary, and the second half translating texts such as The Wanderer, Dream of the Rood, and Beowulf. Attention will also be given to early medieval cultures in England.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3154": {
+        "name": "ENGL.3154 Middle English: Literature and Language (1066-1500)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3154/",
+        "id": "040288",
+        "description": "England in the 11th century had a multi-lingual and diverse culture, with French, German, Scandinavian, and Latin speakers interacting daily. By 1500, England was English-speaking, with various dialects of Middle English emerging from this linguistic mix. In this class, students will learn to read and analyze the dialects of Middle English, translating text such as Sir Gawain and the Green Knight, the Harley Lyrics, the York Plays, and the Canterbury Tales from their original language. We will learn and apply the rules of grammar, pronunciation, and vocabulary. Students will analyze critically questions of creolization, dialect and social class, and the emergence of print culture.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3170": {
+        "name": "ENGL.3170 British Literature of the Twentieth Century (Formerly 42.317)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3170/",
+        "id": "005105",
+        "description": "A study of twentieth-century British short stories, poetry, and drama.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3200": {
+        "name": "ENGL.3200 Personal and Reflective Writing (Formerly 42.320)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3200/",
+        "id": "005107",
+        "description": "A workshop format encourages peer criticism of individual writings and discussion of models from various texts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 2270 Essay Writing for English Majors, or ENGL 2290 Essay Writing for Non-English Majors, or ENGL 2380 Intro. to Creative Writing or ENGL 2390 Introduction to Professional Writing, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3210": {
+        "name": "ENGL.3210 Community Writing I (Formerly 42.321)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3210/",
+        "id": "005108",
+        "description": "Students work on various writing projects the professor brings into the classroom on behalf of local non-profit organizations.  This service learning course provides opportunities for students to learn through thoughtful engagement with the community, applying kowledge of writing gained in the classroom to real world problems.  The course will be held in a workshop format with strong emphasis on revision.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGL1020 College Writing II and ENGL 2270 Essay Writing/Eng Majors or ENGL 2290 Essay Writing or ENGL 2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3220": {
+        "name": "ENGL.3220 Creative Writing: Creative Non-fiction I (Formerly 42.322)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3220/",
+        "id": "005109",
+        "description": "An intermediate level creative writing workshop in nonfiction (personal essay, memoir, literary journalism, etc.).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and ENGL.2380 Intro to Creative Writing, or ENGL.2381 Intro to Creative Writing for all Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2380",
+                    "ENGL.2381"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3240": {
+        "name": "ENGL.3240 Writing About Place (Formerly 42.324)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3240/",
+        "id": "005111",
+        "description": "Writers throughout time have been thoroughly grounded in place.  Students in this course will read and write on a variety of topics: travel, cities, suburbs, dwelling places, nature, environmental issues, etc., in a variety of  genres:  creative non-fiction, essays, journalism, short stories, poetry, journals.  This course will be held in a workshop format with strong emphasis on revision.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 2270 Essay Writing for English Majors, or ENGL 2290 Essay Writing for Non-English Majors, or ENGL 2380 Intro. to Creative Writing or ENGL 2390 Introduction to Professional Writing, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3245": {
+        "name": "ENGL.3245 Writing about the Environment",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3245/",
+        "id": "040952",
+        "description": "From John Muir to Rachel Carson to Bill McKibben, environmentalists have traditionally relied upon the power of their prose to transform the thoughts and behavior of their contemporaries. Stemming form the premise that writing is a form of environmental action, this course introduces students to a range of modes of writing in environmental studies. In the process of reading, discussing and practicing different kinds of environmental writing, students will develop a variety of writing skill in addition to an appreciation for writing as an important form of environmental action.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and Co-req: ENGL.2270 Essay Writing for English majors, or ENGL.2290 Essay Writing, or ENGL.2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2390"
+                ]
+            ]
+        }
+    },
+    "ENGL.3250": {
+        "name": "ENGL.3250 The Rise of the Novel (Formerly 42.325)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3250/",
+        "id": "005112",
+        "description": "A study of the British novel in the eighteenth century, as it increased significantly in publication, sales, and cultural prominence. We explore the relation between formal elements (narrative, dialogue, plotting), philosophical questions (the nature of the self, the good society), and cultural and historical contexts (industrialization, middle class culture, the sexual double standard). Along with canonical authors such as Defoe, Richardson, and Austen, students will read other popular novels form the period, as well as texts such as spiritual autobiographies, criminal profiles, and advertisements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3260": {
+        "name": "ENGL.3260 Nineteenth Century British Novel",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3260/",
+        "id": "005113",
+        "description": "During the nineteenth century, the novel flourished in Britain both as a form of popular entertainment and as an avenue for social and political critique. Although realistic fiction dominated the market, many important nineteenth-century novels also included fantastic or Gothic elements. We will examine how novels represented the new industrial economy, class and gender relations, imperialism, and new technologies. We will also explore the formal and aesthetic innovations of the period, as well as how the production and circulation of literature changed in response to a new mass audience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3270": {
+        "name": "ENGL.3270 Victorian Fiction (Formerly 42.327)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3270/",
+        "id": "005114",
+        "description": "A study of fiction from 1837 through 1901.  May include reading and writing about texts by Dickens, Collins, Gaskell, Bronte, Eliot, Thackeray, Trollope, Hardy, Wilde, and others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3280": {
+        "name": "ENGL.3280 Writing About Women (Formerly 42.328)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3280/",
+        "id": "030862",
+        "description": "Writing About Women",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II and ENGL.2270 Essay Writing/Eng Majors, or ENGL.2290 Essay Writing or ENGL.2380 Intro to Creative Writing or ENGL 2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3300": {
+        "name": "ENGL.3300 Twentieth Century British Novel (Formerly 42.330)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3300/",
+        "id": "005115",
+        "description": "A study of the novel from Conrad through Greene and others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3310": {
+        "name": "ENGL.3310 American Novels to 1900 (Formerly 42.331)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3310/",
+        "id": "005116",
+        "description": "with the emergence of novels labeled \"American,\" novelists explored the role of the frontier, the shift from an agricultural to an industrial society, the rise of social reform movements, the impact and legacy of slavery, the influence of science and technology, the debate over gender roles and expectations, and the role of the artist/writer within American culture. The novels in this course, all written before 1900, allow us to explore the issues that a selection of American novelists treat within their fiction as well as to consider the debates that occurred over the nature of narrative.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3320": {
+        "name": "ENGL.3320 Twentieth Century American Novel",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3320/",
+        "id": "005117",
+        "description": "A study of the American novel from 1900 to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3325": {
+        "name": "ENGL.3325 Banned Books",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3325/",
+        "id": "041522",
+        "description": "This course examines novels that are among those most frequently challenged, censored, or banned from schools, colleges, and libraries in the United States. Many of these books are considered modern literary classics, and several of them have won prestigious awards. But these books also contain language and ideas that have sometimes been considered politically subversive, socially disruptive, sexually explicit, or offensive. In addition to the novels, course topics include the history of censorship and current debates about freedom of expression and literary value.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3330": {
+        "name": "ENGL.3330 American Autobiography (Formerly 42.333)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3330/",
+        "id": "005118",
+        "description": "A Study of autobiographical writing from Colonial America to the present.  Works from the 17th to the 21st century will allow students to explore the genre of autobiography and related sub-genres, including the captivity narrative, the slave narrative, and the immigration narrative.  Readings will also explore literary and political autobiographies.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3332": {
+        "name": "ENGL.3332 Autobiographies of Paris Modernism",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3332/",
+        "id": "041245",
+        "description": "Students in this course study autobiographies of important figures of modernism in Paris and can expect to learn about the genre of autobiography and modernism as an artistic movement, particularly how modernist ideals manifested across several genres.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3350": {
+        "name": "ENGL.3350 American Women Novelists (Formerly 42.335)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3350/",
+        "id": "005119",
+        "description": "A study of selected novels by American women. Focus on the female voice within the American tradition. Treatment of such issues as domesticity, education, and authorship.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3360": {
+        "name": "ENGL.3360 Beowulf and Heroic Literature (Formerly 42.336)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3360/",
+        "id": "038856",
+        "description": "We will read Beowulf in translation, and discuss contemporary approaches to the poem. We will also study other Old English works such as Judith, as well as Frankish and Old Norse-Icelandic literature in translation to gain a cultural context for Beowulf. May include discussion of how later works, such as those of J.R.R. Tolkien or modern fantasy writers have been influenced by these medieval epics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3370": {
+        "name": "ENGL.3370 The Gothic Tradition in Literature (Formerly 42.337)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3370/",
+        "id": "033662",
+        "description": "This course will consider works that fall under the very broad genre known as \"The Gothic.\"  As this genre is one of highly contested boundaries, we will consider how to define the Gothic, and what exactly constitutes this form.  We will look at texts from both England and America, and spanning from the late 18th century to our own times.  Our study will focus on the form of the novel, and the development and emergence of the gothic novel from its beginnings in England to its contemporary manifestations in the United States.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3380": {
+        "name": "ENGL.3380 Medieval Women Writers (Formerly 42.338)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3380/",
+        "id": "038857",
+        "description": "Woman have always written and read and participated in culture. This class will explore writings on literary and non-literary genres by woman in the European Middle Ages (600-1500). Students will learn how different pre-modern cultural conditions affected the possibilities for women's authorship, readership, and patronage. We will also examine how women writers interacted with literary traditions and constructions of gender.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3410": {
+        "name": "ENGL.3410 Studies in Film (Formerly 42.341)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3410/",
+        "id": "031938",
+        "description": "A rigorous examination of a topic of current interests in film studies organized by particular themes, genres or filmmakers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3411": {
+        "name": "ENGL.3411 International Cinema Studies: French New Wave",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3411/",
+        "id": "039662",
+        "description": "This course will introduce students to the aesthetic and theoretical qualities that define the New Wave movement in French cinema, focusing on major directors, performers, and composers associated with the New Wave. Through the close intertextual comparison of a range of films contextualized through the historical lens of 1960s Paris, students will develop sophisticated analyses that combine elements of film theory and cultural studies. This semester, we will read contemporary criticism, manifestos, mid-century French philosophy, and secondary scholarly studies to ground our discussions and writing in appropriate historical and theoretical context.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3420": {
+        "name": "ENGL.3420 Women Writers and the Past (Formerly 42.342)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3420/",
+        "id": "030861",
+        "description": "Women Writers and the Past.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3440": {
+        "name": "ENGL.3440 Women in Theatre (Formerly 42.344)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3440/",
+        "id": "038095",
+        "description": "A study of the significant contributions of women to the literature and art of the theatre in various periods and cultures.  Topics may include: plays written by women, the progress of women in theater, the evolution of female roles, and the portrayal of feminism on the stage.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3450": {
+        "name": "ENGL.3450 British Women Novelists (Formerly 42.345)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3450/",
+        "id": "005121",
+        "description": "Selected novels by writers such as Austen, the Brontes, Eliot, Woolf, Bowen, and Drabble.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3460": {
+        "name": "ENGL.3460 Homer's Iliad and Odyssey (Formerly 42.346)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3460/",
+        "id": "038591",
+        "description": "This class will explore the story of the ancient city of Troy from its origins in Homeric epic and classical drama to some of its many European iterations beginning with Vergil's Aeneid. Students will examine how these Trojan texts encode narratives of gender,ethnicity, and welfare, and how they help create an occidental European identity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3480": {
+        "name": "ENGL.3480 Modern American Drama (Formerly 42.348)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3480/",
+        "id": "005123",
+        "description": "A study of such playwrights as O'Neill, Odets, Wilder, Williams, and Miller.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3490": {
+        "name": "ENGL.3490 Arthurian Literature (Formerly 42.349)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3490/",
+        "id": "005124",
+        "description": "Will examine works in modern English translation from a variety of genres (romance, history, tragedy, epic) that tell stories of the mythical King Arthur and the knights and ladies of his courtly world.  The course will focus primarily on texts of the medieval and renaissance periods, but will include attention to nineteenth- and twentieth-century versions in poetry, prose, art, music and film.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3510": {
+        "name": "ENGL.3510 Literature of the Middle Ages (Formerly 42.351)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3510/",
+        "id": "005126",
+        "description": "This course will examine a variety of medieval genres: epic, chanson de geste, romance, fable, lyric, and drama. We will analyze the circumstances under which the works were produced (orally and in manuscript) and imagine how they may have been read by men and women in their day. Texts are selected from the courtly pursuits of the aristocrats and from the popular, religious rituals and writings of the rising merchant class. We will also give some attention to medievalism, that is , how the middle ages have been perceived and transformed by contemporary cultures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3520": {
+        "name": "ENGL.3520 Renaissance Literature (Formerly 42.352)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3520/",
+        "id": "005127",
+        "description": "A study of English prose and poetry of the period.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3530": {
+        "name": "ENGL.3530 Literature of the Seventeenth Century (Formerly 42.353)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3530/",
+        "id": "005128",
+        "description": "A study of English prose and poetry of the period excluding Milton.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3550": {
+        "name": "ENGL.3550 Literature of the Romantic Period (Formerly 42.355)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3550/",
+        "id": "005130",
+        "description": "A study of English prose and poetry from 1798-1832.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3560": {
+        "name": "ENGL.3560 Literature of the Victorian Period (Formerly 42.356)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3560/",
+        "id": "005131",
+        "description": "A study of British fiction, poetry, and prose from 1837 to 1901.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3600": {
+        "name": "ENGL.3600 Medieval & Renaissance Theater (Formerly 42.360)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3600/",
+        "id": "005133",
+        "description": "A study of Medieval mystery cycles, morality plays, interludes, and other forms of popular and court theater.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3610": {
+        "name": "ENGL.3610 Restoration Comedy (Formerly 42.361)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3610/",
+        "id": "005134",
+        "description": "A study of comic plays from 1660 to the mid-eighteenth century. Focus on the works of Ethridge, Wycherley, Congreve, and Sheridan.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3620": {
+        "name": "ENGL.3620 Modern Drama (Formerly 42.362)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3620/",
+        "id": "005135",
+        "description": "A study of selected Continental, British and American plays of the late nineteenth century to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3630": {
+        "name": "ENGL.3630 English Renaissance Drama (Formerly 42.363)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3630/",
+        "id": "005136",
+        "description": "A study of major dramatists of the Age of Shakespeare including Marlowe, Dekker, Webster, Jonson, Beaumont and Fletcher, Massinger, Ford and others",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3635": {
+        "name": "ENGL.3635 Renaissance Comedy",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3635/",
+        "id": "041619",
+        "description": "Renaissance culture loved clowning, fools, and folly - not just as entertainment, but as a powerful tool of social awareness and critique. This course explores the development of comedy in the Renaissance, particularly its explosion on the English stage during the reign of Elizabeth I. Taking account of the range and inventiveness of scripted comedy in England, as well as its often sharp social and political commentary and critique, we study how playwrights deployed their clowns, tricksters, fools, knaves, and especially their cross-dressed heroines to entertain their popular and courtly audiences, while negotiating a volatile and politically dangerous time.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3640": {
+        "name": "ENGL.3640 African American Drama (Formerly 42.364)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3640/",
+        "id": "038101",
+        "description": "A study of the history and development of African American drama, with emphasis on major aesthetic, political, and social movements in African American culture.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3660": {
+        "name": "ENGL.3660 Creative Writing: Poetry II (Formerly 42.366)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3660/",
+        "id": "005138",
+        "description": "Combines discussion and critique of student poems with readings in contemporary poetry and poetics. The focus is on enabling students to develop their individual voices, forms, and subjects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "42.303 Creative Writing: Poetry.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.3680": {
+        "name": "ENGL.3680 Feature Writing (Formerly 42.368)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3680/",
+        "id": "036427",
+        "description": "This writing-oriented course will focus on learning how to write feature stories for newspapers, magazines, and the Internet.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: (ENGL 1020 College Writing College Writing II or HONR.1100) and (ENGL 2270 Essay Writing/Eng Majors or ENGL 2290 Essay Writing or ENGL 2390 Intro to Professional Writing).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "ENGL.2290",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3685": {
+        "name": "ENGL.3685 Sports Writing",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3685/",
+        "id": "041246",
+        "description": "This course will explore the practice, theory, and context of sports writing. In the course, students will write in a variety of sports related genres: the game story, the feature, and the column, as well as online related work, such as a blog. The course will also discuss the meaning of sports; Sports writing often covers subjects that range beyond its genre, which is why it can be so evocative, funny, sad and profound.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3690": {
+        "name": "ENGL.3690 Reading and Writing New Media (Formerly 42.369)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3690/",
+        "id": "036428",
+        "description": "This course will focus on learning how to write for electronic media and understanding the changing world of journalism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: (ENGL 1020 College Writing College Writing II or HONR.1100) and (ENGL 2270 Essay Writing/Eng Majors or ENGL 2290 Essay Writing or ENGL 2390 Intro to Professional Writing).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "ENGL.2290",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3691": {
+        "name": "ENGL.3691 History and Theory of Media",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3691/",
+        "id": "041665",
+        "description": "In this course, students will explore the history of media to better understand the relationship between technology and public discourse. Throughout the semester, students will examine online archives featuring material from a variety of new and old media. Class meetings will be devoted to the examination of several shared case studies to introduce students to primary source research. Throughout the semester, students will conduct a series of small investigative projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3700": {
+        "name": "ENGL.3700 Contemporary American Fiction (Formerly 42.370)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3700/",
+        "id": "005140",
+        "description": "Discusses novels and short fiction from World War II to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3710": {
+        "name": "ENGL.3710 The Literature of the Beat Movement (Formerly 42.274/ENGL.2740)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3710/",
+        "id": "005078",
+        "description": "Explores both the writings and the personal lives of a loose confederation of poets, novelists, and essayist who emerged onto the American literary and cultural scene following World War II and who came to be known as the -Beat Generation.+ The primary focus will be on the life and writings of Lowell native Jack Kerouac (1922-1969) with others of the -beat circle+ included as well, i.e., Allen Ginsberg, William Burroughs, Diana DiPrima, etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3730": {
+        "name": "ENGL.3730 Modern Poetry (Formerly 42.373)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3730/",
+        "id": "005143",
+        "description": "A study of the development of British and American poetry from 1900 through World War II.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3740": {
+        "name": "ENGL.3740 Contemporary Poetry (Formerly 42.374)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3740/",
+        "id": "005144",
+        "description": "A study of selected British and American Poets since World War II.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3750": {
+        "name": "ENGL.3750 Modern Irish Literature (Formerly 42.375)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3750/",
+        "id": "005145",
+        "description": "Poetry, drama, and prose fiction from the Irish literary renaissance to the present. Writers will include Yeats, Joyce, O'Casey, Friel and Heaney.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3760": {
+        "name": "ENGL.3760 African-American Literature (Formerly 42.376)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3760/",
+        "id": "005146",
+        "description": "A study of selected works by black American writers, such as Toomer, Wright, Ellison, Walker, and Morrison.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3765": {
+        "name": "ENGL.3765 Native American Renaissance",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3765/",
+        "id": "041523",
+        "description": "Students in this course will examine and discuss fiction, poetry and autobiographical writings by four of the seminal figures of the Native American Renaissance: N.Scott Momaday, Leslie Marmon Silko, Joy Harjo and James Welch. Collectively, these writers helped restore modes of traditional cultural expression and historical perspective long imperiled by the histories of European and U.S. Colonialism in the Americas. Their work is also deeply imbued with concerns for the landscape and ecology, including in regards to conditions within the reservation system. Additionally, we'll pay sizeable attention to critical assessments of the Native American Renaissance as offered in the work of figures such as Paula Gunn Allen, Louis Owens, Gerald Vizenor and others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3770": {
+        "name": "ENGL.3770 Theories of Rhetoric and Composition (Formerly 42.377)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3770/",
+        "id": "036429",
+        "description": "This course will examine the history and theories of composition and rhetoric, studying the field from its inception to more recent developments and challenges.  We will also explore our own writing processes and literary practices.  The course is furthermore grounded on the idea that literary practices are shaped by our culture.  The course introduces practical approaches to as well as theoretical frameworks beneficial for those interested in composition studies.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3780": {
+        "name": "ENGL.3780 Asian American Literature (Formerly 42.378)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3780/",
+        "id": "036696",
+        "description": "Asian Americans hold an intriguing place in the cultural imagination: as perpetual foreigners, as so-called 'model minorities' that serve to maintain hegemonic power relations, and as living embodiments of America's memory of its involvement in recent wars.  As artists, however, Asian Americans have contributed and impressive body of literary work, and we'll examine some of the most enduring and provocative of these texts.  We'll explore themes such as trauma and the immigrant experience, issues of exile and dislocation, Asian Americans' embattled place in our country's history, and the intersections of race and ethnicity with gender and sexuality.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3790": {
+        "name": "ENGL.3790 Postcolonial Literature (Formerly 42.379)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3790/",
+        "id": "036924",
+        "description": "When the peoples of Africa, India, the Caribbean, Ireland, and Canada finally gained, to a greater and lesser extent, independence from the British during the 20th century, they found that their national, cultural, and individual identities had been radically altered by the experience of colonization.  In this course, we will examine how authors have related this postcolonial condition.  We will examine a diverse body of texts--poetry which eloquently describe the heroic journey out of colonialism, drama which lays bare the conflicts of assimilation, and novels which fantastically present political struggle--as we determine how postcolonial theory and literature affects and possibly redefines all literature.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3795": {
+        "name": "ENGL.3795 Literature of the Americas",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3795/",
+        "id": "041873",
+        "description": "A course that introduces students to literary works across the hemisphere by considering their different, interrelated times, geographies, and languages. The course practices and up-to-date American literary study, one in which \"America\" signifies not just the United States, but, within and beyond the territorial boundaries of the U.S., other modalities of knowing, being, and collectivity in the hemisphere--and, indeed, the world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3800": {
+        "name": "ENGL.3800 Travel Literature",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3800/",
+        "id": "040440",
+        "description": "We all yearn to travel. But why? In this course, we will investigate this question by not only studying works of travel writing (supposedly non-fiction travel accounts written by those who have done the journeying), but also other works of literature and culture in which travel is a significant theme. Our reading will cover a diversity of writers from around the globe and from different periods in history and we will pay particular attention to the interrelationship amongst the key issues of representation, power, and identity as we consider travel literature alongside interdisciplinary theories about travel and tourism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3820": {
+        "name": "ENGL.3820 Theatre History I: Ancient Greece through the 18th Century (Formerly 42.382)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3820/",
+        "id": "033541",
+        "description": "A survey of ancient to early modern theatre in its historical and social contexts, tracing changes and developments in acting styles, theatre architecture, scenic practices, dramatic literature, and the audience.  The course examines how theatre both reflects and shapes the changing beliefs and priorities of a culture.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3830": {
+        "name": "ENGL.3830 Theatre History II:  Nineteenth Century to the Present (Formerly 42.383)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3830/",
+        "id": "033542",
+        "description": "A survey of theatre in its historical and social contexts from the 19th century to the present, focusing on innovations in design and technology, the advent of the director, the emergence of modern schools of acting, and the creation of new forms of theatre to suit the changing needs of a modern world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3860": {
+        "name": "ENGL.3860 Editing: Grammar and Style (Formerly 42.386: The Science of Editing)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3860/",
+        "id": "005152",
+        "description": "The course will examine the varied editing roles in a publishing company, from acquisitions to copy editing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.2000 Critical Methods, or ENGL.2270 Essay Writing, or ENGL.2380 Intro to Creative Writing, or ENGL.2390 Intro to Professional Writing,",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2000",
+                    "ENGL.2270",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3870": {
+        "name": "ENGL.3870 Introduction to Editing and Publishing (Formerly 42.387)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3870/",
+        "id": "005153",
+        "description": "Designed for students considering a career in book publishing, this course provides an overview of the publishing industry.  You will examine the stages of the book publishing process from acquisition to bound book or e-book, using assignments and examples from school, college, and trade book publishing.  You will also consider the specific responsibilities of an editor.  The course includes class visits by authors, editors, or publishing executives, as well as a trip to a local printing company.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II and ENGL.2270 Essay Writing/Eng Majors, or ENGL.2290 Essay Writing or ENGL.2380 Intro to Creative Writing or ENGL 2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3880": {
+        "name": "ENGL.3880 Undergraduate Seminar on the Teaching of Writing (Formerly 42.388)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3880/",
+        "id": "005154",
+        "description": "Training in writing theory for direct application in peer tutoring. Discussion supplemented by experimental exercises, class presentations, reading, and writing. Meets two hours each week. Students tutor four hours each week.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 2000 Critical Methods, or ENGL 2270 Essay Writing, or ENGL 2380 Intro to Creative Writing, or ENGL 2390 Intro to Professional Writing, with a B or better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2000",
+                    "ENGL.2270",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3910": {
+        "name": "ENGL.3910 Writing on the Job (Formerly 42.391)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3910/",
+        "id": "005157",
+        "description": "A study of special problems of writing in business from memos and press releases through reports and proposals, including strategies for correspondence, presentation of complex information, and writing for diverse audiences.  For English majors and minors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: (ENGL 1020 College Writing College Writing II or HONR.1100) and (ENGL 2270 Essay Writing/Eng Majors or ENGL 2290 Essay Writing or ENGL 2390 Intro to Professional Writing).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "ENGL.2290",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3920": {
+        "name": "ENGL.3920 Visual Rhetoric (Formerly 42.392)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3920/",
+        "id": "038869",
+        "description": "This course introduces students to the theory and practice of visual communication. Students will explore what scholars mean by terms such as visual rhetoric and visual literacy in order to think concretely about how these concepts apply to the communication practices they will engage in their academic, professional, and everyday life. Special attention will be paid to the ways in which visual representations communicate culturally-specific meanings about race, gender, class, sexuality, age, nationality, and difference. Assignments include contributions to a course blog, rhetorical analyses of visual texts, design modules, and a multimodal project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "(ENGL 1020 College Writing II or HONR.1100), and (ENGL 2270 Essay Writing, or ENGL 2000 Critical Methods or ENGL 2390 Intro to Professional Writing).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "ENGL.2000",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3925": {
+        "name": "ENGL.3925 Rhetorics of Social Movements",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3925/",
+        "id": "041214",
+        "description": "This course examines the communication strategies used to build social movements and agitate for social change: What genres and persuasive tactics are used to identify social problems and attract people to participate in a social movement? What means of communication sustain the energy around and investment in social movements? How do people use language to silence or otherwise reject calls for social change? What role d journalists play in bringing attention to social movements? Students are introduced to social movement studies and analyze the rhetoric of historical movements in order to ultimately evaluate the persuasive strategies used in social movements happening today.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.2000 Critical Methods of Literary, or ENGL.2390 Introduction to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2000",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3950": {
+        "name": "ENGL.3950 Special Topics in English (Formerly 42.395)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3950/",
+        "id": "038096",
+        "description": "This course focuses on the exploration of thematic or issue-oriented or timely topics of interest.  The precise topics and methods of each section will vary.  Barring duplication of topic, the course may be repeated for credit.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3952": {
+        "name": "ENGL.3952 Topics in Latinx Literature and Culture",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3952/",
+        "id": "041247",
+        "description": "This course focuses on thematic or issue-oriented topics in Latinx literature and culture. Topics and methods will vary each section, but topics might include: \"Monsters, Hauntings, and the Nation,\" which examines Latinx horror to understand how the genre addresses the unique experience of Latinx people in the Americas. Reading from a wide variety of Latinx texts, students will gain a deeper understanding of the capacities of horror to depict the foundational yet spectral presence of Latinx people in the \"American\" imaginary.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.3953": {
+        "name": "ENGL.3953 Topics in Multiethnic Literature and Culture",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/3953/",
+        "id": "041248",
+        "description": "This course explores thematic or issue-oriented topics in multiethnic literature and culture. The precise topics and methods of each section will vary.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4010": {
+        "name": "ENGL.4010 Selected Authors (Formerly 42.401)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4010/",
+        "id": "031986",
+        "description": "A study of selected works. Authors to be announced each semester.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4020": {
+        "name": "ENGL.4020 Topics in Writing (Formerly 42.402)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4020/",
+        "id": "005160",
+        "description": "A study of issues and the practice of skills needed in specific areas of professional writing. Topics to be announced each semester..",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 2270 Essay Writing for English Majors, or ENGL 2290 Essay Writing for Non-English Majors, or ENGL 2380 Intro. to Creative Writing or ENGL 2390 Introduction to Professional Writing, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4060": {
+        "name": "ENGL.4060 Community Writing II (Formerly 42.406)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4060/",
+        "id": "005164",
+        "description": "Students work for a local non-profit for the semester completing a variety of writing tasks, depending on the placement.  In class students apply the principles of rhetoric and use the tools of research and revision to write effectively for their community partner; to articulate in a public presentation a thoughtful, intelligent position on relevant social policy; and to become more active, engaged citizens.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: (ENGL 1020 College Writing II or HONR.1100), and (ENGL 2270 Essay Writing/Eng Majors or ENGL 2290 Essay Writing).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "ENGL.2290"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4065": {
+        "name": "ENGL.4065 Grant Writing",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4065/",
+        "id": "041618",
+        "description": "Professionals in a number of careers need to be able to use writing to fund-raise their non-profit organization, business, school, governmental office, and creative enterprises. Students in this class will gain a solid understanding of how one writes a grant form start to finish. This is a hands-on, workshop class with a strong emphasis on process and refection about learning and civic engagement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and ENGL.2390 Introduction to Professional Writing, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4070": {
+        "name": "ENGL.4070 Creative Writing Fiction II (Formerly 42.407)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4070/",
+        "id": "030856",
+        "description": "Creative Writing Fiction II",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "42.302 Creative Writing: Fiction.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.4080": {
+        "name": "ENGL.4080 Principles of Technical Writing (Formerly 42.408)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4080/",
+        "id": "032118",
+        "description": "Provides the fundamental concepts and principles of technical writing, including technical description, audience analysis, editions, document specifications and outlines, graphics, definitions and revising documents.  Writing assignments include preparing a document specification, editing and creating graphics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.2390 Intro to Professional Writing, or ENGL.2270 Essay Writing/English Majors, or ENGL.2290 Essay Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2390",
+                    "ENGL.2270",
+                    "ENGL.2290"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4130": {
+        "name": "ENGL.4130 Advanced Software Writing (Formerly 42.413)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4130/",
+        "id": "032149",
+        "description": "Introduces a range of advanced topice in software writing. Topics may include electronic publishing, hyper text, adanced graphics, document set components, and working in project teams.  In this course, the student selects some aspect of the computer industry that interets him/her and documents it.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 42.412 Software Writing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.4150": {
+        "name": "ENGL.4150 Young Adult Literature-Critical Methods (Formerly 42.415)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4150/",
+        "id": "005167",
+        "description": "Using young adult literature as a vehicle, this course considers traditional methods of interpretation and evaluation. Particular attention is given to the analytical, psychological and sociological approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4180": {
+        "name": "ENGL.4180 Creative Writing: Creative Non-fiction II (Formerly 42.418)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4180/",
+        "id": "038333",
+        "description": "An advanced creative writing workshop in nonfiction (personal essay, memoir, literary journalism, etc.).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and ENGL.2380 Intro to Creative Writing, or ENGL.2381 Intro to Creative Writing for all Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2380",
+                    "ENGL.2381"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4230": {
+        "name": "ENGL.4230 Shakespeare I (Formerly 42.423)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4230/",
+        "id": "005170",
+        "description": "A study of selected histories, comedies, and tragedies.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL) and  Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4240": {
+        "name": "ENGL.4240 Shakespeare II (Formerly 42.424)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4240/",
+        "id": "005171",
+        "description": "A study of selected histories, comedies, and tragedies not covered in 42.243. Shakespeare I is not a prerequisite.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4270": {
+        "name": "ENGL.4270 Virginia Woolf",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4270/",
+        "id": "041524",
+        "description": "The purpose of this course is to explore a range of works by Virginia Woolf (1882-1941), on of British modernism's most innovative writers of fiction and criticism, who also significantly shaped the contours of twentieth- and twenty-first-century English feminism. We will read selections from Woolf's writings in several genres, as well as one important recent example of Wool-centric biofiction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4280": {
+        "name": "ENGL.4280 The Harlem Renaissance",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4280/",
+        "id": "041525",
+        "description": "This course will introduce students to African-American fiction, drama, poetry, nonfiction, art, music, and film of the Harlem Renaissance. The Harlem Renaissance marks a seminal historical moment in which writers, musicians, and artists of the African Diaspora (particularly African-Americans, West Indians, and Africans) produced a complex body of written and visual text that drew upon the complexities of black life.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4290": {
+        "name": "ENGL.4290 Introduction to Literary Theory (Formerly 42.429)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4290/",
+        "id": "005173",
+        "description": "A solid introduction to major trends in contemporary critical theory. Emphasis on producing a sample critical paper treating one or more current critical approaches to reading a literary text.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4320": {
+        "name": "ENGL.4320 Introduction to Digital Humanities",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4320/",
+        "id": "041666",
+        "description": "This course is an introduction to the field of digital humanities, which explores interpretive questions about history, culture, and meaning using computational analysis, data visualization, and the critical analysis of technology. We will focus on how computers and digital technologies are used to preserve, analyze, and create works of literature. Students will learn how to use different digital methods and will design and complete a digital project related to their own interests. No programming experience is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4350": {
+        "name": "ENGL.4350 Literary Journalism (Formerly 42.435)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4350/",
+        "id": "038582",
+        "description": "This course that looks at the genre of Literary Journalism, a largely American Innovation in literature that developed in the late 19th and 20th centuries. Students will closely read and discuss books and articles by literary journalists, seeking to understand the genesis and shifts of this hybridized form (literary techniques applied to true or fact-based stories), and the contributions literary journalism is making to literature, to documentary and witness narratives, to historical records, and to the notions of truth reportage.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; (ENGL 1020 College Writing II or HONR.1100), and (ENGL 2270 Essay Writing, or ENGL 2380 Intro. to Creative Writing or ENGL 2000 Critical Methods).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "ENGL.2380",
+                    "ENGL.2000"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4360": {
+        "name": "ENGL.4360 Writing About Culture (Formerly 42.436)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4360/",
+        "id": "038882",
+        "description": "In this course, students will write about local culture, using a mix of first-hand observation, archival research, and/or contextual or geographic readings of culture of literature produced in the region. This course is designed to serve as a course in a study abroad program or one that focuses on regional authors such as Jack Kerouac or Henry David Thoreau.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 2000 Critical Methods, or ENGL 2270/229 Essay Writing, or ENGL 2380 Intro to Creative Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2000",
+                    "ENGL.2380"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4370": {
+        "name": "ENGL.4370 Newspaper Editing (Formerly 42.437)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4370/",
+        "id": "038592",
+        "description": "This course will explore the techniques of putting together a student newspaper, focusing on everything from brainstorming for coming up with stories, to writing and editing them, writing headlines and captions, and design and layout. The course also discusses the nature of journalism audiences. It also discusses the practicalities of applying for journalism jobs and writing query letters for freelance writing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 2270 Essay Writing for English Majors, or ENGL 2290 Essay Writing for Non-English Majors, or ENGL 2380 Intro. to Creative Writing or ENGL 2390 Introduction to Professional Writing, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2270",
+                    "ENGL.2290",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4375": {
+        "name": "ENGL.4375 Writing a Book",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4375/",
+        "id": "041249",
+        "description": "In this course, students will learn about the methods of writing and publishing a book and put those lessons to work in writing their own work in a genre of their choice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4500": {
+        "name": "ENGL.4500 Creative Writing: Capstone  (Formerly 42.450)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4500/",
+        "id": "005176",
+        "description": "In this intensive workshop course, upper-level students in the creative writing concentration work for an entire semester on a reading and longer-form writing project in one of three genres - poetry, fiction, or creative nonfiction. Students devise reading lists specific to their writing projects, with instructor's guidance. Through a creative process that involves planning and drafting, peer workshop, instructor feedback, and rigorous revision, students ultimately create portfolios that represent their best undergraduate writing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL 3660 Creative Writing: Poetry II, or ENGL 4070 Creative Writing: Fiction II, or ENGL 4180 Creative Writing: Non-fiction II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.3660",
+                    "ENGL.4070",
+                    "ENGL.4180"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4790": {
+        "name": "ENGL.4790 Literature Seminar  (Formerly 42.479)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4790/",
+        "id": "005178",
+        "description": "An advanced course that explores a variety of issues and topics in literature, literary history, and related fields. The topic or issue for a specific seminar will be announced in advanced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4900": {
+        "name": "ENGL.4900 Directed Studies in Writing (Formerly 42.490)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4900/",
+        "id": "032037",
+        "description": "The student develops a plan for a sustained writing project or portfolio and submits preliminary and final versions for critique and evaluation.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGL.1020 College Writing II and ENGL 2270 Essay Writing/Eng Majors or ENGL 2290 Essay Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2270",
+                    "ENGL.2290"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4910": {
+        "name": "ENGL.4910 Directed Study in Literature (Formerly 42.491)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4910/",
+        "id": "005179",
+        "description": "The student develops a plan of directed reading, defines a problem for individual research, and prepares a paper or papers.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4920": {
+        "name": "ENGL.4920 Directed Study in Language Analysis (Formerly 42.492)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4920/",
+        "id": "005180",
+        "description": "The student develops a plan of directed readings in linguistics, semantics, or stylistics and defines a topic for individual research.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4930": {
+        "name": "ENGL.4930 Directed Study in Creative Writing (Formerly 42.493)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4930/",
+        "id": "005181",
+        "description": "The student develops a series of projects in creative writing and composes poetry, fiction, or drama.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4960": {
+        "name": "ENGL.4960 Internship I (Formerly 42.496)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4960/",
+        "id": "005184",
+        "description": "Internship experience (usually off-campus) gives English majors the opportunity to apply their skills in actual business, technical, educational, or professional situations. Classroom time supports student professionalization and career development. Topics include resumes, cover letters, networking, LinkedIn profiles, portfolios, and professional behavior and expectations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and ENGL.2000 Critical Methods, or ENGL.2380 Intro to Creative Writing, or ENGL.2390 Intro to Professional Writing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "ENGL.2000",
+                    "ENGL.2380",
+                    "ENGL.2390"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4970": {
+        "name": "ENGL.4970 Practicum  (Formerly 42.497)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4970/",
+        "id": "005185",
+        "description": "An off-campus professional experience for English Majors, Minors, and BLA English Concentrators. The Practicum is intended to provide students with the opportunity of applying their writing skills in actual business, technical, educational, or professional situations. By permission only.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.4980": {
+        "name": "ENGL.4980 Practicum-English Study (Formerly 42.498)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/4980/",
+        "id": "005186",
+        "description": "A short-term, intensive project related to English study and/or writing.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGL.5060": {
+        "name": "ENGL.5060 Writing in the Community (Formerly 42.506)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/5060/",
+        "id": "005187",
+        "description": "Students learn advanced writing techniques in the classroom and apply them to real writing tasks in the community. Assignments include a writing project designed to meet the needs of a local organization, along with research and reflective pieces.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.5200": {
+        "name": "ENGL.5200 Experiencing Poetry: Sound and Sense (Formerly 42.520)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/5200/",
+        "id": "037779",
+        "description": "The class offers seminar-style discussions on specific aspects of poetry, considering a range of excellent poems from various eras.  Through hands-on writing exercises, we will examine the art from the vantage point of the practitioner, using imitation and exploration of technique as a kind of close reading.  Assignments include analytical essays as well as creative work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGL.5400": {
+        "name": "ENGL.5400 Modernist Literature (Formerly 42.540)",
+        "url": "https://www.uml.edu/catalog/courses/ENGL/5400/",
+        "id": "037780",
+        "description": "Much f the influential literature produced during the modernist period, roughly 1900-1950, was considered radical in its time.  This course will focus on the experimental, avant-garde impulse that manifests itself in the themes and techniques of key modernist texts, relating that impulse to questions about the nature of identity, the role of gender and class in constituting the modernist subject, and the sociocultural functions of literature itself.  Readings will primary texts such as Virginia Woolf's Mrs. Dalloway, Zora Neale Hurston's Their Eyes were Watching God, T.S. Eliot's poetry, and James Joyce's Portrait of the Artist as a Young Man, as well as theoretical texts.  We will explore this period by examining these exemplary texts, historical and social events, and films.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

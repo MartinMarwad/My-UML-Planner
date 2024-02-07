@@ -1,0 +1,702 @@
+{
+    "total": 40,
+    "time": 28.36252474784851,
+    "HSCI.1010": {
+        "name": "HSCI.1010 Human Anatomy and Physiology I (Formerly 35.101)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1010/",
+        "id": "004746",
+        "description": "This course provides a basic knowledge of the structure and function of the human body. An overview of the general organization of the body introduces the course. Following a discussion of basic human chemistry, the anatomy and physiology of cells, tissues, organs, and organ systems are studied with special emphasis placed on homeostasis and interaction among the various systems. The topics treated are body plan, chemistry, cytology, histology, the integumentary system, the skeletal system, the muscular system, and the nervous system. Clinical applications will be presented.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: HSCI.1030,  & Ugrd stud in all maj in the Z.C.H.S.(App Biomed Sci, Ex Sci, Nur, Nut. Sci, Pharm. Sci, & P.H.),or Biomed Eng Majors, or P. H. Minors, or BLA conc in H. S., Taking the course in CSCE/GPS require perm of ins.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.1030"
+                ]
+            ]
+        }
+    },
+    "HSCI.1011": {
+        "name": "HSCI.1011 Medical Terminology for Health Professionals",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1011/",
+        "id": "041667",
+        "description": "This course is designed to introduce entry-level students of any discipline to the fascinating language of Medical Terminology. Medical terminology is a system of words that are used to describe the human body, including its anatomy, physiology, disease processes, and treatments. In the course, students will explore the roots, prefixes, and suffixes that form the basis of language across careers in health sciences. The content of this course it is relevant to students interested in pre-health disciplines (premed, pre-dental, pre-veterinary), as well as careers as physicians assistants, nurses, public health professionals, Emergency Medical Technicians, or health scientists.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.1020": {
+        "name": "HSCI.1020 Human Anatomy and Physiology II (Formerly 35.102)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1020/",
+        "id": "004747",
+        "description": "A continuation of the basic knowledge of human structure and function. The topics treated are cardiovascular system, lymphatic system, respiratory system, endocrine system, digestive system, metabolism, urinary system, and reproductive system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.1010,& Co-req: HSCI.1040, & Ugrd stud in all maj in the Z.C.H.S.(App Biomed Sci, Ex Sci, Nur, Nut. Sci, Pharm. Sci, & P.H.),or Biomed Eng Majors, or P. H. Minors, or BLA conc in H. S., Taking the course in CSCE/GPS require perm of ins.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "HSCI.1040"
+                ]
+            ]
+        }
+    },
+    "HSCI.1030": {
+        "name": "HSCI.1030 Human Anatomy and Physiology Laboratory I (Formerly 35.103)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1030/",
+        "id": "004748",
+        "description": "Laboratory exercises are designed to reinforce didactic material by providing hands-on experience with the subject matter. Students actively participate in simple chemical analysis, microscopic observations, and studies of anatomical models and preserved specimens. Students perform simple physiological tests on themselves and work in small groups to discuss conclusions.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: HSCI.1010, and Undergrad students in all majors in the Zuckerberg College of Health Sciences(Applied Biomed Sci, Exercise Sci, Nursing, Nut. Sci, Pharm. Sci, and Pub Health) Taking the course through CSCE/GPS require permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.1010"
+                ]
+            ]
+        }
+    },
+    "HSCI.1040": {
+        "name": "HSCI.1040 Human Anatomy and Physiology Laboratory II (Formerly 35.104)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1040/",
+        "id": "004749",
+        "description": "Laboratory exercises are designed to reinforce didactic material by providing hands-on experience with the subject matter. Students actively participate in simple chemical analysis, microscopic observations, and studies of anatomical models and preserved specimens. Students perform simple physiological tests on themselves and work in small groups to analyze results and discuss conclusions.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre/Co-req: HSCI.1020, and Undergrad students in all majors in the Zuckerberg College of Health Sciences(Applied Biomed Sci, Exercise Sci, Nursing, Nut. Sci, Pharm. Sci, and Pub Health) Taking the course through CSCE/GPS require permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.1020"
+                ]
+            ]
+        }
+    },
+    "HSCI.1041": {
+        "name": "HSCI.1041 Topics in Health (Formerly 30.104)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1041/",
+        "id": "038079",
+        "description": "This introductory course is designed to provide students with the opportunity to explore a variety of topics and issues in health through reading and discussing recently published articles.  Using classroom discussions as the major format for this course, students will be encouraged to think critically about current topics and issues in health to strengthen their analytical skills.  This course will also assist students in developing oral presentation and communication skills that are necessary in the health field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Public Health Majors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.1050": {
+        "name": "HSCI.1050 Health Pathways Freshman Seminar",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1050/",
+        "id": "041450",
+        "description": "This seminar course introduces Health Pathway students to UMass Lowell and the Zuckerberg College of Health Sciences. Students will engage in learning activities that promote success in the program by familiarizing themselves with academic policies, resources, and positive time management, communication and study skills. Students will also explore careers in all majors in the college and other health-related fields through Interprofessional learning while being introduced to the concepts of diversity, professionalism and ethical conduct.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Undeclared ZCHS Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.1051": {
+        "name": "HSCI.1051 Interprofessional Education First Year Seminar",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1051/",
+        "id": "041588",
+        "description": "This seminar introduces First Year health science majors to UML and the Zuckerberg College of Health Sciences. Students will engage in learning activities that promote success in the program by creating a positive transition to college and sense of community, building and establishing confidence, familiarization with academic policies, resources, and time management, goal setting, study and test-taking skills. This course will also provide a foundation for beginning health science students to gain an understanding of the importance of interprofessional collaboration across a wide spectrum of health professions. Through experiential activities, key themes focused on interprofessional communication, collaboration, teamwork, and professionalism will be incorporated throughout the course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "ZCHS Freshman Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.1060": {
+        "name": "HSCI.1060 ZCHS Transfer Student Seminar",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1060/",
+        "id": "041527",
+        "description": "This Transfer Student Seminar introduces new students to the Zuckerberg College of Health Sciences to the University, College, and the major the have declared. Transfer students bring unique experiences, and those experiences will be utilized to assist students in their successful transition into the UMass Lowell academic community. The seminar will focus on expectations for students in a research university setting, as well as the policies, resources, and advanced skills in time management, communication, and exam preparation that are essential for student success.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Health Science Majors Only. Not required if a student has completed a first year seminar at UML, Permission of instructor for students outside of BNS and Public Health.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.1200": {
+        "name": "HSCI.1200 Life Skills (Formerly 30.120)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1200/",
+        "id": "004440",
+        "description": "This course is designed to assist new students adjust to, and succeed in college and beyond. Course subject matter has been created in conjunction with the National Collegiate Athletic Association (NCAA). This course has been specifically designed to meet the needs of the student-athletes who are current members of our campus community. Successful completion of this course will give the participants the skills necessary to be successful students, athletes and citizens academically, socially, personally and professionally.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.1991": {
+        "name": "HSCI.1991 Intercollegiate Health 100 level elective (Formerly 30.199)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/1991/",
+        "id": "030072",
+        "description": "Intercollegiate Health 100 level elective",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.2040": {
+        "name": "HSCI.2040 Introduction to Exercise Physiology (Formerly 30.204)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2040/",
+        "id": "004446",
+        "description": "This course serves as an introductory course to the field of Exercise Physiology. It is designed as a program foundation to the profession and to professional behavior. Students will be exposed to what happens in both the fitness centers and in the cardiac or pulmonary rehabilitative facilities. The course will serve as a precursor to the remaining upper division major courses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.2060": {
+        "name": "HSCI.2060 Pandemics: How Do They Occur?",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2060/",
+        "id": "041669",
+        "description": "This course focuses on the global challenge posed by infectious diseases. In the past 50 years, many previously unknown infectious diseases have emerged, while others have reemerged at an unprecedented rate. Despite tremendous strides in science, technology, and medical advances, and primary prevention strategies, infectious disease continue to plague humanity. This course will feature the global challenges posed by select pathogens. To do this, we will explore pandemics through a few different lenses. We will review the sources of and risk factors that lead to pandemics, and methods to prevent and control infectious disease outbreaks from becoming pandemics. Infectious diseases discussed in this course include: Cholera, Ebola, HIV, Influenza, SARS, MERS, COVID-19, among others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.2100": {
+        "name": "HSCI.2100 Clinical Calculations (Formerly 30.210)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2100/",
+        "id": "035852",
+        "description": "This elective course is designed for students beginning the nursing program.  It reviews the mathematics necessary to compute drug calculations using dimensional analysis.  This course covers the  metric system of weights and measures.  The focus of the course is on the computation of drug dosages for oral and parenteral medications with emphasis on the application of skills necessary to calculate intravenous infusions and medications.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.2110": {
+        "name": "HSCI.2110 Basic Clinical Microbiology & Pathology (Formerly 35.211)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2110/",
+        "id": "004759",
+        "description": "Studies the fundamentals of microbiology with major emphasis on structure, function, growth, metabolism, and classification of clinically important microorganisms. The human body's response to invading microbes and an introduction to the ecological aspects of microorganisms in the environment with particular stress on their significance, activities (beneficial and detrimental) and control measures will also be studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.1010 Human A&P I, and HSCI.1030 Human A&P I Lab, or BIOL.1120 Prin.of Biology II  and BIOL.1180L Exp.Biology II with a grade of B- or better, or Spring 2020 grade of \"P\", and Co-req: HSCI.2130 Basic Clinical Microbiology & Pathology Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1010"
+                ],
+                [
+                    "HSCI.1030",
+                    "BIOL.1120"
+                ],
+                [
+                    "BIOL.1180L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "HSCI.2130"
+                ]
+            ]
+        }
+    },
+    "HSCI.2130": {
+        "name": "HSCI.2130 Basic Clinical Microbiology & Pathology Laboratory (Formerly 35.213)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2130/",
+        "id": "004760",
+        "description": "Laboratory investigations of basic properties and characteristics of microorganisms are conducted. Students will perform commonly used techniques for collecting, handling, and studying clinically important microorganisms.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: HSCI.2110 Bas Cl Micro & Pathology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.2110"
+                ]
+            ]
+        }
+    },
+    "HSCI.2140": {
+        "name": "HSCI.2140 Careers in Health (Formerly 30.214)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2140/",
+        "id": "038080",
+        "description": "This introductory survey course is designed to give those students interested in health careers the opportunity to explore a variety of career path options in the health field.  The goal of this course is to help students recognize their interests, knowledge, skills, and aspirations so that they can begin to make educated career decisions,  The knowledge students will gain throughout this course will help them discern their own career path in the health care industry.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.2220": {
+        "name": "HSCI.2220 Health and Disease Across the Lifespan (Formerly 30.222)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2220/",
+        "id": "038578",
+        "description": "This course will introduce the basic principles that promote health of individuals throughout the lifespan.  Physiological, socioeconomic, economic, and behavioral factors that impact health, disease, and quality of life across the lifespan will be examined. Health assessment tools will be reviewed. The course emphasizes the role of nutrition and physical activity for health promotion and disease prevention across different life stages and the impact of aging on health and disease. Major causes of morbidity and mortality in the United States will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.2510": {
+        "name": "HSCI.2510 Physiological Chemistry  I (Formerly 35.251)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2510/",
+        "id": "004762",
+        "description": "This course provides a foundation in basic chemistry for students majoring in the Health Sciences. Basic concepts covered include: properties of matter, energy, atomic and molecular structure, isotopes and radioactivity, chemical bonding, chemical formulae and reactions. Quantitative aspects of chemical processes, chemical equilibrium and the behavior of gases, including blood gases and their transport are discussed. Properties of water and solutions are studied and include units of concentration, osmosis, osmolality, and physiological fluid and electrolyte balance. The chemistry of acids, bases and buffers is reviewed with emphasis on physiological buffer systems. Quantitative aspects, acid/base balance, compensatory mechanisms and elementary diagnosis are discussed. The chemistry of inorganic trace elements and their physiological roles are investigated. Concepts of organic chemistry are introduced, including the structure and function of carbon, isomerism and the properties and selected reactions of the major functional groups important in human biochemistry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: HSCI 2530 Physiological Chem Lab I; Pre-Req: HSCI 1020 A& P II and  College of Health Sciences major or Nutrition Minor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.2530",
+                    "HSCI.1020"
+                ]
+            ]
+        }
+    },
+    "HSCI.2520": {
+        "name": "HSCI.2520 Physiological Chemistry II (Formerly 35.252)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2520/",
+        "id": "004763",
+        "description": "This course is designed to provide a foundation in basic biochemistry for students majoring in the Health Professions. Selected concepts in organic chemistry are integrated into this framework. Aspects of amino acid and protein structure are studied. The structure and function of enzymes, their effects on reaction energetics and dynamics and the diagnostic uses of enzyme assays in clinical medicine are covered. The plasma proteins, hemoglobin, and the structure and function of miscellaneous cellular proteins are reviewed. The chemistry of the nucleic acids, protein anabolism and catabolism are studied along with selected metabolic disturbances and genetic disease. The structure and chemical properties of the simple and complex carbohydrates and lipids their metabolic pathways and cycles, and selected pathologies are studied in detail. Diagnostic tests relating to carbohydrate and lipid abnormalities are included. The course concludes with a study of chemical communication mechanisms, which includes neurotransmitters, hormonal secretions, and immunoglobulins.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.2510 Physiological Chem I, or CHEM.1110 General Chem I, or CHEM.1210 Chem, or CHEM.1350 Honors Chem I, & Co-req: HSCI.2540 Physiological Chem Lab II, and Zuckerberg College of HS, or CLS Minor, or Pharmaceutical Sciences Minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2510",
+                    "CHEM.1110",
+                    "CHEM.1210",
+                    "CHEM.1350"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "HSCI.2540"
+                ]
+            ]
+        }
+    },
+    "HSCI.2530": {
+        "name": "HSCI.2530 Physiological Chemistry  Laboratory  I (Formerly 35.253)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2530/",
+        "id": "004764",
+        "description": "Laboratory experiments are conducted to complement the material covered in 35.251.  Exercises dealing with properties of matter, chemical equations, qualitative analysis, energy, osmosis, chemical equilibrium and acids/bases/buffers will be performed. The qualitative properties of alcohols, aldehydes, ketones, acids and esters will be explored.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: HSCI.2510 Physiological Chem I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.2510"
+                ]
+            ]
+        }
+    },
+    "HSCI.2540": {
+        "name": "HSCI.2540 Physiological  Chemistry Laboratory  II (Formerly 35.254)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2540/",
+        "id": "004765",
+        "description": "Laboratory experiments are conducted to complement the material covered in 35.252. The chemistry of the basic biochemical molecules will be explored, including proteins, enzymes, carbohydrates, lipids, and nucleic acids. Selected aspects of metabolism and the assay of clinically significant materials will be studied.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: HSCI.2520 Physiological Chem II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.2520"
+                ]
+            ]
+        }
+    },
+    "HSCI.2991": {
+        "name": "HSCI.2991 Clinical Lab 2000 level elect (Formerly 35.299)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/2991/",
+        "id": "030106",
+        "description": "Clinical Laboratory 2000 level elective",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.3050": {
+        "name": "HSCI.3050 Exercise Physiology Lecture (Formerly 30.305)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3050/",
+        "id": "004455",
+        "description": "This course is designed to enable students to understand the acute and chronic physiologic effects of exercise on the human body. Topics will include bioenergetics, cardiopulmonary and cardiovascular physiology, neuromuscular physiology, special populations, and exercise prescription for apparently healthy athletic and clinical populations. Special topics in exercise physiology and environmental physiology will also be covered.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.3060": {
+        "name": "HSCI.3060 Introduction to Gerontology (Formerly 30.306)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3060/",
+        "id": "004456",
+        "description": "This course examines human aging from a multidisciplinary and developmental perspective. The course will focus on the adult years of the life span. The social-psychological factors involved in adjustments to the aging process, to retirement, to family, to leisure, to aloneness, to death and bereavement will be discussed together with such special concerns of the elderly as widowhood, finances, religion, sexuality and health problems. Rehabilitative strategies such as remotivation and reality orientation are included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.3080": {
+        "name": "HSCI.3080 Global Health (Formerly 30.308)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3080/",
+        "id": "036693",
+        "description": "The focus of this course is on examining health issues from a global perspective including issues related to maternal and child health, aging, infectious diseases, sanitation, and health inequality.  Nutritional and environmental health issues in diverse societies are analyzed.  Social determinants of health and access to health care in developing and developed countries are emphasized.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.3090": {
+        "name": "HSCI.3090 Universal Design in the Promotion of Health (Formerly 30.309)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3090/",
+        "id": "036694",
+        "description": "This is a three-credit interdisciplinary undergraduate blended course (face-to-face and online).  The is course is designed to examine the principles of universal design and investigate challenges of equity, access and inclusion in healthy communities.  Undergraduate students from a variety of disciplines will examine universal design and Assistive Technology (AT) that enhances the participation of individuals with a physical, emotional, sensory or intellectual and cognitive disability in education, community development, health care, recreation and public policy.  The course reviews design concepts and the use of Assistive Technology as it relates to education, communication, vocation, recreation, and mobility for individuals with disabilities.  Laws focusing on assistive technology in the home, school, community, and the work place will be examined.  The course explores both 'low tech' and 'high tech' types of assistive technologies that are available to support people with disability, based on the ICF model of disability.  Interaction with users of assistive technology is accomplished through an experiential learning project.  Students will engage in a team project that completes a thorough examination of a particular access or functional challenge and the use of universal design and AT to increase participation and minimize the effects of the person's impairments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.3190": {
+        "name": "HSCI.3190 Pathophysiology (Formerly 30/33.319)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3190/",
+        "id": "034614",
+        "description": "This course provides an overview of the dynamic aspects of disease processes as they present in major body systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.1020 Anatomy & Physiology II, or BIOL.2520 Physiology, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1020",
+                    "BIOL.2520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HSCI.3200": {
+        "name": "HSCI.3200 Legal Issues in Nursing (Formerly 30.320)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3200/",
+        "id": "034664",
+        "description": "This course provides an overview of legal issues nurses encounter in clinical practice.  Case studies will be used to identify common risks to safety and quality of care. to examine the legal process when lawsuits are filed and to identify preventive strategies which improve quality of care and therefore, decrease legal risks for nurses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.3220": {
+        "name": "HSCI.3220 Independent Study Health Promotion (Formerly 30.322)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3220/",
+        "id": "004462",
+        "description": "This course focuses on a health promotion project.  Must have faculty approval for the course. Can be for 1,2, or 3 credits.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.3400": {
+        "name": "HSCI.3400 IPE Research Methods",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3400/",
+        "id": "041183",
+        "description": "This course introduces critical evaluation of the current literature, the research process, and research study design and methodology and ethics. The importance of research across interdisciplinary health fields will be explored. Students will practice critical thinking and oral and written communication skills related to health research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and MATH.2830 Intro to Statistics, or PUBH.3010 Intro to Biostatistics, and HSCI.2520 Physiological Chem II, or CHEM.1220 Chemistry II, or Exercise Science and Sophomore Level, or Public Health and Junior Level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "MATH.2830",
+                    "PUBH.3010"
+                ],
+                [
+                    "HSCI.2520",
+                    "CHEM.IIOR",
+                    "CHEM.1220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HSCI.3500": {
+        "name": "HSCI.3500 Human Biochemistry (Formerly 36.350)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/3500/",
+        "id": "004791",
+        "description": "This course is an in-depth study of biochemical substances and their reactions in the body, with major emphasis placed on metabolism at the cellular level and examined in the tissues of the various organs where these reactions occur. Correlation of biochemical processes underlying pathologic conditions will be made whenever practical.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: HSCI 2520 Physiological Chem II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HSCI.4020": {
+        "name": "HSCI.4020 Global Health Experience (Formerly 30.402)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/4020/",
+        "id": "036715",
+        "description": "The Global Health Experience provides an experiential learning experience in health within a country outside of the United States.  Students will study the health issues of a given country while examining the socio-cultural, economic and environmental determinants of health within that society.  The strengths and weaknesses of the existing health care system will be analyzed.  Students will explore the culture, environment, and health care system under the direction of School of Health and Environment faculty.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.4100": {
+        "name": "HSCI.4100 Interprofessional Approaches in Community Health",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/4100/",
+        "id": "041852",
+        "description": "This is an advanced course in interprofessional education and collaborative practice that provides a critical foundation for current work in community health, including clinical and public health fields. It allows students to increase their understanding of how each profession contributes to the team by exploring current health issues. It provides opportunities to practice effective comm. and team collaboration in decision making related to health and wellness. It is designed to provide hands on experience for students to deliberately and intelligently work together in clinical and community health settings and simulations. Key concepts include importance of best practices in professionalism, roles and responsibilities, teamwork, comm., and ethics in all health-related careers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.3400 IPE Research Methods, or NURS.3010 Research in Nursing and Health Care, or PUBH.2060 Research Methods in Public Health, or EXER.2170 Research Methods in Exercise Science, and Junior or Senior Level Status in ZCHS.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3400",
+                    "NURS.3010"
+                ],
+                [
+                    "PUBH.2060",
+                    "EXER.2170"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HSCI.4200": {
+        "name": "HSCI.4200 Digital Health",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/4200/",
+        "id": "040939",
+        "description": "This course will explore the field of digital health and the application of digital technology to improving health outcomes in patients. Students will learn about the types of digital health interventions (biosensors, mobile apps, telemedicine, text messaging, etc). They will also discuss how these technologies are currently being used to deliver personalized medicine and enhance patient care (i.e. cardiovascular monitoring, smoking cessation, healthier eating diabetes, etc). Upon completion of the course, students will be able to identify emerging areas of digital health interventions and assess how these new technologies might impact health.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2830 Introduction to Statistics, & Junior standing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2830"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HSCI.4910": {
+        "name": "HSCI.4910 Directed Study (Formerly 30.491)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/4910/",
+        "id": "039082",
+        "description": "Directed Study",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.4992": {
+        "name": "HSCI.4992 Interdisciplinary Multi-Topic",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/4992/",
+        "id": "040348",
+        "description": "This inter-professional experiential learning experience is designed to provide hands on experience for health science undergraduate students to deliberatively and intelligently work together in a health care setting. Key concepts include the importance of best practices for professionalism, roles and responsibilities, teamwork, communication, ethics, and collaborative practice in health care.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.5020": {
+        "name": "HSCI.5020 Graduate Global Health Experience",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/5020/",
+        "id": "039872",
+        "description": "The Global Health Experience provides an experiential learning experience in health within a country outside of the United States. Students will study the health issues of a given country while examining the socio-cultural, economic and environmental determinants of health within that society. The strengths and weaknesses of the existing health care system will be analyzed. Students will explore the culture, environment, and health care system under the direction of College of Health Sciences faculty.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.5500": {
+        "name": "HSCI.5500 Human Development and  Pathophysiology (Formerly 30.550)",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/5500/",
+        "id": "004469",
+        "description": "The physiological steady state of the human body and disruptions that result over the life span will be examined as well as the pathophysiological mechanism manifested in disease states.  The course addresses defense, compensating, and adaptive responses to the pathophysiological processes as they apply to the various systems rather than being a survey course of diseases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HSCI.5510": {
+        "name": "HSCI.5510 Clinical Pathophysiology",
+        "url": "https://www.uml.edu/catalog/courses/HSCI/5510/",
+        "id": "040680",
+        "description": "The student will examine disease processes as variants of normal physiological functions with emphasis on understanding the pathophysiologic basis of common diseases in certain systems. This graduate level course is a comprehensive exploration of the etiology, pathogenesis, clinical manifestations, and treatment of disease.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

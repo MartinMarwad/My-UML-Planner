@@ -1,0 +1,136 @@
+{
+    "total": 8,
+    "time": 7.372194766998291,
+    "WLGE.1010": {
+        "name": "WLGE.1010 German 1 and Culture (Formerly 51.101)",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/1010/",
+        "id": "005988",
+        "description": "Develops German speaking, listening, reading and writing skills through the discovery of the culture of German speaking countries in a communicative approach (instruction occurs in German with clarification in English). This class is the 1st of the 4-course German language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLGE.1020": {
+        "name": "WLGE.1020 German 2 and Culture (Formerly 51.102)",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/1020/",
+        "id": "005989",
+        "description": "Continuation of German 1 and Culture (or equivalent), which is a pre-requisite. Strengthens German speaking, listening, reading and writing skills acquired in German 1 and Culture through the discovery of the culture of German speaking countries in a communicative approach (instruction occurs in German with some clarification in English). This class is the 2nd of the 4-course German language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 51.101 German 1 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLGE.2110": {
+        "name": "WLGE.2110 German 3 and Culture (Formerly 51.211)",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/2110/",
+        "id": "005992",
+        "description": "Enhances the four skills acquired in German 2 and Culture (or equivalent), which is a pre-requisite: speaking, listening, reading and writing through the discovery of the culture of German speaking countries in a communicative approach (instruction occurs in German with minimal use of English). This class is the 3rd of the 4-course German language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLGE.1020 German 2 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLGE.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLGE.2120": {
+        "name": "WLGE.2120 German 4 and Culture (Formerly 51.212)",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/2120/",
+        "id": "005993",
+        "description": "This course has German 3 and Culture (or equivalent) as a pre-requisite and is the 4th and last of the 4-course German language program offered at UML. The course strengthens the four skill acquired in prior levels. It emphasizes increased accuracy and depth of students' abilities and knowledge of the culture of German speaking countries in a communicative approach (instruction occurs in German with almost no use of English). Students express themselves orally and in writing at the national standards level of high-intermediate and understand key-concepts when spoken clearly at native speed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 51.211 German 3 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLGE.3000": {
+        "name": "WLGE.3000 Grimms' Fairy Tales (Formerly 51.300)",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/3000/",
+        "id": "039355",
+        "description": "This course will provide a study of the Grimms' fairy tales, their collection and publication by Jacob and Wilhelm Grimm in the contest of 19th century German Romanticism, and their enduring relevance to modern social commentary. Reading the texts in English translation, students will gain a critical understanding of the content and structure of the tales, of their cultural components, and their function through time to entertain, edify, and inform about life in the social milieu. The course is taught in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLGE.3010": {
+        "name": "WLGE.3010 German Culture and Civilization",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/3010/",
+        "id": "039608",
+        "description": "This course examines the cultural and social development of Germany, from the end of World War II until now. This course analyzes the radical transformation of Germany through a deep identity crisis and the rising of new German generations. Germany's cultural, political and economical reconstruction will be discussed in readings, films, documentaries, architecture, pictures, and paintings. Course materials are in English or in German with English subtitles. This course is conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLGE.4920": {
+        "name": "WLGE.4920 Direct ed Study in German Composition (Formerly 51.492)",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/4920/",
+        "id": "006002",
+        "description": "Individual research projects for modern language majors. Students, through regular and frequent consultation with their instructor, develop a course of directed study in literature and culture and define a subject for individual research.  The student's findings are represented in a paper of significant proportion.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLGE.4950": {
+        "name": "WLGE.4950 Advanced German Tutorial (Formerly 51.495)",
+        "url": "https://www.uml.edu/catalog/courses/WLGE/4950/",
+        "id": "006003",
+        "description": "A program of directed study which affords Modern Language majors an additional opportunity to pursue a previously explored topic in greater depth or to initiate an additional topic. The purpose of this tutorial is to sharpen and refine techniques of scholarly research, presentation and creative expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

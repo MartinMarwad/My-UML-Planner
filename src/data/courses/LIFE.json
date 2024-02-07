@@ -1,0 +1,260 @@
+{
+    "total": 16,
+    "time": 13.181840896606445,
+    "LIFE.1000": {
+        "name": "LIFE.1000 Introduction to Biology (Formerly 83.100)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1000/",
+        "id": "007612",
+        "description": "Presents environmental and organismal structural interrelationships and relates these to the chemical evolutionary basis of life.\nNot suitable for credit towards any degree in the Division of Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Anti-Req: BIOL.1110 and BIOL.1220 and BIOL.2100 and LIFE.1010.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1010": {
+        "name": "LIFE.1010 Life Science I (Formerly 83.101)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1010/",
+        "id": "007613",
+        "description": "Presents environmental and organismal structural interrelationships and relates these to the chemical evolutionary basis of life. Suitable as a Natural Science Elective for a degree in the Division of Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Anti-Req: LIFE.1000 and BIOL.1110 and BIOL.1220 and BIOL.2100.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1020": {
+        "name": "LIFE.1020 Life Science II (Formerly 83.102)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1020/",
+        "id": "007614",
+        "description": "Emphasis is on systems structure and function. The cellular organization of plants and animals leads into physiological processes of higher organisms with great emphasis on humans. Among topics considered are nutrition and digestion, cellular metabolism, circulation, respiration, excretion, nervous and skeletal-muscular systems. Also considered are the chemical interactions of these systems with immunity, hormonal and reproductive processes.\nSuitable as a Natural Science Elective for a degree in the Division of Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1030L": {
+        "name": "LIFE.1030L Life Science I Laboratory (Formerly 83.103)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1030L/",
+        "id": "007615",
+        "description": "Concerned with experimentation and interpretation of some of the concepts of Life Science I.\nSuitable as a Natural Science Elective for a degree in the Division of Sciences.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre/Co-Req: LIFE.1010 Life Science I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "LIFE.1010"
+                ]
+            ]
+        }
+    },
+    "LIFE.1040L": {
+        "name": "LIFE.1040L Life Science II Laboratory (Formerly 83.104)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1040L/",
+        "id": "007616",
+        "description": "Involved with experimentation and interpretation of some of the concepts of Life Science II.\nSuitable as a Natural Science Elective for a degree in the Division of Sciences.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1050L": {
+        "name": "LIFE.1050L Introduction to Biology Lab (Formerly 83.105)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1050L/",
+        "id": "007617",
+        "description": "Introduction to Biology Laboratory is a co-requisite course for the Introduction to Biology online lecture course - LIFE.1000.  The two courses together fulfill a GenEd Science requirement.  The lab course can be taken concurrently with the lecture course or subsequent to it.  Weekly labs correspond directly with the chapter assignments provided by the LIFE.1000 instructors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req or Co-Req: LIFE.1000 Intro to Biology; not for Biology majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "LIFE.1000"
+                ]
+            ]
+        }
+    },
+    "LIFE.1060": {
+        "name": "LIFE.1060 Human Biology (Formerly 83.106)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1060/",
+        "id": "035386",
+        "description": "Human Biology is designed to be an accelerated online summer course for non-science majors.  This course will cover the major organ systems of the human body (cardiovascular, digestive, nervous, excretory, etc.), how they function and the disorders that arise when these systems don't function as they were intended.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1070L": {
+        "name": "LIFE.1070L Human Biology Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1070L/",
+        "id": "041158",
+        "description": "This course is a laboratory course for non-science majors and is designed to accompany the Human Biology (LIFE.1060) lecture course. It will help reinforce the concepts investigated in the lecture course which involves the study of structure (anatomy) and function (physiology) of the major organ systems in the human body. Students will engage in the process of science, make observations,develop questions, collect and analyze data by performing virtual lab experiments, and communicate the results of scientific work in assigned weekly lab reports. Not suitable for credit towards any degree in the College of Sciences.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-req or Co-req: LIFE.1060 Human Biology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "LIFE.1060"
+                ]
+            ]
+        }
+    },
+    "LIFE.1080": {
+        "name": "LIFE.1080 Biochemistry in the Kitchen",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1080/",
+        "id": "041501",
+        "description": "This course is an integrated lecture and laboratory course for non-science majors and is designed to fulfill the core laboratory science requirement. The course will present fundamental principles of biochemistry in the context of cooking and foods to explain everyday phenomena. Class periods will include lecture and discussion and there will be laboratory assignments to be completed by the student.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1100": {
+        "name": "LIFE.1100 Microbes and Society: Good, Bad and Ugly (Formerly 83.110)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1100/",
+        "id": "035780",
+        "description": "Examines historical aspects of microbial interactions with human society, including the use of microbes in food production, agriculture, biotechnology, industry and environmental preservation; explores bioterrorism, the problem of antibiotic resistance and surveys some historical and contemporary microbial diseases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1230": {
+        "name": "LIFE.1230 Nutrition and Disease (Formerly 83.123)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1230/",
+        "id": "007620",
+        "description": "Serves as an interdisciplinary survey course for students not majoring in biology, which deals with human nutrition as it relates to various chronic disease states.  Methods of detection and treatment of the disorders are considered as well as general concepts of health promotion/disease prevention based on the Dietary Guidelines for Americans.  Specific topics covered include the role of nutrition in: heart disease, diabetes, cancer, obesity, alcoholism, and eating disorders.  Not suitable for credits toward any degree in the Division of Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1250": {
+        "name": "LIFE.1250 Plants and Human Society (Formerly 83.125)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1250/",
+        "id": "007621",
+        "description": "This course is designed to introduce undergraduate students to the fascinating world of plants and their significance in our everyday world. The use of plants in medicine, agriculture, and industry and their importance to humans and our environment will be emphasized. This course is also designed to fulfill the core science elective requirement for the non-science major. Not suitable for credit towards any degree in the Division of Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.1270": {
+        "name": "LIFE.1270 Plants & Human Society Lab (Formerly 83.127)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1270/",
+        "id": "030382",
+        "description": "Plants  and Human Society Laboratory is a co-requisite course for the Plants and Human Society online lecture course LIFE.1250. The two courses together fulfill the core science with laboratory requirement. The lav course can be taken concurrently with the lecture course or subsequent to it. Weekly labs correspond with the chapter assignments in the lecture course. Not suitable for credit towards any degree in the Division of Sciences.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req or Co-Req: LIFE.1250 Plants & Human Society.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "LIFE.1250"
+                ]
+            ]
+        }
+    },
+    "LIFE.1990L": {
+        "name": "LIFE.1990L Life Science 1000 level elective (Formerly 83.199)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/1990L/",
+        "id": "040037",
+        "description": "Life Science 1000 level elective.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.2140": {
+        "name": "LIFE.2140 Human Ecology (Formerly 83.214)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/2140/",
+        "id": "007626",
+        "description": "Designed to reveal and discuss the increasing problems of overpopulation in regard to environmental deterioration, living space, limits of natural resources and the adverse effects of human alteration on destruction of the natural ecosystem. The implications of current literature and news items will be emphasized.\nNot suitable for credit towards any degree in the Division of Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LIFE.REVIEW": {
+        "name": "LIFE.REVIEW Pending Departmental Review (Formerly 83.REVIEW)",
+        "url": "https://www.uml.edu/catalog/courses/LIFE/REVIEW/",
+        "id": "031864",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

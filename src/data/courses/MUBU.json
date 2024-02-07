@@ -1,0 +1,231 @@
+{
+    "total": 13,
+    "time": 10.781906843185425,
+    "MUBU.2010": {
+        "name": "MUBU.2010 Computers In Music Business (Formerly 77.201)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/2010/",
+        "id": "007372",
+        "description": "This course provides students with fundamental collaborative computing tools applicable to the music industry. Topics will include standard office applications, web tools, and media processing tools. Students will develop skills and efficiency through collaboration with each other and outside artists. The internet will provide opportunities for researching relevant sharing platforms for the effective dissemination of information. Projects to include e-press kit creation/promotional website, video creation, and other media development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUBU.3010 Music Business 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.3010": {
+        "name": "MUBU.3010 Music Business 1 (Formerly 77.301)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/3010/",
+        "id": "007373",
+        "description": "A systematic look at career options in the Music Industry. Topics discussed include: songwriting, music publishing, national and international copyright law, music licensing, artist management, and concert promotion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.1080 Musicianship & Analysis I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.3020": {
+        "name": "MUBU.3020 Music Business 2 (Formerly 77.302)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/3020/",
+        "id": "007374",
+        "description": "A systematic look at career options in the Music Industry. Topics include: music merchandising, arts administration, record promotion, marketing, and distribution, radio and television broadcasting, advertising and jingle production, and film scoring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUBU.3010 Music Business 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.3030": {
+        "name": "MUBU.3030 Music Publication and Copyright (Formerly 77.303)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/3030/",
+        "id": "007375",
+        "description": "A thorough study of the legal environment within the Music Industry. Topics discussed include:music publishing, national and international copyright law, live performance, managers & agents, music organizations, recording agreements, music publishing, film and television music production, music merchandising, and other contractual obligations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  MUBU.3020 Music Bus 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.3040": {
+        "name": "MUBU.3040 Music Promotion and Merchandising (Formerly 77.304)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/3040/",
+        "id": "007376",
+        "description": "A thorough study of the principles and application of marketing, promotion, and distribution of products within the Music Industry. Case studies of various music products and companies will be studied and analyzed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  MUBU.3020 Music Bus 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.4010": {
+        "name": "MUBU.4010 Music Business Seminar (Formerly 77.401)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/4010/",
+        "id": "007378",
+        "description": "Prepares students to undertake their Internship by providing an in-depth study of how to prepare successfully to enter a career path.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  MUBU.3020 Music Bus 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.4040": {
+        "name": "MUBU.4040 Music Business Entrepreneur (Formerly 77.404)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/4040/",
+        "id": "007381",
+        "description": "An in-depth study of how to start a successful business within the Music Industry.  Case studies of successful entrepreneurs and their companies will be researched and analyzed.  Students will develop a written Business Plan for their own Music Business enterprise.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  MUBU.3020 Music Bus 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.4950": {
+        "name": "MUBU.4950 Directed Studies In Music Business (Formerly 77.495)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/4950/",
+        "id": "007383",
+        "description": "Permission of coordinator required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUBU.4991": {
+        "name": "MUBU.4991 Music Business Internship (Formerly 77.499)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/4991/",
+        "id": "007384",
+        "description": "Music Business Internship",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Req:  MUBU.4010 Music Business Seminar.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUBU.4010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUBU.5040": {
+        "name": "MUBU.5040 Arts Administration and Marketing (Formerly 77.504)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/5040/",
+        "id": "035589",
+        "description": "This course is designed to provide essential information regarding the structure and strategies for creating and maintaining a sustainable non-profit arts organization.  Topics to be covered include; organizational structure; development; production; market research; and promotion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUBU.5250": {
+        "name": "MUBU.5250 Community Outreach Practicum 1 (Formerly 77.525)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/5250/",
+        "id": "035590",
+        "description": "The Community Outreach Practicum provides mentorship and initial hands-on training in the educational and arts management skills which will enable the student to build and direct community-based youth music programs.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUBU.5260": {
+        "name": "MUBU.5260 Community Outreach Practicum 2 (Formerly 77.526)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/5260/",
+        "id": "035591",
+        "description": "The Community Outreach Practicum provides mentorship and initial hands-on training in he educational  and arts management skills which will enable the student to build and direct community-based youth music programs.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUBU.6250": {
+        "name": "MUBU.6250 Community Internship (Formerly 77.625)",
+        "url": "https://www.uml.edu/catalog/courses/MUBU/6250/",
+        "id": "035594",
+        "description": "This course will provide students with the opportunity to gain real world experience in the administration of a Community Arts organization.  Students will be required to undergo 300 hours of work under the direct supervision of the director of a Community Arts organization, in coordination with a University advisor.  Students will conduct research into various arts organizations, revise resumes, and draft cover letters under the guidance of the course advisor in preparation for the internship application process.  Students will be required to secure the internship pending approval of the course advisor.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

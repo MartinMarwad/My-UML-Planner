@@ -1,0 +1,262 @@
+{
+    "total": 16,
+    "time": 12.366406679153442,
+    "THEA.2010": {
+        "name": "THEA.2010 Introduction to Theatre (Formerly THEA 201)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/2010/",
+        "id": "037380",
+        "description": "This course explores the arts and practices of theatre from classical to contemporary times.  Students are introduced to the basic concepts and forms of theatre as well as to theories of its origins and purposes.  Replaces 42.219 and 59.219; credit may not be earned for both 42/59.219 and THEA 201.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.2020": {
+        "name": "THEA.2020 Living Theatre: The Audience Experience",
+        "url": "https://www.uml.edu/catalog/courses/THEA/2020/",
+        "id": "041492",
+        "description": "In this course students will experience the fundamentals of live theatre. Students will attend 5-8 productions of varying styles; including but limited to period productions, musicals and new works. Through readings, conversations with professional artists and live performances, students will explore the latest trends of the local area theatre community. Students will critically analyze theatrical productions from the point of view of audience. The purpose of our analysis as audience - to be able to read scripts and critically respond to productions from an informed perspective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.2210": {
+        "name": "THEA.2210 Stagecraft (Formerly THEA 221)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/2210/",
+        "id": "037381",
+        "description": "Survey of the materials, skills, and techniques of technical theatre (including scenic construction, scene painting, lighting, and sound production) through reading, lecture, and hands-on experience.  Replaces 42.252; credits may not be earned for both 42/59.252 and THEA 221.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.2300": {
+        "name": "THEA.2300 Foundations of Theatrical Design (Formerly THEA 230)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/2300/",
+        "id": "037382",
+        "description": "Basic principles and techniques in scenic, lighting and costume design for theatre.  Replaces 42.260 and 59.386; credits may not be earned for both 42.260 and THEA 230 or for 59.386 and THEA 230.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.2610": {
+        "name": "THEA.2610 Acting 1 (Formerly THEA 261)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/2610/",
+        "id": "037383",
+        "description": "Theory and practice of acting including exercises in the elements and methods of acting and the preparation of a public performance.  Replaces 42.261 and 59.261; credits may not be earned for both 42/59.261 and THEA 261.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.3110": {
+        "name": "THEA.3110 Play Production (Formerly THEA 311)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/3110/",
+        "id": "037386",
+        "description": "Introduction to the design and technical aspects of theatre through hands-on experience working on campus productions.  Focus on basic principles of set, lighting, props, costume, makeup, and sound production.  May be repeated for credit.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.3400": {
+        "name": "THEA.3400 Directing Workshop (Formerly THEA 340)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/3400/",
+        "id": "037385",
+        "description": "Study of the process of directing plays of different styles.  Students will direct scenes with other members of the workshop and their work will be analyzed by the instructor and fellow students.  Replaces 42.343 and 59/343; credits may not be earned for both 42/59.343 and THEA 340.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "THEA 2610 Acting 1, or the equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "THEA.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "THEA.3620": {
+        "name": "THEA.3620 Acting 2 (Formerly THEA 262)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/3620/",
+        "id": "037384",
+        "description": "A continuation of THEA 261 emphasizing techniques of scene study and characterization.  Pre-requisite THEA 261 or the equivalent.  Replaces 42/59.262; credits may not be earned for both 42/59.262 and THEA 262.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "THEA 2610 Acting 1, or the equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "THEA.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "THEA.3640": {
+        "name": "THEA.3640 Performing Shakespeare",
+        "url": "https://www.uml.edu/catalog/courses/THEA/3640/",
+        "id": "041670",
+        "description": "An introductory workshop exploring Shakespeare's plays from the standpoint of the actor. We will study techniques for understanding and activating Shakespeare's words through our bodies, voices, and imaginations. Students will gain a basic, hands-on knowledge of Elizabethan theatre practices, as well as skills in analyzing and performing Shakespeare's language, characters, and genres through action exercises, text analysis, monologues, and scene study.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, or THEA.2010 Intro to Theatre, or THEA.2610 Acting I, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "THEA.2010",
+                    "THEA.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "THEA.3650": {
+        "name": "THEA.3650 Voice and Movement (Formerly THEA 265)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/3650/",
+        "id": "037534",
+        "description": "To discover the possibilities of you unique voice and physicality, to gain techniques to free up tension, release habitual blocks and inhibitions, and to explore creative expression through the voice and body, ultimately applying all of these elements to performance.  This course uses techniques designed for voice, movement, and physical acting including Linklater, Alexander, Viewpoiints, Grotowski, Yakim and others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "THEA 2610 Acting 1, or the equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "THEA.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "THEA.4010": {
+        "name": "THEA.4010 Topics in Theatre (Formerly THEA 401)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/4010/",
+        "id": "037389",
+        "description": "Advanced study of a selected area of theatrical production, history, texts, or theory.  Repeatable for credit when topics differ.  Replaces 42.414 and 59.414; repeated credit may only be earned when topics differ.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.4900": {
+        "name": "THEA.4900 Performance Practicum (Formerly THEA 490)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/4900/",
+        "id": "037388",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.4920": {
+        "name": "THEA.4920 Technical Theatre Practicum (Formerly THEA 492)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/4920/",
+        "id": "038097",
+        "description": "One-credit practicum in technical theatre (scenic construction, lighting, sound, costuming), consisting of work on a campus production under the supervision of Theatre Arts faculty.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.4930": {
+        "name": "THEA.4930 Practicum in Theatre (Formerly THEA 493)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/4930/",
+        "id": "037391",
+        "description": "Part-time, full-semester internship at a professional theatre.  Program director's permission required.  Replaces 42.495 and 59.495; may be repeated for credit with permission.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.4940": {
+        "name": "THEA.4940 Directed Study in Theatre (Formerly THEA 494)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/4940/",
+        "id": "037390",
+        "description": "Supervised independent project in theatre.  Instructor's permission required.  Replaces 42.494 and 59.494; may be repeated for credit with permission.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "THEA.4950": {
+        "name": "THEA.4950 Senior Seminar in Theatre (Formerly THEA 495)",
+        "url": "https://www.uml.edu/catalog/courses/THEA/4950/",
+        "id": "037753",
+        "description": "Capstone-experience seminar focusing on advanced projects (in performance, dramaturgy, or design/tech) in the service of portfolio building and preparation for graduate study and/or work in the professional world of theatre.  To be taken during the student's final year in the program. Instructors Consent required.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

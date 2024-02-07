@@ -1,0 +1,1372 @@
+{
+    "total": 73,
+    "time": 49.97718524932861,
+    "CHEN.1010": {
+        "name": "CHEN.1010 Technology and Human Built World (Formerly 10.101)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/1010/",
+        "id": "030309",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.1070": {
+        "name": "CHEN.1070 Introduction to Chemical Engineering (Formerly 10.107)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/1070/",
+        "id": "039469",
+        "description": "This course provides a hands-on introduction to chemical engineering and the skills, both technical and non-technical, that will be required to complete the undergraduate degree program.  Through both assignments and projects, students learn to:  identify a problem, develop alternative solutions, make critical decisions, and work as a member of a team.  Technical skills that are introduced in this course include a basic introduction to linear algebra and descriptive statistics, basic technical communication through report writing, and computer programming basics using EXCEL/VBA.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.2010": {
+        "name": "CHEN.2010 Basic Principles of Chemical Engineering (Formerly 10.201)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/2010/",
+        "id": "030311",
+        "description": "An introductory course that prepares students to solve material and energy balances on chemical process systems and lays the foundation for subsequent courses in thermodynamics, unit operations transport phenomena, reaction engineering and process dynamics and control.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1210 Chemistry I, and PHYS.1410 PhysicsI, and MATH.1310 Calculus I with a grade of `C\u00bf or higher, or Spring 2020 grade of `P\u00bf.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ],
+                [
+                    "PHYS.1410"
+                ],
+                [
+                    "MATH.1310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.2020": {
+        "name": "CHEN.2020 Chemical Engineering Thermodynamics (Formerly 10.202)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/2020/",
+        "id": "030312",
+        "description": "The course introduces fundamental thermodynamic principles presented from a chemical engineering perspective. The first and second law of thermodynamics, PV relationships for real and ideal fluids and methods for calculating enthalpy and entropy data, ad heat and work requirements for industrial chemical processes will be determined using mass, energy and entropy balances. Fundamental thermodynamic principles are used to examine applications involving processes with and without chemical reaction, common heat engines, flow processes and refrigeration cycles.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.2010 Principles of Chemical Engineering with a grade of C- or better,or Spring 2020 grade of \"P\",  and for Chemical Engineering Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.2050": {
+        "name": "CHEN.2050 Fundamentals of Electricity (Formerly 10.205)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/2050/",
+        "id": "030313",
+        "description": "An introduction to direct current and alternating current of electric circuits with emphasis on practical application.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sophomore Level or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.3030": {
+        "name": "CHEN.3030 Fluid Mechanics (Formerly 10.303)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3030/",
+        "id": "032001",
+        "description": "This course introduces the student to several fundamental concepts and applications of fluid mechanics.  It overviews the basic properties of fluids, the study of fluid statics and fluid flow systems, and the development and application of the appropriate mass, momentum, and energy balance relationships needed to solve a variety of practical problems, with a particular focus on the macroscopic view.  Emphasis is on the ability to apply the  basic principles to the design and analysis of engineering systems involving applications in hydrostatics, internal, open-channel, and external flows, pump selection, flow measurement, etc.  The course also focuses on proper problem solving strategy and on the correct use of units in engineering analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.2010 Material Balances and Co-req: MATH.2360 Engineering Differential Equations or MATH.2340 Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.2360",
+                    "MATH.2340"
+                ]
+            ]
+        }
+    },
+    "CHEN.3040": {
+        "name": "CHEN.3040 Heat Transfer and Unit Operations (Formerly 10.304)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3040/",
+        "id": "033342",
+        "description": "The course provides an understanding of essential unit operations in chemical engineering practice. The design and operation of equipment for fluid flow (pumps, compressors) and heat transfer (heat exchanges, cooling towers, evaporators, boilers, condensers) as well as other fundamental operations and phase separation equipment (mixers/agitators, filters, settling tanks, and others) and discussed. The fundamental connections to heat transfer principles as well as fluid flow and mass transfer are considered. The analysis, design and operating characteristics of unit operations are illustrated through the solution of homework problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.2020 Energy Balance & Introduction to Thermodynamics and CHEN.3030 Fluid Mechanics and MATH.2360 Engineering Differential Equations, or MATH.2340 Differential Equations, or MATH.2440 Honors Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2020"
+                ],
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "MATH.2360",
+                    "MATH.2340",
+                    "MATH.2440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.3060": {
+        "name": "CHEN.3060 Transport Phenomena (Formerly 10.306)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3060/",
+        "id": "002865",
+        "description": "Introduction to the theory of the transport processes. Integral and differential approaches are used to develop the macroscopic and microscopic forms of the conservation laws. The conservation laws are used to solve practical problems in the chemical and nuclear industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.3030 Fluid Mechanics, and MATH.2310 Calculus III, and MATH.2360 Eng. Differential Equations, or MATH.2340 Differential Equations, or MATH.2440 Honors Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2360",
+                    "MATH.2340",
+                    "MATH.2440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.3080": {
+        "name": "CHEN.3080 Introduction to Material Science and Engineering (Formerly 10.308)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3080/",
+        "id": "002866",
+        "description": "A general overview of solid materials which are likely to be considered for engineering applications in, or be produced by the chemical process industries. They will be discussed from the viewpoints of their units structures, appropriate phase diagrams, their chemical and physical attributes, and the association of these to end use applications. Discussion of metals, ceramics, polymers, and to a limited degree, composites.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 1210 Chemistry I, and CHEM 1220 Chemistry II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ],
+                [
+                    "CHEM.1220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.3100": {
+        "name": "CHEN.3100 Separation Processes (Formerly 10.310)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3100/",
+        "id": "002867",
+        "description": "This course is an introduction to separation processes based on mass transfer principles and equilibrium staging. Separation processes including distillation, absorption, liquid-liquid extraction, membrane/filtration, adsorption and settling base separations are introduced and examined. Unifying fundamental relations and concepts are emphasized along with practical applications for industrial processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.3060 Transport Phenomena, and CHEN.3110 Phase and Chem Reaction Equil, and MATH.2340 Differential Equations, or MATH.2360 Eng. Differential Equations, or MATH.2440 Honors Differential Equations, and Chemical Engineering Majors Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.3060"
+                ],
+                [
+                    "CHEN.3110"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360",
+                    "MATH.2440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.3110": {
+        "name": "CHEN.3110 Phase and Chemical Reaction Equilibria (Formerly 10.311)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3110/",
+        "id": "002868",
+        "description": "This course is a continuation of CHEN.2020 Chemical Engineering Thermodynamics and develops capacity to apply thermodynamic principles towards the solution of practical problems while maintaining the rigorous characteristics of thermodynamics analysis. The course extends the treatment of thermodynamic properties of pure fluids to the application of problems unique to chemical engineering involving vapor-liquid equilibrium, liquid-liquid and multiphase equilibrium, as well as the theory and application of solution thermodynamics and chemical reaction equilibria.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.2020 Chemical Engineering Thermodynamics with a 'C-' or higher, or Spring 2020 grade of 'P', and MATH.1320 Calculus II, and Chemical Engineering Majors Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2020"
+                ],
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.3150": {
+        "name": "CHEN.3150 Unit Operations Laboratory (Formerly 10.315)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3150/",
+        "id": "002869",
+        "description": "Students perform laboratory base experimental analyses in fluid flow and heat transfer and fluid flow and heat transfer unit operations processes common in Chemical Engineering practice. The course is team based and students are expected to develop and improve in their ability to work and interact in a group environment. Written and oral reports are required. Safety in both lad and industrial practice are emphasized.  Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.2020 Energy Balance and Introduction to Thermodynamics, and CHEN.3030 Fluid Mechanics, and ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2020"
+                ],
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.3160": {
+        "name": "CHEN.3160 Unit Operations Laboratory II (Formerly 10.316)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3160/",
+        "id": "002870",
+        "description": "Experimental projects treat heat and mass transfer, including staged operations, in a unit operations format.  Process measurement  and calibration emphasised.  Written reports required.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "CHEN.2020 Energy Balance & Introduction to Thermodynamics, and CHEN.3030 Fluid Mechanics, and CHEN.3150 Unit Operations Laboratory I, and Co-req: CHEN.3040 Heat Transfer.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2020"
+                ],
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "CHEN.3150"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEN.3040"
+                ]
+            ]
+        }
+    },
+    "CHEN.3170": {
+        "name": "CHEN.3170 Computational Methods in Chemical Engineering (Formerly 10.317)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3170/",
+        "id": "002871",
+        "description": "The goal of this course is to present to students of chemical engineering an interconnected set of computational methods needed in the core undergraduate chemical engineering curriculum. In particular, methods that assist the students in solving problems in the core areas of chemical reaction equilibria, separations, unit operations, and chemical reactor engineering with applications in nuclear and biochemical engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.3060 Transport Phenomena, and CHEN.3110 Phase and Chemical Equilibria.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.3060"
+                ],
+                [
+                    "CHEN.3110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.3470": {
+        "name": "CHEN.3470 Elements of Thermodynamics and Heat Transfer (Formerly 10.347)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/3470/",
+        "id": "002874",
+        "description": "Studies the development of the first and second laws of thermodynamics. Ideal gases. Properties of substances. Entropy, availability and lost work. Steam cycles, gas power-cycles, and vapor-compression refrigeration. Dimensionless parameters. Heat transfer by: steady state conduction, convection and radiation. Note:  For Civil Engineers, Electrical Engineers and Industrial Management majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.4030": {
+        "name": "CHEN.4030 Chemical Reaction Engineering (Formerly 10.403)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4030/",
+        "id": "002876",
+        "description": "Review of principles underlying rates of transformation of matter and energy; effect of temperature and catalysis on chemical reactions. Introduction to the basic ideas underlying chemical reaction engineering. May be taken for graduate credit.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.3110 Chemical Engineering Thermodynamics with a C- or better, or Spring 2020 grade of \"P\", and Co-req: CHEM 3440 Physical Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.3110"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.3440"
+                ]
+            ]
+        }
+    },
+    "CHEN.4090": {
+        "name": "CHEN.4090 Engineering Economics and Process Analysis (Formerly 10.409)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4090/",
+        "id": "002879",
+        "description": "This course brings together all the Chemical Engineering core principles applied to the development of economic process designs.  Economic evaluations of manufacturing operations and projects including essential concepts in accounting, depreciation, time value of money, and the evaluation of investment alternatives are applied for process analysis and design objectives. The impact of management and production costs, product markets, regulatory, environmental and safe production practices, the analysis of corporate annual reports including balance sheets and income statements, and capital and operating costs are all considered in regard to efficient and economic processes.  In addition to lecture materials students are required to complete comprehensive projects.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL), Critical Thinking & Problem Solving (CTPS) and Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.2010,and CHEN.2020, and CHEN.3030, and CHEN.3040, and CHEN.3060, and CHEN.3100, and CHEN.3110, and CHEN.3150, and CHEN.3170, and CHEN.4030 all with a grade of C- or better, or Spring 2020 grade of \"P\", and Co-req: CHEN 4130.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2010"
+                ],
+                [
+                    "CHEN.2020"
+                ],
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "CHEN.3040"
+                ],
+                [
+                    "CHEN.3060"
+                ],
+                [
+                    "CHEN.3100"
+                ],
+                [
+                    "CHEN.3110"
+                ],
+                [
+                    "CHEN.3150"
+                ],
+                [
+                    "CHEN.3170"
+                ],
+                [
+                    "CHEN.4030"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEN.4130"
+                ]
+            ]
+        }
+    },
+    "CHEN.4100": {
+        "name": "CHEN.4100 Chemical Plant Design (Formerly 10.410)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4100/",
+        "id": "002880",
+        "description": "This course is the logical continuation of CHEN.4090 (Formerly 10.409) The principles of technical and economic evaluation are applied to a chemical engineering problem. A group of students is given a statement of the problem. They are required to find information on raw materials, products, thermodynamic parameters and plant practices in order to develop the assumptions required to carry out an examination of technical and economic feasibility. Each group generates a final report for the problem. In addition to oral presentations, students are required to complete a comprehensive group design project.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL), Critical Thinking & Problem Solving (CTPS) and Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.2010, & CHEN.2020, & CHEN.3030, & CHEN.3040,& CHEN.3060, &CHEN.3100, and CHEN.3110, & CHEN.3150, & CHEN.3170, & CHEN.4030, & CHEN.4090, & CHEN.4130 all with a C- or better, or Spring 2020 grade of \"P\", & Co-req: CHEN.4150.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.2010"
+                ],
+                [
+                    "CHEN.2020"
+                ],
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "CHEN.3040"
+                ],
+                [
+                    "CHEN.3060"
+                ],
+                [
+                    "CHEN.3110"
+                ],
+                [
+                    "CHEN.3150"
+                ],
+                [
+                    "CHEN.3170"
+                ],
+                [
+                    "CHEN.4030"
+                ],
+                [
+                    "CHEN.4090"
+                ],
+                [
+                    "CHEN.4130"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEN.4150"
+                ]
+            ]
+        }
+    },
+    "CHEN.4130": {
+        "name": "CHEN.4130 Process Dynamics & Control (Formerly 10.413)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4130/",
+        "id": "002881",
+        "description": "An introduction to chemical process control. Description of processes and equipment by differential equations and the Laplace transform. Development of block diagrams. System stability is studied by both root locus and frequency response methods. May be taken for graduate credit.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.3030 Fluid Mech., & CHEN.3040 Heat Transfer, & CHEN.3060 Transport Phenomena, & CHEN.3100 Sep. Proc. with Mass Transfer, & CHEN.3170 Applied Mathematics with Matlab, & MATH.2340 Differential Equations , or MATH.2360 Eng.Diff. Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "CHEN.3040"
+                ],
+                [
+                    "CHEN.3060"
+                ],
+                [
+                    "CHEN.3100"
+                ],
+                [
+                    "CHEN.3170"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.4150": {
+        "name": "CHEN.4150 Process Operations and Controls Laboratory (Formerly 10.415)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4150/",
+        "id": "033359",
+        "description": "Experimental projects dealing with heat transfer, mass transfer, separations processes, chemical reaction engineering, process dynamics, and process control. Written and oral reports required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.3100 Separation Processes with Mass Transfer, and CHEN.3150 Unit Oerations Laboratory, and Co-req: CHEN.4130 Process Dynamics and Control.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.3100"
+                ],
+                [
+                    "CHEN.3150"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEN.4130"
+                ]
+            ]
+        }
+    },
+    "CHEN.4190": {
+        "name": "CHEN.4190 Special Senior Projects (Formerly 10.419)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4190/",
+        "id": "002883",
+        "description": "Original research projects primarily in the chemical engineering field and supervised by a staff member of the department. Written reports required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.4200": {
+        "name": "CHEN.4200 Special Senior Projects (Formerly 10.420)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4200/",
+        "id": "002884",
+        "description": "Original research projects primarily in the chemical engineering field and supervised by a staff member of the department. Written reports required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.4500": {
+        "name": "CHEN.4500 Nanoscale Trans. Phenomena for Manuf.  Nanodevices (Formerly 10/22/26.450)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4500/",
+        "id": "036698",
+        "description": "An interdisciplinary course taught by faculty from the Chemical, Mechanical and Plastics Engineering Departments, who have special knowledge in nanoscale fluid mechanics and heat transfer.  The course on nanoscale transport phenomena constitutes a bridge between existing fluid and heat transfer courses in multiple disciplines and emerging nanoscale science and engineering concepts to reflect the forefront of nanomanufacturing.  The course is designed to incorporate recent advances in manufacturing polymer based nanodevices.   Key issues of the implementation and maintenance costs for fabrication will be addressed.  Hands-on laboratory experiments will be performed to complement the lectures with the ultimate goal of designing and building a complete nanodevice at the end of the course.  The course will prepare graduates for employment focused on designing and manufacturing nano/microfluidic systems, lab on ship devices, electronic devices, medical devices and other emerging technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEN 3030 Fluid Mechanics and CHEN 3040 Heat Transfer.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.3030"
+                ],
+                [
+                    "CHEN.3040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.4910": {
+        "name": "CHEN.4910 Industrial Experience I (Formerly 10.491)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4910/",
+        "id": "002891",
+        "description": "Projects performed by students in the Cooperative Education Program at their place of employment and supervised by the employer and advisor from the department. Reports required upon completion of the project. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "12"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.4920": {
+        "name": "CHEN.4920 Industrial Experience II (Formerly 10.492)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4920/",
+        "id": "002892",
+        "description": "Projects performed by students in the Cooperative Education Program at their place of employment and supervised by the employer and advisor from the department. Reports required upon completion of the project.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.4930": {
+        "name": "CHEN.4930 Industrial Experience III (Formerly 10.493)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4930/",
+        "id": "002893",
+        "description": "Projects performed by students in the Cooperative Education Program at their place of employment and supervised by the employer and advisor from the department. Reports required upon completion of the project.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.4960": {
+        "name": "CHEN.4960 Selected Topics:Paper Engineering (Formerly 10.496)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/4960/",
+        "id": "002895",
+        "description": "Topics in paper engineering. Content may vary from year to year to reflect contemporary applications of paper engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5020": {
+        "name": "CHEN.5020 Principles of Chemical Engineering (Formerly 10.502)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5020/",
+        "id": "034592",
+        "description": "Introduction to the field of chemical engineering and solution of problems involving units and dimensions, mass balances, flow sheets and gas relationships.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5060": {
+        "name": "CHEN.5060 Colloidal, Interfacial and Nanomaterials Science and Engineering (Formerly 10.506)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5060/",
+        "id": "035692",
+        "description": "Unifying principle and the three main classes of colloids (dispersions, macromolecular solutions and micelles) are considered.  Topics covered include surface tension, work and energy, effect of surface curvature, zeta potential, surface activity and diverse applications of interest to chemical engineers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5080": {
+        "name": "CHEN.5080 Material Science and Engineering (Formerly 10.508)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5080/",
+        "id": "002900",
+        "description": "An advanced overview of solid materials that are likely to be considered for engineering applications in, or be produced by the chemical process industries. They will be discussed from the viewpoints of their unit cell structures, appropriate phase diagrams, their chemical and physical attributes, and the association of these to end use applications. Discussion of metals, ceramics, polymers, and composites.  For Non-UML graduates.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5100": {
+        "name": "CHEN.5100 Advanced Separation Processes (Formerly 10.510)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5100/",
+        "id": "002902",
+        "description": "This course emphasizes separation processes requiring a rate analysis for adequate understanding, which includes most of the newer separation methods of industrial importance such as membrane, sorption and chromatographic separations. Unifying fundamental relations and concepts are emphasized. Graphical and numerical design procedures are covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 10.310 Separation Process with Mass Transfer, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5120": {
+        "name": "CHEN.5120 Industrial Chemistry (Formerly 10.512)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5120/",
+        "id": "036645",
+        "description": "Survey of the major sources and uses of chemicals, industrial chemical processes, fundamental raw materials, and career paths available in the chemical industry.  More intensive treatment of selected industrial processes with emphasis of green/sustainable chemical processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 1220 Chemistry II and CHEM 2220 Organic Chemistry IIA.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "CHEM.2220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5200": {
+        "name": "CHEN.5200 Advanced Thermodynamics (Formerly 10.520)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5200/",
+        "id": "002907",
+        "description": "Classical and statistical thermodynamics are applied to develop procedures for obtaining estimates of equilibrium properties required for chemical process design. An introduction to surface energy as an important parameter in the processing of colloids, especially in the nanometer size range, will also be undertaken.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5220": {
+        "name": "CHEN.5220 Chemical Process Design (Formerly 10.522)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5220/",
+        "id": "002909",
+        "description": "Process synthesis, definition, and characterization.  Introduction to modular process simulation packages such as ASPEN PLUS, Recycle and tear stream analysis.  Stream convergence, Unit operations models, Flow sheet manipulation.  Data records and physical property estimation techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5230": {
+        "name": "CHEN.5230 Nanodevices and Electronics Materials Processing (Formerly 10.523)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5230/",
+        "id": "002910",
+        "description": "Materials processing methods in electronics and related industries; crystal contamination control, growth, diffusion, etching, epitaxy, ion implantation, lithography, and other topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5240": {
+        "name": "CHEN.5240 Self Assembly and Nanotechnology (Formerly 10.524)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5240/",
+        "id": "002911",
+        "description": "This course will describe two of the most fast-growing area/fields with both fundamental importance and practical relevance: self-assembly and nanotechnology.  The first half of the course will discuss the theories and applications of self-assembly phenomena.  The second half will focus on nanomaterials and nanotechnology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5250": {
+        "name": "CHEN.5250 Sustainable Chemistry and Engineering",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5250/",
+        "id": "041579",
+        "description": "This course will provide an overview of the principles of sustainable or green chemistry and engineering. The first half of the course will review the fundamental chemical engineering principles (including chemical reactions, kinetics, catalysis, thermodynamics, separations, and equilibrium) that can be used to advance the field of green chemistry and engineering. The second half of the course will introduce several emerging green engineering topics, including waste treatment, alternative energy, and renewable materials and chemicals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 1210 Chemistry I, PHYS 1410 Physics I or equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ],
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5260": {
+        "name": "CHEN.5260 Advanced Kinetics and Reactor Design (Formerly 10.526)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5260/",
+        "id": "038511",
+        "description": "The course will cover advanced chemical reaction kinetics, rate laws and reactor design with an emphasis on heterogeneous and catalytic reaction systems involving interphase and mass transfer effects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5280": {
+        "name": "CHEN.5280 Advanced Transport Phenomena (Formerly 10.528)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5280/",
+        "id": "002914",
+        "description": "An advanced study of the mechanisms of the transport processes. Transport equations are developed from both microscopic and macroscopic viewpoints. Analogies and similarities between the transport processes are discussed. Considerable emphasis is placed upon solutions to problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5290": {
+        "name": "CHEN.5290 Recent Advances in Nanotechnology and Green Chemistry (Formerly 10.529)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5290/",
+        "id": "002915",
+        "description": "This course is designed to expose students to a variety of concepts in chemistry and challenge them to think critically about experiments used to interrogate these concepts.  Organic polymer chemistry with an emphasis on electronically conducting polymers will be the main area of focus.  Students would first be introduced to scientific subject matter outside their realm of familiarity and be expected to identify new concepts and links to existing experimental paradigms.  The course is divided into 3 parts: (i)introduction to nanothehnology and green chemistry with a focus on nanoscale electronic polymers, (ii) green chemistry and the overlap area with nanotechnology, and (iii) green engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 1210 Chemistry I, or equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5300": {
+        "name": "CHEN.5300 Advanced Control Strategies (Formerly 10.530)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5300/",
+        "id": "002916",
+        "description": "An introduction to computer control and to some of the common control strategies applied to the design of complex chemical process control systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5320": {
+        "name": "CHEN.5320 Principles of Chemical Engineering II (Formerly 10.532)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5320/",
+        "id": "002918",
+        "description": "Continuation of Principles of Chemical Engineering including real gas relationships, humidity,energy balances, and combined mass-energy balance systems. Introduction to the first law of thermodynamics. Note: Non-majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 10:502 Principles of Chem Engineering.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5330": {
+        "name": "CHEN.5330 Macromolecular Colloidal Science and Engineering (Formerly 10.533)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5330/",
+        "id": "002919",
+        "description": "This course treats both synthetic and natural macromolecules (i.e., polymers, and biopolymers), Interrelating synthesis commercial manufacture, molecular, macroscopic and application properties as well as the colloidal nature of their solutions.  Pertinent fundamental principles are reviewed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEN.5060 Colloidal, Interfacial & Nanomaterials Science and Engineering or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.5060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5340": {
+        "name": "CHEN.5340 Industrial Bioprocessing",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5340/",
+        "id": "040429",
+        "description": "Students will learn principles and concepts of industrial bioprocessing. The course covers key concepts and practices of upstream, downstream and analytical bioprocessing technologies. In addition, recent FDA initiatives of Process Analytical Technology (PAT), Quality by Design, and Emerging Technologies will be covered. The course consists of 14 modules. Each module will cover subject matter provided by industry experts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2100 Biology for Engineers, and CHEN.3100 Separation Processes with Mass Transfer, and CHEN.4030 Chemical Reaction Engineering, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2100"
+                ],
+                [
+                    "CHEN.3100"
+                ],
+                [
+                    "CHEN.4030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5350": {
+        "name": "CHEN.5350 Cell and Microbe Cultivation (Formerly 10.535)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5350/",
+        "id": "002921",
+        "description": "This course presents the principles of biochemical engineering with an emphasis on the unit operation of cell cultivation for production of commercially important products, especially biopharmaceuticals. The bioreactor is viewed as a device for controlling the environment of recombinant and traditional cultures. Major topics include media design, kinetics of growth and production, expression systems, bioreactor types, cell physiology, and bioprocess economics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.4190 Biochemistry, or BIOL.5190 Biochemistry I, or CHEM.4500 Introduction to Biochemistry, or CHEM.5500 Biochemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190",
+                    "BIOL.5190",
+                    "CHEM.4500",
+                    "CHEM.5500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5370": {
+        "name": "CHEN.5370 Nanomaterials Characterization I (Formerly 10.537)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5370/",
+        "id": "039086",
+        "description": "This lecture course will provide an in-depth introduction to the principles, instrumentation and applications of most common nanomaterial characterization techniques. Nanomaterial imaging, physical, chemical, and optical property analyses are the main focus of this class. Topics covered will include: electron microscopy (SEM/TEM), scanned prove microscopy (AFM), elemental analysis (EDX/XPS), crystal structure analysis (XRD/SAED), thermal analysis (DSC/TGA), laser based characterization (LSCM/DLS/Raman), chromatographic methods (GC), infrared spectroscopy, UV/Vis spectroscopy and contact angle goniometry. The analytical and quantitative applications of these techniques for investigating different types of nanomaterials will also be described. Lab demonstrations will be included in lectures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5380": {
+        "name": "CHEN.5380 Advanced Separations in Biotechnology (Formerly 10.538)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5380/",
+        "id": "030314",
+        "description": "This course provides in depth analysis of the two methods used most often in Bioseparations, filtration and chromatography. For both techniques, basic concepts are reviewed. Membrane, depth, sterile and tangential flow filtration, as well as ion exchange, hydrophobic interaction, and hydroxyapetite chromatography are considered. The emphasis for both methods is on specific applications, scale-up, validation and cleaning",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5390": {
+        "name": "CHEN.5390 Mathematical Methods for Engineers (Formerly 10/24.539)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5390/",
+        "id": "001261",
+        "description": "Ordinary and partial differential equations, linear algebra, matrix/vector calculus, numerical methods, introduction to optimization methods, and other topics as time permits. Both analytical and numerical techniques are integrated to give good analytical skills coupled with practical problem solving tools. Extensive computer work with the MATLAB package is required. (Same as 24.539).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5410": {
+        "name": "CHEN.5410 Nanomaterials Characterization II (Formerly 10.541)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5410/",
+        "id": "002924",
+        "description": "This hands-on laboratory course will cover the practical aspects of light, electron and scanned probe microscopy techniques discussed in Nanomaterials Characterization I (10.540). A variety of nanomaterials samples systems will be characterized using laser scanning confocal microscopy (LSCM), scanning electron microscopy (SEM), transmission electron microscopy (TEM) and atomic force microscopy (AFM). The laboratory experiments will provide practical experience in sample preparation techniques, optimization of instrumental conditions for imaging and spectroscopy, and data analysis and interpretation. Students will work on individual term projects involving real-world samples that are of interest to them, and use the techniques they learned in the course to characterize their samples.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEN.5370 Nanomaterials Characterization I",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEN.5370"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5440": {
+        "name": "CHEN.5440 Formulation of Biotherapeutics (Formerly 10.544)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5440/",
+        "id": "038069",
+        "description": "Biotherapeutics, particularly antibodies, are currently the fastest growing pharmaceuticals.  Ideally, biotherapeutics are formulated in aqueous solutions and are often a great challenge due physical and chemical stability issues.  This course addresses the latest trends and challenges in biologics formulation with a focus on the important role of preformulation in understanding the biological molecule itself for greater \"formulatability\" and \"developability\".  The course will feature interactive discussions on early formulation screening, thorough biophysical and analytical characterization, improving the feedback loop in the early formulation-development interface, overcoming aggregation and other heterogeneity challenges, and improving overall product profile,  In addition, the course will also cover an optimization of the formulation process through rational iterative approach and in-depth case studies,  As a whole, this course focuses on providing you with additional tools and knowledge to help streamline solutions to formulation and stability issues for biologics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5450": {
+        "name": "CHEN.5450 Isolation and Purification (Formerly 81.545)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5450/",
+        "id": "001236",
+        "description": "Efficient isolation and purification of biological products, especially proteins, from complex natural mixtures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.4190 Biochemistry, or BIOL.5190 Biochemistry I, or CHEM.4500 Introduction to Biochemistry, or CHEM.5500 Biochemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190",
+                    "BIOL.5190",
+                    "CHEM.4500",
+                    "CHEM.5500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEN.5460": {
+        "name": "CHEN.5460 Biomaterials Science and Engineering",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5460/",
+        "id": "040651",
+        "description": "The goal of this course is to provide an understanding for design, synthesis, fabrication, and characterization of biomaterials for medical applications. The course will also cover biomimetic engineering strategies to generate materials that can be used for improving human health such as drug delivery, tissue engineering, and regenerative medicine. Example topics include biocompatibility, protein adsorption, degradation, swelling,mechanical properties, biomaterial-tissue interactions, vaccines, micro/nano technologies, instructive biomaterials for stem cells, medical devices and implants, performance of implants, and modulation of cell behavior and function through biomaterial strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5480": {
+        "name": "CHEN.5480 Engineering Process Analytics (Formerly 10.548)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5480/",
+        "id": "037586",
+        "description": "This course covers multivariate statistical data analysis and experimental design. Students will learn how to extract information by analyzing various engineering datasets, and how to generate information-rich datasets via minimum experiments. Software for data analysis and experimental design will be utilized during tutorial and practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5500": {
+        "name": "CHEN.5500 Biomedical Applications of Nanotechnology (Formerly 10.550)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5500/",
+        "id": "038427",
+        "description": "The course will aim to give students an introduction to the applications of nanotechnology in biomedicine. The course will cover the basics of nanomaterials including synthesis and characterization, use of nanotheranostics platforms for drug delivery and imaging, nanomaterials for tissue engineering; nanobiodevices and nanotoxicology. The course is designed for graduate students in the Chemical Engineering and the Biomedical Engineering/Biotechnology programs as well as seniors in Chemical Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5520": {
+        "name": "CHEN.5520 Directed Study: Chemical Engineering (Formerly 10.552)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5520/",
+        "id": "002927",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5550": {
+        "name": "CHEN.5550 Biopharmaceutical Regulatory Compliance (Formerly 10.555)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5550/",
+        "id": "002928",
+        "description": "This course examines the regulatory framework in which \"drugs\", biologics\" and \"cellular therapies\" are evaluated in the United States, including the laws, regulations and the state of industrial practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5560": {
+        "name": "CHEN.5560 Materials for Aerospace and Energy Applications (Formerly 10.556)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5560/",
+        "id": "038515",
+        "description": "Material requirements for emerging applications in aerospace and energy sectors will be discussed. Mechanical, thermal and electrical and barrier properties of filled polymers and polymer nanocomposites will be studied. The effect of resin structure, filler additives, reactive diluents on the resulting properties will be reviewed. Scale-up issues will be studied using basic principles of chemical engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5860": {
+        "name": "CHEN.5860 Biotechnology Processing Projects Laboratory (Formerly 10.586)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5860/",
+        "id": "002929",
+        "description": "Development of manufacturing processes for the products of biotechnology are followed through a series of process unit operations. Following the synthesis, purification and formulation of a specific enzyme throughout the course, students examine interactions between process steps and evaluate the impact of each on the total production process. As a final project, students assume the role of project team leader, developing a commercial-scale production process for the enzyme.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.5930": {
+        "name": "CHEN.5930 Cooperative Education (Formerly 10.593)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/5930/",
+        "id": "002931",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.6010": {
+        "name": "CHEN.6010 Seminar (Formerly 10.601)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/6010/",
+        "id": "002932",
+        "description": "Required for all graduate students.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.6020": {
+        "name": "CHEN.6020 Graduate Seminar (Formerly 10.602)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/6020/",
+        "id": "002933",
+        "description": "Required for all graduate students.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.6500": {
+        "name": "CHEN.6500 Nanoscale Transport Phenomena for Manufacturing Nanodevices (Formerly 10.650)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/6500/",
+        "id": "038291",
+        "description": "An interdisciplinary course taught by faculty from the Chemical, Mechanical and Plastics Engineering Departments, who have special knowledge in nanoscale fluid mechanics and heat transfer. The course on nanoscale transport phenomena constitutes a bridge between existing fluid and heat transfer courses in multiple disciplines and emerging nanoscale science and engineering concepts to reflect the forefront of nanomanufacturing. The course is designed to incorporate recent advances in manufacturing polymer-based nanodevices. Key issues of the implementation and maintenance costs for fabrication will be addressed. Hands-on laboratory experiments will be performed to complement the lectures with the ultimate goal of designing and building a complete nanodevice at the end of the course. The course will prepare graduates for employment focused on designing and manufacturing nano/microfluidic systems, lab-on-a-chip devices, electronics devices, medical devices, and other emerging technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7200": {
+        "name": "CHEN.7200 Special Projects in Chemical Engineering (Formerly 10.720)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7200/",
+        "id": "002942",
+        "description": "Special projects undertaken by a student to expand his/her knowledge in specific fields related to his/her master's project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7330": {
+        "name": "CHEN.7330 Graduate Project - Chemical Engineering (Formerly 10.733)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7330/",
+        "id": "002945",
+        "description": "Advanced research project required of students electing non-thesis option performed under the supervision of a senior faculty member in the Chemical Engineering Program. The project must be approved by an examining committee and the Department Chairperson.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7360": {
+        "name": "CHEN.7360 Graduate Project - Chemical Engineering (Formerly 10.736)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7360/",
+        "id": "002946",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7410": {
+        "name": "CHEN.7410 Thesis Review (Formerly 10.741)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7410/",
+        "id": "035264",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7430": {
+        "name": "CHEN.7430 Master's Thesis - Chemical Engineering (Formerly 10.743)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7430/",
+        "id": "002948",
+        "description": "Advanced research work required of students electing thesis option performed under the supervision of a senior faculty member in the Chemical Engineering Program. The thesis must be approved by an examining committee and the Department Chairperson.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7460": {
+        "name": "CHEN.7460 Master's Thesis - Chemical Engineering (Formerly 10.746)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7460/",
+        "id": "002949",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7500": {
+        "name": "CHEN.7500 Doctoral Dissertation Review (Formerly 10.750)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7500/",
+        "id": "039529",
+        "description": "Doctoral Dissertation Review",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7530": {
+        "name": "CHEN.7530 Doctoral Dissertation/Chemical Engineering (Formerly 10.753)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7530/",
+        "id": "002952",
+        "description": "Advanced research work required of students performed under the supervision of a senior faculty member in the Chemical Engineering Program. The dissertation topic must be approved by the doctoral committee.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7560": {
+        "name": "CHEN.7560 Doctoral Dissertation/Chemical Engineering (Formerly 10.756)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7560/",
+        "id": "002953",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7590": {
+        "name": "CHEN.7590 Doctoral Dissertation/Chemical Engineering (Formerly 10.759)",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7590/",
+        "id": "002954",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEN.7CPT": {
+        "name": "CHEN.7CPT Curricular Practical Training for Engineering Doctoral Candidates",
+        "url": "https://www.uml.edu/catalog/courses/CHEN/7CPT/",
+        "id": "041750",
+        "description": "Curricular Practical Training (CPT) is a training program for doctoral students in Engineering. Participation in CPT acknowledges that this an integral part of an established curriculum and directly related to the major area of study or thesis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

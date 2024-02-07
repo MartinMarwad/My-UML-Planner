@@ -1,0 +1,79 @@
+{
+    "total": 5,
+    "time": 5.618017911911011,
+    "PSMA.5000": {
+        "name": "PSMA.5000 Professional Science Master's (PSM) Professional Development (Formerly PSM 500)",
+        "url": "https://www.uml.edu/catalog/courses/PSMA/5000/",
+        "id": "037165",
+        "description": "Professional Science Master's students who are preparing to participate in an internship enroll in this Professional Development Seminar prior to the semester of their work period.  This seminar will provide them with resources and skills to manage an internship search, secure a position and work successfully in a professional environment.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSMA.5010": {
+        "name": "PSMA.5010 Professional Science Master's (PSM) Reflective Seminar. (Formerly PSM 501)",
+        "url": "https://www.uml.edu/catalog/courses/PSMA/5010/",
+        "id": "037168",
+        "description": "Reflective seminar following the internship which will enable Professional Science Master's (PSM) students to share and learn from the experiences of colleagues in other settings.  The seminar is be conducted on campus and will include writing and oral presentation of experience.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: PSM 500 Professional Science Master's (PSM) Internship.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSMA.5100": {
+        "name": "PSMA.5100 Professional Science Master's (PSM) Internship (Formerly PSM 510)",
+        "url": "https://www.uml.edu/catalog/courses/PSMA/5100/",
+        "id": "037166",
+        "description": "The internship component is expected to be 350 hour minimum and 3-6 month duration. The student will work within a business, government agency or research institute directly related to their area of study. Through this experience the student engages in real world work situations involving technical problems, teamwork, communication skills and decision-making. A student must have completed a minimum of 18 credit hours before commencing the internship.  This course records the internship experience and carries zero credits.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSMA.5350": {
+        "name": "PSMA.5350 Project Management for Scientists (Formerly PSM 535)",
+        "url": "https://www.uml.edu/catalog/courses/PSMA/5350/",
+        "id": "037833",
+        "description": "This course is designed to provide skills to prepare students to take on the role of project manager.  The necessity for project Management is now realized by most companies where the entire business including most of the routine activities can be regarded as a series of projects.  Project Management principles provide a systematic approach to running a business; both large and small businesses as well as a scientific laboratory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSMA.5550": {
+        "name": "PSMA.5550 Professional Leadership in Science and Engineering (PSM 555)",
+        "url": "https://www.uml.edu/catalog/courses/PSMA/5550/",
+        "id": "037832",
+        "description": "This course is designed to provide awareness and skills to prepare students to take on the role of leader.  Part of a technically competent professional's responsibilities or opportunities for advancement may include leading small projects or work groups.  This course will be organized around thematic video interviews with industry leaders to impart knowledge of and experience in leadership topics that support professional development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,400 @@
+{
+    "total": 23,
+    "time": 17.366782903671265,
+    "IENG.1010": {
+        "name": "IENG.1010 Introduction to Industrial Engineering",
+        "url": "https://www.uml.edu/catalog/courses/IENG/1010/",
+        "id": "041730",
+        "description": "This course provides a hands-on introduction to industrial engineering and the engineering design process. Through assignments and projects, students learn how to: identify a problem, develop alternative solutions, select the best alternative, make critical decisions, and work as a team. Students will be introduced to basic design )CAD) and control issues. Lecture and lab component.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.3010": {
+        "name": "IENG.3010 Deterministic Modeling and Analysis",
+        "url": "https://www.uml.edu/catalog/courses/IENG/3010/",
+        "id": "041731",
+        "description": "This course is concerned with the introduction to the formulation, solution, interpretation, and implementation of mathematical models in operations research including nonlinear programming, linear programming, integer programming, and network flows.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH.2210 Linear Algebra I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.3020": {
+        "name": "IENG.3020 Stochastic Modeling and Analysis",
+        "url": "https://www.uml.edu/catalog/courses/IENG/3020/",
+        "id": "041732",
+        "description": "An introduction to the theory, algorithms, approximations, and applications of stochastic processes. Topics studied include Markov chain and continuous and continuous time Markov process models and applications, renewal processes, Brownian Motion, analytical and numerical approximation methods, Markov decision processes. Application areas include inventory control, reliability, queuing, and decision analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.3860 Probability and Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.3030": {
+        "name": "IENG.3030 Manufacturing Processes",
+        "url": "https://www.uml.edu/catalog/courses/IENG/3030/",
+        "id": "041733",
+        "description": "This is an introduction to manufacturing processes, including a fundamental review of properties of metals, polymers, ceramics and composites. Processes including metal casting, forming, and shaping,including rolling, forging, extrusion, drawing, sheet metal forming, powder metallurgy, are reviewed. Fundamental machining processes are reviewed and advanced machining processes are introduced. Additive processes and joining processes, for polymers and metals, are introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.2020 Manufacturing Laboratory, and MECH.2960 Materials Science for Engineers.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.2020"
+                ],
+                [
+                    "MECH.2960"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.4010": {
+        "name": "IENG.4010 Automation and Control",
+        "url": "https://www.uml.edu/catalog/courses/IENG/4010/",
+        "id": "041734",
+        "description": "This course introduces students to the embedded electronics and software used in data acquisition, and process and instrument control in an industrial or manufacturing environment. Students will implement learning through PLC programming.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "EECE.3170 Microprocessors Systems Design I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EECE.3170"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.4040": {
+        "name": "IENG.4040 Manufacturing Systems Automation",
+        "url": "https://www.uml.edu/catalog/courses/IENG/4040/",
+        "id": "041735",
+        "description": "this course introduces a variety of concepts in manufacturing automation with the goal of designing and implementing and automated manufacturing system. Technologies covered include: automated flow lines, automated assembly systems, NC and CNC, industrial robot technologies and applications, group technology, computer aided process planning, flexible manufacturing systems, material handling and storage systems, and computer integrated manufacturing (CAD/CAM and CIM).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "IENG.3030 Manufacturing Processes, and Co-req: IENG.4010 Automation and Control.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "IENG.3030"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "IENG.4010"
+                ]
+            ]
+        }
+    },
+    "IENG.4041": {
+        "name": "IENG.4041 Manufacturing Systems Automation Lab",
+        "url": "https://www.uml.edu/catalog/courses/IENG/4041/",
+        "id": "041736",
+        "description": "This course accompanies the lecture component IE.4040, Manufacturing Systems Automation. Students will design and implement a manufacturing system, including material handling, storage, and machining, or other related processes. Simulation software will also be utilized.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: IENG.4040 Manufacturing Systems Automation.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "IENG.4040"
+                ]
+            ]
+        }
+    },
+    "IENG.4080": {
+        "name": "IENG.4080 Human-Machines Systems Design",
+        "url": "https://www.uml.edu/catalog/courses/IENG/4080/",
+        "id": "041737",
+        "description": "Designing human-machine systems involves the inclusion of humans in the design of products, processes, and systems. The goal of human factors is to reduce human error, increase productivity, and enhance safety and comfort with a specific focus on the interaction between the human and the environment. This is an introductory course that will focus on the cognitive considerations of the human in system design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.5010": {
+        "name": "IENG.5010 Adv. Deterministic Modeling and Analysis",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5010/",
+        "id": "041738",
+        "description": "this course is concerned with the theory and application of deterministic mathematical models in operations research. Topics include nonlinear programming, integer programming, integer programming and network flows. Advanced topics in linear programming (i.e.,duality theory, etc.), integer programming (i.e.,cutting planes, smart branching, and column generation), and nonlinear programming (i.e., search) are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "IENG.3010 Deterministic Modeling and Analysis, or Graduate Level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "IENG.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.5020": {
+        "name": "IENG.5020 Advanced Stochastic Modeling and Analysis",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5020/",
+        "id": "041739",
+        "description": "Advanced study in Markov chain and continuous time Markov process models and applications, renewal processes, Brownian Motion,analytical and numerical approximation methods, Markov decision processes and dynamic programming.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "IENG.3020 Stochastic Modeling and Analysis, or Graduate Level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "IENG.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.5030": {
+        "name": "IENG.5030 Advanced Manufacturing Processes",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5030/",
+        "id": "041740",
+        "description": "An in-depth analysis of advanced manufacturing processes with materials including metals, polymers and composites. Topics to include traditional subtractive processes as well as developing additive processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "IENG.3030 Manufacturing Processes, or Graduate Level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "IENG.3030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.5040": {
+        "name": "IENG.5040 Manufacturing Systems",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5040/",
+        "id": "041741",
+        "description": "This course introduces dynamics of manufacturing systems and frameworks of production planning and control. Topics covered in this course include demand forecasting, aggregate planning, inventory control, production control, and operations scheduling. The objective of the course is to help students understand basic concepts and principles in production systems and prepare themselves in dealing with various problems in production management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Graduate Level.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.5050": {
+        "name": "IENG.5050 Industrial Automation",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5050/",
+        "id": "041742",
+        "description": "This course introduces advanced topics in automation and control with applications in manufacturing, material handling, packaging and transportation. Specific attention is paid to the integration of these technologies in manufacturing systems and their control through data acquisition and analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "IENG.4040 Manufacturing Systems Automation, or Graduate Level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "IENG.4040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.5060": {
+        "name": "IENG.5060 Simulation",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5060/",
+        "id": "041743",
+        "description": "this course considers the application of computer simulation to industrial settings. Specific areas covered include system structure, system analysis, model construction, data collection, and computer simulation languages. The application of simulation to facilities layout for manufacturing is emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.3860 Probability and Statistics I, or Equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "IENG.5070": {
+        "name": "IENG.5070 Facilities Planning and Material Handling",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5070/",
+        "id": "041744",
+        "description": "this course focuses on the planning, design, and analysis of facilities. Considerations include product flow, space and activity relationships, personnel requirements, material handling, and layout. Traditional and contemporary issues in manufacturing and their impact on facilities design including receiving, shipping, warehousing, and integration with manufacturing and supporting operations are explored. Facilities planning models and the process of evaluating, selection, preparing, presenting, and implementing the facilities plan are covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.5080": {
+        "name": "IENG.5080 Advanced Human Machines System Design",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5080/",
+        "id": "041909",
+        "description": "This course considers the design of human machine interfaces as it applies to industrial settings. Specific areas covered include safety, ergonomics, intended use, form factors, and regulatory standards. The application of simulation to facilities layout for manufacturing is emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate level or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.5090": {
+        "name": "IENG.5090 Directed Study",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5090/",
+        "id": "041819",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.5432": {
+        "name": "IENG.5432 Life Cycle Sustainability Assessment",
+        "url": "https://www.uml.edu/catalog/courses/IENG/5432/",
+        "id": "042290",
+        "description": "This course will enable students to develop a hands-on, in-depth understanding of the frameworks, principles, tools, and applications of life-cycle assessment (LCA) to assess the environmental and social sustainability of products and supply chains. Topics covered include sustainability and systems thinking, LCA method, ISO standards, the computational structure of the Life Cycle Inventory, environmental LCA, social LCA, economic input-output LCA, handprint assessment, and related analysis. Finally, principles of sustainable systems (Production and Consumption) case studies will be discussed including sustainable food systems, sustainable energy, sustainable transportation, and sustainable buildings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sophomore Level or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.7410": {
+        "name": "IENG.7410 Masters Thesis",
+        "url": "https://www.uml.edu/catalog/courses/IENG/7410/",
+        "id": "041820",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.7510": {
+        "name": "IENG.7510 Advanced Projects in Industrial Engineering",
+        "url": "https://www.uml.edu/catalog/courses/IENG/7510/",
+        "id": "041818",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.7530": {
+        "name": "IENG.7530 Doctoral Dissertation/Industrial Engineering",
+        "url": "https://www.uml.edu/catalog/courses/IENG/7530/",
+        "id": "041910",
+        "description": "Doctoral Dissertation Research.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.7560": {
+        "name": "IENG.7560 Doctoral Dissertation/Industrial Engineering",
+        "url": "https://www.uml.edu/catalog/courses/IENG/7560/",
+        "id": "041911",
+        "description": "Doctoral Dissertation Research.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "IENG.7590": {
+        "name": "IENG.7590 Doctoral Dissertation/Industrial Engineering",
+        "url": "https://www.uml.edu/catalog/courses/IENG/7590/",
+        "id": "041912",
+        "description": "Doctoral Dissertation Research.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,2539 @@
+{
+    "total": 158,
+    "time": 102.06032657623291,
+    "PUBH.1000": {
+        "name": "PUBH.1000 Environmental Health Seminar (Formerly 31.100)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/1000/",
+        "id": "035835",
+        "description": "This required, non-credited seminar for Freshman and Sophomore Environmental health Students explores current affairs and controversies in environmental health theory and practice.  Readings and outside speakers will supplement short lectures, faculty and student-led discussions.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.1010": {
+        "name": "PUBH.1010 Public Health Seminar (Formerly PUBH.101)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/1010/",
+        "id": "038616",
+        "description": "This course is designed to orient first year Public Health students to the College of Health Sciences and the University as a whole. The general purpose of the course is to help students identify their areas of interest in Public Health and teach students valuable skills that will maximize their likelihood of success in achieving their academic and professional goals. Areas of priority will be time management and study skills, critical thinking, and communication.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Public Health Majors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.1021": {
+        "name": "PUBH.1021 Introduction to Public Health (Formerly 30.102)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/1021/",
+        "id": "037903",
+        "description": "Public health topics, both historical and contemporary are of importance to all citizens and to societal decisions.  This survey course provides a foundation for understanding public health through exposure to current health care and policy issues viewed through the perspective of multiple disciplines.  Methodology for understanding population health and developing critical thinking and decision-making skills in the analysis of public health issues using a population-based perspective will be developed.  The course will provide an ecological understanding of the causation and prevention of disease with an emphasis on health issues that affect society as a whole.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "College of Health Sciences Majors, or Public Health minors, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.2010": {
+        "name": "PUBH.2010 Community Health and Environment (Formerly 31.201)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2010/",
+        "id": "004476",
+        "description": "This course emphasizes the concepts, philosophy, and principles of public health and their relationship to physical, mental, and social well-being of the community. The focus is on the prevention of disease, the promotion and maintenance of health, and the provision of environmental and personal health services through organized community effort.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "College of Health Sciences Majors or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.2040": {
+        "name": "PUBH.2040 Intro to Health Promotion (Formerly 31.204)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2040/",
+        "id": "004478",
+        "description": "This course focuses on the role health education plays in the development of healthful patterns of living. A philosophy of health education emphasizing holistic health will be generated. The organization and administration of school, community, health care facility, and workplace health education programs are introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Public Health Majors, or Community Health Minors, or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.2050": {
+        "name": "PUBH.2050 Social Determinants of Health (Formerly 31.303, and PUBH.3030)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2050/",
+        "id": "004481",
+        "description": "This course introduces students to the concept of social determinants of health, and strongly emphasizes the influence of social power relations on public health.  There is a focus on how social, economic and political factors affect the level and distribution of individual, community, and population health. Students will examine health and social inequalities and explore potential solutions for their elimination.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.1021 Introduction to Public Health and Public Health, or Pharmaceutical Sciences, Majors or Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.1021"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.2060": {
+        "name": "PUBH.2060 Research Methods in Public Health (Formerly 31.206)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2060/",
+        "id": "032566",
+        "description": "Introduction to research methodologies used in the study of community and environmental health problems.  Students will discuss actual research studies conducted by UMASS Lowell faculty in the College of Health Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Public Health or Community Health Majors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.2070": {
+        "name": "PUBH.2070 The U.S. Healthcare System (Formerly 31.321 and PUBH.3210)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2070/",
+        "id": "004488",
+        "description": "This introductory course focuses on the organization, financing and delivery of healthcare in the United States. Students will learn about the public and private sectors of the healthcare system and examine the effects of market competition and government regulation. Students will be exposed to healthcare systems of other countries. Students will also explore major issues currently facing providers, hospitals as well as the pharmaceutical and health insurance industries in the United States.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.1021 Introduction to Public Health, and ENGL.1020 College Writing II, or Public Health minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.1021"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.2080": {
+        "name": "PUBH.2080 Principles of Environmental Health Science (Formerly PUBH.208)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2080/",
+        "id": "004487",
+        "description": "This is a survey course that provides an overview of the rapidly growing field of environmental health, through an introduction to the links between environmental stressors and impacts on public health. The course will explore human and industrial activities that impact on health such as overpopulation, food production, air and water pollution, waste, toxic substances, pests, and global climate change. The course will also examine the types of diseases and illnesses that result from environmental impacts. These impacts have multiple causes and understanding these can in turn provide clues as to the most effective prevention options. Students will explore topics of interest in greater detail through short writing assignments.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Public Health Majors or Minors or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.2090": {
+        "name": "PUBH.2090 Technical Writing in Public Health",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2090/",
+        "id": "041834",
+        "description": "The intent of this course is to prepare students for conveying Public Health technical communications, i.e., the presentation of specialized information in an accessible way to a variety of audiences. Specifically, the course will focus on the process of writing (including  the planning, drafting, and revising stages) and looking carefully at the work that goes into the final polished product. As collaboration is often a key part of the professional realm, students will spend much of the semester working with their classmates, which will include participating in brainstorming sessions, providing constructive criticism, and preparing their assignments.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "PUBH.1021 Introduction to Public Health, and ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.1021"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.2110": {
+        "name": "PUBH.2110 Sustainable Development (Formerly PUBH/57.211)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/2110/",
+        "id": "006134",
+        "description": "This course examines workplace and regional factors that shape the prospects for sustainable prosperity and worker and community empowerment. The course begins by reviewing recent trends in the distribution of income and wealth and the industrial structure of the New England economy. The historical dynamics shaping work organization and regional development are examined. Several industry case studies are selected because of their importance to the regional and national economy. The case studies provide focus for studying the strategic choices made by firms in mature industries and newly emerging regions; the basis of competitive advantage for Japanese firms and the response of American rivals; and the influence of the product cycle and regional institutions on capture or retention of emerging and mature industries. The final section of the course focuses on the prospects for sustainability of the organization of production and its environmental impact, incentives for skill development and technological innovation, and shared prosperity. A central course objective is to foster an understanding of the links between the workplace and region in the pursuit of sustainable development and shared prosperity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.3010": {
+        "name": "PUBH.3010 Introduction to Biostatistics (Formerly 19.301)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3010/",
+        "id": "038159",
+        "description": "This course covers the basic tools for the entry, analysis, and presentation of data in al areas of public health. Central to these skills is assessing the impact of chance and variability on the interpretation of research findings subsequent recommendations for public health practice and policy. Specific topics include tools for describing central tendency and variability in data; methods for performing inference on population means and proportions; and statistical hypothesis testing. Software will be used to analyze health datasets, including relational databases and create graphical presentations of study results. Coursework will also focus on the interpretation of statistics in the health science literature and other communication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020, and MATH.1280, or MATH.1310, or MATH.2830, or MATH.3630.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "MATH.3630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3011": {
+        "name": "PUBH.3011 Program Planning in Health Promotion (Formerly 31.301)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3011/",
+        "id": "004479",
+        "description": "This course is the first of a two course series designed to introduce undergraduate Public Health students studying Community Health and Health Promotion to the concepts and principles underlying the planning principles geared toward promoting health and preventing disease in a variety of settings. The course emphasizes practical utility of the concepts as they relate to the students' future health education/promotion professional activities. The foundation of the course will be the skills necessary to conduct a needs assessment and develop a comprehensive program to address a health concern affecting a specific population in a particular setting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.2040 Introduction to Health Promotion.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3020": {
+        "name": "PUBH.3020 Health Communication (Formerly 31.302)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3020/",
+        "id": "004480",
+        "description": "This course explores the uses of a variety of established and emerging health communications strategies, techniques, and modalities. Students will consider the ethical considerations pertinent to the use of assorted health communications approaches in health promotion. The course discusses the concepts of health literacy and eHealth literacy. Awareness and sensitivity toward cultural, ethnic, and religious diversity will be particularly emphasized when discussing various communication techniques in relation to particular health issues. Meets Core Curriculum Essential Learning Outcome for Written and Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.1021 Intro to Public Health, and ENGL.1020 College Writing II, and HSCI.3400 IPE Research Methods, or PUBH.2060 Research Methods in Public Health, and Public Health Majors/Minors only, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.1021"
+                ],
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "HSCI.3400",
+                    "PUBH.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3040": {
+        "name": "PUBH.3040 Politics and Advocacy in Public Health (Formerly 31.304)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3040/",
+        "id": "004482",
+        "description": "Public health is inherently political because it attempts to characterize and prevent societal factors influencing disease and well-being. As a result, public health professionals must be effective advocates for policies and actions that improve people's health. This course introduces students to the political underpinnings of public health. By studying the political contexts of public health issues, students will explore the interface of government, law economic interests, and social movements for public health. They will learn about the role of advocacy in promoting, implementing and sustaining effective public health policy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.3070 Intro to Public Health Policy, and Public Health Majors or Minors Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.3070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3050": {
+        "name": "PUBH.3050 Introduction to Epidemiology (Formerly 31.305)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3050/",
+        "id": "004483",
+        "description": "This course is designed to introduce basic epidemiological methods used in the study of current major health problems.  Content includes explanation of the scope and focus of epidemiology, simple measures of disease frequency and association used in the study of the distribution and determinants of disease, types of epidemiological study designs, and practical applications.    Emphasis on interpretation of epidemiological information and application of findings  Prerequisite:  Community Health and an elementary statistics course.  Required for seniors in Community Health Education; open by permission to other upper division students in Health Professions.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL) and Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.3400 IPE Res Methods, or PSYC.2690 Res Methods, and PUBH.1021 Intro to Pub Health, and MATH.1280, or MATH.1310, or MATH.2830, or MATH.3630, or PUBH.3010 and Pub Health Majors/Minors only, Nutritional Sci, or Pharm Sci, Jr/Sr Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3400",
+                    "PSYC.2690"
+                ],
+                [
+                    "PUBH.1021"
+                ],
+                [
+                    "PUBH.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3060": {
+        "name": "PUBH.3060 Community Health Assessment (Formerly 31.306 Socio-Ecological Health Assessment)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3060/",
+        "id": "004484",
+        "description": "This course focuses on building health assessment skills of Public Health professionals. The course will introduce students to concepts of Community Health Assessments and guide students to practice skills necessary to conduct them. The course will emphasize the importance of using assessment results to make programmatic and policy decisions and will direct participants in how to communicate findings to allow policymakers, health professionals, and members of the public to take action to improve Public Health. Meets Core Curriculum Essential Learning Outcome for Critical Thinking/Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.3011 Program Planning in Health Pro, and HSCI.3400 IPE Research Methods, or PUBH.2060 Research Methods in Public Health, and PUBH.2050 Social Determinants of Health.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.3011"
+                ],
+                [
+                    "HSCI.3400",
+                    "PUBH.2060"
+                ],
+                [
+                    "PUBH.2050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3070": {
+        "name": "PUBH.3070 Introduction to Public Health Policy (Formerly PUBH.221 and PUBH.2210)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3070/",
+        "id": "038615",
+        "description": "One of the core functions of Public Health is developing policies and plans that support individuals and community health efforts. This course introduces students to the legal, ethical, economic and regulatory dimensions of healthcare and public health policy. Students will explore local, state and national governmental agency roles in public health policy. Students will learn about the implications of laws and regulations that impact Community Health and Safety.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.2070 The U.S. Healthcare System, and ENGL.1020 College Writing II, and HSCI.1020 Anatomy and Physiology II, or Public Health Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.2070"
+                ],
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "HSCI.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3100": {
+        "name": "PUBH.3100 Infectious Disease (Formerly PUBH.310)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3100/",
+        "id": "038611",
+        "description": "This course introduces students to the fundamentals of communicable diseases and how humans and the environment affect their distribution and impact. The course will provide an overview of infectious diseases, how these diseases affect humans, vectors and sources of these diseases. The course will also cover infectious disease surveillance, outbreak investigation and response as well as prevention planning and bioterrorism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.2110 Basic Clinical Microbiology & Pathology, and HSCI.2130 Basic Clinical Microbiology & Pathology Laboratory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2110"
+                ],
+                [
+                    "HSCI.2130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3160": {
+        "name": "PUBH.3160 Environmental Health in Practice (Formerly 31.316/19.507)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3160/",
+        "id": "032049",
+        "description": "Through a combination of class lectures, field trips, and a service learning project, this course is designed to introduce students to the daily responsibilities of an environmental health professional.  The class will provide in-depth knowledge and hands-on understanding of topics such as food safety, indoor air quality, water quality, waste water disinfection, and chemicals management.  Through lectures and guest speakers students will understand the challenges facing environmental health professionals and the resources available to them.  Students will undertake a final group project for a health board or other organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.2080 Principles of Environmental Health, and Environmental Health or Public Health (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.2080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.3710": {
+        "name": "PUBH.3710 Chemicals and Health (Formerly 31.371)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/3710/",
+        "id": "036702",
+        "description": "Provides a broad overview of how the design, manufacture, use and disposal of chemicals and chemical products affect health and ecosystems. Provides an in-depth overview of how chemicals are monitored in the environment  (including biomonitoring), how their risks are characterized, and the prevention of chemical risks through safer chemical design.  Meets Core Curriculum Essential Learning Outcome for Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: HSCI 2510 Physiological Chem I, HSCI 2520 Physiological Chem II, 31.313 Prin of Environmental Health or Public Health (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2510"
+                ],
+                [
+                    "HSCI.2520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.4010": {
+        "name": "PUBH.4010 Public Health Senior Seminar",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4010/",
+        "id": "040517",
+        "description": "The Public Health Senior Seminar prepares public health students for their capstone experience. Students will reflect on their career plans and their current state of preparedness for the next steps in professional development. This course provides an overview of the current state of various professions in public health and the future of public health practice and ethics, both nationally and internationally. Meets Core Curriculum Essential Learning Outcome for Social Responsibility and Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre or Co-req: PUBH.3050 Introduction to Epidemiology, and Public Health Majors only, and Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PUBH.3050"
+                ]
+            ]
+        }
+    },
+    "PUBH.4011": {
+        "name": "PUBH.4011 Implementation and Evaluation in Health Promotion",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4011/",
+        "id": "040721",
+        "description": "This course is the second in a two course series designed to introduce undergraduate Public Health students studying Community Health and Health Promotion to the concepts and principles surrounding implementation and evaluation of programs geared toward promoting health and preventing disease in a variety of settings. This course emphasizes practical utility of the concepts as they relate to the students' future health education/promotion professional activities. The foundation of the course will be the skills necessary to develop an implementation and evaluation strategy for a planned health promotion initiative, taking into consideration the phases of implementation and evaluation, ethical considerations, and resources and skills required to implement and evaluate a successful health promotion program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.3011 Program Planning in Health Promotion.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.3011"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.4030": {
+        "name": "PUBH.4030 Mind, Body and Health (Formerly 31.403)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4030/",
+        "id": "004492",
+        "description": "The interconnectedness of the mind, body, and spirit is integral to achieving \"wellness\".  It is also important to acknowledge the impact each of these three aspects of wellness has upon each of the others.  The growing body of research indicating the significant effects of things such as stess, anger, optimism, and healthy relationships on health status will be analyzed and evaluated.  Practical strategies related to health advisement will be shared and experimented with during the semester.  In this senior level course, we will explore these and many other areas of mind, body, and spirit awareness that are critical to consider when conducting health education programs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH 3010 Program Planning in Health Promotion, and Co-Reqs: PUBH 3040 Politics of Health; and  Community Health or Public Health (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.3010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PUBH.3040"
+                ]
+            ]
+        }
+    },
+    "PUBH.4050": {
+        "name": "PUBH.4050 Communication Techniques in Health Promotion (Formerly 31.405)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4050/",
+        "id": "004494",
+        "description": "This course focuses upon the communication techniques and mass media approaches necessary to promote and implement effective health promotion programs and activities. Awareness and sensitivity toward cultural, ethnic, and religious diversity will be particularly emphasized when discussing various communication techniques in relation to  particular health issues.   Meets Core Curriculum Essential Learning Outcome for Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre.req: PUBH.3011 Program Planning in Health Promotion,and Public Health Majors only or instructor Permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.3011"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.4090": {
+        "name": "PUBH.4090 Service Learning in Community Health (Formerly 31.409)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4090/",
+        "id": "004496",
+        "description": "This course is designed to serve as a service learning experience in the fall semester of students' senior year in Health Education. Students will be expected to participate in a pre-determined community health project happening in the City of Lowell for a minimum of 40 hours. During the course of this experience, students will provide the community health organization with their time, knowledge, and effort, and will, in return, gain tremendous experience in the organization, development, implementation, and/or evaluation of Community Health Education and Promotion Projects. Collaboration with various professionals involved in the programs and projects will certainly add to students' understanding of what a Health Educator does!  An integral piece of this service learning experience will be the bi-monthly seminar geared toward asuring the connection between the community experience and the theoretical and academic framework from which it is derived  Through the use of readings, discussions, student presentations, and guest speakers, students will gain wonderful experience in terms of what it means to \"build the capacity of a community\".   Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: PUBH.4050 Communication Techniques in Health Promotion and Public Health Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PUBH.4050"
+                ]
+            ]
+        }
+    },
+    "PUBH.4100": {
+        "name": "PUBH.4100 Public Health Capstone (Formerly 31.410)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4100/",
+        "id": "004497",
+        "description": "This capstone is the culminating experience for all students in the BS in public health that allows students to integrate, synthesize and apply the knowledge of public health gained throughout their undergraduate program. It can be structured as a cumulative, integrative and scholarly experience or an applied experience or inquiry project. Each student will craft an experience that is appropriate for his /her professional goals in aspirations. Projects may include internships, research papers, honors theses, or other appropriate activities that apply a range of public health competencies and skills. Students create a portfolio of work and/or research poster for the experience demonstrating proficiency in the domains of public health.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "PUBH.4010 Sr. Seminar in Public Health.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.4010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.4130": {
+        "name": "PUBH.4130 Public Health Administration",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4130/",
+        "id": "040722",
+        "description": "The class will introduce students to the basics of public health program administration including planning, evaluation, and management. Through lectures, guest seminars, site visits and research, students will build and understanding of different types of agencies and organizations involved in public health administration and their roles and responsibilities. They will learn the steps of development, implementation, and evaluation of a public health program at a local or state agency. Students will also study basics of the management of public health agencies, including staff management, budgeting, stakeholder engagement, conflict resolution, and risk communication. Students will be required to apply concepts learned in class to a real life public health problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Public Health Major, or Minor, or Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.4140": {
+        "name": "PUBH.4140 Program Management in Health (Formerly 31.414)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4140/",
+        "id": "001253",
+        "description": "The concepts of program management including budgeting, managing partner relationships, grant writing, and managing technology resources, and quality assurance which are essential functions for individuals working in public health agencies, are presented. Students will be expected to develop a grant proposal for an agency. This course is an integrative experience and resources form all other relevant coursework will be called upon.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: PUBH.4011 Implementation and Evaluation in Health Promotion, and Public Health Majors only, and Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PUBH.4011"
+                ]
+            ]
+        }
+    },
+    "PUBH.4160": {
+        "name": "PUBH.4160 Environmental Health Practicum (Formerly 31.416)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4160/",
+        "id": "032048",
+        "description": "This course is designed to provide students real world practical experience in the field of environmental health, as final preparation for their BS Degree.  This 32 hour/week internship opportunity situates students in an environmental health setting most conducive to his or her needs and interests. Placements can vary from health boards and health departments to non-profit agencies, government agencies, university research institutes, and industry.  Students work directly with an academically and professionally qualified preceptor to assure their progress in the field.  The faculty supervisor is responsible for periodic meetings and correspondence to also assure appropriate development.",
+        "credits": {
+            "min": "10",
+            "max": "10"
+        },
+        "requirements-text": "PUBH 4090 Service Learning in Community Health, and Co-req or Pre-req PUBH 4140 Program Mgmt. in Health; Environmental Health (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.4090"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PUBH.4140"
+                ]
+            ]
+        }
+    },
+    "PUBH.4930": {
+        "name": "PUBH.4930 Directed Study (Formerly 31.493)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/4930/",
+        "id": "004499",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5000": {
+        "name": "PUBH.5000 Analytical Context of the Work Environment (Formerly 19.500)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5000/",
+        "id": "003542",
+        "description": "An overview course to be taken in the first semester in the Master's program.  Case studies are used to introduce students first to the hazard analysis methods, and second, to the prevention methods of each of the department's sub-disciplines.  Interconnections between exposures and illness/accident development are reviewed at three levels: individual, work organization and society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5010": {
+        "name": "PUBH.5010 Social and Behavioral Determinants of Health (Formerly PUBH 501)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5010/",
+        "id": "038621",
+        "description": "This course introduces core concepts of social and behavioral determinants of health and provides a foundation for the analysis of social, political and economic influences on health and their role in contributing to health inequities. The core functions of public health and essential services are discussed as well as the history of public health, its philosophy and values. Upstream and downstream reforms to addressing fundamental determinants are evaluated. The influence of behavioral and psychological factors on health and disease are analyzed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5020": {
+        "name": "PUBH.5020 Organizational Behavior in Health Care (Formerly 32.502)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5020/",
+        "id": "033039",
+        "description": "This course reviews the organizational structure of healthcare facilities and the behavior of individuals within them. Students analyze the role of administration, human resources, providers and other support staff and apply organizational, behavioral, and social science practice and theory, to the operations of the healthcare organization. Comparison is made between healthcare and non-health care types of industry to highlight the unique characteristics of healthcare workers. An emphasis is also made on leadership styles, organizational culture, and change management within the healthcare organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5021": {
+        "name": "PUBH.5021 Public Health Policy (Formerly PUBH 502)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5021/",
+        "id": "038618",
+        "description": "The course focuses on expanding students' knowledge and skills for developing and evaluating contemporary public health policy in the United States and international settings. Students will gain information about the current US national health care system as it relates to emergent public health topics and priorities in the US and globally. This course will focus on competencies for designing, implementing, evaluating and advocating for evidence-based policy, program and practices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5030": {
+        "name": "PUBH.5030 Toxicology and Health (Formerly 19.503)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5030/",
+        "id": "003545",
+        "description": "The course introduces students to the basic principles and mechanisms of toxicology with a focus on occupational and environmental health. Concepts of dose, dose rate, dose-response analysis, and test systems are presented in the context of the toxicology of major organ systems and toxic agents. The course covers toxicology of major organ systems (respiratory, dermal, immunologic, cardiovascular, neurological, reproductive systems, and cancers), major classes of contaminants (airborne particles, respirable fibers, vapors/gases, heavy metals, organic solvents, pesticides, sensitizers, emerging contaminants), and their mechanisms of action. A review of the necessary human biology and biochemistry of life is also provided.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5050": {
+        "name": "PUBH.5050 Qualitative Research Methods (Formerly 19.505)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5050/",
+        "id": "003547",
+        "description": "This course explores and examines non-quantitative methodologies in the social sciences and political economy.  The course will discuss hypothesis generation, survey design, research problem design, case studies, ethnographic methods, participatory research methods, content analysis, interviewing techniques and key informant interviews.  Doctoral students in work environment policy are particularly urged to take this course. The course will be offered in collaboration with the Department of Regional Economic and Social Development as course 57.592.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5060": {
+        "name": "PUBH.5060 Quantitative Methods in Health Management (Formerly 32.506)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5060/",
+        "id": "034589",
+        "description": "This course explores analytic methods that can be used to improve the decision making of management, clinicians and others within the healthcare industry. Students learn the conceptual foundations of quantitative analysis and common methods used in supporting decision-making; developing evidence-based practices; analyzing data and testing hypotheses. Students also learn how to use industry-standard data analysis software applications, statistical packages and common applications for the development and reporting of analytic findings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5061": {
+        "name": "PUBH.5061 Environmental Health (Formerly 19.506)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5061/",
+        "id": "030821",
+        "description": "This environmental health course explores the links between human activities and environmental systems and examines how these interactions can impact human health. The course is designed to provide knowledge and skills necessary to understand how human and industrial activities such as population growth, methods of food production, pollution of the air and water, waste, the built environment, toxic substances, pest control, and global climate change can result in human diseases and impact the environment. Understanding the links between human activities and environmental systems is essential to developing effective prevention strategies and building sustainable communities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5070": {
+        "name": "PUBH.5070 Leadership and Management in Public Health",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5070/",
+        "id": "040900",
+        "description": "The purpose of this course is to enhance the students' ability to effectively build and lead high-performing Public Health organizations. This course will integrate fundamental principles from the behavioral and social sciences to provide students with a coherent set of strategies and techniques to effectively collaborate with internal external stakeholders as well as to influence meaningful, sustainable change. This course will also provide students opportunities to self-reflect on their own leadership styles and develop growth plans.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5080": {
+        "name": "PUBH.5080 Principles and Practices of Biological Safety (Formerly 19.508)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5080/",
+        "id": "035700",
+        "description": "This course is designed to provide an overview of hazard recognition, evaluation and control of potentially hazardous biological materials.  This introduction to the field will cover the potential risks of working with biological materials, the use of engineering, work practices and administrative measures for hazard control and regulations governing the area of biosafety.\nRequires working knowledge of Microbiology, and permission of Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5100": {
+        "name": "PUBH.5100 Fundamentals of Occupational Health (Formerly 19.510)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5100/",
+        "id": "003549",
+        "description": "This course provides an overview of key topics in the field of occupational health and safety including physical agents and biological and chemical hazards. The measurement and control of various physical agents are covered, including noise, ionizing and non-ionizing radiation, heat stress and extreme environments. Students will understand the health risks from biological hazards and blood borne pathogens, as well as the regulations and methods of prevention. They will also gain knowledge of hazard communication regulations, material safety data sheet and how to research chemical hazards.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5110": {
+        "name": "PUBH.5110 Health Care Finance (Formerly 32.511)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5110/",
+        "id": "033042",
+        "description": "Provides broad exposure to the concepts and practices of healthcare finance and healthcare financial management. Teaches a practical understanding of basic healthcare financial issues, financial reporting and analysis, and provider payment structures. The course enables students to read, analyze and use healthcare financial information in today's healthcare environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5120": {
+        "name": "PUBH.5120 Operations Analysis for Quality Improvement (Formerly 32.512)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5120/",
+        "id": "033483",
+        "description": "This course focuses on a multi-disciplinary approach to operations analysis, process redesign and quality improvement in health care. Focus is placed on the tools, methods and processes used for improving work flow processes, patient safety and performance in a variety of health care settings. Students study the history, development and principles of quality improvement in healthcare.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate level or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5130": {
+        "name": "PUBH.5130 Assessment and Planning in Public Health",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5130/",
+        "id": "040898",
+        "description": "This course presents methods, concepts and techniques required for the identification of resources and needs, and planning of public programs and advocacy efforts to meet those a community, state, national, and global levels. Students will engage in community assessment and planning activities based on ethical and professional principles. This course will enhance skills needed for a health education specialist.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5140": {
+        "name": "PUBH.5140 Healthcare Management (Formerly 32.514)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5140/",
+        "id": "033130",
+        "description": "This course provides a framework for addressing common issues faced by management within a healthcare organization. Students are provided with an overview of how healthcare institutions are organized and governed, the unique roles of management, clinical staff, support staff, and human resources in the healthcare setting. Students also learn the management systems designed for efficient and effective operations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5141": {
+        "name": "PUBH.5141 Aerosol Science (Formerly 19.514)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5141/",
+        "id": "003553",
+        "description": "Basic properties of airborne particles, with particular regard to properties important to health. Includes basic properties of gas-borne particles, uniform particle motion, particle collection mechanisms, filtration, particle sampling, respiratory deposition, particle statistics, electrical properties, and optical properties. Course includes lectures and laboratory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5150": {
+        "name": "PUBH.5150 Applied Health Economics (Formerly 32.515)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5150/",
+        "id": "033127",
+        "description": "Students explore the economic dimensions of healthcare by considering the input, output, production and costs of producing quality healthcare which meets demand and evaluates the behavior of supply. Students consider provider payer systems and aspects relative to private and public health insurance in determining market power and competitive markets. Common economic evaluation methods are introduced to measure health service feasibility, and promote value judgment in the realm of healthcare reform and regulatory compliance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5160": {
+        "name": "PUBH.5160 Laboratory Environmental Health and Safety (Formerly 19.516)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5160/",
+        "id": "035347",
+        "description": "This course is designed to provide an overview of hazard recognition, evaluation and control in laboratory environments.  This introduction to the field will cover the potential risks of working with chemicals, radioactive materials, animals and biological materials.  It will also introduce the use of engineering, workpractices and administrative measures for hazard control and regulations governing the area of laboratory safety.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5210": {
+        "name": "PUBH.5210 Introduction to  Industrial Hygiene (Formerly 19.521)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5210/",
+        "id": "003558",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5230": {
+        "name": "PUBH.5230 Introduction To Ergonomics (Formerly 19.523)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5230/",
+        "id": "003559",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5250": {
+        "name": "PUBH.5250 Industrial Hygiene and Ergonomics (Formerly 19.525)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5250/",
+        "id": "003560",
+        "description": "A survey course covering introductory topics in ergonomics and industrial hygiene. Ergonomics topics include work measurement, anthropometry, biomechanics, psychosocial stress and work reorganization, special emphasis is placed on the recognition and control of work-related musculoskeletal disorders. Industrial hygiene topics will cover the identification, measurement, and control of chemical and physical hazards in the work environment including principles of air sampling and analysis, ventilation and other control technologies, and the use of personal protective equipment with special attention to respiratory and hearing protection.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5270": {
+        "name": "PUBH.5270 Business Strategies for Health Organizations  (Formerly 32.527)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5270/",
+        "id": "033041",
+        "description": "This course explores the important aspects of planning and implementation of business strategies in a health service organization. Students learn about the multi-step process of creating and managing a successful business plan, as well as strategies and solutions for analyzing business situations while utilizing popular tools of the industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5300": {
+        "name": "PUBH.5300 Ergonomics and Work (Formerly 19.530)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5300/",
+        "id": "003561",
+        "description": "An overview of the scientific basis for design of the workplace to optimize physical and mental interaction of workers with machines, tools, and work methods. Topics include work measurement, anthropometry, biomechanics, work physiology, cumulative trauma disorder and information presentation and processing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5310": {
+        "name": "PUBH.5310 Health Informatics (Formerly 32.531)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5310/",
+        "id": "033129",
+        "description": "This course introduces healthcare professionals to the power of data and the importance of analysis. Students learn how population informatics, consumer health informatics, translational bioinformatics, and clinical research informatics are essential components in selecting the techniques and systems used for transforming clinical data into information, knowledge and improved decision-making. The past, current and future role of healthcare IT is also discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5311": {
+        "name": "PUBH.5311 Occupation Biomechanics (Formerly 19.531)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5311/",
+        "id": "003562",
+        "description": "The anatomical and physiological basis of human motor capabilities. Quantitative models are developed to explain muscle strength performance, motion control, physical fatigue, and acute and chronic musculoskeletal trauma, particularly static link models of lifting and other manual activities. Application to the evaluation and design of various tasks and occupations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5315": {
+        "name": "PUBH.5315 Classification Systems and Reimbursement",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5315/",
+        "id": "042177",
+        "description": "This course introduces the clinical classification systems, reimbursement methodologies and terminologies of health information. Topics include the International Classification of Diseases (ICD-CM and PCS), Healthcare Common Procedural Coding System (HCPCS), Current Procedural Terminology (CPT), The Diagnostic and Statistical Manual of Mental Disorders (DSM-V), National Drug Codes (NDC), and data standard requirements such as Systematized Nomenclature of Medicine Clinical Terms (SNOMED), Logical Observation Identifiers Names and Codes (LOINC), RxNorm, and other unified medical language systems along with federal data Interchange standards HL7, ASC X12, and FHIR.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5320": {
+        "name": "PUBH.5320 Occupational Biomechanics Laboratory (Formerly 19.532)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5320/",
+        "id": "003563",
+        "description": "A laboratory presentation of the biomechanical basis for understanding and predicting human motor capabilities using bioinstrumentation. Computerized data acquisition, electromyography and load cells for strength measurement are examples of the equipment used in this lab. Particular emphasis is placed on the evaluation of occupational activities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5330": {
+        "name": "PUBH.5330 Intervention Research (Formerly 19.533)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5330/",
+        "id": "037513",
+        "description": "This course covers the design, implementation and evaluation of interventions to reduce risk factors for poor health and related outcomes. Topics include the use of casual diagrams to identify possible intervention points; logic models for program evaluation; and design of formal evaluation research studies. Selected scientific articles will be used to illustrate topics covered in the lectures. Each student will select a public health problem of interest and develop a case study over the course of the semester.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH 5750 Introduction to Biostatistics and Epidemiology or Other introductory course on epidemiology or research methods, such as: 32.604, 33.704, DPTH 6120, or PSYC 5120.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.5750"
+                ],
+                [
+                    "PSYC.5120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.5400": {
+        "name": "PUBH.5400 Occupational Safety Engineering (Formerly 19.540)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5400/",
+        "id": "003565",
+        "description": "The purpose of this course is to introduce students to the principles of safety hazards in the work environment.  This course is primarily designed to emphasize the safety aspects of the hazards at work.  It begins with the historical development of occupational safety and health and progressively examines the fundamentals of recognition, measurement, evaluation, and control of occupational safety hazards.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5420": {
+        "name": "PUBH.5420 Human Factors (Formerly 19.542)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5420/",
+        "id": "003567",
+        "description": "The functional processes of human systems in the workplace that affect psychosocial health and productivity. Review of associations between work design principles and effects on human well-being, learning, and performance. Human perceptive, cognitive, metabolic, and social-psychologic limitations. Human-machine interactions affecting \"stress\" and learning at the level of individuals and of groups. Introduction to \"healthy\" job redesign, \"conducive production\", and measurement strategies. Principles applied through practical design problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5490": {
+        "name": "PUBH.5490 Sustainable Housing Development and Land Use: Policy and Practice (Formerly 19.549)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5490/",
+        "id": "033623",
+        "description": "Housing is fundamental to the quality of life in communities, and housing policies shape the availability of this fundamental good.  This course will examine the economic, environmental, social, and cultural factors that shape housing and its sustainability.  Overall housing and land use policy in the United States will be summarized, with students learning of the ways in which housing policy impacts communities, states, and regions.    The course will then give students a detailed understanding of the process through which housing is developed and the role the market, government, funders, workers, and housing consumers play in influencing the creation and development of housing.  The course will highlight the ways in which current housing development policy and practices are not sustainable, and will examine more recent efforts to establish standards and practices that enhance sustainability.  Students will learn how to take a  housing project through the various stages, such as project conceptualization, market analysis, design, site acquisition, financing, construction, and occupancy.  While the course focuses on the U.S. context, students will learn of international efforts to achieve greater sustainability in housing.  The course will provide students with both practical and theoretical knowledge of housing and land use policy and development practices.  Case studies of actual projects will be presented.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5500": {
+        "name": "PUBH.5500 Environmental Law (Formerly 18/19.527)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5500/",
+        "id": "001265",
+        "description": "The large body of law, which has developed since the early 1960's, is examined in considerable detail. Federal laws relating to the environment, particularly with the Environmental Protection Agency and the Occupational Safety and Health Acts. State and local laws and ordinances are discussed where pertinent.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5510": {
+        "name": "PUBH.5510 Work Environment Policy and Practice (Formerly 19.551)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5510/",
+        "id": "003571",
+        "description": "This course provides an overview of occupational safety and health (OSH) policy and practice. It focuses on the legal and administrative vehicles, especially the Occupational Safety and Health Administration (OSHA) and OSH Act of 1970. I demonstrates the public health and business case for safety via case studies, The course provides an analytical framework for examining social, economic, and political factors in the recognition and control of occupational hazards and a management program for identifying and preventing hazards at the worksite. The course covers national and international workplace management systems as well as business and organizational management policies to ensure safety and how these are translated to effective practice at the level of a specific worksite.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5550": {
+        "name": "PUBH.5550 Comparative Enviormental (Formerly 19.555)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5550/",
+        "id": "003574",
+        "description": "Human social and productive activities often harm the natural environment.   Environmentally related health problems will become more prominent and put additional stress on industrial, as well as transitional and developing nations.    A sustainable world is one that provides not only for environmental viability but also economic health, social justice and political participation.  This course is designed to explore the dynamics and interactions of social, economic and political factors that aid or impede a community's ability to contribute to global environmental sustainability.  The course will be offered in collaboration with the Department of Regional Economic and Social Development as course 57.518.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5570": {
+        "name": "PUBH.5570 Toxic Use Reduction (Formerly 19.557)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5570/",
+        "id": "003575",
+        "description": "Toxic Use Reduction (TUR) is a new approach to hazardous waste management and environmental protection. Rather than addressing chemical contamination as waste (after its generation), to be managed through permits and emission regulations, TUR focuses on chemicals while still in production. In Massachusetts, firms are required to prepare plans demonstrating how they will reduce or eliminate the use of toxic chemicals. The course is organized as a set of discussions and case studies from the real-life program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5590": {
+        "name": "PUBH.5590 Conflict Resolution (Formerly 19.559)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5590/",
+        "id": "003577",
+        "description": "This course gives students an understanding of the main issues and solutions involved in community level conflict resolution; e.g., in neighborhoods, workplaces, and other institutions. It develops students' skills in practicing conflict resolution and/or evaluating programs in the field of dispute resolution.It is important to understand why conflict happens and how to resolve conflict.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5600": {
+        "name": "PUBH.5600 Data Applications for Public Health Practice",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5600/",
+        "id": "042281",
+        "description": "Working with data is foundational to public health. This class will provide a practical introduction to how to think about and utilize data for a variety of public health functions Students will investigate sources of local, national, and global public health data, including health records, surveys, and vital statistics in terms of what data is available and how to access, manage, analyze, communicate, and use these data. Students will apply informatics and data sources to population health activities. Students will gain hands on experience working with data in practical ways through data visualizations and software used for public health informatics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5750": {
+        "name": "PUBH.5750 Epidemiology and Biostatistics",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5750/",
+        "id": "003584",
+        "description": "Epidemiology is the study of the distribution and determinants of disease in human populations, and the risk factors associated with diseases. This course provides an introduction to epidemiology and the associated biostatistical methods that constitute the principal quantitative methods for disease prevention. Topics include: measures of disease frequency, measures of central tendency and spread, rates and risks, precision and validity, bias, simple linear regression, and the important study designs (population surveys, cohort, case-control and cross-sectional studies).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5760": {
+        "name": "PUBH.5760 Biostatistical Programming",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5760/",
+        "id": "040899",
+        "description": "This course is designed to provide familiarity with several types of statistical software commonly used in public health research. The course covers topics including: reading raw data and existing data sets; modifying data; combining data sets; applying basic statistical procedures; and sorting, summarizing, and printing data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5770": {
+        "name": "PUBH.5770 Biostatistics for Health Data",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5770/",
+        "id": "003586",
+        "description": "This is a practical course in biostatistical methods for health research.  Emphasis is placed on developing an understanding of the use and interpretation of standard biostatistical methods.  Topics include probability and sampling distributions, regression and ANOVA, methods for analyzing rates and proportions, power and sample size calculations.  Students will gain experience in using a statistical software package to apply and expand their data analysis skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5790": {
+        "name": "PUBH.5790 Disability Outcomes and Interventions (Formerly 19.579)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5790/",
+        "id": "003587",
+        "description": "This course will address the epidemiology of disability outcomes through a mix of didactic presentation and critical discussion of the literature, covering both observational and intervention studies.  Qualitative research methods will also be highlighted in terms of how they can enrich the study hypotheses, construct measures, etc.  The first half of the course will cover observational studies of individual and environmental risk factors for disability outcomes, including features of both the workplace and the community. Then we will describe the key design features of clinical trials to evaluate interventions, again at both the individual and the organizational levels.  Interspersed with lecture material, selected observational and intervention studies from the peer-reviewed scientific literature will be evaluated with respect to study design, methodologic rigor, and adequacy of statistical analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 34.510 or any research methods course, such as 19.575, or equivalent.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5910": {
+        "name": "PUBH.5910 Co-Op Internship CPT (Formerly 19.591)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5910/",
+        "id": "038407",
+        "description": "Practical training course for students to perform CPT. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5930": {
+        "name": "PUBH.5930 Directed Study (Formerly 19/31/32.593)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5930/",
+        "id": "040114",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.5980": {
+        "name": "PUBH.5980 Thesis Review (Formerly 19.598)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/5980/",
+        "id": "035547",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6000": {
+        "name": "PUBH.6000 Practicum/Capstone I (Formerly 19.600)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6000/",
+        "id": "003590",
+        "description": "This is the first course in a two-semester sequence that provides the opportunity to apply practical skills through a culminating practice experience for students in the Master's programs in Work Environment and Public Health. The course is designed to provide students with the opportunity to examine an interdisciplinary problem in depth and propose a solution to the problem by applying technical knowledge and skills obtained in their program to a real world issue. The product will be a report and a public presentation of the project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6010": {
+        "name": "PUBH.6010 Practicum/Capstone II (Formerly 19.601)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6010/",
+        "id": "003591",
+        "description": "This is a second course in a two-semester sequence that provides the opportunity to apply practical skills through a culminating practice experience for students in the Master's programs in Work Environment and Public Health. The course is designed to provide students with the opportunity to examine and interdisciplinary problem in depth and propose a solution to the problem by applying technical knowledge and skills obtained in their program to a real world issue. The product will be a report and a public presentation of the project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6030": {
+        "name": "PUBH.6030 Global Development and Health (Formerly PUBH.603)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6030/",
+        "id": "038622",
+        "description": "This course discusses global health efforts in relationship to human health and quality of life. Using a case methodology, this course will enable students to analyze complex health and development challenges in the less-developed world, and propose and evaluate interventions that address challenges. Topics include maternal and child health, nutrition, infectious and noninfectious diseases, natural disasters, sanitation and health inequality. Access to health care in developing and developed countries will be analyzed. The concept of positive deviance will also be explored",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6050": {
+        "name": "PUBH.6050 Advanced Research Methods in Work Environment (Formerly 19.605)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6050/",
+        "id": "039087",
+        "description": "An advanced seminar focused on developing research skills needed for understanding the causes of health and safety hazards in the work environment as well as their solutions. The seminar topics will vary each semester, depending on the research fields of the students enrolled as well as the expertise of the participating faculty members. The goal is to provide depth in theory, background literature, state of the art measurement tools, and research methods at a level appropriate to students undertaking independent research. All doctoral students are required to take tow semesters of this seminar.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6070": {
+        "name": "PUBH.6070 Healthcare Information Systems (Formerly 32.607)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6070/",
+        "id": "004507",
+        "description": "This course provides a broad-range overview of the healthcare information systems industry, its history, recent developments and continuing challenges, as well as a practical understanding of healthcare information systems acquisition and implementation. Topics include EMR, Data, CMS Quality Programs, Clinical Integration and health information exchange.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6090": {
+        "name": "PUBH.6090 Work in Progress Seminar (Formerly 19.609)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6090/",
+        "id": "039088",
+        "description": "This seminar course provides a forum for doctoral students (and advanced master's students) to discuss research with their peers and the faculty in a supportive interdisciplinary community. Doctoral trainees from all Public Health fields are required to present their work in progress to their peers. Although all doctoral students must register for this seminar for credit in one semester during their career, they are expected to attend and present regularly while they are in the research and writing phase of their doctorate.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6100": {
+        "name": "PUBH.6100 Exposure Assessment (Formerly 19.610)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6100/",
+        "id": "003592",
+        "description": "Concepts of quantification of occupational exposures (chemical and physical hazards) for purpose of correlating health effects with exposures. Topics discussed include reasons for conducting exposure assessment, sampling methods, sampling strategies (for epidemiology, compliance, control), and statistical considerations. Principles are illustrated through a series of case studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6110": {
+        "name": "PUBH.6110 Physical Properties of Aerosols (Formerly 19.611)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6110/",
+        "id": "003593",
+        "description": "A seminar covering aspects of aerosol science not discussed in 19.514 but necessary for the completion of research projects involving aerosols. Topics covered include the electrical, thermal, and optical properties of aerosols, particle agglomeration, evaporation and condensation, and the generation and measurement of test aerosols. Course will consist of lectures and laboratory sessions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6120": {
+        "name": "PUBH.6120 Exposure Data Analysis (Formerly 19.612)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6120/",
+        "id": "003594",
+        "description": "An advanced seminar covering statistical considerations for exposure sampling and data analysis. Topics include sampling data distributions; the effects of averaging time, autocorrelation, multiple task jobs and limit of detection samples on the sampling distribution; the use of linear models to examine between and within worker variability in exposure; the determination of homogeneous exposure groups; the development of multiple regression models to predict exposure levels and evaluate exposure determinants; and methods of model development, interpretation and validation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6131": {
+        "name": "PUBH.6131 Design and Evaluation Of Ventilation Systems (Formerly 19.613)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6131/",
+        "id": "003595",
+        "description": "A seminar intended for students pursuing research involving industrial ventilation system design and evaluation. It covers material not included in 19.518, such as recent theoretical models which describe system performance, design of systems for high-temperature operation, trouble-shooting techniques, and advanced instrumentation techniques. Course consists of lectures and laboratory sessions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6140": {
+        "name": "PUBH.6140 Evaluation of Work Environment Hazards (Formerly 19.614)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6140/",
+        "id": "003596",
+        "description": "This course provides the work environment professional with a systematic method of evaluating chemical, ergonomics and work organizational hazards in the field. Basic industrial processes and their potential hazards are reviewed. Approaches for evaluation of indoor air quality are covered. Worksite surveys of hazards and control technologies and the evaluation of existing health and safety programs are implemented through a series of workplace walkthrough visits in a variety of industries. Team work skills are developed and utilized to produce professional final reports and presentations that cover rankings of worksite hazards and recommendations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6150": {
+        "name": "PUBH.6150 Solutions for Work Environment Hazards (Formerly 19.615)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6150/",
+        "id": "003597",
+        "description": "Techniques for controlling exposure to airborne contaminants.  Basic controls include substitution, ventilation, isolation, administrative controls, and personal protective equipment.  Special focus is placed on Toxic Use Reduction (TUR) and Pollution Prevention strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6160": {
+        "name": "PUBH.6160 Law and Ethics in Healthcare (Formerly 32.616)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6160/",
+        "id": "004513",
+        "description": "This course presents and overview of legal and ethical issues facing managers and providers in health care. It provides students with a foundation of health law and ethics and reviews health care legal and ethical situations and dilemmas. The goals are to provide students with practical knowledge of health law and ethics and their application to the real world of health care.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6161": {
+        "name": "PUBH.6161 Exposure and Risk Assessment (Formerly 19.616)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6161/",
+        "id": "034949",
+        "description": "This course covers quantitative and qualitative approaches to the development of sampling strategies.  Statistical considerations in the quantification of occupational exposures are covered.  Assessment of dermal exposures and the use of biomarkers for exposure assessment are also a focus of this class.  An introduction to the methods of risk assessment will also be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6191": {
+        "name": "PUBH.6191 Measurement of Chemical Exposure (Formerly 19.619)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6191/",
+        "id": "003599",
+        "description": "Basic properties of airborne particles, with particular regard to properties important to health.  Sampling and analysis methods used in the evaluation of occupational exposures to aerosols, gases, vapors. Direct reading instrumentation, calibration and data processing.  Integrated sampling methods and chemical analysis of organic and inorganic compounds will be covered in class and lab.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6200": {
+        "name": "PUBH.6200 Advanced Exposure Assessment (Formerly 19.620)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6200/",
+        "id": "003600",
+        "description": "An advanced seminar covering exposure assessment for studies of acute and chronic respiratory disease, pharmacologic modeling for exposure assessment and the design of models to evaluate the role of production process factors in determining workplace airborne exposures. The course assumes a prior background in epidemiology and biostatistics as well as industrial hygiene and toxicology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6210": {
+        "name": "PUBH.6210 Nanomaterials: Exposure, Health and Safety (Formerly 19.621)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6210/",
+        "id": "034722",
+        "description": "This course presents a comprehensive overview of environmental health and safety issues of nanotechnology, with focus on biologically based exposure assessment and control.  Methods based on biology, toxicology, and knowledge of disease mechanisms are presented for identifying and quantifying nanoscale materials exposures found in occupational/environmental setting and consumer products and for designing exposure assessments for the study of health effects.  This course is needed to fill a gap in the current curriculum offerings and to assist the various researchers in understanding possible risks associated with diverse nanotechnologies.  The course will include introductory lectures, paper critiques, and laboratory sessions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PUBH 5030 Toxicology and Health and PUBH 5141 Aerosol Science.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.5030"
+                ],
+                [
+                    "PUBH.5141"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.6220": {
+        "name": "PUBH.6220 Biomarkers in Occupations and Environment (Formerly 19.622)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6220/",
+        "id": "030332",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6230": {
+        "name": "PUBH.6230 Skin Exposure to Chemicals (Formerly 19.623)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6230/",
+        "id": "034723",
+        "description": "This new course, the only  of its kind in the occupational & environmental hygiene program in the country, will discuss the significance of occupational environmental and household skin exposure to chemicals, skin exposure assessment and regulatory aspects.  The course will address important topics, such as physiology and metabolism of normal skin, skin absorption of a variety of chemicals, including solids and nanomaterials, factors affecting skin permeation, permeability of compromised skin barrier integrity, skin sampling methods, skin-lung interactions and prevention of skin exposure, through a mix of didactic presentations and critical discussion of the scientific peer-reviewed literature.  Each session will start with a presentation on the topic, followed by guided discussions of realistic, but provocative, scenarios.  As laboratory space and instrumentation becomes available in the near future, a laboratory component will be added to the course to emphasize major sampling techniques and illustrate/visualize skin permeation of chemicals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PUBH 6100 Exposure Assessment, PUBH 5030 Toxicology and Health.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.6100"
+                ],
+                [
+                    "PUBH.5030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.6240": {
+        "name": "PUBH.6240 Health Data Quality and Compliance",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6240/",
+        "id": "042167",
+        "description": "This course examines the practical concept of data quality review and auditing for monitoring compliance with state and federal licensing and regulatory bodies. Students develop an understanding of state and federal guidelines common to private and public health services. Students practice concurrent and retrospective review of health information and examine criteria that meets the Department of Health and Human Service and federal ONC Health IT initiatives including meaningful use and other provider quality initiative programs associated with national health care goals. Students develop a clinical documentation improvement program including tools for training other and create an electronic dashboard for monitoring compliance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6250": {
+        "name": "PUBH.6250 Health Policy (Formerly 32.625)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6250/",
+        "id": "004520",
+        "description": "This course provides students with a basic framework for health policy analysis and examines major aspects of U.S. health policy. Detailed consideration and discussion focus on the relationship of national policy to the planning, implementation and funding of healthcare services.  The course covers topics such as the healthcare policy environment in the U.S, government-funded healthcare through Medicaid and Medicare, and the Massachusetts healthcare reform.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6260": {
+        "name": "PUBH.6260 Leadership in Healthcare (Formerly 32.626)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6260/",
+        "id": "004521",
+        "description": "The purpose of this course is to encourage students to carefully analyze their leadership style and skills within the context of health care. The course includes the study and application of leadership theories, concepts, and skills. Students will also assess their own leadership potential through the completion of readings, personal and leadership self-assessments, values exploration, and leadership skill exercises.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6270": {
+        "name": "PUBH.6270 Health Equity and Informatics (Formerly 32.627)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6270/",
+        "id": "004522",
+        "description": "Health informatics studies use beg data and information technologies to improve human health by reducing the gap between health practice and societal goals of improved health. Health care quality, access, and cost contribute to the broader perspective of health equity. Students apply the Social Determinants of Health (SDOH) and Diversity, Equity and Inclusion (DEI) code sets applicable to the Department of Health and Human Services and Office of National Coordinator for Health Information Technology. Students explore how data are used to detect and inform policies and interventions to reduce health inequities for marginalized and underserved groups. Students apply these skills by designing informatics interventions that support a broader understanding of overall population health equity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6320": {
+        "name": "PUBH.6320 Health Information System Design and Analysis (Formerly 32.632)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6320/",
+        "id": "004527",
+        "description": "This course introduces students to the health information system lifecycle. Students take a detailed look at the process of system planning, analysis, design, and implementation. Concepts are taught in a manner that applies to any discipline within the health organization and provides a practical understanding of the steps  necessary for successful systems delivery and its importance to organization success. Skills learned will enable students to work effectively with and support the information systems planning effort to ensure better system alignment with information services, clinical and administrative objectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6321": {
+        "name": "PUBH.6321 Advanced Biomechanics (Formerly 19.632)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6321/",
+        "id": "003603",
+        "description": "A course in advanced biomechanical modeling methods, covering three dimensional static models, optimization methods and dynamic models. Special emphasis will be placed on biomechanical models of the hand. Time will also be dedicated to reviewing current developments in the scientific literature.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6330": {
+        "name": "PUBH.6330 Healthcare Database Design (Formerly 32.633)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6330/",
+        "id": "004528",
+        "description": "A practical approach to the design, and development of a relational database with an emphasis on healthcare. Analyzing the requirements of the database proceeds to the design of the structure of the relational database, which is then developed in a Relational Database Management System (RDBMS). Microsoft Access is used as the RDBMS platform.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6350": {
+        "name": "PUBH.6350 Healthcare Project Management (Formerly 32.635)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6350/",
+        "id": "035735",
+        "description": "This is a graduate level course providing a comprehensive foundation for project management as it applies to healthcare. Students will be introduced to the theory and concepts of project management and the tools to manage projects with a focus on healthcare. At the end of this course, students should be able to develop, execute, and control a basic project plan that is capable of supporting organizational objectives linked to measures of success for a single project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6380": {
+        "name": "PUBH.6380 Health Information Technology Strategic Planning (Health Information Technology) (Formerly 32.638)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6380/",
+        "id": "036675",
+        "description": "A graduate-level course introducing healthcare professionals to strategic planning for the information systems organization. The concepts are taught in a manner that allows the skills learned to be applied to any discipline with the organization. The course is designed to give healthcare professional a practical understanding of strategic planning and its importance to a successful organization. Skills learned in this course will enable the student to work effectively with and support the information systems planning effort in order to ensure better IS, clinical and business alignment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6381": {
+        "name": "PUBH.6381 Methods In Work Analysis (Formerly 19.638)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6381/",
+        "id": "003606",
+        "description": "Criteria for selection of an approach to ergonomic job analysis depend on the combination of exposures (micro- and macro-level ergonomic stressors) observed to be present as well as the analytical goal. Many ergonomic analysis techniques are based on traditional industrial engineering approaches (time-motion study and work sampling), applied to the identification and evaluation of potential risks to workers' health. A variety of methods, both observational and instrumentational, will be discussed; laboratory sessions will permit hands-on application of several of these for critical evaluation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6390": {
+        "name": "PUBH.6390 Electronic Health Record Systems (Formerly 32.639)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6390/",
+        "id": "037456",
+        "description": "The course addresses Electronic Health Records (EHR) integration with patient care flow, clinical decision making and patient engagement, as well as patient registries and clinical quality reporting. Students also learn core EHR functions, strategies for EHR optimization, and how the EHR can be leveraged for population health management. The course uses industry-leading EHR software as a learning tool to demonstrate how electronic health record technologies are used in a healthcare setting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6400": {
+        "name": "PUBH.6400 Macroergonomics: A comprehensive approach to Job and Organizational Design (Formerly 19.640)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6400/",
+        "id": "035457",
+        "description": "The purpose of this course is to introduce students to the Macroergonomics field.  Macroergoniomics, also known as the third generation of ergonomics, is a top-down sociotechnical systems approach to the design of organizations, work systems, and jobs.  The goal of macroergonomics is a fully harmonized work system at both the macro- and micro-ergonomic level which results in improved productivity, job satisfaction, health and safety, and employee commitment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 19.525 Industrial Hygiene & Ergonomics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6430": {
+        "name": "PUBH.6430 Health Work Organization Design (Formerly 19.643)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6430/",
+        "id": "003608",
+        "description": "Rationales for prevention; determinant of job change feasibility, classic and alternative work organization theories, alternative productivity conceptions, health and growth assessment strategies, conducive work processes, work-group based re-design processes, communicative and network-oriented processes, organization-level change process, product redesign, occupational and political strategic issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6510": {
+        "name": "PUBH.6510 Work Environment Policy (Formerly 19.651)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6510/",
+        "id": "003612",
+        "description": "This course provides an overview of occupational safety and health policy in the U.S. It focuses on the legal context, especially on OSHA, but also provides an analytical framework for examining the role of social, economic and political factors in the recognition and control of occupational hazards.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6540": {
+        "name": "PUBH.6540 Work, Technology and Training (Formerly 19.654)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6540/",
+        "id": "003614",
+        "description": "This course examines the broader issues of the impact of technology on the work environment and on workers.  Topics include technology and craft work, Taylorism and the development of mass production methods, labor in the  \"factory of the future\", skill-based automation, shop floor programming, and other issues in technology policy.  The course is offered in collaboration with the Department of Regional Economic and Social Development as 57.503.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6550": {
+        "name": "PUBH.6550 Introduction to Environmental and Natural Resource Economics (Formerly 19.655)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6550/",
+        "id": "003615",
+        "description": "This course introduces students to the economic and policy aspects of environmental quality and natural resource issues.  The course also incorporates relevant work-environment related issues.  Simple and complex models are used to blend economic theory with environmental facts.  Students will learn to derive policy insights form theoretical constructs.  The primary objective is to show how the basic principles in economics can play a valuable role in analyzing and evaluating critical environmental issues and help in determining policy guidelines.\nStandard benefit cost of efficiency criteria will be applied to a wide variety of environmental, work-environment and natural resource problems.  In attempting to do so we shall also emphasize how difficult it is to model actual environmental problems in the real world,  We shall draw upon the basic tools of environmental and health economics to discuss current policy issues and questions that policy makers confront in practice.  Graduate students in work environment will be required to do an economic analysis of an occupational health and safety intervention.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6580": {
+        "name": "PUBH.6580 Clean Product Design (Formerly 19.658)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6580/",
+        "id": "003618",
+        "description": "This advanced seminar will provide an introduction to clean product design and management which includes the use of lifecycle thinking, eco-design concepts, materials analysis, inherent product safety, recycling and reuse, produce take back, and design for the environment.  As background, the seminar will cover renewable resources, bio-based materials and green chemistry solutions and conclude with a consideration of new forms of sustainable consumption.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6590": {
+        "name": "PUBH.6590 Cleaner Production (Formerly 19.659)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6590/",
+        "id": "003619",
+        "description": "This course will explore the rapidly expanding developments in cleaner production methods and policies. The course will focus on new directions in environmentally conscious manufacturing and product design in Europe. The subject will cover topics ranging from European demonstration projects, environmental auditing, cleaner technology assessment, eco-efficiency models, water and energy conservation, sustainable product design, eco-design and life cycle assessment, product take-back and extended product life, full cost accounting, industrial ecology, environmental management systems and ISO 14000. Special emphasis will be given to new information data sources and an introduction to new cleaner production methods software.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6660": {
+        "name": "PUBH.6660 MPH Practicum  (Formerly PUBH.666)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6660/",
+        "id": "039342",
+        "description": "This practicum is the first of two culminating experiences in the MPH program that requires a student to apply theories and principles from coursework in a public health setting. The practicum is a planned, supervised and evaluated practice experience under the supervision of a qualified preceptor. Students meet in a seminar with a faculty member who oversees the practicum experience. Students will finish work on their final applied practice project during the practicum and integrated practical learning courses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6670": {
+        "name": "PUBH.6670 Integrated Practical Learning (Formerly PUBH.667)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6670/",
+        "id": "039343",
+        "description": "This course is designed as the second of two applied learning courses following PUBH.6660 MPH Practicum. It is a culminating experience for students in the MPH program. Students in this course will demonstrate the mastery of a body of public health knowledge and achievement of the MPH competencies. They will do this through completing their practicum experience and developing a high-quality written product.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6750": {
+        "name": "PUBH.6750 Introduction to Manuscript Writing (Formerly 19.675)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6750/",
+        "id": "035633",
+        "description": "This course helps doctoral students (and high-level master's students) gain knowledge and critical practical skills in scientific writing and oral communication in public health. This includes writing dissertation proposals, dissertations, grant applications, scientific meeting abstracts, scientific manuscripts, factsheets, and presenting to scientific and non-scientific audiences. Specific content area includes study design and methodology, the structure of scientific documents, literature review, and communication strategies. Specific attention will be given to effective scientific writing and to guiding principles for ethical research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6760": {
+        "name": "PUBH.6760 Introduction to Proposal Writing (Formerly 19.676)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6760/",
+        "id": "035634",
+        "description": "This seminar will cover the basics of how to write a thesis proposal or grant application.  Participants will bring at an idea for a project and, if possible, an outline or draft of a proposal to be developed further with peer and instructor feedback.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6800": {
+        "name": "PUBH.6800 Introduction To SAS (Formerly 19.680)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6800/",
+        "id": "003626",
+        "description": "This course is designed for researchers who will be doing data analysis using SAS. No prior programming experience is necessary, though familiarity with and general experience in use of a PC (DOS and Windows) is required. The course covers topics including: basics of SAS, reading raw data and existing SAS data sets, modifying data, combining data sets, basic statistical procedures, sorting, summarizing, and printing data. \"Variable credit course, student chooses appropriate amount of credits when registering.\"   .",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6820": {
+        "name": "PUBH.6820 Applied Epidemiology Methods (Formerly 19.682)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6820/",
+        "id": "003628",
+        "description": "This course emphasizes the design and conduct of epidemiology studies. Major topics covered include: casual inference in epidemiology, point and interval estimation for cohort and case control studies, exposure assessment for epidemiology, control of confounding, the identification and interpretation of effect modification, as well as cross-sectional designs and meta-analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PUBH.5750 Intro Biostat & Epidemiology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.5750"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.6830": {
+        "name": "PUBH.6830 Risk Assessment (Formerly 19.683)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6830/",
+        "id": "003629",
+        "description": "This course will review both the methods and policy implications of risk assessment in the development of occupational and environmental standards. Students will conduct risk assessments on real problems, and study important cases in which these methods have been used in setting public policy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6840": {
+        "name": "PUBH.6840 Musculoskeletal Epidemiology (Formerly 19.684)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6840/",
+        "id": "003630",
+        "description": "An advanced course on methods and content of research on work-related musculoskeletal disorders. Reviews pathophysiology, diagnosis, prevalence, latency and surveillance issues. The key literature is examined with attention to study design, quality of exposure assessment, control of bias and adequacy of statistical analysis.   .",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6850": {
+        "name": "PUBH.6850 Applied Public Health Research and Practice",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6850/",
+        "id": "039626",
+        "description": "The focus of this course is to provide students with advanced skills necessary to collect quantitative and qualitative data for public health research and practice. Students will learn quantitative methods including questionnaire development, survey planning, data collection, data coding and data management. The course will prepare students to design, conduct, analyze and interpret qualitative research. Strategies for mixed methods research in social and behavioral sciences will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6860": {
+        "name": "PUBH.6860 Program Development and Implementation",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6860/",
+        "id": "039628",
+        "description": "This course is designed to equip students with the knowledge and skills necessary to systematically develop and implement public health programs. Models for program planning are utilized to inform program design. In addition to didactic work, students are guided through the creation of a program and implementation strategies to accelerate the translation of evidence into practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6870": {
+        "name": "PUBH.6870 Quantitative Models for Public Health",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6870/",
+        "id": "003633",
+        "description": "This course introduces quantitative models commonly used in public health research and practice. Emphasis is placed on understanding the logic and underlying assumptions of theses models. Students will gain knowledge and skills in properly selecting and applying these models in various practical settings. Topics include probability sample surveys, quantitative risk assessment, quasi experimental design, propensity matching, interrupted time series, epidemics of infectious diseases, Monte Carlo simulations, and predictive analytics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6871": {
+        "name": "PUBH.6871 Health Communication and Technology",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6871/",
+        "id": "039627",
+        "description": "Students will explore the theories and practice of communication in public health, with a particular emphasis on the role of technology in sharing public health information. The impact of social and environmental factors on the success of health messages, and the relevance of social media and other technology to positively impact issues in population health will be analyzed. The strategic and ethical use of media in developing and implementing effective public health communications is a focus of the course. The targeting of health communication campaigns to populations for the purpose of influencing behaviors and health policy will be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6890": {
+        "name": "PUBH.6890 Advanced Regression Modeling (Formerly 19.689)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6890/",
+        "id": "030857",
+        "description": "This course will introduce linear, generalized linear and time-to-event regression models that are commonly used in epidemiologic research, community needs assessment and public health program/policy evaluations. Topics include regression models for continuous, binary, ordinal, multinomial, count, time-to-event, and longitudinal data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH.5750 Intro to Epidemiology, or PUBH.5770 Biostats for Health Data, or NURS.7070 Epidemiology of Health Promotion, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.5750",
+                    "PUBH.5770",
+                    "NURS.7070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PUBH.6900": {
+        "name": "PUBH.6900 Critical Review Health Regulations (Formerly 19.690)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6900/",
+        "id": "003635",
+        "description": "Course designed to explore the practical applications of epidemiologic methods to the setting of actual standards. Students gain experience in distinguishing minor from major design and analysis flaws. Course is presented as a seminar with four case studies and problem analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6910": {
+        "name": "PUBH.6910 Advanced Program Evaluation",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6910/",
+        "id": "040897",
+        "description": "The focus of this course is the development of skills needed to plan, conduct, and critique evaluations. Students will learn the major principles and methods associated with systematic evaluation of public health initiatives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.6950": {
+        "name": "PUBH.6950 Chemical Process/Sustainability (Formerly 19.695)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/6950/",
+        "id": "003637",
+        "description": "This course surveys the basis of chemical engineering process design and fundamentals of unit operations. The student will be able to understand the basics of chemical engineering design methods for the purpose of enhancing sustainability of chemical production processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7020": {
+        "name": "PUBH.7020 Independent Study: Industrial Hygiene (Formerly 19.702)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7020/",
+        "id": "003639",
+        "description": "Advanced topics in industrial hygiene, exposure assessment or exposure control not offered in the regular curriculum. Topics may vary from year to year.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7040": {
+        "name": "PUBH.7040 Independent Study: Ergonomics (Formerly 19.704)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7040/",
+        "id": "003641",
+        "description": "Advanced topics in biomechanics, work physiology, occupational safety or human factors not covered in the regular curriculum. Content may vary from year to year.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7080": {
+        "name": "PUBH.7080 Independent Study: Epidemiology (Formerly 19.708)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7080/",
+        "id": "003644",
+        "description": "Advanced topics in occupational epidemiology, design and confounding, exposure-response modeling, or surveillance not covered in the regular curriculum. Content may vary from year to year.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7090": {
+        "name": "PUBH.7090 Independent Studies: Occupational Epidemiology (Formerly 19.709)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7090/",
+        "id": "003645",
+        "description": "Advanced topics in occupational epidemiology, design and confounding, exposure-response modeling, or surveillance not covered in the regular curriculum. Content may vary from year to year.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7110": {
+        "name": "PUBH.7110 Independent Study: Industrial Hygiene (Formerly 19.711)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7110/",
+        "id": "003647",
+        "description": "Advanced topics in industrial hygiene, exposure assessment or exposure control not offered in the regular curriculum. Topics may vary from year to year.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7120": {
+        "name": "PUBH.7120 Independent Study: Industrial Hygiene (Formerly 19.712)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7120/",
+        "id": "003648",
+        "description": "Advanced topics in industrial hygiene, exposure assessment or exposure control not offered in the regular curriculum. Topics may vary from year to year.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7130": {
+        "name": "PUBH.7130 Independent Study: Ergonomics (Formerly 19.713)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7130/",
+        "id": "003649",
+        "description": "Advanced topics in biomechanics, work physiology, occupational safety or human factors not covered in the regular curriculum. Content may vary from year to year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7150": {
+        "name": "PUBH.7150 Independent Study: Work Environment Policy (Formerly 19.715)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7150/",
+        "id": "003651",
+        "description": "Advanced topics in work environment policy, risk perception, risk communication and management, regulatory affairs or labor-management programs not covered in the regular curriculum. Content may vary from year to year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7170": {
+        "name": "PUBH.7170 Independent Study: Epidemiology (Formerly 19.717)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7170/",
+        "id": "003653",
+        "description": "Advanced topics in occupational epidemiology, design and confounding, exposure-response modeling, or surveillance not covered in the regular curriculum. Content may vary from year to year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7190": {
+        "name": "PUBH.7190 Independent Study: Clean Production (Formerly 19.719)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7190/",
+        "id": "003655",
+        "description": "Advanced topics in clean production, pollution prevention, and environmental protection efforts. Not offered in the regular curriculum. Topics may vary from year to year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7210": {
+        "name": "PUBH.7210 Selected Topics : Industrial  Hygiene (Formerly 19.721)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7210/",
+        "id": "003657",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7230": {
+        "name": "PUBH.7230 Selected Topics: Ergonomics (Formerly 19.723)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7230/",
+        "id": "003658",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7250": {
+        "name": "PUBH.7250 Epidemiologic Theory (Formerly 19.725)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7250/",
+        "id": "003659",
+        "description": "An advanced seminar in epidemiologic theory.  The goal of the course is to develop each student's own theoretical perspective on the field to ground practical problems of study design and analysis.   Students read a major text in modern chronic disease epidemiology as well as relevant papers, and discuss and evaluate the perspectives of different authors.  Topics include: causality, study designs, measures of disease frequency, measures of association, statistical inference, biases, and confounding.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7270": {
+        "name": "PUBH.7270 Sel Top: Epidemiology (Formerly 19.727)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7270/",
+        "id": "003660",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7280": {
+        "name": "PUBH.7280 Sel Top: Work Env Policy (Formerly 19.728)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7280/",
+        "id": "003661",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7290": {
+        "name": "PUBH.7290 Selected Topics : Clean Production (Formerly 19.729)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7290/",
+        "id": "003662",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7330": {
+        "name": "PUBH.7330 Capstone Project (Formerly 32.733)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7330/",
+        "id": "004533",
+        "description": "Near the end of one's Master's Degree program, students register for Capstone Project and complete a real world case study report and presentation. The Capstone Project applies concepts and skills learned in the program. It involves research and development, and culminates in a substantial business-type report. 3 credits, Requires Instructor Permission.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7331": {
+        "name": "PUBH.7331 Graduate Project (Formerly 19.733)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7331/",
+        "id": "003665",
+        "description": "Advanced research project required of all master's degree candidates in the ergonomics, industrial hygiene, occupational epidemiology and work environment policy concentrations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7350": {
+        "name": "PUBH.7350 Independent Study:  Policy (Formerly 19.735)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7350/",
+        "id": "003666",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7360": {
+        "name": "PUBH.7360 Graduate Project - Work Environment (Formerly 19.736)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7360/",
+        "id": "003667",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7370": {
+        "name": "PUBH.7370 Independent  Study: Epidemiology (Formerly 19.737)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7370/",
+        "id": "003668",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7390": {
+        "name": "PUBH.7390 Graduate Project - Work Environment (Formerly 19.739)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7390/",
+        "id": "003669",
+        "description": "Advanced research project required of all master's degree candidates in the ergonomics, industrial hygiene, occupational epidemiology and work environment policy concentrations.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7430": {
+        "name": "PUBH.7430 Master's Thesis Research (Formerly 19.743)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7430/",
+        "id": "003670",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7590": {
+        "name": "PUBH.7590 Doctoral Dissertation (Formerly 19.759)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7590/",
+        "id": "003675",
+        "description": "Faculty supervision of doctoral dissertation.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7610": {
+        "name": "PUBH.7610 1 - Credit Continued Graduate Research (Formerly 19.761)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7610/",
+        "id": "038148",
+        "description": "1-Credit Continued Graduate Research course is for students with less than one year to defend or complete program.  Part of reduce course load program for international students.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7630": {
+        "name": "PUBH.7630 Continued Graduate  Research (Formerly 19.763)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7630/",
+        "id": "003676",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7700": {
+        "name": "PUBH.7700 Directed  Readings: Epidemiology  Biostatistics (Formerly 19.770",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7700/",
+        "id": "003679",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7750": {
+        "name": "PUBH.7750 Capstone/Thesis Review (Formerly 32.775)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7750/",
+        "id": "035254",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.7760": {
+        "name": "PUBH.7760 Curricular Practical Training (CPT) (Formerly 32.776)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/7760/",
+        "id": "035276",
+        "description": "An internship, practicum or other type of employment that is either required by the students academic program or an experience for which a student receives academic credit. To be eligible the student must be in legal F-1 status and have been enrolled full-time for one academic year. CPT work experience must be in the students field of study and contain a curricular component. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PUBH.9990": {
+        "name": "PUBH.9990 Intercampus Graduate Researdh (Formerly 19.999)",
+        "url": "https://www.uml.edu/catalog/courses/PUBH/9990/",
+        "id": "033695",
+        "description": "This course will allow doctorate students to remain active while they are taking courses/research at the other UMASS campuses.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

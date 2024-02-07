@@ -1,0 +1,759 @@
+{
+    "total": 43,
+    "time": 30.1914165019989,
+    "ENVI.1010": {
+        "name": "ENVI.1010 Environmental Science Seminar (Formerly 87.101)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1010/",
+        "id": "007840",
+        "description": "A survey of the field of environmental science, curriculum options, and career opportunities. Presentations by members of the department and guest speakers. This course is intended primarily for students majoring in the various options of environmental science. It does not satisfy specific science requirements for majors in the Division of Science, nor does it qualify as a science with lab perspective.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.1020": {
+        "name": "ENVI.1020 Environmental Problems Seminar (Formerly 87.102)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1020/",
+        "id": "007841",
+        "description": "A survey of environmental problems and issues. Topics include air, water, and noise pollution; solid and liquid waste disposal; and the social, political, and economic implications of these issues. Readings, discussions, guest speakers, and field trips.\nThis course is intended primarily for students majoring in the various options of environmental science.  It does not satisfy specific science requirements for majors in the Division of Science.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.1100": {
+        "name": "ENVI.1100 Global Environmental Studies",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1100/",
+        "id": "040781",
+        "description": "This course investigates how human activities impact the earth's environment on a local, national, and global scale. Topics covered include the scientific method, population, fresh water resources, air and water pollution, climate change, energy, biodiversity, food security, solid waste management and sustainable living. Suitable as a Science elective for a degree in the College of Sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.1120L Global Environmental Studies Lab, and Anti-req: ENVI.1200 Principles of Environmental Science.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.1120L"
+                ]
+            ]
+        }
+    },
+    "ENVI.1110": {
+        "name": "ENVI.1110 Sustainable Solutions for People and the Planet",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1110/",
+        "id": "040780",
+        "description": "This course explores some of the most challenging questions of our times: How can modern society thrive on a finite and changing planet? In what ways is our climate changing and what is causing those changes? How will human society be impacted: What could a transition to a sustainable, green, low-carbon economy consists of? We will explore these questions through a combination of simulations, serious games, and 'systems thinking' - building a skill set to think strategically about complex, dynamic problems. The course considers current events as they relate to climate change and sustainability and introduces students to real-world, interactive tools that allow them to explore scenarios and solutions for themselves.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.1120L": {
+        "name": "ENVI.1120L Global Environmental Studies Lab",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1120L/",
+        "id": "040779",
+        "description": "This laboratory course will complement the material covered in the Global Environmental Studies Lecture. Topics include ecological footprints, nutrient cycling, water, and air quality, soil characteristics, ocean pollution, environmental justice, and climate change.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.1100 Global Environmental Studies.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.1100"
+                ]
+            ]
+        }
+    },
+    "ENVI.1140": {
+        "name": "ENVI.1140 Natural Disasters",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1140/",
+        "id": "042183",
+        "description": "The purpose of this course is to gain a deeper understanding of the science behind natural disasters. Each natural disaster will be examined from the perspective of Earth's systems. Students will learn the best way to prepare themselves should a disaster strike.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.1140L Natural Disasters Laboratory.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.1140L"
+                ]
+            ]
+        }
+    },
+    "ENVI.1140L": {
+        "name": "ENVI.1140L Natural Disasters Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1140L/",
+        "id": "042184",
+        "description": "This lab consists of hands-on activities and worksheet to better understand the science behind natural disasters.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.1140 Natural Disasters.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.1140"
+                ]
+            ]
+        }
+    },
+    "ENVI.1150": {
+        "name": "ENVI.1150 Astronomy (Formerly 87.115)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1150/",
+        "id": "007847",
+        "description": "Offers an introduction to the study of astronomy including historical development, instruments, solar system dynamics, planetary evolution, stellar systems and stellar evolution. Several field trips are included.\nThis course satisfies the Gen Ed science requirement, but not specific science requirements for majors in the Division of Science.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: 87.117 Astronomy Lab; Anti-Req: PHYS.1210 Exploring the Universe.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.1170L": {
+        "name": "ENVI.1170L Astronomy Lab (Formerly 87.117)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1170L/",
+        "id": "007848",
+        "description": "Intended to develop a deeper understanding of astronomy through an exposure to the methods and materials used in astronomical analysis. Corequisite: 87.115 I,II(0,2)1",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: 87.115 Astronomy.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.1200": {
+        "name": "ENVI.1200 Principles of Environmental Science",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1200/",
+        "id": "040776",
+        "description": "In this course, we will approach Environmental Science from an interdisciplinary viewpoint and use quantitative approaches to understand the physical, chemical, and biological environment and their interactions. A critical emphasis through this course will be on ecosystem services and how climate change, land use change, and pollution affect these. We will further review environmental law and policies and address concepts of sustainability and resource conservation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Kennedy College of Science majors only, and Anti-req: ENVI.1100 Global Environmental Studies.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.1990L": {
+        "name": "ENVI.1990L Envi. Science 1000 level elec.",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/1990L/",
+        "id": "040054",
+        "description": "Envi. Science 1000 level elec.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.2010": {
+        "name": "ENVI.2010 Earth Systems: Geosphere (Formerly 87.201)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/2010/",
+        "id": "007850",
+        "description": "Earth Systems: Geosphere deals with the origin of the universe, solar systems and planet earth, the solid earth and processes at the earth's surface, geological hazards, coastal processes, deep sea sediments and the climate record, and contamination of water and soil.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.2030L Earth Systems: Geoscience Lab, and Kennedy College of Science majors only, and Anti-req: GEOL.1010 General Geology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.2030L"
+                ]
+            ]
+        }
+    },
+    "ENVI.2020": {
+        "name": "ENVI.2020 Earth Systems: Atmosphere and Oceans (Formerly 87.202)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/2020/",
+        "id": "007851",
+        "description": "Earth Systems: Atmosphere and Oceans deals with the atmosphere, and oceans, as well as the important role they play within Earth's vital systems. These interactions will address atmospheric structure, processes, and pollution. It will also address ocean-atmosphere exchange, ocean structure, processes, pollution, and coastal and deep sea sedimentation processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.2040L Earth Systems Atmosphere and Oceans Lab, and Kennedy College of Science majors only, and Anti-req: ATMO1410 Weather and Climate.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.2040L"
+                ]
+            ]
+        }
+    },
+    "ENVI.2030L": {
+        "name": "ENVI.2030L Earth Systems: Geosphere Laboratory (Formerly",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/2030L/",
+        "id": "007852",
+        "description": "The Laboratory component Earth Systems: Geosphere requires the student to make measurements, analyze and plot data, draw conclusions from the data plots, characterize and identify earth materials, and interpret geospatial representations. These skills will follow lecture material and increase understanding through active learning.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.2010 Earth Systems: Geoscience, and Kennedy College of Science majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.2010"
+                ]
+            ]
+        }
+    },
+    "ENVI.2040L": {
+        "name": "ENVI.2040L Earth Systems: Atmosphere and Oceans Laboratory (Formerly 87.204)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/2040L/",
+        "id": "007853",
+        "description": "Earth Systems: Atmosphere and Oceans Lab is designed to complement the lecture material from ENVI.2020 - Earth Systems Atmosphere and Oceans. This course, along with the other Earth Systems courses and corresponding labs use a systems-based approach for the topic of Earth and Environmental Science. This laboratory will concentrate on the Atmosphere and Oceanography.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.2020 Earth Systems: Atmosphere and Oceans, and Kennedy College of Science majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.2020"
+                ]
+            ]
+        }
+    },
+    "ENVI.2050": {
+        "name": "ENVI.2050 Earth Systems: Biosphere and Global Change",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/2050/",
+        "id": "040774",
+        "description": "Earth Systems: Biosphere and Global Change explores the origin and evolution of life on Earth, its history, and how life has interacted with Earth systems throughout its history. Students will become familiar with the biomes of the world, ecological processes within those biomes, the biological communities that inhabit them, and how ecological processes lead to evolution over time. Throughout the course, we will examine how human society interacts with the biosphere, including how global change is both generated by and responds to the interaction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.2070L Earth Systems: Biosphere and Global Change Lab, and Kennedy College of Science majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.2070L"
+                ]
+            ]
+        }
+    },
+    "ENVI.2070L": {
+        "name": "ENVI.2070L Earth Systems: Biosphere and Global Change Lab",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/2070L/",
+        "id": "040773",
+        "description": "This lab is designed to complement the lecture material from ENVI.2050 - Earth Systems: Biosphere and Global Change. This course, along with the other Earth Systems courses and corresponding labs use a systems-based approach for the topic of Earth and Environmental Science. This laboratory will concentrate of the Biosphere and Global Environmental Change.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.2050 Earth Systems: Biosphere and Global Change , and Kennedy College of Science majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.2050"
+                ]
+            ]
+        }
+    },
+    "ENVI.2990L": {
+        "name": "ENVI.2990L Envi. Science 2000 Level Elective",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/2990L/",
+        "id": "040062",
+        "description": "Envi. Science 2000 Level Elective.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.3010": {
+        "name": "ENVI.3010 GIS in Earth and Environmental Sciences (Formerly 87.301)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/3010/",
+        "id": "037132",
+        "description": "This course introduces earth and environmental science students to applications of geographic information systems, emphasizing hands-on field experience in collecting spatial location data and in mapping environmental data using GIS software.  Covers fundamentals of: geodesy; spherical and plane coordinate systems; spatial data concepts, including error, accuracy, and precision; location measurement technologies including GPS: vector and raster GIS data structures and file types, basic GIS operations, including georeferencing of raster files and editing of vector files; assembly of field data over a base map; analysis of spatial relationships using GIS tools; symbology and methods of map presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.4000": {
+        "name": "ENVI.4000 Senior Seminar in Environmental Sciences",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4000/",
+        "id": "041216",
+        "description": "The Senior Seminar in Environmental Sciences includes speaker presentations by invited external and internal faculty, as well as student presentations. The class includes interdisciplinary topics in Atmospheric Sciences, Geosciences, and Environmental Sciences. The goals are to improve oral communication skills and expand knowledge of stat-of-the-art research approaches and research themes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Junior/Senior Standing in Environmental Science.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.4100": {
+        "name": "ENVI.4100 Soil Science",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4100/",
+        "id": "040772",
+        "description": "This class provides a fundamental understanding of the formation, structure, and functioning of soils. Topics include soil formation and history, soil chemistry and physics, soil endangerment and protection, and distribution and characteristics of soils across the world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.4120L Soil Science Lab, and Pre-req: GEOL.3070 Earth Materials, and CHEM.1220 Chemistry II, and Kennedy College of Science majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.4120L"
+                ],
+                [
+                    "GEOL.3070"
+                ],
+                [
+                    "CHEM.1220"
+                ]
+            ]
+        }
+    },
+    "ENVI.4120L": {
+        "name": "ENVI.4120L Soil Science Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4120L/",
+        "id": "040771",
+        "description": "This lab is designed to complement the lecture material from ENVI.4100 - Soil Science. The lab includes field and laboratory measurements of soil structure and soil physical and chemical characteristics. As the outermost layer of the Earth's crust, soils are at the interface between earth, air, water, and life. Soils provide important ecosystem services and are critical for the sustenance of humanity.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.4100 Soil Science, and Pre-req: GEOL.3070 Earth Materials, and CHEM.1220 Chemistry II, and Kennedy College of Science majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.4100"
+                ],
+                [
+                    "GEOL.3070"
+                ],
+                [
+                    "CHEM.1220"
+                ]
+            ]
+        }
+    },
+    "ENVI.4150": {
+        "name": "ENVI.4150 Biogeochemical cycles",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4150/",
+        "id": "040770",
+        "description": "This class will explore the origins, transport, and transformations of elements in the global environment. We will us quantitative approaches to understand physical, chemical, and biological controls on elemental cycles. Many of these elements cycle between the geosphere, atmosphere, hydrosphere, and biosphere, and quantifying exchanges and fluxes between compartments is a critical component of understanding their distribution. We will also emphasize microbial processes that are critical in shaping biogeochemical cycles.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1220 Chemistry II, and ENVI.2010 Earth Sys: Geosphere, or ENVI.2050 Earth Systems: Biosphere and Global Change, or BIOL.3150 Principles of Ecology, and Kennedy College of Science majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "ENVI.2010",
+                    "ENVI.2050"
+                ],
+                [
+                    "BIOL.3150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVI.4160": {
+        "name": "ENVI.4160 Climate Change: Science, Communication, and Solutions (Formerly 81.416/BIOL.4160)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4160/",
+        "id": "036711",
+        "description": "Like many of the 'grand challenges' currently facing society, climate change is a complex problem that cuts across academic disciplines, including the physical sciences, biology, engineering, economics, political sciences, and behavioral psychology. In this course, we integrate recent research from many of these disciplines to explore the scientific basis of climate change, its impacts on the natural world and human society, and societal responses to it. Through interactive simulations, class discussions, lectures, current scientific literature, and student-led projects (such as video production and dynamic modeling), the goal of this course is to empower students to come to their own decisions about how society can address the climate change challenge.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.4170L Climate Change: Science, Communication, and Solutions Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.4170L"
+                ]
+            ]
+        }
+    },
+    "ENVI.4170L": {
+        "name": "ENVI.4170L Climate Change: Science, Communication, and Solutions Lab",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4170L/",
+        "id": "040744",
+        "description": "This course is designed to integrate closely with the lecture course, Climate Change: Science, Communication, and Solutions. Students will use interactive simulations, build models, and create media projects that explore climate change and sustainability. Topics include the physical climate system and carbon cycle, human energy systems, and climate policy and economics.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.4160 Climate Change: Science, Communication, and Solutions.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.4160"
+                ]
+            ]
+        }
+    },
+    "ENVI.4250": {
+        "name": "ENVI.4250 Systems Thinking for Sustainability",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4250/",
+        "id": "042268",
+        "description": "In this course, students will develop and apply systems thinking skills to explore, understand, and design solutions to one of the defining challenges of our time: charting a transition to a thriving, sustainable society on a finite planet. 'System thinking' is a way of understanding complex problems from a holistic, long-term perspective. It provides a set of tools to visualize the structure of systems - or the interactions between system elements - and how that structure generates dynamic behavior. Systems thinking provides a framework and approaches that transcend disciplines and help identify strategic points of intervention in complex problems. 'System dynamics' extends systems thinking to include formal mathematical modeling of the interactions between system elements. It uses computer-assisted simulation to facilitate understanding and strategic management of complex systems. This course uses systems thinking, simulation, and system dynamics to enable students to make sense of cross-disciplinary sustainability challenges and design strategic solutions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "This course is open to students who are minors in Climate Change and Sustainability and/or Majors in the B.A. or B.S. in Environmental Science or Meteorology & Atmospheric Science, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.4930": {
+        "name": "ENVI.4930 Internship: Environmental Studies (Formerly 87.493)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4930/",
+        "id": "038854",
+        "description": "Work experience with private or public employer. Written report and supervisor evaluation required.   Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.4950": {
+        "name": "ENVI.4950 Honors Research: Environmental Studies (Formerly 87.495)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4950/",
+        "id": "038727",
+        "description": "An individual or team research project carried out by qualified students with the approval of and supervision by a faculty member.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.4960": {
+        "name": "ENVI.4960 Practicum (Formerly 87.496)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4960/",
+        "id": "007866",
+        "description": "A program of on-campus and/or off-campus experiences developed by the student in consultation with a faculty member from the Department and, when appropriate, a member of the staff of an off-campus firm. May be repeated to a maximum of six credits. The practicum may not be substituted for a required course in the major.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.4970": {
+        "name": "ENVI.4970 Research: Environmental Studies",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/4970/",
+        "id": "040068",
+        "description": "An independent scientific research project carried out by a qualified senior under the supervision of a faculty member.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.5000": {
+        "name": "ENVI.5000 Graduate Seminar in Environmental Sciences",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5000/",
+        "id": "040845",
+        "description": "The Graduate Seminar in Environmental Sciences includes speaker presentations by invited external and internal faculty, as well as student presentations. Graduate seminar students will also be expected to evaluate professional papers and complete several writing assignments specific to presentations and/or research papers. The class includes interdisciplinary topics in Atmospheric Sciences, Geosciences, and Environmental Sciences. The goals are to improve oral and written communication skills and expand knowledge of state-of-the-art research approaches and research themes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Open to Graduate Students in Environmental Studies.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.5020": {
+        "name": "ENVI.5020 Freshwater Ecology",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5020/",
+        "id": "039875",
+        "description": "Freshwater Ecology is a 3-credit lecture course that covers the basic concepts regarding the physical structure, water quality, and ecological communities of freshwater lake and pond as influenced by the environment. Physical and chemical concepts (e.g., lake circulation patterns, thermal stratification, nutrient budgets, etc.) are incorporated with the lake biota (e.g., phytoplankton, zooplankton, and fish) and synthesized to provide perspective on ecosystem function. Within this scientific framework, wee will also study the application of practical lake management using current lake and watershed-based management tools and options.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1210 Chemistry I, or BIOL1150 Introduction to Biology Seminar, or ATMO.1410 Weather and Climate, or ENVI.1010 Environmental Science Seminar, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210",
+                    "ATMO.1410"
+                ],
+                [
+                    "ENVI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVI.5040": {
+        "name": "ENVI.5040 Geographic Information Systems (Formerly 87.504)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5040/",
+        "id": "007867",
+        "description": "This course will cover most of the elements of a geographic information system commonly found in basic and mid-level GIS applications. Topics will include file organization, data entry including digitizing and image registration, geocoding, thematic mapping, Structured Query Language (SQL) applications, map algebra, raster operations, interpolative methods, distance mapping, density mapping, cost surfaces, and an introduction to modeling. This course will use the Arcview GIS platform.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.5100": {
+        "name": "ENVI.5100 Environmental Pollution",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5100/",
+        "id": "040503",
+        "description": "This class is designed for graduate students in Environmental, Earth and Atmospheric Sciences, Environmental Engineering, Environmental Chemistry and Biology. The class describes the origin, transport, and transformation of pollutants in the environmental behavior and biological impacts of contaminants. Students also will learn about national and international regulations regards pollutant emissions and technology for control and remediation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENVI.2010 Earth Environmental Systems I, or CHEM.1210 Chemistry I, and CHEM.1220 Chemistry II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2010",
+                    "CHEM.1210"
+                ],
+                [
+                    "CHEM.1220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVI.5160": {
+        "name": "ENVI.5160 Climate Change: Science, Communication, and Solutions (Formerly 81.516/BIOL.5160)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5160/",
+        "id": "036712",
+        "description": "Like many of the 'grand challenges' currently facing society, climate change is a complex problem that cuts across academic disciplines, including the physical sciences, biology, engineering, economics, political sciences, and behavioral psychology. In this course, we integrate recent research from many of these disciplines to explore the scientific basis of climate change, its impacts on the natural world and human society, and societal responses to it. Through interactive simulations, class discussions, lectures, current scientific literature, and student-led projects, the goal of this course is to empower students to come to their own decisions about how society can address the climate change challenge. Students taking this course at the graduate level will lead group projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ENVI.5170L Climate Change: Science, Communication, Solutions Recitation Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.5170L"
+                ]
+            ]
+        }
+    },
+    "ENVI.5170L": {
+        "name": "ENVI.5170L Climate Change: Science, Communication, Solutions Recitation Lab",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5170L/",
+        "id": "040757",
+        "description": "This course is designed to integrate closely with the lecture course, Climate Change: Science, Communication, and Solutions. Students will use interactive simulations, build models, and create media projects that explore climate change and sustainability. Topics include the physical climate system and carbon cycle, human energy systems, and climate policy and economics. Students take this course at the graduate level will lead group projects.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ENVI.5160 Climate Change: Science, Communication, Solutions.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENVI.5160"
+                ]
+            ]
+        }
+    },
+    "ENVI.5200": {
+        "name": "ENVI.5200 Methods in Environmental Impact Assessment and Analysis (Formerly 87.520)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5200/",
+        "id": "037684",
+        "description": "This course describes, and illustrates with case studies, environmental evaluation required to implement projects and policies potentially affecting the environment.  Methods available to integrate technical impact predictions, prepare Environmental Statements, and make informed decisions regarding environmental effects will be covered.  Incorporation of sustainability and permitting with environmental analyses will also be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.5250": {
+        "name": "ENVI.5250 Systems thinking for Sustainability",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5250/",
+        "id": "042215",
+        "description": "In this course, students will develop and apply systems thinking skills to explore, understand, and design solutions to one of the defining challenges of our time: charting a transition to a thriving, sustainable society on a finite planet. 'System thinking' is a way of understanding complex problems from a holistic, long-term perspective. It provides a set of tools to visualize the structure of systems - or the interactions between system elements - and how that structure generates dynamic behavior. Systems thinking provides a framework and approaches that transcend disciplines and help identify strategic points of intervention in complex problems. 'System dynamics' extends systems thinking to include formal mathematical modeling of the interactions between system elements. It uses computer-assisted simulation to facilitate understanding and strategic management of complex systems. This course uses systems thinking, simulation, and system dynamics to enable students to make sense of cross-disciplinary sustainability challenges and design strategic solutions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "This course is open for students in the M.S. and Ph.D. programs of Environmental Studies and Earth System Science. Permission to enroll can also be requested from the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.5500": {
+        "name": "ENVI.5500 Earth System Science",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5500/",
+        "id": "042120",
+        "description": "ENVI.5500 explores a broad range of Earth science disciplines, with a focus on active research areas in each field. Core concepts and research tools from atmospheric science, hydrology, ecology, and geochemistry are reviewed and discussed within the context of major research thrusts. Emphasis will be placed on Earth system changes occurring since the start of the Anthropocene, including those related to climate change, nutrient cycling, land use change, and coastal processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1310 Calculus I, and PHYS.1410 Physics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1310"
+                ],
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENVI.5720": {
+        "name": "ENVI.5720 Energy and Environment (Formerly 87.572)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5720/",
+        "id": "007869",
+        "description": "This course discusses the world and U.S. primary energy resources and consumption, including fossil, nuclear and renewable energy sources. Principles of thermodynamics are reviewed, especially in regard to energy usage efficiency improvement. A significant part of the course is devoted to electricity production, including site visits to fossil and nuclear power plants. The environmental effects are discussed of energy extraction and consumption, such as SOx, NOx and particulate matter emissions, acid deposition, the greenhouse effect, radioactive waste disposal. Also the risks of accidents are discussed in fossil and nuclear fuel usage.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.5850": {
+        "name": "ENVI.5850 Climate Change in the Classroom (Formerly 87.585)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/5850/",
+        "id": "039093",
+        "description": "The course is designed to help teachers from all levels improve their ability to foster student learning about the earth's changing climate. The course addresses the scientific, sociological, and pedagogical dimensions associated with climate change science. How to incorporate climate change into existing curriculum across disciplines is considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.7400": {
+        "name": "ENVI.7400 Dissertation Research in Earth System Science",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/7400/",
+        "id": "042216",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "For students enrolled in the Ph.D. program of Earth System Science.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVI.REVIEW": {
+        "name": "ENVI.REVIEW Pending Departmental Review (Formerly 87.REVIEW)",
+        "url": "https://www.uml.edu/catalog/courses/ENVI/REVIEW/",
+        "id": "031871",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

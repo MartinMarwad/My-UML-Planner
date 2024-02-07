@@ -1,0 +1,1717 @@
+{
+    "total": 95,
+    "time": 63.938947916030884,
+    "NURS.1010": {
+        "name": "NURS.1010 Strategies for Acad Success (Formerly  33.101)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/1010/",
+        "id": "033747",
+        "description": "This introductory course will assist nursing students to learn strategies for creating greater academic, professional, and personal success.  Specific attention will be given to exploring the profession of nursing, academic integrity, goal setting, time management, critical thinking and communicating with others. Consideration will be given to note taking skills, test reading and studying, writing, test-taking strategies, library use and research techniques, wellness and stress management, and campus resources.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Restricted to Nursing Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.1030": {
+        "name": "NURS.1030 Academic Strategies Portfolio Seminar (Formerly 33.103)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/1030/",
+        "id": "035273",
+        "description": "Nursing students with a diploma in nursing, associate degree in nursing, or second baccalaureate degree will submit a portfolio to demonstrate how they have met the course objectives. The portfolio will show evidence of goal setting and time management, UML library orientation for literature searches, understanding of academic integrity and writing and referencing using APA style. Students will participate in seminar(s) on communication, cultural sensitivity , and conflict resolution.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.2100": {
+        "name": "NURS.2100 Nursing Fundamentals (Formerly 33.210)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2100/",
+        "id": "034582",
+        "description": "This course enables students to begin their basic knowledge of nursing.  The course provides an organizing framework, based on Gordon's functional health patterns, that is strictly nursing.  Therapeutic nursing interventions are incorporated into the more detailed discussion of each of the functional health patterns.  A separate laboratory component is included for demonstration and practice of nursing interventions.  At the conclusion of this course students will demonstrate competency in performing basic nursing intervention for individuals in a clinical setting.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Nursing Majors, Sophomore level;  Co-Reqs: NURS 2100L, and NURS 3120.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.2100L"
+                ],
+                [
+                    "NURS.3120"
+                ]
+            ]
+        }
+    },
+    "NURS.2100L": {
+        "name": "NURS.2100L Nursing Fundamentals Lab (Formerly 33.210L)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2100L/",
+        "id": "034583",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: NURS.2100 Nursing Fundamentals.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.2100"
+                ]
+            ]
+        }
+    },
+    "NURS.2110": {
+        "name": "NURS.2110 Nursing Assessment and Skills (Formerly 33.313 and NURS.3130)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2110/",
+        "id": "004556",
+        "description": "This course introduces students to the foundations of communication, nursing assessment, and psychomotor skills guided by standards of nursing practice. Emphasis is placed on the integration and application of these skills through the use of critical thinking.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: NURS.3130L Nursing Assessment &Skills Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.3130L"
+                ]
+            ]
+        }
+    },
+    "NURS.2110L": {
+        "name": "NURS.2110L Nursing Assessment and Skills Lab (Formerly 33.313L/ NURS.3130L)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2110L/",
+        "id": "033014",
+        "description": "This laboratory course introduces students to the foundations of communication, nursing assessment, and psychomotor skills guided by standards of nursing practice. Emphasis is placed on the integration and application of these skills through the use of critical thinking.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: NURS.3130 Nursing Assessment and Skills.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.3130"
+                ]
+            ]
+        }
+    },
+    "NURS.2120": {
+        "name": "NURS.2120 Introduction to Nursing Practice (Formerly 33.212)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2120/",
+        "id": "039194",
+        "description": "Nursing as a health profession is introduced in this foundation course. The course is organized using functional health patterns. Within the context of the American Nurses Association Standards of Clinical Practice, standards of professional performance are introduced and standards of care are emphasized. Students, at the completion of this course, will demonstrate an understanding of the nursing process and competencies to perform basic nursing interventions in a laboratory and a clinical setting.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: NURS 2120L Intro to Nursing Prac Lab and NURS 2120R Introduction to Nursing Practice Medication Calcs and sophomore level.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.2120L"
+                ],
+                [
+                    "NURS.2120R"
+                ]
+            ]
+        }
+    },
+    "NURS.2120L": {
+        "name": "NURS.2120L Introduction to Nursing Practice Laboratory (Formerly 33.212L)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2120L/",
+        "id": "039193",
+        "description": "This course enables students to apply their basic theoretical knowledge of nursing in a laboratory and clinical\nsetting. The course is organized using functional health patterns. At the conclusion of this course, students will\ndemonstrate competency in performing basic nursing interventions for individuals in a clinical setting.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "NURS 2120L - Co-Req 2120/2120R",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.2120L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.2120R": {
+        "name": "NURS.2120R Introduction to Nursing Practice Medication Calcs (Formerly 33.212R)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2120R/",
+        "id": "039195",
+        "description": "This course reviews the mathematics necessary to complete drug calculations This course reviews the mathematics necessary to complete drug calculations using dimensional analysis. It covers the metric and household system of weights and measures. The focus of the course is on the completion of drug dosages for oral and parenteral medication.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "NURS 2120R - Co-Req 2120/2120L",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.2120R"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.2180": {
+        "name": "NURS.2180 Pharmacology for Nursing Practice (Formerly 33.318/NURS.3180)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/2180/",
+        "id": "030340",
+        "description": "This course provides an overview of pharmacology as it relates to nursing practice. Students connect knowledge regarding the nursing process to pharmacotherpeutics throughout body systems and the lifespan.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Restricted to Sophomore or Higher Level Nursing Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3010": {
+        "name": "NURS.3010 Research in Nursing and Health Care (Formerly 33.301)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3010/",
+        "id": "004545",
+        "description": "This course provides an overview of the research process. Health care research interests and the methodology of various disciplines are examined. Through a review of research studies, students examine the basic steps in the process of research. Ethical problems in the world of research are explored and students learn how research influences health care practice and policy.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Nursing Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3060": {
+        "name": "NURS.3060 Health Assessment (Formerly 33.306)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3060/",
+        "id": "004550",
+        "description": "This combined didactic and laboratory course builds on the students' professional nursing education and experiences through the inclusion of health assessment information as applied to the professional nursing role in the community setting.  Emphasis is on systematic data collection including thorough history taking, physical examination, screening and risk-factor recognition.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Academic Plan Nursing (BS);  RN's only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3070": {
+        "name": "NURS.3070 Concepts for Baccalaureate  Nursing (Formerly 33.307)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3070/",
+        "id": "004551",
+        "description": "This course is designated as a transition course for registered nurse students pursuing a baccalaureate degree with a major in nursing.  This course aims to refine critical thinking skills and analyze nursing's unique contribution to health care.  Consideration is given to the interrelationships of theory, research, and practice.  Special emphasis is placed on the concepts of health promotion and risk reduction as they relate to individuals and families who are at risk for or experiencing health problems.  This course includes a practicum component that focuses on the development of interventions to promote the health of individuals and families at risk.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Academic Plan Nursing (BS);  RN's only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3080": {
+        "name": "NURS.3080 Health Promotion in Nursing (Formerly 33.308)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3080/",
+        "id": "004552",
+        "description": "This course is designed as a transition course for registered nurse students pursuing a baccalaureate degree with a major in nursing. It introduces the theory and research related to the concepts of health/ promotion and risk reduction. These concepts are presented as essential components of professional nursing practice. This course includes a clinical practicum which focuses on the development of interventions to promote the health of individuals and families. This course aims to refine critical thinking skills and analyze nursing's unique contribution to health care. Consideration is given to the interrelationships of theory, research and practice.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: NURS.3090 Health Promotion in Nursing Practice Practicum. and Academic Plan Nursing (BS); RN's only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.3090"
+                ]
+            ]
+        }
+    },
+    "NURS.3090": {
+        "name": "NURS.3090 Health Promotion in Nursing Practice Practicum (Formerly 33.309)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3090/",
+        "id": "033015",
+        "description": "This course is a clinical practicum which focuses on the development of interventions to promote the health of individuals and families.  This course aims to refine critical thinking skills and analyze nursing's unique contribution to health care.  Consideration is given to the interrelationships of theory, research and practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS 1030 Academic Strategies Portfolio, NURS 3010 Research in Nursing and Health Care, NURS 3060 Health Assessment, NURS 3070 Concepts for Baccalaureate Nursing and Co-req: NURS 3080 Health Promotion in Nursing Practice.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.1030"
+                ],
+                [
+                    "NURS.3010"
+                ],
+                [
+                    "NURS.3060"
+                ],
+                [
+                    "NURS.3070"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.3080"
+                ]
+            ]
+        }
+    },
+    "NURS.3100": {
+        "name": "NURS.3100 Health Promotion and Risk Reduction Families I (Formerly 33.310)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3100/",
+        "id": "004553",
+        "description": "This course focuses on health promotion and risk reduction with young individuals and families who are responding to potential or actual physical and psychosocial health problems. Content is centered on holistic nursing care from a lifespan perspective beginning in pregnancy and ending with adolescence.",
+        "credits": {
+            "min": "5",
+            "max": "5"
+        },
+        "requirements-text": "Co-Req: NURS.3110 Hlth Promotn Fam Pract I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.3110"
+                ]
+            ]
+        }
+    },
+    "NURS.3110": {
+        "name": "NURS.3110 Health Promotion and Risk Reduction of Families I Practicum  (Formerly 33.311)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3110/",
+        "id": "004554",
+        "description": "This community-based clinical course is focused on health promotion of young families including childbearing women, infants, children, and adolescents. A portion of the clinical experience consists of establishing a relationship by the student with a family.  first four semesters of nursing curriculum. Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL).",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Restricted to Juniors or Higher Level Nursing Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3120": {
+        "name": "NURS.3120 Concepts of  Professional Nursing (Formerly 33.312)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3120/",
+        "id": "004555",
+        "description": "Nursing as a health profession is introduced in this foundation course. The concepts of health promotion, communication, critical thinking, culture, nursing theory and research, and therapeutic nursing interventions are presented. Within the context of the American Nurses'  Association Standards of Clinical Nursing Practice, standards of professional performance are introduced and standards of care are emphasized.  First four semesters of nursing curriculum.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Nursing majors, Sophomore level; Co-Req: NURS 2100 Nursing Fundamentals and NURS 2100L Nursing Fundamentals Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.2100"
+                ],
+                [
+                    "NURS.2100L"
+                ]
+            ]
+        }
+    },
+    "NURS.3140": {
+        "name": "NURS.3140 Health Promotion and Risk Reduction Families II  (Formerly 33.314)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3140/",
+        "id": "004557",
+        "description": "This course focuses on health promotion and risk reduction with adults and their families who are responding to potential or actual biopsychosocial health problems. Content is centered on holistic nursing care throughout the adult lifespan.",
+        "credits": {
+            "min": "5",
+            "max": "5"
+        },
+        "requirements-text": "Co-Req: NURS.3150 Health Promotion  Family Practicum II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.3150"
+                ]
+            ]
+        }
+    },
+    "NURS.3150": {
+        "name": "NURS.3150 Health Promotion and Risk Reduction of Families II Practicum (Formerly 33.315)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3150/",
+        "id": "004558",
+        "description": "In this clinical course, students provide nursing care to adult clients and their families. The focus is the development of specifically tailored therapeutic interventions to promote the health of these clients and assist with potential or actual health problems.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3200": {
+        "name": "NURS.3200 Community-Focused Health and Policy (Formerly 33.320)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3200/",
+        "id": "037806",
+        "description": "This course provides a foundation to community health nursing with the community, family and individual as Client.  This course presents an overview of the US health care delivery system with an emphasis on the role of government in healthcare, Medicaid, and current efforts at healthcare reform.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3210": {
+        "name": "NURS.3210 Independent Study (Formerly 33.321)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3210/",
+        "id": "030341",
+        "description": "Independent Study on a topic chosen by the student and agreed on by the faculty member.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3220": {
+        "name": "NURS.3220 Independent Study (Formerly 33.322)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3220/",
+        "id": "030342",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3230": {
+        "name": "NURS.3230 Independent Studies (Formerly 33.323)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3230/",
+        "id": "030865",
+        "description": "Independent Studies",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3240": {
+        "name": "NURS.3240 Community-Focused Project Implementation (Formerly 33.324)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3240/",
+        "id": "037882",
+        "description": "This course focuses on improving the health of one aspect of the community.  Students analyze health problems in identified communities.  Interventions for community as client are developed and implemented and the effectiveness of applied interventions in evaluated.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Nursing (BS); RN's Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.3250": {
+        "name": "NURS.3250 Community-Focused Project Dissemination (Formerly 33.325)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/3250/",
+        "id": "037883",
+        "description": "This one credit course focuses on the dissemination of the results of a community based program.  Students develop presentations which describe methods used to identify, intervene and evaluate the health problems of a community.  Students are required to present their findings at a formal dissemination venue identified by faculty.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Nursing (BS); RN's Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.4100": {
+        "name": "NURS.4100 Health Promotion and Risk Reduction of Families III (Formerly 33.410)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4100/",
+        "id": "004567",
+        "description": "This course addresses the nursing care of adults with acute and chronic conditions. Particular attention is paid to nursing care of adults with increasing complex illnesses and acuity levels.",
+        "credits": {
+            "min": "5",
+            "max": "5"
+        },
+        "requirements-text": "Co-Reqs: NURS 4110 Nsg Acute Care Practicum, NURS 4120 Com Hlth & Health Policy.  Students must be in the School of Nursing UMass Lowell program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.4110"
+                ],
+                [
+                    "NURS.4120"
+                ]
+            ]
+        }
+    },
+    "NURS.4110": {
+        "name": "NURS.4110 Health Promotion and Risk Reduction of Families III Practicum (Formerly 33.411)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4110/",
+        "id": "004568",
+        "description": "In this clinical course, students provide nursing care to adults in adult inpatient and outpatient settings. The focus of the experience is the development of specifically tailored therapeutic interventions in providing care to adults with acute and chronic illness.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Co-Reqs: NURS 4100 Nsg Acute Care, NURS 4120 Com Hlth & Health Policy.  Students must be in the School of Nursing UMass Lowell program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.4100"
+                ],
+                [
+                    "NURS.4120"
+                ]
+            ]
+        }
+    },
+    "NURS.4120": {
+        "name": "NURS.4120 Community  Health and Health Policy (Formerly 33.412)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4120/",
+        "id": "004569",
+        "description": "This course analyzes the development of policy and its impact on the health of populations. Students apply epidemiology and community health science to population-based nursing practice. Students identify a community health problem that can be addressed through health promotion activities.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.4130": {
+        "name": "NURS.4130 Role Transition (Formerly 33.413)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4130/",
+        "id": "004570",
+        "description": "This capstone course focuses on the transition to the professional nursing role. Content includes professional issues, trends, and leadership and management principles which impact on nursing practice. Students analyze nursing practice in relation to the standards of professional performance.  Meets Core Curriculum Essential Learning Outcome for Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Co-Req: NURS.4140 Role Practicum.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.4140"
+                ]
+            ]
+        }
+    },
+    "NURS.4140": {
+        "name": "NURS.4140 Role Transition Practicum (Formerly 33.414)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4140/",
+        "id": "004571",
+        "description": "During this clinical experience the student works collaboratively with nurse preceptor and other members of the health team. The student becomes increasingly self-directed in carrying out the professional nursing role.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "Co-req: NURS.4130 Role Transition.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.4130"
+                ]
+            ]
+        }
+    },
+    "NURS.4150": {
+        "name": "NURS.4150 Community Health Project (Formerly 33.415)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4150/",
+        "id": "004572",
+        "description": "The student applies the ANA Public Health Nursing Scope and Standards of Nursing Practice with community as client. Teams of students utilize community assessment data collected from previous semester to develop, implement and evaluate a community health promotion activity.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "NURS.4120 Com Hlth & Health Policy",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.4120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.4200": {
+        "name": "NURS.4200 Leadership in Nursing (Formerly 33.420)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4200/",
+        "id": "037884",
+        "description": "This course focuses on leadership roles, responsibilities, and opportunities for the professional nurse.  Course content includes professional issues, trends, and leadership and managerial principles pertinent to healthcare and nursing practice.  Students explore professional perspectives, norms, and ethical standards essential in values-driven management and leadership.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Nursing (BS); RN's Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.4210": {
+        "name": "NURS.4210 Selected Topics in Nursing (Formerly 33.421)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/4210/",
+        "id": "037885",
+        "description": "Selected Topics in Nursing is a course for advanced undergraduates in the RN-BS option.  The content will vary from semester to semester depending on the research interest of the faculty member(s) teaching the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS 3070 Concepts for Baccalaureate Nursing, NURS 3080 Health Promotion in Nursing, and Nursing (BS); RN's Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.3070"
+                ],
+                [
+                    "NURS.3080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.5220": {
+        "name": "NURS.5220 Independent  Study Health Promotion (Formerly 33.522)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/5220/",
+        "id": "004574",
+        "description": "Health Promotion gerontological clinical practicum is designed to be taken as a co-requisite to 33:611 Gerontological Nursing II didactic, in which the student focuses on comprehensive assessment and diagnosis of health problems in older adults with complex, multi-system health issues.  Students utilize evidence-based research to design, implement and evaluate intervention strategies to promote optimum functioning and wellness. Pharmacological and complementary therapies are applied. Client teaching is included.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: NURS 6110 Gerontological Nursing II;  Pre-Reqs: NURS 6100 Gerontological Nursing I, NURS 6130 Gerontological Nursing Practicum I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.6110",
+                    "NURS.6100"
+                ],
+                [
+                    "NURS.6130"
+                ]
+            ]
+        }
+    },
+    "NURS.5520": {
+        "name": "NURS.5520 Social, Cultural and Policy Issues in Health Care (Formerly 33.552)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/5520/",
+        "id": "004575",
+        "description": "This course links health and illness to other central domains of life: gender, kinship, and culture within the context of the family, community and the current health care system.  It draws on concepts from the social, health, and policy sciences to critically examine factors relating to health and health-seeking behaviors across the life course.  Ethical dimensions of health policy formation and implementation are analyzed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: Graduate Certificate or MS in Nursing, or DNP Nursing, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.5530": {
+        "name": "NURS.5530 Scholarly Writing",
+        "url": "https://www.uml.edu/catalog/courses/NURS/5530/",
+        "id": "041021",
+        "description": "This course provides an overview of, and introduction to the concepts and skills of scholarly writing as it pertains to scientific reports and papers. Course topics will include scientific literature searches, organizations of research papers and reports, ethical and authorship considerations, and steps in critiquing one's own and others' writing. Course objectives will be accomplished by reading and critiquing professional writing, creating original written work, and integrating feedback to improve work.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MS in Nursing, or DNP Nursing, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.5540": {
+        "name": "NURS.5540 Palliative and End of Life Nursing Care (Formerly 33.554)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/5540/",
+        "id": "033172",
+        "description": "Through didactic, discussion and field experiences, participants in this course explore research and theory related to death, dying, grief, bereavement, and end-of-life-care throughout the lifespan.  Personal, professional, cultural, and ethical barriers and facilitators to the provision of palliative care will be examined using a holistic approach.  Comfort and restorative care will be considered within the context of the family and the community in a variety of settings where palliative care is provided.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.5580": {
+        "name": "NURS.5580 Geropsychiatric and Mental Health Nursing (Formerly 33.558)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/5580/",
+        "id": "030343",
+        "description": "The focus of this course is on the nursing care of older adults with psychiatric and mental health problems.  This course promotes a holistic approach to mental health care of older adults within the community and long-term care setting.  Nursing implications of psychopharmacology, behavioral, and complementary interventions will be discussed.  Community resources for older adults with psychiatric and mental health problems will be explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.5590": {
+        "name": "NURS.5590 Advanced Pharmacology (Formerly 33.559)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/5590/",
+        "id": "004577",
+        "description": "This nursing course focuses on clinical pharmacology and the mechanisms of drug action which determine therapeutic efficacy in clinical practice. Content includes basic pathophysiology, clinical pharmacology and monitoring parameters and standards of practice. Emphasis is given to implications of patient safety, patient diversity and patient teaching.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6000": {
+        "name": "NURS.6000 Theoretical Foundations for Advanced Nursing Practice (Formerly 33.600)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6000/",
+        "id": "004578",
+        "description": "Course focuses on the analysis, critique, and application of theory as a basis for advanced practice nursing.  Relationships among theories, research, and nursing practice are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6010": {
+        "name": "NURS.6010 Research for Evidence-Based Practice (Formerly 33.601)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6010/",
+        "id": "004579",
+        "description": "Course focuses on the critique of research studies for the purpose of determining implications for evidence-based practice.  The research process will be applied to researchable nursing problems.  The role of frameworks, ethics, research designs, sampling theory, and measurement strategies are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: NURS.6000 Theoretical Foundations for Advanced Nursing Practice.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.6000"
+                ]
+            ]
+        }
+    },
+    "NURS.6020": {
+        "name": "NURS.6020 Clinical Psychopharmacology (Formerly 33.602)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6020/",
+        "id": "032567",
+        "description": "This survey course aims to educate advanced practice nurses for safe and effective prescribing practices in the treatment of psychiatric illnesses.  The course utilizes a symptom management framework that integrates concepts from normative psychobiology with pathophysiology of the psychiatric diseases.  From this perspective, emphasis is placed on gaining a fundamental understanding of the hypothesized compliment between the pathophysiologic basis of  the disease state and mechanism of action of the drug treatment as a basis for rational selection of pharmacologic treatment.  Current standards of practice and treatment algorithms are emphasized in helping the student to develop a working knowledge of psychopharmacology for the practice arena.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6040": {
+        "name": "NURS.6040 Directed Study: Multiple Topic",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6040/",
+        "id": "040569",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6100": {
+        "name": "NURS.6100 Adult Gerontological Nursing I (Formerly 33.610)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6100/",
+        "id": "004580",
+        "description": "The focus of this course is on the advanced practice nursing role in the holistic assessment and management of health problems of the adult and older adult within a family and community context. Evidence-based strategies to prevent and treat common health problems and to maintain and promote health through the application of advanced knowledge, theory, relevant research and critical decision making are emphasized. Community resources, pharmacological therapies, and complementary strategies are addressed.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "HSCI 5500 Human Development and  Pathophysiology, and NURS 6510 Advanced Health Assessment and Diagnostic Reasoning, and Co-req: NURS 6130 Adult Gerontological Nursing Practicum I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.5500"
+                ],
+                [
+                    "NURS.6510"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6130"
+                ]
+            ]
+        }
+    },
+    "NURS.6110": {
+        "name": "NURS.6110 Adult Gerontological Nursing II (Formerly 33.611)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6110/",
+        "id": "004581",
+        "description": "The focus of this course is on health promotion and biopsychosocial well-being of young, middle aged and older adults from diverse cultures. Utilizing current scientific research, physical/natural sciences, social sciences, and the humanities, implications for advanced nursing interventions and health policy are identified. Principles of pharmacology and pharmacological therapies, and complementary therapies are addressed.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "NURS 6100 Adult Gerontological Nursing I, and NURS 6130 Adult Gerontological Nursing Practicum I, and Co-req: NURS 6140 Gerontological Nursing Practicum II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6100"
+                ],
+                [
+                    "NURS.6130"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6140"
+                ]
+            ]
+        }
+    },
+    "NURS.6120": {
+        "name": "NURS.6120 Adult/Gerontological Nursing III (Formerly 33.612)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6120/",
+        "id": "004582",
+        "description": "This capstone course builds on the adult/gerontological nursing curriculum of the previous three semesters. Issues related to health care policy and legislation relative to their impact on the role of the nurse practitioner within primary care are analyzed.  Advanced knowledge of the management of complex health issues is integrated in nursing practice.  Transition to the role of the advanced practice nurse is examined and actualized through an intensive, precepted, clinical experience.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6130": {
+        "name": "NURS.6130 Adult Gerontological Nursing Practicum I (Formerly 33.613)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6130/",
+        "id": "004583",
+        "description": "This course focuses on comprehensive assessment and diagnosis of health problems in adults and older adults with complex, multi-system health issues, Students utilize evidence-based research to design, implement and evaluate intervention strategies to promote optimum functioning and wellness. Pharmacological and complementary therapies are applied. Group leadership, client and peer teaching are included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS 6510 Advanced Health Assessment and Diagnostic Reasoning, and HSCI 5500 Human Development and  Pathophysiology, and Co-req: NURS 6100 Adult Gerontological Nursing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6510"
+                ],
+                [
+                    "HSCI.5500"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6100"
+                ]
+            ]
+        }
+    },
+    "NURS.6140": {
+        "name": "NURS.6140 Adult-Gerontological Nursing Practicum II (Formerly 33.614)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6140/",
+        "id": "004584",
+        "description": "The focus of this course is on promotion of biopsychosocial well-being of adults and older adults through comprehensive assessment of health, the diagnosis of age-related changes and health problems, and the design, implementation and evaluation of pharmacologic and complementary intervention strategies. The application of scientific knowledge, theory and research findings to clinical practice is emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS 6100 Adult Gerontological Nursing I, and NURS 6130 Adult Gerontological Nursing Practicum I, and Co-req: NURS 6110 Adult Gerontological Nursing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6100"
+                ],
+                [
+                    "NURS.6130"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6110"
+                ]
+            ]
+        }
+    },
+    "NURS.6500": {
+        "name": "NURS.6500 Family and Adult-Gerontological Advanced Practice Nursing I",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6500/",
+        "id": "040297",
+        "description": "Focus is on the advanced practice nursing role in the holistic assessment and management of health problems of the adolescent, adult, and older adults, within a family and community context. Evidence-based strategies are applied to the prevention, treatment, and management of acute and chronic health problems. Health promotion and maintenance are emphasized through the application of advanced knowledge, theory, research, and critical decision-making. Community resources, pharmacological therapies, and complementary strategies are integrated throughout the course.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "NURS.6510 Advanced Health Assessment and Diagnostic Reasoning, and Co-req: NURS.6100 Adult Gerontological Nursing Practicum I, or NURS.6600 Family Health Nursing Practicum I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6510"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6100",
+                    "NURS.6600"
+                ]
+            ]
+        }
+    },
+    "NURS.6510": {
+        "name": "NURS.6510 Advanced Health Assessment and Diagnostic Reasoning (Formerly 33.651)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6510/",
+        "id": "004592",
+        "description": "This course focuses on the development of advanced critical thinking and clinical judgment skills through comprehensive health assessment. Health promotion and health maintenance content, including relevant research findings are utilized to evaluate health status and to evaluate health risk among individuals and groups. Age, gender, and cultural variations in health and implications for advanced practice are included. Advanced practice health assessment skills are developed and refined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: HSCI.5500 Human Development and Pathophysiology, or MLSC.5510 Advanced Pathophysiology, or HSCI.5510 Clinical Pathophysiology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "HSCI.5500"
+                ],
+                [
+                    "MLSC.5510",
+                    "HSCI.5510"
+                ]
+            ]
+        }
+    },
+    "NURS.6511": {
+        "name": "NURS.6511 APRN Practicum 1",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6511/",
+        "id": "041166",
+        "description": "This course focuses on comprehensive assessment and diagnosis of health problems in adolescents, adults and older adults with complex, multisystem health issues. Students utilize evidence based research to design, implement, and evaluate intervention strategies to promote optimum functioning and wellness. The application of advanced knowledge, theory, relevant research, and critical decision making are emphasized. Pharmacological and complementary therapies are applied. Group leadership, client and peer teaching are included. Transition of the role of the advanced practice nurse is examined and actualized through an intensive, precepted clinical experience",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: Graduate Certificate or MS in Nursing; or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6512": {
+        "name": "NURS.6512 APRN Practicum II",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6512/",
+        "id": "041267",
+        "description": "This course focuses on health promotion, illness prevention, and treatment through the comprehensive assessment and management of common health issues of individuals in the health setting; Application of theory, knowledge, and research finding to clinical practice is emphasized. The utilization of current clinical technologies is introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.6520 APRN Care of Adults, and NURS.6511 APRN Pacticum I, and Matriculation in the MS Nursing Program.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6520"
+                ],
+                [
+                    "NURS.6511"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.6513": {
+        "name": "NURS.6513 APRN Practicum III",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6513/",
+        "id": "041266",
+        "description": "Advanced knowledge of the management of complex health issues of individuals across the life span is integrated in advanced nursing practice. Transition to the role of the advanced practice nurse is examined and actualized through an intensive, precepted. clinical experience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.6512 APRN Practicum II, and Co-req: NURS.6524 APRN Role Transition, and Matriculated in the MS Nursing Program.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6512"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6524"
+                ]
+            ]
+        }
+    },
+    "NURS.6520": {
+        "name": "NURS.6520 APRN Care of Adults",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6520/",
+        "id": "041167",
+        "description": "Focus is on the advanced practice nursing role in the holistic assessment and management of health problems of the adolescent, adult, and older adult, within a family and community context. Evidence based strategies are applied to the prevention, treatment, and management of acute and chronic health problems. Health promotion and maintenance are emphasized through the application of advanced knowledge, theory, research, and critical decision making.  Community resources, pharmacological therapies, and complimentary strategies are integrated throughout the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: Graduate Certificate or MS in Nursing, or DNP Nursing, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6521": {
+        "name": "NURS.6521 APRN Care of Children and Adolescents",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6521/",
+        "id": "041265",
+        "description": "This course focus is on the advanced practice nursing of children adolescents in the primary care setting. Health promotion, disease prevention, diagnosis and management principles are applied to alterations in health within a family and community context. Evidence-based strategies to prevent, assess, diagnose and treat common health problems are emphasized as the scientific foundation for independent practice. Additionally, this course emphasizes collaborative partnership development among individuals, families, and intra-professional teams.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.6520 APRN Care of Adults.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.6522": {
+        "name": "NURS.6522 APRN Women's Health Across the Lifespan",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6522/",
+        "id": "041264",
+        "description": "The focus of this course is on health promotion and management of common health issues pertaining to women, from menarche to older adulthood. Based on current scientific research, students will develop knowledge to assess, diagnose and manage alterations in health ad develop holistic plans of care that address the health promotion, illness prevention, and primary care needs women across the lifespan. Sociocultural and political factors that affect the heath of women will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.6520 APRN Care of Adults, and Matriculation in the MS in Nursing Program.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.6523": {
+        "name": "NURS.6523 APRN Care of Older Adults",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6523/",
+        "id": "041263",
+        "description": "Focus is on the advanced practice nurse in the holistic assessment and management of heath problems of the adult and older adult in a family and community context. Evidenced-based strategies to prevent and treat common health problems and to maintain and promote health though the application of advanced knowledge, theory, relevant research and critical decision making are emphasized. Community resources, pharmacological therapies and complementary strategies are addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.6520 APRN Care of Adults, and Matriculation in the MS in Nursing Program.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.6524": {
+        "name": "NURS.6524 APRN Role Transition",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6524/",
+        "id": "041274",
+        "description": "This course builds on the APRN curriculum of the previous three semesters. Issues related to health care policy, legislation, transition to the APRN role, ethical and fiscal concepts relative to their impact on the role of the nurse practitioner are analyzed.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: NURS.6513 APRN Practicum III, and Matriculation in the MS program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "NURS.6513"
+                ]
+            ]
+        }
+    },
+    "NURS.6600": {
+        "name": "NURS.6600 Family Health Nursing I (Formerly 33.660)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6600/",
+        "id": "004593",
+        "description": "Focus is on the advanced practice-nursing role in the holistic assessment and management of health problems of the family across the lifespan within a family and community context. Evidence-based strategies to prevent and treat common health problems and to maintain and promote health through the application of advanced knowledge; theory, relevant research and critical decision-making are emphasized. Community resources, pharmacological therapies, and complementary strategies are addressed.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "HSCI 5500 Human Development and  Pathophysiology, and NURS 6510 Advanced Health Assessment and Diagnostic Reasoning, and Co-req: NURS 6630 Family Health Nursing Practicum I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.5500"
+                ],
+                [
+                    "NURS.6510"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6630"
+                ]
+            ]
+        }
+    },
+    "NURS.6610": {
+        "name": "NURS.6610 Family Health Nursing II (Formerly 33.661)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6610/",
+        "id": "004594",
+        "description": "The focus of this course is on health promotion and management of common health issues pertaining to woman and to infants, children, and adolescents. Based on current scientific research, students develop skills in analyzing data, differential diagnosis, and developing holistic plans of care that address the health promotion, illness prevention, and primary care needs of a wide-variety of client populations.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "NURS 6600 Family Health Nursing I, and NURS 6630 Family Health Nursing Practicum I, and Co-req: NURS 6640 Family Health Nursing Practicum II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6600"
+                ],
+                [
+                    "NURS.6630"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6640"
+                ]
+            ]
+        }
+    },
+    "NURS.6620": {
+        "name": "NURS.6620 Family Health Nursing III (Formerly 33.662)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6620/",
+        "id": "004595",
+        "description": "This capstone course builds on the family nursing curriculum of the previous three semesters. Issues related to health care policy and legislation relative to their impact on the role of the nurse practitioner within primary care are analyzed. \n Advanced knowledge of the management of complex health issues is integrated into nursing practice.  Transition to the role of the advanced practice nurse is examined and actualized through an intensive, precepted, clinical experience.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.6630": {
+        "name": "NURS.6630 Family Health Nursing Practicum I (Formerly 33.663)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6630/",
+        "id": "004596",
+        "description": "The focus of this course is on the advanced practice-nursing role in the holistic assessment and management of health problems of the family across the lifespan within a family and community context. Evidence-based strategies to prevent and treat common health problems and to maintain and promote health through the application of advanced knowledge, theory, relevant research and critical decision-making are emphasized. Community resources, pharmacological therapies, and complementary strategies are addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI 5500 Human Development and Pathophysiology, and NURS 6510 Advanced Health Assessment and Diagnostic Reasoning, and Co-req: or Pre-req: NURS.6500 Family and Adult-Gerontological Advanced Practice Nursing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.5500"
+                ],
+                [
+                    "NURS.6510"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6500"
+                ]
+            ]
+        }
+    },
+    "NURS.6640": {
+        "name": "NURS.6640 Family Health Nursing Practicum II (Formerly 33.664)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6640/",
+        "id": "004597",
+        "description": "This course focuses on health promotion, illness prevention, and treatment through the comprehensive assessment and management of common health issues of infants, children, adolescents and woman in the context of family and social environments. Application of theory, knowledge, and research findings to clinical practice is emphasized. The utilization of current clinical technologies is introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS 6600 Family Health Nursing I, and NURS 6630 Family Health Nursing Practicum I, and Co-req: NURS 6610 Family Health Nursing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.6600"
+                ],
+                [
+                    "NURS.6630"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.6610"
+                ]
+            ]
+        }
+    },
+    "NURS.6890": {
+        "name": "NURS.6890 Scholarly Project/Capstone (Formerly 33.689)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/6890/",
+        "id": "035746",
+        "description": "This capstone project affords the student the opportunity for further knowledge development in an area of interest and learning need.  The faculty-guided experience involves the development of a scholarly project which may involve a number of options: a scholarly review of the literature in a specific area; development of clinical teaching materials related to some dimension of sleep and/or sleep disorders; or a translational research project whereby a body of current research is interpreted for application to practice.  The project will be negotiated with the faculty of record to meet the objectives of the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 33.688 Clinical Assessment & intervention in Sleep Dysregulation.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7010": {
+        "name": "NURS.7010 Philosophy of Science (Formerly 33.701)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7010/",
+        "id": "004609",
+        "description": "This course provides doctoral students in nursing with philosophical perspectives in science, the nature of knowledge and its development, nursing knowledge development and philosophical underpinning to theory development, methods in scientific inquiry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7020": {
+        "name": "NURS.7020 Theoretical Foundations of Health Promotion (Formerly 33.702)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7020/",
+        "id": "004610",
+        "description": "This course critically examines conceptual frameworks and theories of health promotion and health behavior. The content includes theoretical perspectives from multiple disciplinary perspectives including nursing, psychology, sociology, and public health. Health promotion orientations will include behavioral change and lifestyle modification, environmental enhancement and restructuring, and social ecological approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7060": {
+        "name": "NURS.7060 Measurement in Health & Behavioral Research (Formerly 33.706)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7060/",
+        "id": "004614",
+        "description": "This course provides students with theoretical principles of measurement and design in health and behavioral research. The strategies, techniques, and issues in survey research, sampling methods, and the development and administration of survey instruments will be critically examined. Psychometric properties using standardized approaches to measurement will be analyzed. Students will be required to select an appropriate instrument and conduct a comprehensive psychometric evaluation of the instrument.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7070": {
+        "name": "NURS.7070 Epidemiology of Health Promotion (Formerly 33.707)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7070/",
+        "id": "004615",
+        "description": "This course provides an in-depth exploration of the concepts and methods of epidemiological research. Students will critique the principles of epidemiology with an emphasis on health promotion research.  Students will analyze and develop epidemiological approaches, which seek to promote health and prevent disease.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7130": {
+        "name": "NURS.7130 Curriculum and  Teaching In Nursing (Formerly 33.713)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7130/",
+        "id": "004621",
+        "description": "The focus of this course is on development, implementation, and evaluation of nursing curricula and academic courses.  Contemporary theories of learning are applied to analysis of student learning needs, teaching strategies and educational methodologies.  This course is intended for those nursing students post-MS or enrolled in doctoral study who wish to teach in the academic and/or practice environment.  However, students in a MS program who are interested may register for the course with permission.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate level or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7150": {
+        "name": "NURS.7150 Independent Study (Formerly 33.715)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7150/",
+        "id": "004623",
+        "description": "This independent study course is designed to enhance the international student's verbal and writing skills in order to successfully integrate in a doctoral level program. The student will meet weekly with the course instructor in addition to participating in a formal communication and writing course for international students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7160": {
+        "name": "NURS.7160 Qualitative Methods (Formerly 33.716)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7160/",
+        "id": "004624",
+        "description": "The study of predominating qualitative methodology in the health sciences literature. Emphasis is on phenomenology, ethnography, life history/narrative, critical incidents, grounded theory, case study, and associated methodologies",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7170": {
+        "name": "NURS.7170 Evaluation Research (Formerly 33.717)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7170/",
+        "id": "004625",
+        "description": "This course focus is on the basic concepts of evaluation research and their\napplication to education, health and social programs. Specific design and analytic approaches that effect quality evaluation research will be reviewed. Students will design a mock evaluation study. \n\tPrerequisites: Completion of a graduate level research methods course",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7180": {
+        "name": "NURS.7180 Directed Study (Formerly 33.718)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7180/",
+        "id": "036594",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7300": {
+        "name": "NURS.7300 Quantitative Research Methods and Grantsmenship (Formerly 33.730)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7300/",
+        "id": "037483",
+        "description": "This course introduces students to strategies and methods in research including an analysis of theoretical and empirical links, operationalization of concepts, research design, and ethics in behavioral research.  Students will identify appropriate funding sources and complete a research grant application.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7310": {
+        "name": "NURS.7310 Health Promotion Research (Formerly 33.731)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7310/",
+        "id": "037484",
+        "description": "This course focuses on interdisciplinary health promotion research that targets diverse individuals, families, groups, and communities/society.  Students will identify and analyze ethical issues, philosophical and conceptual underpinnings, measurement principles and major gaps in current knowledge in nursing and health promotion.  Students will critique research approaches to health promotion studies and propose a research study in a topic relevant to health promotion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7330": {
+        "name": "NURS.7330 Graduate Project - Nursing (Formerly 33.733)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7330/",
+        "id": "004637",
+        "description": "Course focus is on application of the nursing research process. The student actively engages in at least two aspects of research under the guidance of a faculty mentor. The course product has practical implications for nursing practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7370": {
+        "name": "NURS.7370 Advanced Qualitative Methods (Formerly 33.737)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7370/",
+        "id": "037486",
+        "description": "This course will focus on the in-depth historical and philosophical underpinnings of qualitative research.  The student will examine and critique various analytic qualitative methods.  The student will complete a project incorporating qualitative analysis using a qualitative software program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.7160 Qualitative Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.7160"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.7390": {
+        "name": "NURS.7390 Mentored Research Experience (Formerly 33.739)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7390/",
+        "id": "004641",
+        "description": "In this course, students participate in a mentored research experience. Students actively contribute as a member of a research study that will contribute to scientific knowledge. Opportunities are provided for the application of research skills and the dissemination of research with an emphasis on an interdisciplinary approach. This course also includes a monthly seminar, which focuses on ethical underpinnings, cultural considerations and disparities in health research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7430": {
+        "name": "NURS.7430 Master's Thesis - Nursing (Formerly 33.743)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7430/",
+        "id": "004642",
+        "description": "Course focus is on the application of the full research process to a topic relevant to nursing practice and/or health outcomes. The student is expected to propose, conduct and defend the study under the guidance of a designated faculty thesis committee.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7520": {
+        "name": "NURS.7520 Independent Study",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7520/",
+        "id": "041993",
+        "description": "Independent Study",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7530": {
+        "name": "NURS.7530 Doctoral Dissertation (Formerly 33.753)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7530/",
+        "id": "004645",
+        "description": "A structured series of sequenced seminars which guides students through dissertation proposal development, defense, collection and analysis of data.\nThe first seminar concludes with the development of Chapters I and II of the\ndissertation; the second seminar concludes with defense of the proposal; and the the third seminar culminates in the development of discussion and conclusions of the dissertation effort.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7560": {
+        "name": "NURS.7560 Doctoral Dissertation (Formerly 33.756)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7560/",
+        "id": "004646",
+        "description": "A structured series of sequenced seminars which guides students through dissertation proposal development, defense, collection and analysis of data.\nThe first seminar concludes with the development of Chapters I and II of the\ndissertation; the second seminar concludes with defense of the proposal; and \nthe third seminar culminates in the development of discussion and conclusions of the dissertation effort.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7590": {
+        "name": "NURS.7590 Doctoral Dissertation (Formerly 33.759)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7590/",
+        "id": "033003",
+        "description": "A structured series of sequenced seminars which guides students through dissertation proposal development, defense, collection and analysis of data.\nThe first seminar concludes with the development of Chapters I and II of the\ndissertation; the second seminar concludes with defense of the proposal; and the the third seminar culminates in the development of discussion and conclusions of the dissertation effort.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7610": {
+        "name": "NURS.7610 Continued Grad Research (Formerly 33.761)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7610/",
+        "id": "039436",
+        "description": "Continued Grad Research",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7630": {
+        "name": "NURS.7630 Continued Graduate  Research (Formerly 33.763)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7630/",
+        "id": "004647",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7690": {
+        "name": "NURS.7690 Continued Graduate  Research (Formerly 33.769)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7690/",
+        "id": "004650",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7700": {
+        "name": "NURS.7700 Evidence Appraisal (Formerly 33.770)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7700/",
+        "id": "035090",
+        "description": "In this course the student will explore the role of the DNP in evaluating evidence to inform practice.  The student will also identify a critical issue or influential trend within the health care system that impacts health care delivery.  Methods relevant to reviewing, analyzing, synthesizing, and applying evidence from the scientific literature will be discussed.  Models of systematic reviews of the literature will be explored and implemented.  Decisions will be made relative to the student's topical area of interest and identification of the Scholarly Project Chair.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.7070 Epidemiology of Health Promotion, and Must be a matriculating student in DNP program or needs permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.7070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.7710": {
+        "name": "NURS.7710 Advanced Nursing Leadership and Management (Formerly 33.771)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7710/",
+        "id": "035091",
+        "description": "This course consists of a seminar and leadership experience.  The seminar will explore the major concepts in leadership and management and their application in the health care setting.  The role of DNP will also be discussed in terms of leadership in the health policy, education, and clinical settings.  A leadership project will be completed by the end of the semester.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7720": {
+        "name": "NURS.7720 Scholarly Project Implementation  (Formerly 33.772)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7720/",
+        "id": "035092",
+        "description": "In this course, students will implement their DNP Projects according to DNP Scholarly Project guidelines. Building on the course work of previous semesters, students will share progress on their projects and discuss issues related to implementation. Course work will guide students through the phases of implementation and evaluation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: NURS.7700 Evidence-Based Practice.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.7700"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.7730": {
+        "name": "NURS.7730 Evidence Dissemination, Advocacy & Policy (Formerly 33.773)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7730/",
+        "id": "004651",
+        "description": "this course will include a weekly seminar.  The students will complete the scholarly project by undertaking dissemination activities.  The student will analyze policies influencing DNP practice and quality, cost, and access to health care and participate in the policy making process.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS 7700 Evidence Appraisal, NURS 7720 Scholarly Project Implementation, NURS 7740 Scholarly Project Design.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.7700"
+                ],
+                [
+                    "NURS.7720"
+                ],
+                [
+                    "NURS.7740"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.7740": {
+        "name": "NURS.7740 Scholarly Project Design (Formerly 33.774)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7740/",
+        "id": "037475",
+        "description": "In this course, the student will design and present the Scholarly Project proposal.  Students will meet biweekly with the scholarly project chair to develop the DNP scholarly project using knowledge acquired in previous course work.  Students will complete a University of Massachusetts Lowell Institutional Review Board application that considers ethical and cultural issues related to the scholarly project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: NURS.7700 Evidence-Based Practice.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.7700"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NURS.7760": {
+        "name": "NURS.7760 DNP Immersion",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7760/",
+        "id": "041366",
+        "description": "This course focuses on the synthesis of advanced practice leadership and evidence-based practice by the DNP student in the health care specialty of their choice. In preparation for the translation of acquired knowledge to practice in the scholar practice role of the DNP, the student completes this practicum under the guidance and mentor-ship of faculty and a preceptor. The DNP student utilizes this opportunity to refine and incorporate evidence-based practice into the care and education of patients, families and other professionals. The DNP student will assume a leadership role in some aspect of the care and/or education provided in a specialty practice. Students will utilize core concepts from the DNP Essentials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NURS.7710 Advanced Nursing Leadership, and NURS.7720 Scholarly Project Implementation, and Co-req: NURS.7730 Evidence Dissemination.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NURS.7710"
+                ],
+                [
+                    "NURS.7720"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "NURS.7730"
+                ]
+            ]
+        }
+    },
+    "NURS.7770": {
+        "name": "NURS.7770 Independent Study: Practicum in Nursing Education (Formerly 33.777)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7770/",
+        "id": "033361",
+        "description": "In this independent study practicum students will apply knowledge of curriculum and teaching in nursing in an educational setting under the mentorship of a nursing faculty member.  Students will actively engage in curriculum development, evaluation and refinement, course preparation, classroom and clinical teaching, and student evaluation.  The nurse educator role will be explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NURS.7930": {
+        "name": "NURS.7930 Cooperative Education (Formerly 33.793)",
+        "url": "https://www.uml.edu/catalog/courses/NURS/7930/",
+        "id": "037139",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

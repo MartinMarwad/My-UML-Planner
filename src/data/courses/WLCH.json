@@ -1,0 +1,196 @@
+{
+    "total": 12,
+    "time": 10.059578895568848,
+    "WLCH.1050": {
+        "name": "WLCH.1050 Chinese 1 and Culture (Formerly 53.105)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/1050/",
+        "id": "006035",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 105, 106 and 205, 206 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.1060": {
+        "name": "WLCH.1060 Chinese 2 and Culture (Formerly 53.106)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/1060/",
+        "id": "006036",
+        "description": "Continuation of 53.105 Chinese 1 and Culture. Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 103, 104 and 205, 206 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 53.105 Chinese 1 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.1080": {
+        "name": "WLCH.1080 Business Chinese I and Culture",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/1080/",
+        "id": "037490",
+        "description": "This introductory language and culture course prepares non-Chinese speakers for potential future business engagements either in China or with Chinese speakers in the United States.  Effective communication and cultural competency in standard/Mandarin Chinese are emphasized.  Students will be exposed to various aspects of Chinese culture appropriate for informal as well as business social settings.  Topics include, but are not limited to, self-introduction, traveling, lodging, dining, shopping, banking, seeing a doctor, making friends, and doing business.  Authentic language materials (vocabulary, Pinyin, sentence structures, conversations) are presented and taught in a second language acquisition environment with interactive activities that are relevant to proper social etiquette.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.1090": {
+        "name": "WLCH.1090 Business Chinese II",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/1090/",
+        "id": "037754",
+        "description": "This language and culture course is a continuation of Business Chinese I.  The course prepares non-Chinese speakers for potential future business engagements either in China or with Chinese speakers in the United States.  Effective communication and cultural competency in standard/Mandarin Chinese are emphasized.  Students will be exposed to various aspects of Chinese culture appropriate for informal as well as business social settings.  Topics include, but are not limited to, self-introduction,traveling, lodging, dining, shopping, banking, seeing a doctor, making friends, and doing business.  Authentic language materials (vocabulary, Pinyin, sentence structures, conversations) are presented and taught in a second language acquisition environment with interactive activities that are relevant to proper social etiquette.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.2050": {
+        "name": "WLCH.2050 Chinese 3 and Culture (Formerly 53.205)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/2050/",
+        "id": "006049",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 105,106 and 205, 206 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 53.106 Chinese 2 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.2060": {
+        "name": "WLCH.2060 Chinese 4 and Culture (Formerly 53.206)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/2060/",
+        "id": "006050",
+        "description": "This course is a continuation of 53.205 Chinese 3 and Culture, which is a pre-requisite.  Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 105, 106 and 205, 206 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 53.205 Chinese 3 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.3000": {
+        "name": "WLCH.3000 Modern Chinese Literature and Culture (Formerly 53.300)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/3000/",
+        "id": "037524",
+        "description": "This course offers an insight into Chinese culture and society by examining different genres of modern and contemporary Chinese Literature -- the novel, poetry, essay, and drama -- since the early Twentieth Century.  Readings in English translations of representative works by major writers/essayists/poets/playwrights will be complemented by selected feature films and documentaries.  The survey of Chinese literature will be put in the context of a series of sociopolitical changes in China that informed the production of these works.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLCH.3100": {
+        "name": "WLCH.3100 Special Topic in Chinese Studies",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/3100/",
+        "id": "040842",
+        "description": "An in-dept study of the culture, civilization, or literature from the Chinese-speaking world. Class discussions, readings, oral and written work all in English. Other materials could be in target language with translations or subtitles. May be repeated once for credit, if content changes, and with written consent of the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLCH.3150": {
+        "name": "WLCH.3150 Chinese Culture and Civilization (Formerly 53.215)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/3150/",
+        "id": "040660",
+        "description": "An in-depth study of culture, civilization, and literature from the Chinese-speaking world. The emphasis of the course is not only on understanding China's history in general chronological terms, but also on understanding the cultural qualities that have made China a great yet distinctive country. Course taught in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.3200": {
+        "name": "WLCH.3200 Chinese Cinema and Culture",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/3200/",
+        "id": "041491",
+        "description": "This course offers an insight into the social, economic, and political transformation of China, particularly in the past century, through a cinematic lens. Selected films of different genres from Mainland China, Hong Kong as well as Taiwan, and even the U.S., including Hollywood films portraying China and films made by Chinese Americans, will be examined to decipher its regional differences, the urban-rural gap, daily lives, gendered identities, and the belief system as well as the cultural landscape of contemporary and modern China. Taught in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLCH.4900": {
+        "name": "WLCH.4900 Directed Study in Chinese Culture (Formerly 53.490)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/4900/",
+        "id": "037627",
+        "description": "Students through regular consultation with the Instructor develop a course of directed study or independent study in Chinese Culture.  Students findings are presented in a paper of significant proportion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLCH.4950": {
+        "name": "WLCH.4950 Advanced Tutorial in Chinese Culture (Formerly 53.495)",
+        "url": "https://www.uml.edu/catalog/courses/WLCH/4950/",
+        "id": "037628",
+        "description": "A program of directed study to give an opportunity to a student to explore problems in Chinese Culture in greater dept or to initiate additional problems in Chinese Culture.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

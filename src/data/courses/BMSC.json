@@ -1,0 +1,397 @@
+{
+    "total": 20,
+    "time": 15.211524963378906,
+    "BMSC.1010": {
+        "name": "BMSC.1010 Biomedical Sciences Freshman Seminar",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/1010/",
+        "id": "040459",
+        "description": "This course is intended to provide the student with an introduction to the professions available within the field of biomedical sciences. Topics include history of the profession, stat and federal laboratory regulations, professional organizations, ethics and professionalism, and an overview of each laboratory discipline. The role of the biomedical scientist in the clinical setting will be explored further through laboratory and industry tours.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMSC.2100": {
+        "name": "BMSC.2100 Introduction to Applied Biomedical Sciences (Formerly 36.273 and MLSC.2730)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/2100/",
+        "id": "004780",
+        "description": "This course is intended to give the student an overview of the various applied biomedical sciences and the career paths they can provide within the health professions. Topics presented will focus on medical diagnostics and therapeutics, including careers with professional certification/licensure opportunities, graduate and professional programs, as well as biomedical research and industry settings. The importance of professional organizations, state and federal regulations, and consideration of ethical principles in the health professions will also be introduced.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Applied Biomedical Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMSC.2420": {
+        "name": "BMSC.2420 Organic Structures and Reactions I (Formerly 36.341)(Formerly MLSC.3410)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/2420/",
+        "id": "004789",
+        "description": "Fundamental principles of organic chemistry are presented (i.e., structure and bonding, physical and chemical properties, and chemical reactions of carbon-containing compounds), emphasizing concepts relevant to health-related field and providing the foundation for the chemical principles underlying human biochemistry and clinical chemistry. Detailed structural and chemical properties are presented on the major functional classes of organic compounds, as well as nomenclature, structure-stability-reactivity relationships, and stereochemical principles. Reaction mechanisms are presented throughout, as well as how organic chemistry applies to biochemical pathways and the structure and function of biologically important compounds.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.2510 Physiological Chemistry I, or CHEM.1110 General Chemistry I, or CHEM.1210 Chemistry I, or CHEM.1350 Honors Chemistry I, and Co-req: BMSC.2440 Organic Structures & Reactions Lab I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2510",
+                    "CHEM.1110",
+                    "CHEM.1210",
+                    "CHEM.1350"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BMSC.2440"
+                ]
+            ]
+        }
+    },
+    "BMSC.2440": {
+        "name": "BMSC.2440 Organic Structures and Reactions Laboratory I (Formerly 36.343)(Formerly MLSC.3430)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/2440/",
+        "id": "004790",
+        "description": "This course is designed to expose and train students interested in pursuing careers in health-related professions to the fundamental laboratory techniques used in organic chemistry, including extraction, recrystallization, and chromatography, as well as the synthesis, purification, and characterization of the various classes of organic compounds. Laboratory experiments will be performed to exemplify and expand upon the principles covered in the Organic Structures and Reactions lecture course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BMSC.2420 Organic Structures & Reactions I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BMSC.2420"
+                ]
+            ]
+        }
+    },
+    "BMSC.3100": {
+        "name": "BMSC.3100 Introduction to Laboratory Research",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3100/",
+        "id": "040460",
+        "description": "This course prepares students in the Biomedical Sciences major for biomedical research. Students will learn basic and clinical research design and experimental aspects, applying critical thinking skills and engaging in outcome evaluation of research studies and quantitative data analysis and interpretation. Students will develop an understanding of the key differences between basic, clinical, and translational research and their implications and relation to diagnostic, treatment, and health management. The course will introduce students to literature review, identifying basic and key gaps and formulating key questions for scientific experimental pursuit. The course also reviews basic statistics research methods and the importance of significant statistical sampling.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Level or Higher or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMSC.3220": {
+        "name": "BMSC.3220 Clinical Molecular and Cell Biology I",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3220/",
+        "id": "040463",
+        "description": "The course is designed to provide a foundation in Molecular Biology and will cover structure, function, and regulation of proteins and nucleic acids. Other topics will include transcription, translation, DNA replication, DNA repair, genomics, and  proteomics. A significant portion of the course will be dedicated to molecular biology techniques used to study proteins and nucleic acids. Emphasis will be placed on the application of molecular biology in biomedical research and healthcare.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.3500 Human Biochemistry, or CHEM.4500 Intro to Biochemistry, or BIOL.4190 Biochemisry, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3500",
+                    "CHEM.4500",
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.3240": {
+        "name": "BMSC.3240 Clinical Molecular and Cell Biology Laboratory I",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3240/",
+        "id": "040462",
+        "description": "This laboratory course introduces basic molecular techniques and methodologies with hands-on experience. Starting with practices on information access from the NCBI databases, the students will learn techniques for proteins and nucleic acids extraction, quantification and separation, primer designs and PCR applications, gene cloning and expression, and principles of column chromatography for protein purification.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "HSCI.3500 Human Biochemistry, and MLSC.3630 Clinical Laboratory Instrumentation Laboratory, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3500"
+                ],
+                [
+                    "MLSC.3630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.3310": {
+        "name": "BMSC.3310 Clinical Immunology (Formerly 36.331 and MLSC.3310)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3310/",
+        "id": "004788",
+        "description": "This course introduces the fundamental concepts of human immunology, focusing on the molecules, cells, and tissues associated with the recognition of entities that can elicit an immune response, the various mechanisms via which immune responses are initiated and executed upon recognition of these entities, and the biochemical and physiological regulatory pathways of immune responses. The applications of immunological biotechnology in clinical and laboratory diagnostics will be presented, as well as examples of how the activation of the immune system can lead to disease. Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL) and Written &I Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "SHCI.2520 Physiological Chemistry II, or CHEM.1220 Chemistry II, or CHEM.1120 General Chemistry II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220",
+                    "CHEM.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.3420": {
+        "name": "BMSC.3420 Organic Structures and Reactions II",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3420/",
+        "id": "040464",
+        "description": "This course presents fundamental principles of Organic Chemistry and chemical reactions not covered in Organic Structures and Reactions I, with continued emphasis on concepts most relevant to the health professions. More detailed structure-stability-reactivity relationships, stereochemical principles, and reaction mechanisms are presented, including many relevant examples of the applications of Organic Chemistry in drug design and synthesis, as well as its central role on metabolism and pharmacology. The course reviews and reinforces the sue of spectral techniques for the qualitative analysis of organic compounds and elucidation of chemical structures, with emphasis on infrared spectroscopy, mass spectrometry, and nuclear magnetic resonance spectroscopy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMSC.2420 Organic Structures and Reactions I, and BMSC.2440 Organic Structures and Reactions Laboratory I, and Co-req: BMSC.3440 Organic Structures and Reactions Laboratory II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMSC.2420"
+                ],
+                [
+                    "BMSC.2440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BMSC.3440"
+                ]
+            ]
+        }
+    },
+    "BMSC.3440": {
+        "name": "BMSC.3440 Organic Structures and Reactions Laboratory II",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3440/",
+        "id": "040465",
+        "description": "This course is designed to expose and train students interested in pursuing careers in health-related professions to more advanced laboratory techniques used in Organic Chemistry, building on the principles learned in organic structures and Reactions Laboratory I, including extraction, recrystallization, and chromatography. The synthesis, purification, and characterization of various classes of organic compounds will be carried out, including a multi-step synthesis. Laboratory experiments will be performed to exemplify and expand upon the principles covered in the Organic Structures and Reactions II lecture course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "BMSC.2420 Organic Structures and Reactions I, and BMSC.2440 Organic Structures and Reactions Laboratory I, and Co-req: BMSC.3420 Organic Structures and Reactions II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMSC.2420"
+                ],
+                [
+                    "BMSC.2440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BMSC.3420"
+                ]
+            ]
+        }
+    },
+    "BMSC.3630": {
+        "name": "BMSC.3630 Analytical Instrumentation Laboratory (Formerly 36.363 and MLSC.3630)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3630/",
+        "id": "004795",
+        "description": "The course is designed to provide an introduction to the types of analytical instrumentation used in laboratory settings within the applied biomedical sciences. Emphasis is placed on theoretical concepts, instrument components, practical applications, and troubleshooting of modern analytical instrumentation. Analytical methodologies routinely used in the applied biomedical sciences at large are emphasized, including the qualitative and quantitative aspects of each instrumental technique studied.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "SHCI.2520 Physiological Chemistry II, or CHEM.1220 Chemistry II, or CHEM.1120 General Chemistry II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220",
+                    "CHEM.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.3700": {
+        "name": "BMSC.3700 Biomedical Sciences Junior Seminar",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/3700/",
+        "id": "040467",
+        "description": "This course introduces students to contemporary biomedical research projects within the field of biomedical sciences. Students will attend research seminars organized by the Biomedical Sciences faculty and evaluate each presentation. Students will also develop interviewing skills and techniques for future employment and graduate school opportunities.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Junior Level, Clinical Lab Science Major.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMSC.4110": {
+        "name": "BMSC.4110 OMICS: Essentials and Applications",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4110/",
+        "id": "040466",
+        "description": "This course is designed to introduce the current OMICS technologies and their practical applications in human health and living environments. It provides the essential knowledge to explore OMICS technologies on person medicine. OMICS are emerging technologies for understanding the diversity and distribution of living organisms and the behavior of cells, tissues, organs, and the whole organism at the molecular level using methods such as genomics, proteomics, systems biology, bioinformatics, as well as the computational tools needed to analyze and make sense of the data. Each of these OMICS topics will be covered by lectures for general overview and discussions on practical applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMSC.3220 Clinical Molecular and Cell Biology I, and BMSC.3240 Clinical Molecular and Cell Biology Lab I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMSC.3220"
+                ],
+                [
+                    "BMSC.3240"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.4120": {
+        "name": "BMSC.4120 Clinical Molecular and Cell Biology II",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4120/",
+        "id": "040468",
+        "description": "The course is designed to provide a foundation in cell biology and will primarily focus on essential structural components and organelles and their biological functions, as well as molecular signaling mechanisms underlying major cellular processes and intercellular communications. The course will also cover integration of cells into tissues, system cells, cell death, and cancer. Cell biology techniques will be studied and the application of cell biology in biomedical research and healthcare will be emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMSC.3220 Clinical Molecular & Cell Biology I, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMSC.3220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.4140": {
+        "name": "BMSC.4140 Clinical Molecular and Cell Biology Laboratory II",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4140/",
+        "id": "040470",
+        "description": "This laboratory course introduces basic cell biology techniques and methodologies with hands-on experience. The course will focus on practices of tissue culture, fluorescent labeling, membrane surface and intracellular protein visualization, microscopy, flow cytometry, posttranslational protein modification assays, ion channel functional assessment, cell signaling research methods, signaling pathway analysis and modeling disease conditions in cell lines.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "HSCI.3500 Human Biochemistry, and MLSC.3630 Clinical Laboratory Instrumentation Laboratory, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3500"
+                ],
+                [
+                    "MLSC.3630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.4350": {
+        "name": "BMSC.4350 Applied Biomedical Genetics (Formerly 35.435 and HSCI.4350)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4350/",
+        "id": "004773",
+        "description": "This course covers the pathological aspects of human genetics, with emphasis on the molecular alterations that cause inherited and acquired human genetic diseases, as well as their diagnosis, therapies, and potential prevention. Mendelian, cellular, and molecular genetics are reviewed, as is the metabolic basis of inherited diseases. Current laboratory techniques used for studying and diagnosing genetic diseases will be explored, as will cutting-edge therapies, including gene therapy techniques, along with their legal, ethical, and moral implications. Students will learn the principles of genetic counseling, including cancer genetics, and ow they integrate with other health care disciplines. Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning. (AIL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior ZCHS students only, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMSC.4830": {
+        "name": "BMSC.4830 Applied Biomedical Research I (Formerly 36.483 and MLSC.4830)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4830/",
+        "id": "004825",
+        "description": "Applied Biomedical Research I is a research-based course in which students participate in an independent research project under the guidance of research-active faculty. Students identify a faculty mentor whose research area is of their interest and engage in a semester-long research experience. Students meet with their mentor(s) to design a clear and explicit research proposal and develop a timeline for performing the work. Student progress will be established by regular meeting with the research mentor, where assessment of completion of objectives shall be assessed and recorded. Appropriate and relevant reading assignments will complement bench work and other research assignments. Upon completion of the work, the student shall engage in creating a manuscript and/or presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.3400 IPE Research Methods, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.4840": {
+        "name": "BMSC.4840 Applied Biomedical Research II (Formerly 36.484 and MLSC.4840)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4840/",
+        "id": "004826",
+        "description": "Applied Biomedical Research II is a research-based course in which students participate in an independent research project under the guidance of research-active faculty. Student identify a faculty mentor whose research area is of their interest and engage in a semester-long research experience. Students meet with their mentor(s) to design a clear and explicit research proposal and develop a timeline for performing the work. Students progress will be established by regular meetings with the research mentor. Where assessment of completion of objectives shall be assessed and recorded. Appropriate and relevant reading assignments will complement bench work and other research assignments. Upon completion of the work, the student shall engage in creating a manuscript and/or presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.3400 IPE Research Methods, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.4900": {
+        "name": "BMSC.4900 Advanced Biomedical Laboratory Techniques",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4900/",
+        "id": "040469",
+        "description": "This advanced laboratory course is designed for students to reinforce and apply many of the concepts and hand-on laboratory techniques learned in all of the previous courses taken by Biomedical Sciences majors. Students will engage in a semester-long laboratory project or projects involving extensive hands-on experience, whose primary objective is to empower students with the necessary knowledge and experience to make them employable in their field of choice within the Biomedical Sciences upon graduation for the University.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMSC.4120 Clinical Mol. & Cell Biol. II, and BMSC.4140 Clinical Mol. & Cell Biol. Lab II, and Senior in Clinical Lab Sciences or Permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMSC.4120"
+                ],
+                [
+                    "BMSC.4140"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMSC.4930": {
+        "name": "BMSC.4930 Applied Biomedical Sciences Directed Studies (Formerly 36.493 and MLSC.4930)",
+        "url": "https://www.uml.edu/catalog/courses/BMSC/4930/",
+        "id": "004827",
+        "description": "Students along with their faculty advisor will structure an acceptable project in one of four areas: research, program development, teaching, or clinical practicum. Students are eligible to earn three credits in accordance with departmental policy.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Academic Plan Clinical Lab Sciences (BS)  or Nutritional Sciences (BS) only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

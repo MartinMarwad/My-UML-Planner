@@ -1,0 +1,524 @@
+{
+    "total": 29,
+    "time": 20.711013078689575,
+    "MUCM.1010": {
+        "name": "MUCM.1010 Audio Production Fundamentals",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/1010/",
+        "id": "040216",
+        "description": "An introduction to sequencing, looping, editing, and mixing concepts in digital audio workstations. Students learn basic digital gain staging, scoring and sound design, realization of MIDI mock ups, audio theory, file maintenance and workflow strategies through hands-on laboratory exercises with keyboard controllers, software synthesizers, and sample libraries.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.1030": {
+        "name": "MUCM.1030 Applied Composition I",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/1030/",
+        "id": "040407",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Composition for New Media Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.1040": {
+        "name": "MUCM.1040 Applied Composition 2",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/1040/",
+        "id": "040408",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUCM.1030 Applied Composition I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.1030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.1990": {
+        "name": "MUCM.1990 Music Composition 1000 Level Elective",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/1990/",
+        "id": "040987",
+        "description": "Music Composition 1000 Level Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.2010": {
+        "name": "MUCM.2010 Keyboarding for Arrangers I",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/2010/",
+        "id": "040217",
+        "description": "Group instruction in basic re-harmonization techniques and their practical application for realizing original compositions. The course explores block chords, arranging concepts, modal textures, and counterpoint. Students develop keyboarding techniques for arranging purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MUTH.1090 Musicianship & Analysis 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.2020": {
+        "name": "MUCM.2020 Keyboarding for Arrangers II",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/2020/",
+        "id": "040218",
+        "description": "A deeper exploration of re-harmonization techniques and voicing concepts along with their applications in medium and large ensemble writing. Students apply block-chord techniques, transcription, and simple improvisation to realize new arrangements and compositions along with developing functional two-handed keyboard technique in a variety of contemporary styles.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MUCM.2010 Keyboarding for Arrangers I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.2030": {
+        "name": "MUCM.2030 Applied Composition 3",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/2030/",
+        "id": "040226",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Composition for New Media Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.2040": {
+        "name": "MUCM.2040 Applied Composition 4",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/2040/",
+        "id": "041305",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUCM.2030 Applied Composition 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.2080": {
+        "name": "MUCM.2080 Advanced Music Editing and Production",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/2080/",
+        "id": "040228",
+        "description": "Editing concepts are developed and refined during the post-production phase. Students learn tempo-mapping techniques, advanced synchronization with dialog and effects, mixing and final delivery concepts so that soundtrack elements appropriately support the visual medium. Students explore the role of temporary scores to guide creative and editing decisions. Students transcribe and prepare scores for a variety of ensembles and learn the principles of transposition, ornamentation, layout and note accuracy. Final project includes an original notated score for visual media. Permission of Instructor.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Composition for New Media Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.2090": {
+        "name": "MUCM.2090 Digital Synthesis and Remixing",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/2090/",
+        "id": "040219",
+        "description": "This course introduces the concept of the \"sound collage\" for creative purposed. Students gather commonly accessible sounds with portable recorders and explore synthesis techniques using digital audio workstations. The course explores the expressive role of sound in commercial applications, mash ups, and music composition. Includes a historical overview and discussion of eletroacoustic music.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUCM.1010 Audio Production Fundamentals, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.2990": {
+        "name": "MUCM.2990 Music Composition 2000 Level Elective",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/2990/",
+        "id": "040988",
+        "description": "Music Composition 2000 Level Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.3010": {
+        "name": "MUCM.3010 Creative Applications in Sound Design",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3010/",
+        "id": "041306",
+        "description": "The role of sound design is explored in interactive media, live performance, web and mobile platforms and visual content. Students compose original soundtrack elements through field recordings, ambient spaces, and creative environments using coding language. Historical analysis of the role of sound in film, television, games, and interactive media supports laboratory exercises and group projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.2090 Musicianship & Analysis 4, and MUCM.2030 Applied Composition 3, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ],
+                [
+                    "MUCM.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.3020": {
+        "name": "MUCM.3020 Commercial Music Arranging",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3020/",
+        "id": "041310",
+        "description": "Contemporary jazz arranging for instruments and voice. Course includes topics such as melodic development, stylistic diversity, rhythm section considerations, virtual s. acoustic instrumentation, sequences and loops, range and articulations, background figures and five-part writing. Final project includes and original \"Supersax\" arrangement for modern studio instrumentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Composition for New Media Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.3030": {
+        "name": "MUCM.3030 Applied Composition 5",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3030/",
+        "id": "041307",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Composition for New Media Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.3040": {
+        "name": "MUCM.3040 Applied Composition 6",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3040/",
+        "id": "041308",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Composition for New Media Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.3050": {
+        "name": "MUCM.3050 Special Topics in Composition",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3050/",
+        "id": "040229",
+        "description": "This course explores interdisciplinary collaboration with the Art, Theater, and Digital Media areas. Contemporary issues and practices in music composition are explored through approved practicum experiences, directed study, guest lectures, group collaborative projects, and independent research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUCM.2030 Applied Composition 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.3060": {
+        "name": "MUCM.3060 Composition Seminar",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3060/",
+        "id": "040220",
+        "description": "Group instruction in writing for solo performers and small ensembles. Students write individual pieces and receive weekly feedback from peers and faculty members. The composer-artist relationship is explored in depth along with a live recital performance of student compositions.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.2090 Musicianship & Analysis 4, and Music Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.3070": {
+        "name": "MUCM.3070 Sound Narrative",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3070/",
+        "id": "041311",
+        "description": "This course introduces creative applications of sound for inclusion in long-form narrative structures including soundscapes, podcasts, and installations, with a particular emphasis on the immersive role of sound in documenting authentic and abstract environments. The course explores the pioneering work of artist/composers including Barry Truax, Bernard Krause, Brian Eno, and includes discussions of listener perception and acoustic ecology. Basic approaches in surround sound mixing are explored to support compositional practice.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.2090 Musicianship & Analysis 4, and MUCM.2030 Applied Composition 3, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ],
+                [
+                    "MUCM.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.3090": {
+        "name": "MUCM.3090 Eurhythmics and Improvisation",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3090/",
+        "id": "040221",
+        "description": "Instruction in Dalcroze Eurhythmics concepts. Topics include rhythmic movement, body motion, multimodal ear-training approaches, improvisation and performance aesthetics. Students learn complex rhythmic concepts through simple dance motions, group interaction, and multi-sensory listening. Course includes approaches for solo and group improvisation for composers and performers.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Composition for New Media Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.3160": {
+        "name": "MUCM.3160 Digital Orchestration and Counterpoint",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3160/",
+        "id": "041331",
+        "description": "Writing and arranging or large ensembles using high quality sample libraries. Melodic development concepts are explored along with basic orchestration principles for strings, woodwinds, brass, and percussion. MIDI optimization concepts including quantization, key switching, and multi-timbral layers are refined through laboratory projects",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.2090 Musicianship & Analysis 4, and MUCM.2030 Applied Composition 3, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ],
+                [
+                    "MUCM.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.3990": {
+        "name": "MUCM.3990 Music Composition 3000 Level Elective",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/3990/",
+        "id": "040989",
+        "description": "Music Composition 3000 Level Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.4000": {
+        "name": "MUCM.4000 Music and Sound for Games",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4000/",
+        "id": "040227",
+        "description": "Integration of original music, sound effects, and dialog assets into standard game engine software. The course explores audio implementation, scripting and basic coding concepts using middleware platforms. Permission of instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUCM.4010": {
+        "name": "MUCM.4010 Scoring for Visual Media",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4010/",
+        "id": "041312",
+        "description": "Creating fully realized musical scores for video, television, web, and advertising. Tempo and synchronization issues are addressed along with basic sound design concepts. Students analyze the role of music in supporting the visual image along with comprehensive study of successful composers of the past three decades.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUCM.2090 Musicianship & Analysis 4, and MUCM.2030 Applied Composition 5, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.2090"
+                ],
+                [
+                    "MUCM.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.4020": {
+        "name": "MUCM.4020 Music and Multimedia Production",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4020/",
+        "id": "041313",
+        "description": "This course introduces multi-platform production approaches in music and sonic composition. Students explore the fundamentals of still-image and color manipulation, video editing, and contemporary recording techniques for creative purposes. Composers are encouraged to write multi-channel pieces that explore sound in diverse environments. Students learn basic video editing, motion graphics and color manipulation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUCM.2090 Musicianship & Analysis 4, and MUCM.2030 Applied Composition 5, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.2090"
+                ],
+                [
+                    "MUCM.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.4030": {
+        "name": "MUCM.4030 Applied Composition 7",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4030/",
+        "id": "041314",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUCM.3040 Applied Composition 6.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.3040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.4040": {
+        "name": "MUCM.4040 Applied Composition 8",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4040/",
+        "id": "041315",
+        "description": "\\Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUCM.4030 Applied Composition 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.4030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.4070": {
+        "name": "MUCM.4070 Contemporary Styles and Analysis",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4070/",
+        "id": "041316",
+        "description": "Twentieth-century compositional practices are studied from a variety of musical, cultural, social, political, and creative perspectives. The availability and impact of technology on compositional aesthetics is explored along with discussions about emerging trends in new media, sound art,, installations, and mobile technology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.2090 Musicianship & Analysis 4, and MUHI.2620 Music History 2, and MUCM.3030 Applied Composition 5, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ],
+                [
+                    "MUHI.2620"
+                ],
+                [
+                    "MUCM.3030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.4090": {
+        "name": "MUCM.4090 Senior Project Capstone",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4090/",
+        "id": "041317",
+        "description": "Students must propose a final project before their senior year to be completed under faculty supervision. The project demonstrates the student's mastery of contemporary music composition and/or sound design concepts, critical thinking, interdisciplinary collaboration, and reflective practices. Students may collaborate with other departments with Coordinator/Department Chair approval.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUCM.4030 Applied Composition 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUCM.4030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUCM.4990": {
+        "name": "MUCM.4990 Music Composition 4000 Level Elective",
+        "url": "https://www.uml.edu/catalog/courses/MUCM/4990/",
+        "id": "040990",
+        "description": "Music Composition 4000 Level Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

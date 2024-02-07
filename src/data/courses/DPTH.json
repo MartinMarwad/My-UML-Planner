@@ -1,0 +1,673 @@
+{
+    "total": 43,
+    "time": 31.778321981430054,
+    "DPTH.6010": {
+        "name": "DPTH.6010 Clinical Anatomy (Formerly 34.601)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6010/",
+        "id": "004684",
+        "description": "Clinical Anatomy is a study of the structures of the human body, utilizing lectures, demonstrations and A.V. materials.  It is a foundation course for physical therapy procedures courses. All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6020": {
+        "name": "DPTH.6020 Neuroscience: Anatomy (Formerly 34.602)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6020/",
+        "id": "004685",
+        "description": "Neuroscience anatomy presents the form and functions of the human nervous system. It is a foundation course for physical therapy procedure courses. The student is introduced to clinically relevant neuroanatomy through a close examination of the signs and symptoms of a variety of pathologies, including lesions, tumors, injuries, and congenital disorders. Clinical examples are freely used to highlight the integral relationship between structural anatomy and functional impairment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6030": {
+        "name": "DPTH.6030 Anatomy Laboratory (Formerly 34.603)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6030/",
+        "id": "004686",
+        "description": "This course will introduce anatomical terminology, anatomical structures, functions, and interrelationships o the human body to physical therapy students as a baseline of knowledge for future courses in the program.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: DPTH.6010 Clinical Anatomy, and Doctor of Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "DPTH.6010"
+                ]
+            ]
+        }
+    },
+    "DPTH.6040": {
+        "name": "DPTH.6040 Neuroscience: Physiology/Neurology (Formerly 34.604)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6040/",
+        "id": "004687",
+        "description": "Neuroscience presents the principles of neurophysiology, neurology, and motor control as related to the practice of physical therapy. Topics in neurophysiology include: conduction and transmission of the nerve impulse, neuromuscular synaptic transmission and skeletal muscle contraction, muscle tone and spinal reflexes, the neurophysiology of sensation and movement, and the transmission of pain. Neurological conditions will be integrated with these various neurophysiological topics through the use of case studies and will include: peripheral nerve injuries, neuromuscular conditions, and diseases/conditions of the central nervous system. An introduction to the major theories of motor control and their applications to physical therapy examination and intervention will be discussed through problem solving and case studies.  All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6050": {
+        "name": "DPTH.6050 Physical Therapy Interventions I Lecture (Formerly 34.605)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6050/",
+        "id": "004688",
+        "description": "This course introduces the student to the principles of patient evaluation and treatment. Throughout this course, case studies will be used to promote student integration of didactic material into practical clinical situations. The use of appropriate evaluation procedures and the associated rationale for safe and effective treatment procedures are emphasized. Topics include: principles of biomechanical analysis, body mechanics, exercise prescription, postural evaluation, patient positioning, transfers, gait analysis, gait training, activities of daily living, wheelchair prescription and mobility, isolation/sterile technique, wound care, vital signs, heat and cold modalities, soft-tissue manipulation, and clinical documentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: DPTH.6070 Pt Interventions I Lab, and Doctor of Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "DPTH.6070"
+                ]
+            ]
+        }
+    },
+    "DPTH.6060": {
+        "name": "DPTH.6060 Neuroscience Laboratory (formerly 34.606)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6060/",
+        "id": "004689",
+        "description": "Neuroscience laboratory includes the study of the anatomy and function of the human brain, spinal cord, peripheral and autonomic nervous systems through prosection, audiovisual resources and experimental procedures. The gross anatomy of the human brain and spinal cord will be visualized using prosections of human specimens, models, and slides. The second half of the laboratory will focus on the Neurological Evaluation including evaluation of reflex function, assessment of sensory and cerebellar mechanisms, and testing cranial nerve function in typical and simulated atypical subjects. Motor learning activities and Cognitive Testing will be performed. To help synthesize the course content each student will present a neuropathology case study.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6070": {
+        "name": "DPTH.6070 Physical Therapy Interventions I Laboratory (formerly 34.607)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6070/",
+        "id": "004690",
+        "description": "This laboratory course develops the psychomotor skills necessary to apply the didactic knowledge presented in the Physical Therapy Interventions I Lecture to clinical situations and patient care. The safe and effective performance of various evaluation and treatment techniques is emphasized. Topics include: principles of biomechanical analysis, body mechanics, exercise prescription, postural evaluation, patient positioning, functional mobility training, gait analysis and training, activities of daily living, wheelchair prescription and mobility, isolation/sterile technique, vital signs, heat and cold modalities, soft-tissue mobilization, and clinical documentation.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: DPTH.6050 PT Interventions I Lecture, and Doctor of Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "DPTH.6050"
+                ]
+            ]
+        }
+    },
+    "DPTH.6080": {
+        "name": "DPTH.6080 Musculoskeletal Physical Therapy I (formerly 34.608)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6080/",
+        "id": "004691",
+        "description": "This course is the first of a three-course series which explores physical therapy management of musculoskeletal dysfunction. In this first course, general models for physical therapy intervention will be presented. The evaluation, treatment and prevention of pathological conditions affecting the musculoskeletal system of the lower extremity will be emphasized. Normal function will be included as a basis for recognizing and therapeutically resolving dysfunction of skeletal and joint structures, muscles and soft tissues. A problem-solving approach to resolve impairments, contributing to functional limitations and disabilities, will be stressed.All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6090": {
+        "name": "DPTH.6090 Medical/Surgical Pathology (formerly 34.609)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6090/",
+        "id": "004692",
+        "description": "This course presents an introduction to the study of diseases commonly seen in people with conditions treated by physical therapists. Mechanisms of cell growth, response to injury, cell death as well as the psychosocial effects on the patient and family are reviewed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6100": {
+        "name": "DPTH.6100 Musculoskeletal Physical Therapy I Laboratory (formerly 34.610)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6100/",
+        "id": "004693",
+        "description": "This lab course develops psychomotor skills and clinical application of didactic knowledge gained in MSPT I Lecture (DPTH.6080). The examination and treatment procedures are taught using demonstrations, peer practice and case studies as they pertain to the hip, knee and ankle/foot. Examination procedures are organized by body regions and include interview, observation, palpation, anthropometric measurements, goniometry, joint play mobility, muscle strength testing, and special tests. Treatment procedures focus on integrating joint mobilization, passive and active stretching techniques, progressive strengthening exercises, and edema control with the thermal modalities, therapeutic exercises and functional activities taught in PT Interventions.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6110": {
+        "name": "DPTH.6110 Professional Issues/Clinical Practice (formerly 34.611)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6110/",
+        "id": "004694",
+        "description": "This course is divided into two sections. The first course section will provide an overview of the profession of physical therapy. Professionalism, cultural competence and communication skills will be discussed as they apply to classroom instruction and clinical practice. The APTA (American Physical Therapy Association) Standards of Practice, Code of Ethics, The Scope of Physical Therapy Practice, ethnography and Evidence-Directed Care and Massachusetts and New Hampshire practice regulations will be discussed. The second portion of the course will emphasize the development of effective documentation skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6120": {
+        "name": "DPTH.6120 Cardiopulmonary Physical Therapy I (formerly 34.612)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6120/",
+        "id": "004695",
+        "description": "In Cardiopulmonary Physical Therapy students will learn the essentials of physical therapy examination, evaluation and intervention for patients with pathological cardiopulmonary conditions. The course emphasizes a problem solving, clinical decision-making approach. Successful completion of the course requires the ability to integrate and synthesize information from this course with prerequisite and other related courses in a variety of cardiopulmonary case based problem-solving experiences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6140": {
+        "name": "DPTH.6140 Cardiopulmonary Physical Therapy I Laboratory (formerly 34.614)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6140/",
+        "id": "004697",
+        "description": "Cardiopulmonary Physical Therapy Laboratory is taken concurrently with Cardiopulmonary Physical Therapy Lecture (DPTH.6120). The course emphasizes procedures employed by the physical therapist when treating cardiopulmonary conditions. These laboratory experiences are designed to provide an opportunity to practice examination, evaluation, and interventions as discussed in lecture and demonstrate psychomotor proficiency in each procedure. Students will be expected to integrate and synthesize information from related courses in a variety of cardiopulmonary problem solving experiences.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: DPTH.6120 Cardiopulmonary PT Lecture, and Doctor of Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "DPTH.6120"
+                ]
+            ]
+        }
+    },
+    "DPTH.6150": {
+        "name": "DPTH.6150 Clinical Education I Seminar (formerly 34.615)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6150/",
+        "id": "004698",
+        "description": "This course is the first in a series of two one-credit seminars. The first installment will provide an overview of the clinical education experience portion of the Doctor of Physical Therapy program. Topics include; the roles of clinical educators, the process of obtaining and assigning clinical sites, the clinical performance instrument (CPI), appropriate communication in the clinical setting, ethical practice, psychosocial aspects, and generic abilities.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6160": {
+        "name": "DPTH.6160 Research Methods (formerly 34.616)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6160/",
+        "id": "004699",
+        "description": "This course presents the role of research in the development and critical analysis of physical therapy clinical practice. Students are guided through the process of clinical scientific research including the following content areas: philosophy of science and causation, problem and hypothesis identification, review and analysis of scientific literature, methods of hypothesis testing, data analysis and interpretation and critique/ evaluation of research results.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6170": {
+        "name": "DPTH.6170 Neurological Physical Therapy Lecture I (formerly 34.617)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6170/",
+        "id": "004700",
+        "description": "This course presents current evidence-based practice, knowledge translation, and practical applications of the principles of neuroplasticity, motor control and motor learning. A variety of neurological conditions with different levels of impairment, activity limitation, and participation restriction will be examined. Emphasis is on the development of clinical decision-making skills following the Guide to Physical Therapist Practice patient/client management model. Concurrent laboratory sessions emphasize the development of movement analysis and intervention skills to optimize restoration of function and participation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6190": {
+        "name": "DPTH.6190 Neurological Physical Therapy Laboratory I (formerly 34.619)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6190/",
+        "id": "004702",
+        "description": "This laboratory course must be taken concurrently with Neurological Physical Therapy I, DPTH.6170. Emphasis is on the development of problem solving and psychomotor skills necessary for successful management of the patient/client with neurological dysfunction. Videos and patient demonstrations are used to develop skills in examination, evaluation, and clinical decision making. Peer practice is used to promote the development of psychomotor skills in advanced therapeutic exercise and functional training. Problem solving in the application of interventions for different levels of impairments, activity limitations, and participation is stressed.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6200": {
+        "name": "DPTH.6200 Neurological Physical Therapy II (formerly 34.620)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6200/",
+        "id": "004703",
+        "description": "This course is the second of two courses dealing with physical therapy management of adults with neurological conditions. Current evidence-based practice and knowledge translation will be applied to neurological conditions with different levels of impairment, activity limitation, and participation restrictions. Emphasis is on the development of clinical decision-making skills following the Guide to Physical Therapist Practice patient/client management model. Concurrent laboratory sessions integrate examination and movement analysis with therapeutic interventions to optimize restoration of function and participation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6210": {
+        "name": "DPTH.6210 Musculoskeletal Physical Therapy II Lecture (formerly 34.621)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6210/",
+        "id": "004704",
+        "description": "This course is the second of a three-course series which focuses on physical therapy management, and summarizes medical and surgical management of musculoskeletal dysfunction. The evaluation, treatment and prevention of pathological conditions affecting the upper extremity will be emphasized. Normal function will be included as a basis for recognizing and therapeutically resolving dysfunction of skeletal and joint structures, muscular and soft tissue. A problem-solving approach to resolve impairments, which contribute to activity limitations and participation restrictions, will be stressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6220": {
+        "name": "DPTH.6220 Neurological Physical Therapy  II Laboratory (formerly 34.622)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6220/",
+        "id": "004705",
+        "description": "This laboratory course must be taken concurrently with Neurological Physical Therapy II, DPTH.6200. Emphasis is on the development of problem solving and psychomotor skills necessary for successful management of the patient/client with neurological dysfunction. Videos and patient demonstrations are used to develop skills in examination, evaluation, and clinical decision making. Peer practice is used to promote the development of psychomotor skills in advanced therapeutic exercise and functional training. Problem solving using case studies in the application of interventions for different levels of impairments, activity restrictions and participation limitations is stressed.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6230": {
+        "name": "DPTH.6230 Musculoskeletal Physical Therapy II Laboratory (formerly 34.623)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6230/",
+        "id": "004706",
+        "description": "This laboratory course develops the psychomotor skills to allow clinical application of didactic knowledge gained in Musculoskeletal Physical Therapy II Lecture. The safe and effective performance of examination and treatment procedures are taught using demonstrations, peer practice, case studies and mock evals as they pertain to the shoulder, elbow, forearm, wrist, and hand. Examination procedures, organized by body regions, include interview questions, observation, palpation, anthropometric measurements, goniometry, joint play mobility, muscle strength testing, and special tests. Treatment procedures focus on joint mobilization/manipulation, passive and active stretching techniques, and progressive strengthening exercises.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6250": {
+        "name": "DPTH.6250 Physical Therapy Interventions II (formerly 35.625)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6250/",
+        "id": "004708",
+        "description": "This course is a study of advanced physical therapy procedures which utilize electrophysics and electrophysiology in evaluating and treating a variety of physical impairments.  The course will emphasize theories and techniques used in electrodiagnosis, electromyography, functional electrical stimulation, iontophoresis, transcutaneous electrical stimulation, biofeedback, laser and therapeutic electrical currents including light and radar waves.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6260": {
+        "name": "DPTH.6260 Geriatric Physical Therapy (formerly 34.626)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6260/",
+        "id": "004709",
+        "description": "This course will focus on the special needs of the elderly and on the physical therapy management of the geriatric client. The physical changes associated with normal aging as well as pathological changes will be discussed and analyzed. Program planning will stress holistic consideration of the rehabilitative, cognitive/behavioral, and psychosocial needs of the elderly. (Re)Evaluation including functional evaluation, treatment planning (and treatment plan evaluation), treatment cost effectiveness, documentation, reimbursement issues will be analyzed as they relate to the physical therapy management of the geriatric client. All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6270": {
+        "name": "DPTH.6270 Physical Therapy Interventions II Laboratory (formerly 34.627)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6270/",
+        "id": "004710",
+        "description": "This course is a practical application of theories and principles presented in Physical Therapy Interventions II Lecture (DPTH.6250).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: DPTH.6250 PT Interventions II, and Doctor of Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "DPTH.6250"
+                ]
+            ]
+        }
+    },
+    "DPTH.6280": {
+        "name": "DPTH.6280 Musculoskeletal Physical Therapy III (formerly 34.628)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6280/",
+        "id": "004711",
+        "description": "This course provides the second-year physical therapy student with an introduction to physical therapy evaluation and management of dysfunction of the cervical, thoracic and lumbar spine, ribcage, and pelvis. The development of evaluation strategies, documentation skills, organized clinical decision making, and effective patient management techniques will be emphasized. Discussions and exercises will focus on developing patient diagnoses, functional problems lists, long and short-term goals, and treatment strategies. Critical thinking/problem solving strategies will be incorporated into all aspects of patient management. Emphasis will be on creating a climate that encourages learning. All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6290": {
+        "name": "DPTH.6290 Directed Research (formerly 34.629)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6290/",
+        "id": "004712",
+        "description": "The directed research experience provides students with the opportunity to develop a research project with the guidance of a faculty advisor. All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6300": {
+        "name": "DPTH.6300 Musculoskeletal III Laboratory (formerly 34.631)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6300/",
+        "id": "004713",
+        "description": "This laboratory course provides the student the opportunity to apply the didactic knowledge gained in the Musculoskeletal Physical Therapy II Lecture through a systematic clinical reasoning approach which focuses on the concept of-regional interdependence\u00ae. Additionally, specific evidence-based evaluation and functional management techniques for the spine and pelvis will be demonstrated by instructors and practiced by students.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6310": {
+        "name": "DPTH.6310 Pediatric Physical Therapy Lecture (formerly 34.631)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6310/",
+        "id": "004714",
+        "description": "This course focuses on the development of the individual from the prenatal period through adolescence within the context of the individual's family and cultural background. Emphasis will be on the examination, evaluation, diagnosis and formulation of a physical therapy plan of care for infants, children and adolescents with physical therapy related issues including wellness and prevention of disability. The framework for the course will be based upon principles of development, neural plasticity, motor control, motor learning, pediatric clinical decision making, the WHO ICF, and evidence directed care including clinical practice guidelines. The student will integrate the course material and synthesize appropriate plans of care using case studies and other interactive activities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: DPTH.6330 Pediatric Physical Therapy Lab, and Doctor of Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "DPTH.6330"
+                ]
+            ]
+        }
+    },
+    "DPTH.6330": {
+        "name": "DPTH.6330 Pediatric Physical Therapy Laboratory (formerly 34.633)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6330/",
+        "id": "004716",
+        "description": "Through classroom and clinical laboratory experiences, the student will gain introductory level skill in the examination, evaluation,k intervention, and development of a physical therapy plan of care for infants, children, and adolescents who have or are at risk for developing disabling problems requiring physical therapy intervention. Preventive and wellness strategies will also be developed and discussed. Problem solving and evidence directed practice including Clinical Practice Guidelines will be emphasized.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6350": {
+        "name": "DPTH.6350 Clinical Education II Seminar (formerly 34.635)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6350/",
+        "id": "004718",
+        "description": "This course is the second in a series of two one-credit weekly seminars. The class will continue to explore the professional issues and application of didactic material in the clinical setting. Clinical education will be examined from the perspective of career development and physical therapy board preparation.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6370": {
+        "name": "DPTH.6370 Integrating Clinical Practice (formerly 34.637)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6370/",
+        "id": "004720",
+        "description": "This course will focus on integrating clinical reasoning skills in physical therapy with an emphasis on application of evidence-based research and current concepts of disablement. Students will share clinical experiences focusing on utilization of - best practices\u00ae and - Clinical Practice Guidelines\u00ae.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6390": {
+        "name": "DPTH.6390 Medical/Surgical -Orthopedics (formerly 34.639)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6390/",
+        "id": "004722",
+        "description": "Medical Surgical conditions (Orthopedics) present topics related to pathology and medical-surgical treatment of musculoskeletal disorders. Included will be bone development, bone repair, orthopedic examination, diagnostic examinations (including imaging), pathology and pathophysiology of musculoskeletal disease.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6400": {
+        "name": "DPTH.6400 Professional Prep in PT (formerly 34.640)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6400/",
+        "id": "004723",
+        "description": "This course will focus on facilitating the students transition into the Physical Therapy Profession including successful completion of the professional licensure examination, the National Physical Therapy Exam: Student groups will outline and present review materials for the exam to each other including a list of sources for further study. The faculty facilitator will oversee the development and content of the presentations and supervise practice examinations. Students are guided through reflection in practice, development of a personal professional development plan, a Vision and Mission Statement including continuing education, pro bono and community service and participation in the American Physical Therapy Association. Other topics will include strategies for successful interviewing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6420": {
+        "name": "DPTH.6420 Health Policy & Admin (formerly 34.642)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6420/",
+        "id": "004725",
+        "description": "This course explores the social, political, and economic policies that impact the delivery of physical therapy services and health. The course underscores the issues of professionalism, leadership, management, and the advocacy to foster excellence in autonomous practice for the benefit of members and society. The course emphasizes leadership in promoting cultural competence, global and community health through the life span, social responsibility, effective application of technology, and health services research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate Physical Therapy students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6430": {
+        "name": "DPTH.6430 Evidence Directed Care (formerly 34.643)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6430/",
+        "id": "004726",
+        "description": "This course presents the role of evidence in the development and critical analysis of PT clinical practice guidelines and recommendations. Students practice analyzing, weighting, comparing and integrating sources of evidence. Methods of integrating various forms of evidence are covered including: examination and intervention systematic reviews, meta-analyses and clinical practice guidelines. The role of the PT's experience and background, patient, family, and stakeholders in the development of clinical practice guidelines will be analyzed.Current topics such as the role of Telemedicine and theories of Behavioral Change will be discussed, compared and integrated into plans of care and clinical use.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6440": {
+        "name": "DPTH.6440 Clinical Education Fieldwork II (formerly 34.644)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6440/",
+        "id": "004727",
+        "description": "This is the continuance of Directed Research experience providing students with the opportunity to complete and present a research project with the guidance of a faculty advisor. All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6450": {
+        "name": "DPTH.6450 Physical Therapy Interventions III (formerly 34.645)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6450/",
+        "id": "004728",
+        "description": "This course introduces the second year physical therapy student to various topics related to specialized physical therapy management of patients. Topics include, but are not restricted to: lower extremity prosthetic and orthotic management, hand orthotic fabrication, introduction to ergonomic principles, ergonomic design of seating systems and workstations, cumulative trauma disorders, work site analysis, functional capacity evaluation, lumbar stabilization exercises, the acute care environment, post-mastectomy management, and aquatic therapy interventions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6460": {
+        "name": "DPTH.6460 Complex Cases in Physical Therapy (formerly 34.646)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6460/",
+        "id": "004729",
+        "description": "This course, which runs concurrently with Clinical Education Experience III (DPTH.6530), is designed to promote evidenced-based practice, intra-professional correspondence, and further socialization into the profession of physical therapy. Students are expected to incorporate evidence based practice in real-time clinical practice whenever possible and speak to the implementation, progress, and outcome(s) via on-line posting of related case studies. Furthermore, students are expected to critically evaluate the degree to which the current evidence supports or conflicts with the common practice intervention. Additionally, students will critically evaluate their classmate's cases study postings offering feedback and/or treatment suggestions based upon their experience(s) and the evidence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6470": {
+        "name": "DPTH.6470 PT Interventions III Lab (formerly 34.647)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6470/",
+        "id": "004730",
+        "description": "All physical therapy graduate courses (number 34.) are restricted  to PT majors only.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6480": {
+        "name": "DPTH.6480 Service Learning in Physical Therapy (formerly 34.648)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6480/",
+        "id": "030345",
+        "description": "This three-credit course is designed to serve as a service-learning experience in the final year for doctoral physical therapy students. The course is designed to provide relevant and meaningful service opportunities for culturally competent physical therapy services with a focus on prevention, health promotion, fitness, and wellness to individuals, groups, and communities. The service learning experience will prepare students for active civic participation in a diverse society. Through the use of readings, discussion, reflection and presentations students will gain an understanding what it means to build the capacity of a community and develop the competency skills of an entry level physical therapy practitioner.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6500": {
+        "name": "DPTH.6500 Clinical Education Experience I (formerly 34.650)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6500/",
+        "id": "004732",
+        "description": "A ten-week full time, clinical experience designed to integrate basic physical therapy evaluative and treatment procedures, foster development of an autonomous professional through the synthesis and utilization of advanced academic theory in evaluation and treatment. Students are expected to use sound scientific rationale and a problem solving approach in ass aspects of patient care. Students are under the direct supervision of licensed physical therapists in general acute facilities and outpatient setting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6520": {
+        "name": "DPTH.6520 Clinical Education Experience II (formerly 34.653)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6520/",
+        "id": "004733",
+        "description": "This second, twelve-week, clinical experience designed to further promote the development of an autonomous professional as well as stimulate socialization into the profession. Students are expected to function as independently as possible using the problem solving process as a basis for all clinical decision making. Communication, coordination and consultation with other members of the health care team and responsibility for total client management are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DPTH.6530": {
+        "name": "DPTH.6530 Clinical Education Experience III (formerly 34.653)",
+        "url": "https://www.uml.edu/catalog/courses/DPTH/6530/",
+        "id": "004734",
+        "description": "This terminal, twelve-week, clinical education experience is designed as the final promotion of complete socialization and transition into the profession of physical therapy. Students are expected to function as independently as possible using problem solving processes as a basis for all clinical decision making. Communication, coordination, and consultation with other members of the health care team and responsibility for complete patient management are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Physical Therapy Graduate Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

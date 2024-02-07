@@ -1,0 +1,49 @@
+{
+    "total": 3,
+    "time": 4.456044912338257,
+    "AMHE.597LP": {
+        "name": "AMHE.597LP ST-Land Protection Tools & Techn",
+        "url": "https://www.uml.edu/catalog/courses/AMHE/597LP/",
+        "id": "041763",
+        "description": "Intercampus course -- Please refer to UMASS Amherst Course Catalog for details.\n(NRC 597LP)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AMHE.604MIE": {
+        "name": "AMHE.604MIE Computational Fluid Dynamics",
+        "url": "https://www.uml.edu/catalog/courses/AMHE/604MIE/",
+        "id": "040759",
+        "description": "Intercampus course -- Please refer to UMASS Amherst Course Catalog for details.\n(M&I-ENG 604-01)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AMHE.697RF": {
+        "name": "AMHE.697RF Recreational Fisheries Science",
+        "url": "https://www.uml.edu/catalog/courses/AMHE/697RF/",
+        "id": "040636",
+        "description": "Intercampus Course -- Please refer to the UMASS Amherst Course Catalog for details (ECO-697RF)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

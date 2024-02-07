@@ -1,0 +1,3068 @@
+{
+    "total": 167,
+    "time": 119.58061623573303,
+    "BIOL.1110": {
+        "name": "BIOL.1110 Principles of Biology I (Formerly 81.111)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1110/",
+        "id": "007466",
+        "description": "Introduces topics such as the chemical and physical basis of life, its evolution, diversity, distribution, and interrelationships of life forms. The central theme of genetic replication, translation, expression, and selection will be emphasized as a unifying principle which determines and integrates structure and function at the cellular, individual population, and community levels of organization. Designed for those students who intend to pursue career options in the biological sciences, biotechnology or related areas such as medicine, biomedical research, radiological sciences or environmental sciences. It is the first-semester course of a two-semester sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: BIOL.1170L Experimental Biology I and Anti-Req: BIOL.1220 and BIOL.2100 and LIFE.1000 and LIFE.1010.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.1170L"
+                ]
+            ]
+        }
+    },
+    "BIOL.1120": {
+        "name": "BIOL.1120 Principles of Biology II (Formerly 81.112)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1120/",
+        "id": "007467",
+        "description": "Serves as a continuation of the 81.111/81.112 sequence for those students who intend to pursue career options in the biological sciences or related professional areas such as medicine, biomedical research or environmental sciences. Molecular energy exchange in organisms (photosynthesis and respiratory metabolism), the common functional needs of support, locomotion, nutrition, internal communication and the maintenance of homeostasis are considered. Control and regulation of organisms at levels beyond the individual are considered through discussions of population and community ecology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: BIOL.1180L Experimental Biology II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.1180L"
+                ]
+            ]
+        }
+    },
+    "BIOL.1130": {
+        "name": "BIOL.1130 Introduction Experimental Biology I (Formerly 81.113)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1130/",
+        "id": "007468",
+        "description": "Presents a series of field trips and laboratory exercises designed to introduce the student to concepts of the distribution and maintenance of life. Specific consideration is given to the diversity and organization of local ecosystems; the continuation of life is considered through exercises covering mitosis, meiosis, genetics, and evolutionary biology.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.1140": {
+        "name": "BIOL.1140 Introduction to Experimental Biology II (Formerly 81.114)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1140/",
+        "id": "007469",
+        "description": "Provides laboratory experiments, analyses, and dissections designed to introduce the student to biological techniques and processes at the sub-cellular, cellular, and organ systems levels.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: BIOL.1120 Principles of Biology II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.1120"
+                ]
+            ]
+        }
+    },
+    "BIOL.1160": {
+        "name": "BIOL.1160 Freshman Seminar in Biology (Formerly 81.116)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1160/",
+        "id": "007471",
+        "description": "This course is designed to acclimate incoming students to their new University environment.  Students will learn about the Biology program, its faculty and staff members, University resources, and other information useful for success.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.1170L": {
+        "name": "BIOL.1170L Principles of Biology I Laboratory  (Formerly 81.117)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1170L/",
+        "id": "007472",
+        "description": "A laboratory course covering introduction to scientific inquiry in the biological sciences for majors in biology and related fields. Techniques that are important in biology (ex: microscopy, spectrophotometry and pipetting) are taught and these techniques are applied to the investigation of biological principles emphasizing basic cell and molecular biology, metabolism and fundamental processes of life.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: BIOL.1110 Principles of Biology I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.1110"
+                ]
+            ]
+        }
+    },
+    "BIOL.1180L": {
+        "name": "BIOL.1180L Principles of Biology II Laboratory (Formerly 81.118)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1180L/",
+        "id": "007473",
+        "description": "A laboratory course covering introduction to scientific inquiry in the biological sciences for majors in biology and related fields. Techniques that are important in biology (ex: microscopy, dissection) are taught and these techniques are applied to the investigation of basic biological principles emphasizing plant and animal diversity and organ systems.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: BIOL.1120 Principles of Biology II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.1120"
+                ]
+            ]
+        }
+    },
+    "BIOL.1220": {
+        "name": "BIOL.1220 Biology for Scientists (Formerly 81.122)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1220/",
+        "id": "038070",
+        "description": "Develops a basic understanding of biological topics relevant to students in the health sciences.  Course will introduce students to biochemistry, cell biology, cellular respiration, cell replication, genetics, inheritance and molecular biology.  Introduction to prions, viruses, prokaryotic and eukaryotic biology will also be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.1240 Biology for Health Sciences Lab, and Exercise Physiology Majors Only or Exercise Science Majors; Anti-Req: BIOL.1110 and BIOL.2100 and LIFE.1000 and LIFE.1010.BIOL.1240 Co-req & EP Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.1240"
+                ]
+            ]
+        }
+    },
+    "BIOL.1240L": {
+        "name": "BIOL.1240L Biology for Scientists Lab (Formerly 81.124)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1240L/",
+        "id": "038071",
+        "description": "Develops a basic understanding of biological topics relevant to students in the health sciences.  Course will introduce students to biochemistry, cell biology, cellular respiration, cell replication, genetics, inheritance and molecular biology,  Introduction to prions, viruses, prokayotic and eukaryotic biology will also be covered.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: BIOL.1220 Biology for Health Sciences.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.1220"
+                ]
+            ]
+        }
+    },
+    "BIOL.1CO-OP": {
+        "name": "BIOL.1CO-OP Curricula Practical Training",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/1CO-OP/",
+        "id": "040572",
+        "description": "Curricula Practical Training. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.2010": {
+        "name": "BIOL.2010 General Microbiology (Formerly 81.201)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2010/",
+        "id": "007474",
+        "description": "A study of the general properties of bacteria and viruses (anatomy, physiology, genetics,metabolism, cultivation, and growth); discussions include major microbial infections in man (etiologic agent, antibiotics and chemotherapy) and an examination of the role of the microbes in the environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.2030L": {
+        "name": "BIOL.2030L General Microbiology Laboratory (Formerly 81.203)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2030L/",
+        "id": "007475",
+        "description": "A series of laboratory exercises covering basic qualitative and quantitative techniques commonly employed in a microbiology laboratory.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: 81.201 General Microbiology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.2055": {
+        "name": "BIOL.2055 Introduction to Bioinformatics (Formally BIOL.3050)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2055/",
+        "id": "040635",
+        "description": "An introduction to the field of bioinformatics with some hands-on exploration of applications. Specific areas include scientific archives and information retrieval, genome organization and evolution, phylogenetic analysis, comparative genomics, transcriptomics, proteomics, structural bioinformatics, and systems biology. In addition to covering the biological principles underpinning the bioinformatic approaches to study the biology and evolution of genomes and systems, this course also imparts basic computational skills in data retrieval from databases in molecular, functional, and structural biology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.2100": {
+        "name": "BIOL.2100 Biology for Engineers (Formerly 81.210)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2100/",
+        "id": "037711",
+        "description": "Develops a basic understanding of the science of biology for engineering students, including and introduction to biochemistry, cell biology, metabolism, genetics, genomics, molecular biology, cell growth, and nutrition.  Both eukaryotic and prokaryotic biology will be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.2120L Biology for Engineer Lab, and Biomedical Engineering, or Chemical Engiineering, or Environmental Engineering Majors only. Anti-req: BIOL.1110, and BIOL.1220, and LIFE.1000, and LIFE.1010.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.2120L"
+                ]
+            ]
+        }
+    },
+    "BIOL.2120L": {
+        "name": "BIOL.2120L Biology for Engineers Laboratory (Formerly 81.212)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2120L/",
+        "id": "037712",
+        "description": "This laboratory course will build on BIOL.2100.  It will provide an introduction to several basic biological techniques and approaches used in biological engineering laboratories.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.2100 Biology for Engineers.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.2100"
+                ]
+            ]
+        }
+    },
+    "BIOL.2200": {
+        "name": "BIOL.2200 Principles of Cellular Biology  (Formerly 81.220)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2200/",
+        "id": "037710",
+        "description": "This course will cove basic topics in cell and molecular biology, including structures of proteins, lipids, carbohydrates and nucleic acids, structure of DNA and it replication and repair, transcription, and cell-cell communication. The molecular biology of cells and the regulation of cellular processes will be emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "C- or better in BIOL-1110 Principles of Biology l, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.2330L": {
+        "name": "BIOL.2330L Experimental Methods in Biology (Formerly 81.233)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2330L/",
+        "id": "037713",
+        "description": "This is a project-based course designed to introduce students to the methods of general biological laboratory research.  Techniques will be introduced in the context of interrelated experiments during a semester-long project.  Techniques will include, but are not limited to: making solutions, pipetting, using sterile technique, gel electrophoresis, DNA transformations, minipreps, and other molecular and microscopic methods.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "BIOL.1110 Principles of Biology I, and BIOL.1170L Principles of Biology I Lab, and BIOL.1120 Principles of Biology II, and BIOL.1180L Principles of Biology II Lab.  With a C- or better in BIOL.1110.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1170L"
+                ],
+                [
+                    "BIOL.1120"
+                ],
+                [
+                    "BIOL.1180L",
+                    "BIOL.1110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.2350": {
+        "name": "BIOL.2350 Genetics (Formerly 81.235)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2350/",
+        "id": "036858",
+        "description": "The theories of both classical and molecular genetics are explored with emphasis on the experimental evidence which has laid the foundation for contemporary understanding of genetics, included is the nature of the genetic material, gene action, genetic recombination, gene regulation, gene interaction, the production and inheritance of genetic phenotypes, chromosomal mechanics, and the behavior of genes in populations.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL.1110 Principles of Biology l, with a grade of C- or better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.2400": {
+        "name": "BIOL.2400 Evolution, Ecology and Conservation (Formerly 81.240)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2400/",
+        "id": "037718",
+        "description": "Over 5 million species thrive in amazingly diverse habitats on Earth ranging from the extreme freezing cold of the poles to the lush warmth of the tropics.  How did this fantastic diversity arise on our earth?  How are these species intimately interconnected with one another, their communities and their ecosystem?  How can we save this remarkable biodiversity from extinction?  This course will address these key questions by examining the fundamental concepts of evolution, ecology and conservation biology.  Students will be expected to attend a discussion section in which they will examine case studies and primary scientific literature.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "C- or better in both BIOL.1110 Principles of Biology l, and BIOL.1120 Principles of Biology ll, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.2520": {
+        "name": "BIOL.2520 Physiology (Formerly 81.252)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/2520/",
+        "id": "007481",
+        "description": "Presents a comprehensive study of the fundamental mechanisms governing mammalian physiology. The role of cell physiology in determining systemic functions and coordinating biological control systems will be emphasized. Maintenance of homeostasis will be discussed in terms of biochemical, cytological, anatomical, and physical principles.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.3000L": {
+        "name": "BIOL.3000L Directed  Research  Experience II (Formerly 81.300)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3000L/",
+        "id": "007485",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.3010": {
+        "name": "BIOL.3010 Microbiology (Formerly 81.301)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3010/",
+        "id": "036856",
+        "description": "General properties of bacteria and viruses including anatomy, physiology, genetics, metabolism, cultivation, growth, control and their role in the ecosystems, and industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: BIOL.1110/1120 Principles of Biology I & II and CHEM.1210 Chemistry I or CHEM.1220 Chemistry II or CHEM.1350 Honors Chemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210",
+                    "CHEM.1220",
+                    "CHEM.1350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.3030L": {
+        "name": "BIOL.3030L Microbiology Laboratory (Formerly 81.303)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3030L/",
+        "id": "036855",
+        "description": "A series of laboratory exercises covering basic qualitative and quantitative techniques commonly employed in a microbiology laboratory including sterile technique, microscopy, enrichment and isolation, and prevention.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: 81.301 Microbiology",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.3050": {
+        "name": "BIOL.3050 Introduction to Bioinformatics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3050/",
+        "id": "040675",
+        "description": "An introduction to the field of bioinformatics with some hands-on exploration of applications. Specific areas include scientific archives and information retrieval, genome organization, comparative genomics, transcriptomics, proteomics, structural bioinformatics, and systems biology. This course also imparts basic computational skills in data retrieval from the databases in molecular and structural biology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: BIOL 1110 Principles of Biology I,  BIOL 1120 Principles of Biology II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.3060": {
+        "name": "BIOL.3060 Invertebrate Zoology (Formerly 81.306)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3060/",
+        "id": "007487",
+        "description": "A survey of the phyla of invertebrate animals. Discussions include their physiology, development, morphology, behavior, ecology and adaptations. Corequisite: 81.308",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.3080L": {
+        "name": "BIOL.3080L Invertebrate Zoology Lab (Formerly 81.308)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3080L/",
+        "id": "007488",
+        "description": "A broad spectrum of living and preserved specimens are studied in the laboratory with regard to both structure and function. Corequisite 81.306",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.3060 Invertebrate Zoology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.3060"
+                ]
+            ]
+        }
+    },
+    "BIOL.3150": {
+        "name": "BIOL.3150 Principles of Ecology (Formerly 81.315)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3150/",
+        "id": "007491",
+        "description": "A series of lectures concerned with the interrelationships of organisms with their abiotic environment with emphasis on the New England area. Selected current topics will supplement the text.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2400 Evolution, Ecology and Conservation, and Co-req: BIOL.3170L Principles of Ecology Lab, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2400"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.3170L"
+                ]
+            ]
+        }
+    },
+    "BIOL.3170L": {
+        "name": "BIOL.3170L Principles of Ecology Laboratory (Formerly 81.317)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3170L/",
+        "id": "007492",
+        "description": "A series of laboratory exercises to supplement and illustrate lectures of 81.315. Field trips are an integral part of the course involving sampling and analysis of such ecosystem components as water, soil, invertebrate fauna and characteristic flora of various habitats. Directed readings, quizzes, practical exam and oral presentation of a research topic are integral parts of the course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: BIOL.3150 Principles of Ecology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.3150"
+                ]
+            ]
+        }
+    },
+    "BIOL.3200": {
+        "name": "BIOL.3200 Botany (Formerly 81.320)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3200/",
+        "id": "007493",
+        "description": "Serves as an introduction to the study of the plant kingdom dealing with the structure, function, and diversity of plants with an emphasis on seed plants. The physiology, morphology, and taxonomy of plants is emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.3220L": {
+        "name": "BIOL.3220L Botany Laboratory (Formerly 81.322)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3220L/",
+        "id": "007494",
+        "description": "Emphasizes material covered in 81.320 using field and laboratory exercises.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: 81.320 Botany.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.3240": {
+        "name": "BIOL.3240 Economic Botany (Formerly 81.324)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3240/",
+        "id": "038098",
+        "description": "Discussions on how humans use plants.  Topics will include: Structure and characteristics of woods and their uses in construction of various items, agricultural uses of food plants and spices, poisonous plants, medicinal plants, plants used in religious ritual and plants used as hallucinogens, plants that have altered human history.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL 1110 Principles of Biology I, or LIFE 1010 Life Science I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110",
+                    "LIFE.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.3420": {
+        "name": "BIOL.3420 Comp Vertebrate Anatomy (Formerly 81.342)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3420/",
+        "id": "007501",
+        "description": "This course is designed to provide students a broad understanding of the anatomy of vertebrates with an emphasis on comparison between taxa and their evolutionary significance. Students will acquire knowledge and understanding of anatomical structure and terminology of vertebrates and an understanding of how these structures have evolved from ancestral forms. There will also be some reference to the fields of embryology, histology and paleontology in the course.\nThis course may interest students who might want to go into various animal/human focused fields (e.g. veterinary science, medicine or graduate studies with more organismal focus), and students who simply want a course focused on vertebrates. However, students should note that this course does not focus on human nor veterinary anatomy.This course could also help undergraduates in the General Biology and Ecology Option satisfy free elective requirements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.1110 Principles of Biology I, and BIOL.1120 Principles of Biology II, and Co-req: BIOL.3440L Comp. Vertebrate Anatomy Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.3440L"
+                ]
+            ]
+        }
+    },
+    "BIOL.3440L": {
+        "name": "BIOL.3440L Comp Vertebrate Anatomy Laboratory (Formerly 81.344)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3440L/",
+        "id": "007502",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "BIOL1110 Principles of Biology I, and BIOL.1120 Principles of Biology II, and Co-req: BIOL.3420 Comp Vertebrate Anatomy.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.3420"
+                ]
+            ]
+        }
+    },
+    "BIOL.3550": {
+        "name": "BIOL.3550 Plant-Animal Interactions",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3550/",
+        "id": "042012",
+        "description": "Many of our childhood biology lessons entail examples of plant-animal interactions, with macro-level examples that included bees pollinating flowers, squirrels burying acorns in the Fall and caterpillars eating holes in leaves. Yet there are many less obvious ways that plants and animals interact in our biosphere; this course will attempt to provide an overview of major themes in this field. We will delve into the evolutionary origins of how these relationships began and examine how these ecological interactions seem to sustain all biodiversity of Earth. By end of the course, students will be well versed in the technical jargon used in the field and will appreciate the importance of inter-species interactions between the animal and plant kingdom for evolutionary innovation and diversity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2400 Evolution, Ecology and Conservation, and BIOL.2350 Genetics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2400"
+                ],
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.3620": {
+        "name": "BIOL.3620 Development and Evolution",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/3620/",
+        "id": "040070",
+        "description": "This course will introduce the concepts and methods of the field of evolutionary developmental biology. We will cover gene regulation and evolution. Through primary literature, discussion and presentation, we will explore how genetic changes to developmental processes contribute to evolutionary change.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2200 Principles of Cell and Molecular Biology, and BIOL.2400 Evolution, Ecology and Conservation.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2200"
+                ],
+                [
+                    "BIOL.2400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4010L": {
+        "name": "BIOL.4010L Supervised Teaching Biology I (Formerly 81.401)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4010L/",
+        "id": "007508",
+        "description": "Through observation, preparation of material and presentation of demonstrations in selected courses offered by the Department of Biological Sciences, the student becomes familiar with the materials and teaching/learning situations in biology.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4020L": {
+        "name": "BIOL.4020L Supervised Teaching Biology II (Formerly 81.402)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4020L/",
+        "id": "007509",
+        "description": "Through observation, preparation of material and presentation of demonstrations in selected courses offered by the Department of Biological Sciences, the student becomes familiar with the materials and teaching/learning situations in biology.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4050L": {
+        "name": "BIOL.4050L Bioinformatics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4050L/",
+        "id": "041235",
+        "description": "There is a growing need for bioinformaticians in research and industry as datasets are getting bigger and complex, making computational methods necessary for analysis. This hands-on course introduces principles, databases, software, and programming for the analysis and interpretation of molecular datasets. Emphasis is on practical assignments using computational approaches from a biologist's perspective. Topics include genome assembly, variant detection, comparative genomics and transcriptomics, metagenomics, as well as data retrieval from databases and basic programming using Bash and R. A term project and computer-based exercises are designed to showcase the capabilities and limitations of bioinformatics tools used in genome research, as well as to develop skills in coding literacy.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL.2350 Genetics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4062": {
+        "name": "BIOL.4062 Bioinformatic Tools in Sequence Analysis",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4062/",
+        "id": "041661",
+        "description": "This hands-on course introduces databases, approaches, and software for the analysis and interpretation of molecular sequences. Practical assignments and a term project emphasize the application of computational approaches from a biologist's perspective. Topics include genome assembly, transcriptomic analysis, and data retrieval from databases using both graphical user interfaces and basic computer programming using Bash and R. The class assignments are all computer-based exercises that are designed to showcase the capabilities and limitations of bioinformatics research and tools used in sequence analysis, as well as to develop skills in coding literacy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2350 Genetics, and Co-req: BIOL.4062L Bioinformatic Tools Lab, Must take both BIOL.4062 Lecture and BIOL.4062L Lab together.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.4062L"
+                ],
+                [
+                    "BIOL.4062"
+                ],
+                [
+                    "BIOL.4062L"
+                ]
+            ]
+        }
+    },
+    "BIOL.4062L": {
+        "name": "BIOL.4062L Bioinformatic Tools in Sequence Analysis Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4062L/",
+        "id": "041662",
+        "description": "This lab accompanies the lecture, with hands-on practical assignments to achieve a firmer understanding of bioinformatics tools and principles. Assignments and a term project emphasize the application of computational approaches from a biologist's perspective. Topics include genome assembly, transcriptomic analysis, and data retrieval from databases using both graphical user interfaces and basic computer programming using Bash and R. The class assignments are all computer-based exercises that are designed to showcase the capabilities and limitations of bioinformatics research and tools used in sequence analysis, as well as to develop skills in coding literacy.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "BIOL.2350 Genetics, and Co-req: BIOL.4062 Bioinformatics Tools Lecture, Must take both BIOL.4062 lecture and BIOL.4062L Lab together.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.4062"
+                ],
+                [
+                    "BIOL.4062"
+                ],
+                [
+                    "BIOL.4062L"
+                ]
+            ]
+        }
+    },
+    "BIOL.4072": {
+        "name": "BIOL.4072 Data Science for Biologists",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4072/",
+        "id": "041946",
+        "description": "Like many other areas of science and business, biology in increasingly defined by increasing amounts of available data. The ability to analyze, visualize, and make inferences from this data will become increasingly valuable for future biologists. Data science can be defined as the intersection between computer science, applied statistics, and knowledge of the application domain--in this case, biology. In this class we will apply methods such as generalized linear models, multi-level models, unsupervised learning, and basic neural networks to biological problems. Hands-on activities using programming will give students experience with steps of a data science project, including simulating, exploring, visualizing, drawing conclusions with statistics, and creating a reproducible analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.4072L Data Science for Biologists, and Pre-req: BIOL.2220, or COMP.2010, or MATH.2340, or MATH.2360, or MATH.3220, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4072L"
+                ]
+            ]
+        }
+    },
+    "BIOL.4072L": {
+        "name": "BIOL.4072L Data Science for Biologists Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4072L/",
+        "id": "041947",
+        "description": "Each week we will focus on a different set of data science skills with a one-day project done in small teams. Hands-on activities using data science programming languages will give students experience with steps of a data science project, including simulating, exploring, visualizing, drawing conclusions with statistics, and creating a reproducible analysis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.4072 Data Science for Biologists.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4072"
+                ]
+            ]
+        }
+    },
+    "BIOL.4090": {
+        "name": "BIOL.4090 Photobiology (Formerly 81.409)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4090/",
+        "id": "036853",
+        "description": "Biological process involving light in plants and animals.  Topics include mechanisms of light absorption, energy transduction, light reactions in photosynthesis, functions of color in flowering plants, visual systems and structural and pigment coloration in animals, pigmentation in animals affecting camouflage and reproductive strategies.  In addition, the genetics involved in responses to light such as photoperiods, cicardian rhythms, and seasonal cycles will be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL.4190 Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4110L": {
+        "name": "BIOL.4110L Senior Research Biology (Formerly 81.411)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4110L/",
+        "id": "007512",
+        "description": "An individual, directed one-year research program for senior biology majors selected on the basis of previous academic performance at the end of the junior year. A topic will be chosen after consultation with a faculty member. A report of the research in the form of a thesis is required.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4120L": {
+        "name": "BIOL.4120L Senior Research: Biology (Formerly 81.412)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4120L/",
+        "id": "007513",
+        "description": "An individual, directed one-year research program for senior biology majors selected on the basis of previous academic performance at the end of the junior year. A topic will be chosen after consultation with a faculty member. A report of the research in the form of a thesis is required.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4190": {
+        "name": "BIOL.4190 Biochemistry (Formerly 81.419)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4190/",
+        "id": "001235",
+        "description": "Studies the structure and properties of proteins, carbohydrates, and lipids which combined with a discussion of elementary enzymology allows for detailed descriptions of several important degradative and biosynthetic pathways, their integration and regulation. Throughout the course, emphasis is on methods and practical application of fundamental information to the solution of problems of current biomedical interest.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req CHEM 2220 Organic Chemistry II or CHEM 2230 Organic Chemistry IIB and BIOL 2200 Principles of Cell and Molecular Biology or BIOL 2350 Genetics or BIOL 2120L Biology for Engineers.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2220",
+                    "CHEM.2230"
+                ],
+                [
+                    "BIOL.2200"
+                ],
+                [
+                    "BIOL.2350",
+                    "BIOL.2120L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4200": {
+        "name": "BIOL.4200 Biochemistry II (Formerly 81.420)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4200/",
+        "id": "007514",
+        "description": "This course will focus on protein dynamics where students will gain facility with thermodynamics of protein folding/misfolding, catalysis, kinetics and binding equilibria as they apply to proteins and other molecules in biological systems. The central theme of this course is that living systems can be understood in terms of the fundamental principles defining the structure and energetics of biological molecules. Attention will be given to quantitative aspects of enzyme kinetics and molecular binding. Examples of how these principles apply to the understanding and treatment of human disease will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL.4190 Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4210L": {
+        "name": "BIOL.4210L Biochemistry Techniques (Formerly 81.421)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4210L/",
+        "id": "007515",
+        "description": "A series of discussions and \"hands on\" laboratory exercises emphasizing techniques and use of equipment most commonly employed in biochemicaI-biomedicaI research laboratories. Techniques to be mastered include: cell culture, cell fractionation, enzyme purification, ultracentrifugation, UV-visible spectrophotometry, spectrofluorometry, various types of chromatography (thin layer, gas, gel exclusion, ion exchange), electrophoresis, liquid scintillation spectrometry, and the safe handling and application of radioisotopes to problems in biochemistry. Wherever possible, the principles presented in 81.419 will be used as a basis for experimentation using the above techniques.  Meets Core Curriculum Essential Learning Outcome for Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "CHEM.2300L Organic Chem Lab IIB, or CHEM.2280L Organic Chem Lab IIA, and BIOL.2330L Experimental Methods in Biology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2300L",
+                    "CHEM.2280L"
+                ],
+                [
+                    "BIOL.2330L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4225": {
+        "name": "BIOL.4225 Advanced Topics in Biochemistry",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4225/",
+        "id": "042050",
+        "description": "This seminar course will focus on the detailed discussion of the structure of proteins and other biological molecules and how the structure determines the function of those molecules.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "BIOL.4190 Biochemistry with a C- or better.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4230": {
+        "name": "BIOL.4230 Biology of Global Change (Formerly 81.423)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4230/",
+        "id": "007517",
+        "description": "An examination of the role of life processes in controlling the cycling of elements on the surface of the Earth and atmosphere from the molecular to the global level.  Students will learn how the different physical components of Earth interact, how these interactions are influenced by life, and how they affect Earth's habitability now and in the future.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL.1120 Principles of Biology II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4260": {
+        "name": "BIOL.4260 Evolutionary Biology (Formerly 81.426)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4260/",
+        "id": "036580",
+        "description": "Examines the patterns and processes of biological evolution that have led to the diversity of life.  Topics covered include the history of evolutionary thought, the evidence for evolution, the generation and maintenance of population-level variation, natural selection, adaptation, sexual selection, speciation, phylogenetics, molecular evolution, the fossil record and extinctions.  In addition to lecture and textbook material, students will read and discuss classic and contemporary primary literature from evolutionary biology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2400 Evolution, Ecology and Conservation, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4280": {
+        "name": "BIOL.4280 Molecular Biotechnology: Recombinant Protein Production (Formerly 81.428)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4280/",
+        "id": "037369",
+        "description": "Proteins are major targets of pharmaceuticals, and are themselves increasingly used as therapeuticals.  However both basic research and the pharmaceutical industry depends on availability of purified proteins that are often difficult to isolate from native sources.  In this lecture course, students will learn basic and advanced theoretical background in expression and purification of recombinant proteins.  It will cover a variety of expression systems including prokaryotic and eukaryotic cells.  The course will also address traditional and new methods in recombinant protein purification.  Furthermore, students will be introduced to some downstream applications such as crystallization screens and biochemical/biophysical studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "81.111 Principles of Biology I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4290": {
+        "name": "BIOL.4290 Recombinant Protein Production Techniques (Formerly 81.429 & 81.529)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4290/",
+        "id": "038228",
+        "description": "This course introduces students to the principles and practice of recombinant protein expression and purification's. Proteins are major targets of pharmaceuticals, and are themselves increasingly used as therapeuticals. However both basic research and pharmaceutical industry depends on availability of purified proteins that are often difficult to isolate from native sources. This course will provide both didactic and laboratory instruction. It is comprised of a series of lecture and laboratory exercises, with an emphasis on practical techniques and hands-on experience of recombinant protein purification. The course will cover a variety of expression systems, including prokaryotic and eukaryotic cells, and address traditional and new methods in protein purification.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL 2330L Experimental Methods in Biology, or BIOL 4210L Biochemistry Techniques.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2330L",
+                    "BIOL.4210L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4300": {
+        "name": "BIOL.4300 Cancer Genomics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4300/",
+        "id": "042074",
+        "description": "Cancer is usually the result of genetic alterations acquired over a lifetime that enable a tumor to grow and spread. As a result, each tumor is unique and involves a complex combination of mutations--a part of the reason that cancers can be so hard to treat. To better understand the characteristics of these diseases and discover appropriate treatments, institutions have comprehensively profiled the genomic changes across thousands of people's tumors. That data is available for anyone with the right skills to analyze. In this class, we will delve into the genomics of cancer, as a way to learn how cancers develop, how molecular profiling technologies generate data about these cancers, and how bioinformatics approaches can harness these data to gain insight and discover treatments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2350 Genetics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4320": {
+        "name": "BIOL.4320 Genomics (Formerly 81.432)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4320/",
+        "id": "037715",
+        "description": "This course surveys the field of genomics, examining current technologies and their biological applications.  Lectures cover genome organization, genome sequencing and annotation, functional genomics, evolutionary genomics, transcriptomics. proteomics and the role of bioinformatics in organizing and interpreting genomic data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL 2350 Genetics and Co-req: BIOL 4340L Genomics Laboratory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.4340L"
+                ]
+            ]
+        }
+    },
+    "BIOL.4340L": {
+        "name": "BIOL.4340L Genomics Laboratory (Formerly 81.434)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4340L/",
+        "id": "037716",
+        "description": "A series of molecular laboratory and computer-based bioinformatics exercises providing practical experience in the collection and analysis of genomic-level data.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "BIOL 2350 Genetics and Co-req: BIOL 4320 Genomics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.4320"
+                ]
+            ]
+        }
+    },
+    "BIOL.4360": {
+        "name": "BIOL.4360 Behavioral Ecology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4360/",
+        "id": "041805",
+        "description": "Animals learn songs, practice agriculture, and craft tools. They build elaborate structures without a blueprint and migrate across the globe without a map. This course explores the mechanistic and evolutionary causes of animal behavior, A combination of lectures, discussions, and animal demos will introduce students to major themes in the field, while emphasizing experiments and ecological context as fundamental to the study of behavior. Students will discuss historic debates and emerging research on the evolution of exaggerated sexual ornaments and defensive structures, sensory bias, heritability of behavior, reciprocity & kinship, and the emergence of animal societies. By the end of the course, students will be able to interpret the behaviors of animals in an evolutionary framework. Students from other departments, including Psychology, and Environmental Science can join this course with instructor permission.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2400 Evolution, Ecology and Conservation, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4365L": {
+        "name": "BIOL.4365L Field Techniques in Ecology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4365L/",
+        "id": "042133",
+        "description": "This course will explore the fundamental concepts of field ecology. The goal of this course is to give students an immersive, research-oriented, hands-on learning experience that integrates the interactions of organisms with each other and with their abiotic environment in both aquatic and terrestrial ecosystems in Massachusetts and elsewhere in New England. Students will learn the natural history of these habitats and their organisms, engage in scientific field research, and develop sills in data collection, analysis, and interpretation. By the end of the course, students will have a working toolbox of field techniques to ask questions in population, community, and ecosystem ecology.",
+        "credits": {
+            "min": "5",
+            "max": "5"
+        },
+        "requirements-text": "BIOL.2400 Evolution, Ecology and Conservation, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4370": {
+        "name": "BIOL.4370 Biology and Evolution of Arthropoda (Formerly 81.437)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4370/",
+        "id": "037441",
+        "description": "A detailed examination of phylum Arthropoda from developmental, ecological, genetic, morphological and paleontological perspectives.  Specific topics include the relationships of arthropods to protoarthropod-like groups including tardigrades and onychophorans, the evolution of segmentation, and current perspectives on relationships within the phylum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL 3060 Invertebrate Zoology; BIOL 3080L Invertebrate Zoology Lab; BIOL 4260 Evolutionary Biology and Co- req: BIOL 5390L Biology and Evolution of Arthropoda Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.3060",
+                    "BIOL.3080L",
+                    "BIOL.4260"
+                ],
+                [
+                    "BIOL.5390L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4380": {
+        "name": "BIOL.4380 Advanced Genetic Analysis",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4380/",
+        "id": "041876",
+        "description": "This course explores fundamental concepts in classical and molecular genetics. We will examine how studies in genetic model organisms (including budding yeast, Drosophila, and C. elegans) have yielded remarkable insight into a host of biological mechanisms, including cell-signaling pathways, animal development, and gene regulation. Special emphasis will be placed on how geneticists design and interpret their studies. The semester will cover strategies ranging from the classical (screens, selection, complementation, and conditional mutants) to the modern approaches enabled by the genomic revolution (genetic engineering, gene misexpression, and genome-wide association studies}",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2350 Genetics, with a grade of C- or better. Students from other departments (including Biomedical Engineering or Applied Biomedical Sciences) may enroll with instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4385": {
+        "name": "BIOL.4385 Epigenetics & Chromatin",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4385/",
+        "id": "042265",
+        "description": "Although epigenetic phenomena have been observed for over a century, researchers have only started to untangle their underlying mechanism and effects on gene expression. This course provides and overview of epigenetic mechanisms, including DNA methylation, histone modifications, chromosome structure, and nuclear organization. We will discuss how molecules help regulate gene expression to affect health, development, and cell fate across organisms. The class will rely upon current and classic readings from the primary literature to best understand new genomic advances and current technological limits in the field. A special emphasis will be placed on experimental design and data interpretation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Biological Sciences must have passed BIOL.2350 with a grade of C-or higher. Students from other departments (including Biomedical Engineering or Applied Biomedical Sciences) may enroll with instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4390L": {
+        "name": "BIOL.4390L Biology and Evolution of Arthropoda Laboratory (Formerly 81.439)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4390L/",
+        "id": "037442",
+        "description": "An exploration of protoarthropod and arthropod diversity using live and preserved specimens of the major taxa including Tardigrada, Onychophora, Chelicerata, Crustacea, Myriapoda and Hexapoda.  Students will learn to collect, dissect, identify, handle and care for live specimens.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "BIOL 3060 Invertebrate Zoology; BIOL 3080L Invertebrate Zoology Lab, BIOL 4260 Evolutionary Biology and Co-req: BIOL 5370 Biology and Evolution of Arthropoda.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.3060",
+                    "BIOL.3080L"
+                ],
+                [
+                    "BIOL.4260"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.5370"
+                ]
+            ]
+        }
+    },
+    "BIOL.4420": {
+        "name": "BIOL.4420 Advanced Cell Biology (Formerly 81.442)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4420/",
+        "id": "007521",
+        "description": "This is an advanced course in cell biology. In this course we will examine different areas of eukaryotic cell biology including: membrane structure and function, cell adhesion, intercellular communication, signal transduction, chemotaxis, receptor-mediated endocytosis and intracellular trafficking. Mechanisms underlying relevant human diseases will also be discussed.  Upon completion of the course the student will have a strong understanding of cell biology, develop critical thinking processes, proficiency in scientific reading and how to communicate material succinctly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2350 Genetics, and BIOL.2200 Principles of Cell & Molecular Biology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ],
+                [
+                    "BIOL.2200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4480": {
+        "name": "BIOL.4480 Form Feeds Function in Vertebrate Evolution",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4480/",
+        "id": "040787",
+        "description": "This course will provide you with a solid comparative knowledge of how vertebrates including humans have evolved, focusing on how anatomy (form) feeds function (physiology, biomechanics) in movement biology (Cardiorespiratory, sensing, locomotion, feeding). It is only by understanding our evolutionary history that you understand e.g. how vertebrates became Olympian movers, how humans became bipedal, why we use parts of the ancestral jaw to hear, and how we avoid choking when we swallow. Such knowledge is key for medical and veterinary school, but will also support you in biomedical and biotechnology fields as well as in various general science disciplines. This course emphasizes modes of thought, including the differences between evidence and inference, and between correlation and causalit.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL.1110 Principles of Biology I, and BIOL.1120 Principles of Biology II, and BIOL.2400 Evolution, Ecology and Conservation.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1120"
+                ],
+                [
+                    "BIOL.2400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4490L": {
+        "name": "BIOL.4490L Biology of Muscle",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4490L/",
+        "id": "040933",
+        "description": "This course takes integrative approaches to exploring architecture, physiology and mechanics of vertebrate skeletal muscle as the main driver of movements in organisms including humans. Combining presentations and discussions of important publications with simple experiments and report-writing, the course hones a specialist-level understanding of how the organ structure is constructed, how cell-level phenomena govern contraction, how the nervous system controls muscle function, how muscle contractions are constrained by physics, and how muscle as an organ structure is able to mitigate those constraints. We will also build and use actuators inspired by muscle function.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4500": {
+        "name": "BIOL.4500 Parasitic Protozoology (Formerly BIOL.3500)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4500/",
+        "id": "041691",
+        "description": "An introduction to the diversity of single-celled eukaryotes, i.e., protozoans, that are parasites of humans, domestic, and wild animals. Lectures emphasize the morphology, physiology, and life cycles of species of Plasmodium (Malaria), trypanosoma (Sleeping sickness, Chagas disease), Leishmania (Leishmaniasis), and Toxoplasma (Toxoplasmosis), and include their arthropod vectors when present (mosquitos, sand flys, kissing bugs). We will cover the basics of disease (symptoms and pathologies), treatments, and control measures. Contemporary research efforts will be emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2200 Principles of Cellular Biology or a comparable transfer course.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4510": {
+        "name": "BIOL.4510 Senior Seminar in Biology (Formerly 81.451)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4510/",
+        "id": "007523",
+        "description": "This course instructs students in developing effective writing and speaking skills required for preparation of scientific manuscripts and presentations, and communicating in the scientific world.  Students will be required to prepare and present oral presentations and to submit written reports.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4550": {
+        "name": "BIOL.4550 Entomology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4550/",
+        "id": "041943",
+        "description": "This course explores the diversity, evolution, and behaviors of insects.  Insects are pollinators, undertakers, and parasites.  They are master architects, and the inventors of flight and agriculture.  Their societies can tower over elephants or fit in the palm of your hand.  Plagues of locusts have shaped human history and wars have been won on the backs of fleas.  This course emphasizes comparative natural history and experimentation as the foundation of innovations in entomology.  Students will develop a solid understanding of the principles of insect biology that can be applied to medical, forensic, veterinary, agricultural, conservation and academic fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2400 Evolution, Ecology and Conservation, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4550L": {
+        "name": "BIOL.4550L Entomology Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4550L/",
+        "id": "041948",
+        "description": "This laboratory focuses on insect classification, development and behavior. Students will travel to local field sites to study and collect insects. Each student will curate a professional insect collection and develop a working knowledge of insect taxonomy through dissection and comparison of preserved specimens, including economically and medically important insects. Students will also rear a variety of social and solitary insects under experimental conditions and report their results. Labs on behavior will focus on insect communication, parental care, eusociality, and orientation.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.4550 Entomology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4550"
+                ]
+            ]
+        }
+    },
+    "BIOL.4570": {
+        "name": "BIOL.4570 Metazoan Parasitology (Formerly 81.457)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4570/",
+        "id": "033457",
+        "description": "An introduction to the diversity of metazoans (animals) that parasitize humans, livestock, other animals (both vertebrate and invertebrate), and plants. Lectures emphasize the morphology, form and function, physiology, systematics, evolution, life cycles and pathogenesis of several major parasitic groups. Formerly: Advanced Invertebrate Zoology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL 3060 Invertebrate Zoology;  Co-Req: BIOL 4590L Metazoan Parasitology Laboratory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.3060"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.4590L"
+                ]
+            ]
+        }
+    },
+    "BIOL.4590L": {
+        "name": "BIOL.4590L Metazoan Parasitology Laboratory (Formerly 81.459)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4590L/",
+        "id": "033458",
+        "description": "The purpose of the laboratory is to provide students an opportunity to identify and work with a variety of parasites that we discuss in lecture. We will work with preserved specimens, slide material, necropsies, and live specimens. Students will learn how to identify parasites and understand how they affect host biology.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.4570 Metazoan Parasitology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4570"
+                ]
+            ]
+        }
+    },
+    "BIOL.4600": {
+        "name": "BIOL.4600 Stem Cell Biology (Formerly 81.460)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4600/",
+        "id": "033651",
+        "description": "The molecular and genetic characteristics of stem cells and their developmental potential will be explored.  Lectures and readings will cover the development of embryonic, fetal and adult stem cells, and will examine their use in treating human disorders receiving widespread attention, including neurodegenerative diseases, heart disease, spinal cord injury and leukemia.  The ethical, legal and social implications of stem cell research will also be discussed.  Additional library investigation and a term paper or seminar will be required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL 3350 Principles of Genetics or BIOL 2350 Genetics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.3350",
+                    "BIOL.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4620": {
+        "name": "BIOL.4620 Cardiovascular Physiology (Formerly 81.462)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4620/",
+        "id": "039419",
+        "description": "This course will focus on human cardiovascular physiology in normal and diseased states. The objective of Cardiovascular Physiology is to reinforce the concept that the cardiovascular system can be understood in terms fundamental biophysical and cellular physiological principles. Quantitative aspects will be reinforces with problem sets in the accompanying lab course 81.463. Key concepts in the course will be placed in a medical context showing the underlying physiological concepts that lead to disease states such as; altered blood pressure, heart failure, valvular disease and arrhythmias.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.4190 Biochemistry, and BIOL 2520 Physiology, or BIOL 5520 Quantitative Physiology, or HSCI 1020 Human Anatomy & Physiology ll, and Co-req: BIOL 4630L Cardiovascular Physiology Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190"
+                ],
+                [
+                    "BIOL.2520",
+                    "BIOL.5520",
+                    "HSCI.1020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.4630L"
+                ]
+            ]
+        }
+    },
+    "BIOL.4630L": {
+        "name": "BIOL.4630L Cardiovascular Physiology Lab (Formerly 81.463)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4630L/",
+        "id": "039420",
+        "description": "Cardiovascular Physiology Lab is designed to supplement Cardiovascular Physiology 81.462. The objective of the course is to teach cardiovascular system function using problems sets as well as clinical and pathophysiological examples.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.4620 Cardiovascular Physiology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4620"
+                ]
+            ]
+        }
+    },
+    "BIOL.4670": {
+        "name": "BIOL.4670 Molecular Biology (Formerly 81.467)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4670/",
+        "id": "001234",
+        "description": "A study of the principles and specialized techniques of cloning, purifying, and manipulating recombinant DNA molecules.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL 2350 Genetics or BIOL 3350 Principles of Genetics and BIOL 4190 Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350",
+                    "BIOL.3350"
+                ],
+                [
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4690L": {
+        "name": "BIOL.4690L Molecular Techniques (Formerly 81.469)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4690L/",
+        "id": "007525",
+        "description": "Laboratory experiments and independent projects designed to illustrate current techniques and instrumentation used in genetic engineering. Included are restriction mapping, cloning, plasmid purification, blot hybridization, PCR, and DNA sequencing. Students are introduced to computer software utilized for DNA sequence analysis and manipulation.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL 2350 Genetics, BIOL 4190 Biochemistry, and BIOL 4210L Biochemistry Techniques.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ],
+                [
+                    "BIOL.4190"
+                ],
+                [
+                    "BIOL.4210L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4720": {
+        "name": "BIOL.4720 Virology (Formerly 81.472)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4720/",
+        "id": "007528",
+        "description": "A study of bacterial, animal, and plant viruses, including viral structure, modes of replication, biochemistry of the infected cell, genetic properties, and viral oncogenesis. Emphasis is on virus cell interaction at the molecular level.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2350 Genetics, and BIOL.2200 Principles of Cell & Molecular Biology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ],
+                [
+                    "BIOL.2200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4760": {
+        "name": "BIOL.4760 Cell Culture (Formerly 81.476)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4760/",
+        "id": "001233",
+        "description": "A series of lecture and laboratory exercises that will focus on the in vitro culture and analysis of multiple cell type commonly used in biomedical research laboratories.  The lecture component will review methodologies used to establish immortalized cell lines, medium component for specific cell types, and techniques for genetically manipulating and analyzing cell lines.  The laboratory exercises will emphasize the mastery of sterile techniques used to grow both established cell line and primary cultures, and molecular tools used for introducing recombinant genes and for analyzing cell growth and differentiation.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL.2200 Principles of Cellular Biology, and BIOL.4210L or Biol.5210L Biochemistry Techniques.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2200"
+                ],
+                [
+                    "BIOL.4210L",
+                    "BIOL.5210L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4800": {
+        "name": "BIOL.4800 Developmental Biology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4800/",
+        "id": "039958",
+        "description": "This course covers the current understanding of the genetic, molecular, and cellular mechanisms that regulate animal development. Variation in developmental processes, including those involved in evolutionary change as well as disease, are discussed. Specific topics include: fertilization, determination of cell fate and differentiation. establishment of body plans, cell migration, organogenesis, morphogenesis, stem cells, and regeneration.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2200 Principles of Cell and Molecular Biology, and Co-req: BIOL.4810L Developmental Biology Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2200"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.4810L"
+                ]
+            ]
+        }
+    },
+    "BIOL.4810L": {
+        "name": "BIOL.4810L Developmental Biology Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4810L/",
+        "id": "039959",
+        "description": "This course provides hands on experience in current methods and model systems used to investigate questions in developmental biology. Students will be exposed to a wide variety of embryonic systems, including intensively studied genetic model systems (e.g.C. elegans, zebrafish, mouse) and others with well-established experimental attributes (e.g. Chick, sea urchin). Analytical and experimental techniques used to explore invertebrate and vertebrate development include embryological manipulation, molecular and cell biology approaches. Conceptual topics include cell specification and differentiation, pattern formation, morphogenesis, and comparative embryology. This lab supplements the Developmental Biology lecture (BIOL.4800).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.4800 Developmental Biology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4800"
+                ]
+            ]
+        }
+    },
+    "BIOL.4820": {
+        "name": "BIOL.4820 Cancer Biology (Formerly 81.482)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4820/",
+        "id": "033459",
+        "description": "A study of the genes and proteins implicated in the cause of human cancer and discussion of the complex behaviors of cancer cells that differ from their normal counterparts in human tissue.  Lectures and original research papers will be used.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 81.220 Principles of Cell & Molecular Biology",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4840": {
+        "name": "BIOL.4840 Comparative Vertebrate Embryology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4840/",
+        "id": "040125",
+        "description": "A comparative study of vertebrate embryological development focusing on the morphological development (e.g., Differentiation of tissues, organs, and systems) of vertebrates. Evolutionary relationships of the classes of vertebrates will be investigated through their anatomy. This course builds on concepts taught in Developmental Biology, providing more detailed analysis of tissue development in a comparative context.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2350 Genetics, and BIOL.2200 Principles of Cell & Molecular Biology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2350"
+                ],
+                [
+                    "BIOL.2200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4880": {
+        "name": "BIOL.4880 Structural Biology (Formerly 81.488)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4880/",
+        "id": "037717",
+        "description": "Structural basis of the molecular biology of cells and the regulation of cellular processes will be discussed.  This course will cover the fundamental knowledge about protein, nucleic acid and membrane structure in relation to central systems in biology.  Topics to be discussed include structural enzymology, macromolecular assemblies for replication transcription, translation, membrane proteins, signal transduction, cell motility and transport, cell-cell interactions, the immune system, and virus structure.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL.4190 Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4890": {
+        "name": "BIOL.4890 Practical Protein Crystallography (Formerly 81.589 & 81.489)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4890/",
+        "id": "038015",
+        "description": "This course provides grounding in the principles and practice of protein x-ray crystallography.  The course will be unique in format and provide both didactic and laboratory instruction.  It is comprised of a series of lecture and laboratory exercises, with an emphasis on practical techniques and hands-on experience of modern protein crystallography.  The course will cover the fundamental knowledge about x-ray physics, instrumentation and geometrical diffraction, protein crystallization, macromolecular data collection and processing, phase estimation and improvement, model building and refinement, and model assessment.  Student will also be given a recently published structural paper for writhing a report on the subject.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL 2330L Experimental Methods in Biology, or BIOL 4210L Biochemistry Techniques.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2330L",
+                    "BIOL.4210L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4892": {
+        "name": "BIOL.4892 Crystallography and Structural Bioinformatics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4892/",
+        "id": "041663",
+        "description": "This course provides grounding in the principles and practice of protein x-ray crystallography, with some applications in structural bioinformatics and drug discovery. This course is comprised of a series of lecture with an emphasis on practical methodologies of modern protein crystallography and structural bioinformatics. The course will cover the fundamental knowledge about x-ray physics, instrumentation and geometrical diffraction, protein crystallization, macromolecular data collection and processing, phase estimation and improvement, model building and assessment, and some exploration of bioinformatics tools employed in molecular docking and virtual screening.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.3050 Introduction to Bioinformatics, and PHYS.1040 General Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.3050"
+                ],
+                [
+                    "PHYS.1040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4894L": {
+        "name": "BIOL.4894L Crystallography and Structural Bioinformatics Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4894L/",
+        "id": "041668",
+        "description": "This lab course provides grounding in the principles and practice of protein x-ray crystallography, with some applications in structural bioinformatics and drug discovery. It covers topics correlated with the co-requisite lecture course BIOL.4892.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.4892 Crystallography and Structural Bioinformatics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4892"
+                ]
+            ]
+        }
+    },
+    "BIOL.4900": {
+        "name": "BIOL.4900 Human Neurobiology (Formerly 81.490 & 81.590)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4900/",
+        "id": "031890",
+        "description": "A study of cellular and systems neurobiology with a focus on how these relate to human health and disease.  Particular attention will be given to illustrating functional neuroanatomy and neurophysiology of the human CNS  using investigations into the pathogenic mechanisms of a variety of human neurodegenerative diseases including epilepsy, Alzheimer's Disease, Huntington's Disease, ALS among others.\nNote: Graduate level enrollees will be responsible for additional reading and writing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: 81.419 Biochemistry.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4910L": {
+        "name": "BIOL.4910L Senior Project: Biology (Formerly 81.491)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4910L/",
+        "id": "007531",
+        "description": "Individual, directed one semester research project taken in the fall and/or spring. Presentation of an acceptable project plan at the time of registration is required. A project report is required.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4920L": {
+        "name": "BIOL.4920L Senior Project: Biology (Formerly 81.492)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4920L/",
+        "id": "007532",
+        "description": "Individual, directed one semester research project taken in the fall and/or spring. Presentation of an acceptable project plan at the time of registration is required. A project report is required.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4930": {
+        "name": "BIOL.4930 Immunology (Formerly 81.493 & 81.593)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4930/",
+        "id": "001231",
+        "description": "A study of the nature of the immune response with sections on antibody structure, function and production; antigen-antibody reactions; immunogenetics; and immune regulation, protection and injury.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL 1110 Principles of Biology I, BIOL 1170L Principles of Biology I, BIOL 1120 Principles of Biology II, and BIOL 1180L Principles of Biology II",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.1110"
+                ],
+                [
+                    "BIOL.1170L"
+                ],
+                [
+                    "BIOL.1120"
+                ],
+                [
+                    "BIOL.1180L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4940": {
+        "name": "BIOL.4940 Immunology II, Current Topics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4940/",
+        "id": "041273",
+        "description": "This course will focus on recent advances in the field of immunology including the study of immune development and activation, response to infection, vaccines, immunoregulation, cancer immunotherapy, and immune dysfunction. Expanding upon the foundational immunologic concepts covered in BIOL.4930/BIOL.5930, students will gain knowledge of the innate and adaptive immune system at the structural, molecular, cellular, and functional levels. The objectives of Advanced Topics in Immunology are to gain a comprehensive and practical understanding of current immunological principles in research and clinical/applied sciences, learn to critically read and evaluate scientific literature, learn to interpret data, and design experiments that rigorously test hypotheses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.4930 or BIOL.5930 Immunology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4930",
+                    "BIOL.5930"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4945": {
+        "name": "BIOL.4945 Host-Pathogen Interactions",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4945/",
+        "id": "041857",
+        "description": "This transdisciplinary course will examine the interface between pathogens and their hosts at multiple levels. We will begin with molecular and cellular interactions between host and pathogen species and will expand to include ecological patterns, behavioral biology, and host-pathogen co-evolution. Following an introduction to infectious disease, microbiology, and immunology, we will critically read and evaluate scientific literature. The objectives of Host-Pathogen Interactions are to gain a comprehensive and practical understanding of host-pathogen dynamics, pattern of disease ecology, and host-pathogen co-evolution. Students will learn to critically read and evaluate scientific literature, interpret data, and design experiments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2220 Principals of Cell and Molecular Biology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.4950L": {
+        "name": "BIOL.4950L Immunology Laboratory (Formerly 81.495 & 81.595)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4950L/",
+        "id": "001230",
+        "description": "A series of basic laboratory exercises dealing with the preparation, isolation and characterization of antigens, antibodies and effector cells.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: 81.493 Immunology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4960": {
+        "name": "BIOL.4960 Practicum Experience (Formerly 81.496)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4960/",
+        "id": "007533",
+        "description": "On-campus and/or off-campus experiences are developed by the student in consultation with a member of the student's major department. Specific requirements will vary depending upon department policies and the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a scientific area and for applying techniques of problem solving and/or skills which are appropriate to the student's major discipline. The practicum experience may not be substituted for a required course in the major.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4970": {
+        "name": "BIOL.4970 Directed Study: Biological Science (Formerly 81.497)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4970/",
+        "id": "007534",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4980": {
+        "name": "BIOL.4980 Directed Study: Biology (Formerly 81.498)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4980/",
+        "id": "033123",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.4991": {
+        "name": "BIOL.4991 Directed Study: Biology (Formerly 81.499)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/4991/",
+        "id": "007535",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5000": {
+        "name": "BIOL.5000 Professional Experience (Formerly 81.500)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5000/",
+        "id": "007536",
+        "description": "3 Credits will be given to individuals who present evidence of having at least one full year of current experience in an academic, hospital, or industrial laboratory setting, or in secondary school science teaching",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5050L": {
+        "name": "BIOL.5050L Bioinformatics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5050L/",
+        "id": "041194",
+        "description": "There is a growing need for bioinformaticians in research and industry as datasets are getting bigger and more complex, making computational methods necessary for analysis. This hands-on course introduces principles, databases, software, and programming for the analysis and interpretation of molecular datasets. Emphasis is on practical assignments using computational approaches from a biologist's perspective. Topics include genome assembly, variant detection, comparative genomics and transcriptomics, metagenomics, as well as data retrieval form databases and basic programming using Bash and R. A term  project and computer-based exercises are designed to showcase the capabilities and limitations of bioinformatics tools used in genome research, as well as to develop skills in coding literacy.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5062": {
+        "name": "BIOL.5062 Bioinformatic Tools in Sequence Analysis",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5062/",
+        "id": "041892",
+        "description": "This hands-on course introduces databases, approaches, and software for the analysis and interpretation of molecular sequences. Practical assignments and a term project emphasize the application of computational approaches from a biologist's perspective. Topics include genome assembly, transcriptomic analysis, and data retrieval from databases using both graphical user interfaces and basic computer programming using Bash and R. The class assignments are all computer-based exercises that are designed to showcase the capabilities and limitations of bioinformatics research and tools used in sequence analysis, as well as to develop skills in coding literacy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.5062L Bioinformatic Tools in Sequence Analysis Lab, Sophomore-level knowledge of genetics, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5062L"
+                ]
+            ]
+        }
+    },
+    "BIOL.5062L": {
+        "name": "BIOL.5062L Bioinformatic Tools in Sequence Analysis Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5062L/",
+        "id": "041893",
+        "description": "This lab accompanies the Bioinformatic Tools in Sequence Analysis lecture, with hands-on practical assignments to achieve a firmer understanding of bioinformatics tools and principles. Assignments and a term project emphasize the application of computational approaches from a biologist's perspective. Topics include genome assembly, transcriptomic analysis, and data retrieval from databases using both graphical user interfaces and basic computer programming using Bash and R. The class assignments are all computer-based exercises that are designed to showcase the capabilities and limitations of bioinformatics research and tools used in sequence analysis, as well as to develop skills in coding literacy.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.5062 Bioinformatic Tools in Sequence Analysis, Sophomore-level knowledge of genetics, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5062"
+                ]
+            ]
+        }
+    },
+    "BIOL.5072": {
+        "name": "BIOL.5072 Data Science for Biologists",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5072/",
+        "id": "041776",
+        "description": "Like many other areas of science and business, biology is increasingly defined by increasing amounts of available data. The ability to analyze, visualize, and make inferences from this data will become increasingly valuable for future biologists. Data science can be defined as the intersection between computer science, applied statistics, and knowledge of the application domain--in this case, biology. In this class we will apply methods such as generalized linear models, multi-level models, unsupervised learning, and basic neural networks to biological problems. Hands-on activities using Python will give students experience with steps of data science project, including simulating, exploring, visualizing, drawing conclusions with statistics, and creating a reproducible analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.5072L Data Science for Biologists in Python Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5072L"
+                ]
+            ]
+        }
+    },
+    "BIOL.5072L": {
+        "name": "BIOL.5072L Data Science for Biologists",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5072L/",
+        "id": "041777",
+        "description": "Like many other areas of science and business, biology is increasingly defined by increasing amounts of available data. The ability to analyze, visualize, and make inferences from this data will become increasingly valuable for future biologists. Data science can be defined as the intersection between computer science, applied statistics, and knowledge of the application domain--in this case, biology. In this class we will apply methods such as generalized linear models, multi-level models, unsupervised learning, and basic neural networks to biological problems. Hands-on activities using Python will give students experience with steps of data science project, including simulating, exploring, visualizing, drawing conclusions with statistics, and creating a reproducible analysis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.5072 Data Science for Biologists.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5072"
+                ]
+            ]
+        }
+    },
+    "BIOL.5080": {
+        "name": "BIOL.5080 Cell Biology for Teachers (Formerly 81.508)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5080/",
+        "id": "033596",
+        "description": "This online course will examine the structure and function of cells and the regulation of cellular processes characteristics of living organisms.  Students will explore the complexity of the eukaryotic cell and gain an understanding of the mechanisms of cellular control and regulation.  Course activities will make connections to state frameworks and national standards, and lead to the development of grade-appropriate curriculum materials for use in the elementary and middle school classroom.  Class activities will include discussions, quizzes, lesson plans, web reviews, current events, and a final project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5090": {
+        "name": "BIOL.5090 Photobiology (Formerly 81.509)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5090/",
+        "id": "036854",
+        "description": "Biological process involving light in plants and animals.  Topics include mechanisms of light absorption, energy transduction, light reactions in photosynthesis, functions of color in flowering plants, visual systems and structural and pigment coloration in animals, pigmentation in animals affecting camouflage and reproductive strategies.  In addition, the genetics involved in responses to light such as photoperiods, cicardian rhythms, and seasonal cycles will be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL 4190 or 519  Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5170": {
+        "name": "BIOL.5170 Vertebrate Animals in Biological Research (Formerly 81.517)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5170/",
+        "id": "039059",
+        "description": "Vertebrate Animals in Biological Research: History, Protocols, Regulations and Techniques is a lecture, discussion, and techniques based course to cover the principles of vertebrate animal research in biology. This course covers topics ranging from the history of animal research, ethics, regulations, institutional compliance, experimental design, research techniques, disease models, and animal welfare during research. The course will involve literature review and discussions regarding all topics being covered as well as the creation of an IACUC protocol. The protocol will then be reviewed in a mock IACUC meeting. There will also be hands on portions involving research techniques using training analogues and familiarization with animal research tools.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5190": {
+        "name": "BIOL.5190 Biochemistry I (Formerly 81.519)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5190/",
+        "id": "007547",
+        "description": "Primarily for M.S. students in biological sciences.  Lecture and text assignments on the subjects of protein, carbohydrate, lipid, enzyme and membrane biochemistry will be supplemented with research journal readings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5200": {
+        "name": "BIOL.5200 Biochemistry II (Formerly 81.520)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5200/",
+        "id": "007548",
+        "description": "This course will focus on protein dynamics where students will gain facility with thermodynamics of protein folding/misfolding, catalysis, kinetics and binding equilibria as they apply to proteins and other molecules in biological systems. The central theme of this course is that living systems can be understood in terms of the fundamental principles defining the structure and energetics of biological molecules. Attention will be given to quantitative aspects of enzyme kinetics and molecular binding. Examples of how these principles apply to the understanding and treatment of human disease will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL 5190 Biochemistry I or BIOL 4190 Biochemistry",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.5190",
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5210L": {
+        "name": "BIOL.5210L Biochemistry Techniques (Formerly 81.521)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5210L/",
+        "id": "007549",
+        "description": "Biochemistry Required of M.S. students in them Biotechnology Option. Emphasis on common techniques and instrumentation employed in modern research laboratories.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre or Co-req: BIOL 4190 Biochemistry, or BIOL 5190 Biochemistry I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.4190",
+                    "BIOL.5190"
+                ]
+            ]
+        }
+    },
+    "BIOL.5225": {
+        "name": "BIOL.5225 Advanced Topics in Biochemistry",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5225/",
+        "id": "042002",
+        "description": "This seminar course will focus on the detailed discussion of structure of proteins and other biological molecules, and how the structure determines the function of biological molecules. Students will be first introduced to each topic by the instructor through a short introductory lecture, then will be assigned to read an original research paper on the topic. During the next class, a group of preassigned students will present the paper to the class, followed by the class discussion of the paper. Students who are not presenting will be expected to read each paper before class, then ask questions and participate in the discussion of that paper during class.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: BIOL.5190 Biochemistry",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.5190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5230": {
+        "name": "BIOL.5230 Biology of Global Change (Formerly 81.523)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5230/",
+        "id": "007551",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5260": {
+        "name": "BIOL.5260 Evolutionary Biology (Formerly 81.526)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5260/",
+        "id": "036581",
+        "description": "Lectures deal with the patterns and processes of biological evolution.  Covers the history of evolutionary thought, the evidence for evolution, the generation and maintenance of population-level variation, natural selection, adaptation, sexual selection, speciation, phylogenetics, molecular evolution, the fossil record and extinctions.  In addition to lecture and textbook material, the course surveys classic and contemporary primary literature from evolutionary biology.  A written paper and/or seminar presentation will be required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5280": {
+        "name": "BIOL.5280 Molecular Biotechnology: Recombinant Protein Production (Formerly 81.528)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5280/",
+        "id": "037368",
+        "description": "Proteins are major targets of Pharmaceuticals, and are themselves increasingly used as therapeuticals.  However both basic research and the pharmaceutical industry depends on availability of purified proteins that are often difficult to isolate from native sources.  In this lecture course, students will learn basic and advanced theoretical background in expression and purification of recombinant proteins.  It will cover a variety of expression systems, including prokaryotic and eukaryotic cells.  The course will also address traditional and new methods in recombinant protein purification.  Furthermore, students will be introduced to some downstream applications such as crystallization screens and biochemical/biophysical studies.  Student will choose a term project for oral and written presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5290": {
+        "name": "BIOL.5290 Recombinant Protein Production Techniques (Formerly 81.429 & 81.529)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5290/",
+        "id": "038228",
+        "description": "This course introduces students to the principles and practice of recombinant protein expression and purification's. Proteins are major targets of pharmaceuticals, and are themselves increasingly used as therapeuticals. However both basic research and pharmaceutical industry depends on availability of purified proteins that are often difficult to isolate from native sources. This course will provide both didactic and laboratory instruction. It is comprised of a series of lecture and laboratory exercises, with an emphasis on practical techniques and hands-on experience of recombinant protein purification. The course will cover a variety of expression systems, including prokaryotic and eukaryotic cells, and address traditional and new methods in protein purification.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5300": {
+        "name": "BIOL.5300 Cancer Genomics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5300/",
+        "id": "041775",
+        "description": "Cancer is usually the result of genetic alterations acquired over a lifetime that enable a tumor to grow and spread. As a result, each tumor is unique and involves a complex combination of mutations--a part of the reason that cancers can be so hard to treat. To better understand the characteristics of these diseases and discover appropriate treatments, institutions have comprehensively profiled the genomic changes across thousands of people's tumors. That data is available for anyone with the right skills to analyze. In this class, we will delve into the world of the genomics of cancer, as a way to learn how cancers develop, how molecular profiling technologies generate data about these cancers, and how bioinformatics approaches can harness these data to gain insight and discover treatment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5320": {
+        "name": "BIOL.5320 Genomics (Formerly 81.532)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5320/",
+        "id": "037681",
+        "description": "This course surveys the field of genomics, examining current technologies and their biological applications.  Lectures cover genome organization, genome sequencing and annotation, functional genomics, evolutionary genomics, transcriptomics, proteomics and the role of bioinformatics in organizing and interpreting genomic data.  Students will be expected to submit written papers and to make oral presentations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.5340L Genomics Laboratory.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5340L"
+                ]
+            ]
+        }
+    },
+    "BIOL.5340L": {
+        "name": "BIOL.5340L Genomics Laboratory (Formerly 81.534)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5340L/",
+        "id": "037680",
+        "description": "A series of molecular laboratory and computer-based bioinformatics exercises providing practical experience in the collection and analysis of genomic-level data.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.5320 Genomics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5320"
+                ]
+            ]
+        }
+    },
+    "BIOL.5360": {
+        "name": "BIOL.5360 Behavioral Ecology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5360/",
+        "id": "041797",
+        "description": "Animals learn songs, practice agriculture, and craft tools. They build elaborate structures without a blueprint and migrate across the globe without a map. This course explores the mechanistic and evolutionary causes of animal behavior. A combination of lectures, discussions, and animal demos will introduce students to major themes in the field, while emphasizing experiments and ecological context as fundamental to the study of behavior. Students will discuss historic debates and emerging research on the evolution of exaggerated sexual ornaments and defensive structures, sensory bias, heritability of behavior, reciprocity & kinship, and the emergence of animal societies. By the end of the course, students will be able to interpret the behaviors of animals in the evolutionary framework.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Biology (MS) Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5365L": {
+        "name": "BIOL.5365L Field Techniques in Ecology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5365L/",
+        "id": "042141",
+        "description": "This course will explore the fundamental concepts of field ecology. The goal of this course is to give students an immersive, research-oriented, hands-on learning experience that integrates the interactions of organisms with each other and with their abiotic environment in both aquatic and terrestrial ecosystems in Massachusetts and elsewhere in New England. Students will learn the natural history of these habitats and their organisms, engage in scientific field research, and develop sills in data collection, analysis, and interpretation. By the end of the course, students will have a working toolbox of field techniques to ask questions in population, community, and ecosystem ecology.",
+        "credits": {
+            "min": "5",
+            "max": "5"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5370": {
+        "name": "BIOL.5370 Biology and Evolution of Arthropoda (Formerly 81.537)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5370/",
+        "id": "037356",
+        "description": "A detailed examination of phylum Arthropoda from developmental, ecological, genetic, morphological and paleontological perspectives.  Specific topics include arthropod origins and relationships to proto-arthropods, the evolution of segmentation, and current perspectives on relationships within the phylum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL 3060 Invertebrate Zoology; BIOL 3080L Invertebrate Zoology Lab; BIOL 4260 Evolutionary Biology and Co- req: BIOL 5390L Biology and Evolution of Arthropoda Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.3060",
+                    "BIOL.3080L",
+                    "BIOL.4260"
+                ],
+                [
+                    "BIOL.5390L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5380": {
+        "name": "BIOL.5380 Advanced Genetic Analysis",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5380/",
+        "id": "041828",
+        "description": "This course explores fundamental concepts in classical and molecular genetics. We will examine how studies in genetic model organisms (including budding yeast, Drosophila, and C. elegans) have yielded remarkable insight into a host of biological mechanisms, including cell-signaling pathways, animal development, and gene regulation. Special emphasis will be placed on how geneticists design and interpret their studies. The semester will cover strategies ranging from the classical (screens, selection, complementation, and conditional mutants) to the modern approaches enabled by the genomic revolution (genetic engineering, gene misexpression, and genome-wide association studies).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5385": {
+        "name": "BIOL.5385 Epigenetics & Chromatin",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5385/",
+        "id": "042244",
+        "description": "Although epigenetic phenomena have been observed for over a century, researchers have only started to untangle their underlying mechanism and effects on gene expression. This course provides and overview of epigenetic mechanisms, including DNA methylation, histone modifications, chromosome structure, and nuclear organization. We will discuss how molecules help regulate gene expression to affect health, development, and cell fate across organisms. The class will rely upon current and classic readings from the primary literature to best understand new genomic advances and current technological limits in the field. A special emphasis will be placed on experimental design and data interpretation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5390L": {
+        "name": "BIOL.5390L Biology and Evolution of Arthropoda  (Formerly 81.539)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5390L/",
+        "id": "037355",
+        "description": "An exploration of protoarthropod and arthropod diversity using live and preserved specimens of the major taxa including Tardigrada, Onychophora, Chelicerata, Crustacea, Myriapoda and Hexapoda.  Students will learn to collect, dissect, identify, handle and care for live specimens.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "BIOL 3060 Invertebrate Zoology; BIOL 3080L Invertebrate Zoology Lab, BIOL 4260 Evolutionary Biology and Co-req: BIOL 5370 Biology and Evolution of Arthropoda.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.3060",
+                    "BIOL.3080L"
+                ],
+                [
+                    "BIOL.4260"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BIOL.5370"
+                ]
+            ]
+        }
+    },
+    "BIOL.5420": {
+        "name": "BIOL.5420 Advanced Cell Biology (Formerly 81.542)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5420/",
+        "id": "007556",
+        "description": "This is an advanced course in cell biology. In this course we will examine different areas of eukaryotic cell biology including: membrane structure and function, cell adhesion, intercellular communication, signal transduction, chemotaxis, receptor-medicated endocytosis and intracellular trafficking. Mechanisms underlying relevant human diseases will also be discussed. Upon completion of the course the student will have a strong understanding of cell biology, develop critical thinking processes, proficiency in scientific reading and how to communicate material succinctly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5470": {
+        "name": "BIOL.5470 Evolution in Context for Teachers (Formerly 81.547)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5470/",
+        "id": "030381",
+        "description": "This course empowers life science teachers of all levels with the skills and knowledge to more effectively foster student understanding of evolution by natural selection.  By exploring evolution in multiple contexts, the Darwinian framework for how life evolved (and continues to evolve) are presented in an interactive and engaging manner.  Teachers learn to use virtual resources to enhance their students learning while digging deep into some of the most profound and interesting science conducted in the last 100 years.  Evolution in context makes the science of evolution come alive in a real and relevant manner.  From the historical and scientific to the environmental and political, Teachers will learn about evolution in ways they never imagined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5480": {
+        "name": "BIOL.5480 Form Feeds Function in Vertebrate Evolution",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5480/",
+        "id": "040817",
+        "description": "This course will provide you with a solid comparative knowledge of how vertebrates including humans have evolved, focusing on how anatomy (form) feeds function (physiology, biomechanics) in movement biology (cardiorespiratiory, sensing, locomotion, feeding). it is only by understanding our evolutionary history that you understand e.g. how vertebrates became Olympian movers, how humans became bipedal, why we use parts of the ancestral jaw to hear, and how we avoid choking when we swallow. Such knowledge is key for medical and veterinary school, but will also support you in biomedical and biotechnology fields as well as in various general science disciplines. This course emphasizes modes of thought, including the differences between evidence and inference, and between correlation and causalit.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5490L": {
+        "name": "BIOL.5490L Biology of Muscle",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5490L/",
+        "id": "040888",
+        "description": "This course takes integrative approaches to exploring architecture, physiology and mechanics of vertebrate skeletal muscle as the main driver of movements in organisms including humans. Combining presentations and discussions of important publications with simple experiments and report-writing, the course hones a specialist-level understanding of how the organ structure is constructed, how cell-level phenomena govern contraction, how the nervous system controls muscle function, how muscle contractions are constrained by physics, and how muscle as an organ structure is able to mitigate those constraints. We will also build and use actuators inspired by muscle function.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5550": {
+        "name": "BIOL.5550 Entomology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5550/",
+        "id": "041902",
+        "description": "This course explores the diversity, evolution, and behavior of insects. Insects are pollinators, undertakers, and parasites. They are master architects, and the inventors of flight and agriculture. Their societies can tower over elephants or fit in the palm of your hand. Plagues of locusts have shaped human history and wars have been won on the backs of fleas. This course emphasizes natural history as the foundation of innovation in entomology. Students will develop a solid understanding of the principles of insect biology that can be applied to medical, forensic, veterinary, agricultural, conservation and academic fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5550L": {
+        "name": "BIOL.5550L Entomology Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5550L/",
+        "id": "041903",
+        "description": "This laboratory focuses on insect classification, development and behavior. Students will travel to local field sites to study and collect insects. Each student will curate a professional insect collection and develop a working knowledge of insect taxonomy through dissection and comparison of preserved specimens, including economically and medically important insects. Students will also rear a variety of social and solitary insects under experimental conditions and report their results. Labs on behavior will focus on insect communication, parental care, eusociality, and orientation.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.5550 Entomology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5550"
+                ]
+            ]
+        }
+    },
+    "BIOL.5570": {
+        "name": "BIOL.5570 Metazoan Parasitology (Formerly 81.557)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5570/",
+        "id": "036648",
+        "description": "An introduction to the diversity of metazoans (animals) that parasitize humans, livestock, other animals (both vertebrate and invertebrate), and plants. Lectures emphasize the morphology, form and function, physiology, systematics, evolution, lifecycles and pathogenesis of several major parasitic groups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.5590L Metazoan Parasitology Laboratory.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5590L"
+                ]
+            ]
+        }
+    },
+    "BIOL.5590L": {
+        "name": "BIOL.5590L Metazoan Parasitology Laboratory (Formerly 81.559)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5590L/",
+        "id": "036650",
+        "description": "The purpose of the laboratory is to provide students an opportunity to identify and work with a variety of parasites that we discuss in lecture. We will work with preserved specimens, slide material, necropsies, and live specimens. Students will learn how to identify parasites and appreciate where they live in the vertebrate body.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req:  BIOL.5570 Metazoan Parasitology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5570"
+                ]
+            ]
+        }
+    },
+    "BIOL.5600": {
+        "name": "BIOL.5600 Stem Cell Biology (Formerly 81.560)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5600/",
+        "id": "036651",
+        "description": "The molecular and genetic characteristics of stem cells and their developmental potential will be explored.  Lectures and readings will cover the development of embryonic, fetal and adult stem cells, and will examine their use in treating human disorders receiving widesread attention, including neurodegenerative diseases, heart disease, spinal cord injury and leukemia.  The ethical, legal and social implications of stem cell research will also be discussed.  Additional library investigation and a term paper or seminar will be required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5620": {
+        "name": "BIOL.5620 Cardiovascular Physiology (Formerly 81.562)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5620/",
+        "id": "039437",
+        "description": "This course will focus on human cardiovascular physiology in normal and diseased states. The objective of Cardiovascular Physiology is to reinforce the concept that that the cardiovascular system can be understood in terms fundamental biophysical and cellular physiological principles. Quantitative aspects will be reinforced with problem sets in the accompanying lab course 81.563. Key concepts in the course will be placed in a medical context showing the underlying physiological concepts that lead to disease states such as: altered blood pressure heart failure, valvular disease and arrhythmias.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: BIOL.5630L Cardiovascular Physiology Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5630L"
+                ]
+            ]
+        }
+    },
+    "BIOL.5630L": {
+        "name": "BIOL.5630L Cardiovascular Physiology Lab (Formerly 81.563)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5630L/",
+        "id": "007565",
+        "description": "Cardiovascular Physiology Lab is designed to supplement Cardiovascular Physiology 81.562. The objective of the course is to teach cardiovascular system function using problems sets as well as clinical and pathophysiological examples.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.5620 Cardiovascular Physiology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5620"
+                ]
+            ]
+        }
+    },
+    "BIOL.5670": {
+        "name": "BIOL.5670 Molecular Biology (Formerly 81.567)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5670/",
+        "id": "036652",
+        "description": "A study of the principles and specialized techniques of cloning, purifying, and manipulating recombinant DNA molecules.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BIOL 4190 or 519  Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5690L": {
+        "name": "BIOL.5690L Molecular Techniques (Formerly 81.569)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5690L/",
+        "id": "007567",
+        "description": "Laboratory experiments and independent projects designed to illustrate current techniques and instrumentation used in genetic engineering. Included are restriction mapping, cloning, plasmid purification, blot hybridization, and DNA sequencing. Students are introduced to computer software utilized for DNA sequence analysis and manipulation.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL 5190 Biochemistry I or BIOL 4190 Biochemistry, and BIOL 5210L Biochemistry Techniques or BIOL 4210L Biochemistry Techniques.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.5190",
+                    "BIOL.4190"
+                ],
+                [
+                    "BIOL.5210L",
+                    "BIOL.4210L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5720": {
+        "name": "BIOL.5720 Virology (Formerly 81.572)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5720/",
+        "id": "007568",
+        "description": "A study of bacterial, animal, and plant viruses, including viral structure, modes of replication, biochemistry of the infected cell, genetic properties, and viral oncogenesis. Emphasis is on viruscell interaction at the molecular level.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5760": {
+        "name": "BIOL.5760 Cell Culture (Formerly 81.576)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5760/",
+        "id": "036653",
+        "description": "A series of lecture and laboratory exercises that will focus on the in vitro culture and analysis of multiple cell type commonly used in biomedical research laboratories.  The lecture component will review methodologies used to establish immortalized cell lines, medium component for specific cell types, and techniques for genetically manipulating and analyzing cell lines.  The laboratory exercises will emphasize the mastery of sterile techniques used to grow both established cell line and primary cultures, and molecular tools used for introducing recombinant genes and for analyzing cell growth and differentiation.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "BIOL.4210L or BIOL.5210L Biochemistry Techniques.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4210L",
+                    "BIOL.5210L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5800": {
+        "name": "BIOL.5800 Developmental Biology (Formerly 81.580)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5800/",
+        "id": "007571",
+        "description": "An in depth discussion of contemporary topics related to reproduction and embryogenesis. Lecture material is supplemented with reading assignments in a recently published textbook and current literature taken from research journals. Emphasis is on the dynamic nature of the interactions between developing cells as well as the events that occur during fertilization, implantation and the development of the mammalian embryo which lead to birth. Students examine how studies with nonmammalian model systems such as Drosophila and Xenopus have enhanced our knowledge of mammalian development. Among the topics discussed are the role of adhesion molecules, HOX genes, apoptosis, hypornethylation of genes, axis formation and hormonal control of differentiation. Class participation is expected. Critical scientific reading and thinking is encouraged by having students present to the class published original research papers on topics of current interest in the field of developmental biology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5810L": {
+        "name": "BIOL.5810L Developmental Biology Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5810L/",
+        "id": "039970",
+        "description": "This course provides hands on experience in current methods and model systems used to investigate questions in  developmental biology. Students will be exposed to a wide variety of embryonic systems, including intensively studied genetic model systems (e.g. C. elegans, zebrafish, mouse) and others with well-established experimental attributes (e.g. chick, sea urchin). Analytical and experimental techniques used to explore invertebrate and vertebrate development include embryological manipulation, molecular and cell biology approaches. Conceptual topics include cell specification and differentiation, pattern formation, morphogenesis, and comparative embryology.  This lab supplements the Developmental Biology lecture (BIOL.5800).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.5800 Developmental Biology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5800"
+                ]
+            ]
+        }
+    },
+    "BIOL.5820": {
+        "name": "BIOL.5820 Cancer Biology (Formerly 81.582)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5820/",
+        "id": "036654",
+        "description": "A study of the genes and proteins implicated in the cause of human cancer and discussion of the complex behaviors of cancer cells that differ from their normal counterparts in human tissue.  Lectures and original research papers will be used.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5840": {
+        "name": "BIOL.5840 Comparative Vertebrate Embryology",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5840/",
+        "id": "040122",
+        "description": "A comparative study of vertebrate embryological development focusing on the morphological development (e.g., Differentiation of tissues, organs, and systems) of vertebrates. Evolutionary relationships of the classes of vertebrates will be investigated through their anatomy. This course builds on concepts taught in Developmental Biology, providing more detailed analysis of tissue development in a comparative context.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5860": {
+        "name": "BIOL.5860 Experimental Design and Analysis in Life Science",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5860/",
+        "id": "041486",
+        "description": "Through discussion of practical issues arising in biology research, reading of the literature and performing applied exercises students will move principles of sound experimental design, analysis and presentation from their \"recognition vocabulary\" to their \"active vocabulary\". The objective is for students successfully completing this course to be able to serve as a statistical consultant for researchers (including themselves) wishing to conduct experiments requiring moderately complex statistical designs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5880": {
+        "name": "BIOL.5880 Structural Biology (Formerly 81.588)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5880/",
+        "id": "037679",
+        "description": "Structural basis of the molecular biology of cells and the regulation of cellular processes will be discussed.  This course will cover the fundamental knowledge about protein, nucleic acid and membrane structure in relation to central systems in biology.  Topics to be discussed include structural enzymology, macromolecular assemblies for replication, transcription, translation, membrane proteins, signal transduction, cell motility and transport, cell-cell interactions, the immune system, and virus structure.  Students will choose a recently published primary research article for an oral presentation, and will lead a class discussion on that topic.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5890": {
+        "name": "BIOL.5890 Practical Protein Crystallography (Formerly 81.589 & 81.489)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5890/",
+        "id": "038015",
+        "description": "This course provides grounding in the principles and practice of protein x-ray crystallography.  The course will be unique in format and provide both didactic and laboratory instruction.  It is comprised of a series of lecture and laboratory exercises, with an emphasis on practical techniques and hands-on experience of modern protein crystallography.  The course will cover the fundamental knowledge about x-ray physics, instrumentation and geometrical diffraction, protein crystallization, macromolecular data collection and processing, phase estimation and improvement, model building and refinement, and model assessment.  Student will also be given a recently published structural paper for writhing a report on the subject.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Req: 81.521 Biochemistry Techniques",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5892": {
+        "name": "BIOL.5892 Crystallography and Structural Bioinformatics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5892/",
+        "id": "041600",
+        "description": "This course provides grounding in the principles and practice of protein x-ray crystallography, with some applications in structural bioinformatics and drug discovery. This course is comprised of a series of lecture with an emphasis on practical methodologies of modern protein crystallography and structural bioinformatics. The course will cover the fundamental knowledge about x-ray physics, instrumentation and geometrical diffraction, protein crystallization, macromolecular data collection and processing, phase estimation and improvement, model building and assessment, and some exploration of bioinformatics tools employed in molecular docking and virtual screening.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5894L": {
+        "name": "BIOL.5894L Crystallography and Structural Bioinformatics Lab",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5894L/",
+        "id": "041599",
+        "description": "This lab course provides grounding in the principles and practice e-ray crystallography, with some applications in structural bioinformatics and drug discovery. It covers topics correlated with the co-requisite lecture course BIOL.5892.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BIOL.5892 Crystallography and Structural Bioinformatics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BIOL.5892"
+                ]
+            ]
+        }
+    },
+    "BIOL.5900": {
+        "name": "BIOL.5900 Human Neurobiology (Formerly 81.490 & 81.590)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5900/",
+        "id": "031890",
+        "description": "A study of cellular and systems neurobiology with a focus on how these relate to human health and disease.  Particular attention will be given to illustrating functional neuroanatomy and neurophysiology of the human CNS  using investigations into the pathogenic mechanisms of a variety of human neurodegenerative diseases including epilepsy, Alzheimer's Disease, Huntington's Disease, ALS among others.\nNote: Graduate level enrollees will be responsible for additional reading and writing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5930": {
+        "name": "BIOL.5930 Immunology (Formerly 81.493 & 81.593)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5930/",
+        "id": "001231",
+        "description": "A study of the nature of the immune response with sections on antibody structure, function and production; antigen-antibody reactions; immunogenetics; and immune regulation, protection and injury.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5940": {
+        "name": "BIOL.5940 Immunology II, Current Topics",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5940/",
+        "id": "041273",
+        "description": "This course will focus on recent advances in the field of immunology including the study of immune development and activation, response to infection, vaccines, immunoregulation, cancer immunotherapy, and immune dysfunction. Expanding upon the foundational immunologic concepts covered in BIOL.4930/BIOL.5930, students will gain knowledge of the innate and adaptive immune system at the structural, molecular, cellular, and functional levels. The objectives of Advanced Topics in Immunology are to gain a comprehensive and practical understanding of current immunological principles in research and clinical/applied sciences, learn to critically read and evaluate scientific literature, learn to interpret data, and design experiments that rigorously test hypotheses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.4930 or BIOL.5930 Immunology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.4930",
+                    "BIOL.5930"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.5945": {
+        "name": "BIOL.5945 Host-Pathogen Interactions",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5945/",
+        "id": "041840",
+        "description": "This transdisciplinary course will examine the interface between pathogens and their hosts a multiple levels. We will begin with molecular and cellular interactions between host and pathogen species and will expand to include ecological patterns, behavioral biology, and host-pathogen co-evolution. Following an introduction to infectious disease, microbiology, and immunology, we will critically read and evaluate scientific literature. The objectives of Host-Pathogen Interactions are to gain a comprehensive and practical understanding of host-pathogen dynamics, patterns of disease ecology, and host-pathogen co-evolution. Students will learn to critically read and evaluate scientific literature, interpret data, and design experiments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.5950L": {
+        "name": "BIOL.5950L Immunology Laboratory (Formerly 81.495 & 81.595)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/5950L/",
+        "id": "001230",
+        "description": "A series of basic laboratory exercises dealing with the preparation, isolation and characterization of antigens, antibodies and effector cells.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.6030": {
+        "name": "BIOL.6030 Graduate Colloquium Biology (Formerly 81.603)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/6030/",
+        "id": "035237",
+        "description": "Presentations of current topics by visiting scientists and staff.  Required of all graduate students.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.6040": {
+        "name": "BIOL.6040 Professional Communication in Science and Technology (Formerly 81.604)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/6040/",
+        "id": "035820",
+        "description": "The course instructs students in developing effective writing and speaking skills required for preparation of publishable scientific manuscripts and presentations.  The importance of clear, concise writing style and delivery of presentations to both research, scientists and non-scientists is emphasized.  Guest speakers discuss commercialization of technology, intellectual property, and electronic literature searches/citation.  Experimental design, statistical analyses, research grant preparation, and poster presentations are also reviewed.  Outside readings are used to critically evaluate contemporary issues related to disclosure, conflict of interet, publishing ethics, biosecurity, and electronic science collaborations/team research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.6050": {
+        "name": "BIOL.6050 Graduate Proposal Writing Seminar",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/6050/",
+        "id": "041087",
+        "description": "The primary purpose of this course is to enable students to apply their broad biological sciences perspectives and intellectual skills to solve complex problems and to catalyze new discoveries. To achieve these goals, students will gain effective skills in preparing professional proposals. Key concepts in the course highlight hypothesis formation and proposal development. This approach will help bridge-the-gap between classroom-based and research-based curriculum components of the Applied Biology PhD program. Exposure to the diverse range of specialties represented by students studying in the biological sciences field will enrich and diversify student knowledge.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "BIOL.6030 Graduate Colloquium Biology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.6030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BIOL.6060": {
+        "name": "BIOL.6060 Applied Biology I",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/6060/",
+        "id": "041086",
+        "description": "This is the first in a two-semester sequence of courses that will introduce students to the range of research topics being addressed at UMass Lowell as well as to professional applications of Biology. Applied Biology is at the forefront of scientific research and technological development and underpins a number of growing industries. This course will provide an opportunity for students to learn about key areas in Applied Biology including Microbiology, Biochemistry, Biotechnology, Genetics, Evolution, and Healthcare. To achieve these objectives this course will be divided into three topic blocks (4-5 weeks each) where a faculty member will provide didactic overview of that topic, and will then bring in guest lectures who will use half the class time.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.6070": {
+        "name": "BIOL.6070 Applied Biology II",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/6070/",
+        "id": "041085",
+        "description": "This is the second course in a two-semester sequence of curses that will introduce students to the range of research topics being addressed at UMass Lowell as well as to professional applications of Biology. Applied Biology is at the forefront of scientific research and technological development and underpins a number of growing industries. This course will provide an opportunity for students to learn about key areas in Applied Biology including Microbiology, Biochemistry, Biotechnology, Genetics, Evolution, and Healthcare. To achieve these objectives this course will be divided into three topic blocks (4-5 weeks each) where a faculty member will provide a didactic overview of that topic, and will then bring in quest lecturers who will use half the class time.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.6660": {
+        "name": "BIOL.6660 Selected Topics in Molecular and Cellular Biology (Formerly 81.666)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/6660/",
+        "id": "037198",
+        "description": "Topics will focus on the central dogma of molecular Biology (DNA to RNA to protein) and how they relate to the structure and function of the cell.  Course material will be taken directly from the current, primary literature with emphasis on student presentations and discussion.  Multidisciplinary groups will select topics of interest to present to the class, and topics will vary by semester depending on student interests.  Student groups will be expected to organize presentations into background and discussion sections and will lead class discussions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7070": {
+        "name": "BIOL.7070 Internship Biology (Formerly 81.707)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7070/",
+        "id": "035831",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7080": {
+        "name": "BIOL.7080 Graduate Course Review (Formerly 81.708)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7080/",
+        "id": "035575",
+        "description": "Internship or co-op.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7100": {
+        "name": "BIOL.7100 Supervised Instruction in Undergraduate Biology Education",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7100/",
+        "id": "040625",
+        "description": "Graduate students will assist with the preparation of course materials, teaching and/or grading in selected courses offered by the Department of Biological Sciences. Students will be expected to work well independently, while also working under the supervision of a faculty mentor. Through these activities, the student will learn about materials used, as well as teaching and learning techniques implemented in undergraduate biology education. Required for the MS in Biological Sciences option: Education, Communication, and Outreach.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7210": {
+        "name": "BIOL.7210 Special Problems In Biology (Formerly 81.721)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7210/",
+        "id": "007584",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7310L": {
+        "name": "BIOL.7310L M.S. Project in Biology (Formerly 81.731)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7310L/",
+        "id": "007587",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7430": {
+        "name": "BIOL.7430 Master's Thesis - Biology (Formerly 81.743)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7430/",
+        "id": "007592",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7530": {
+        "name": "BIOL.7530 PhD Dissertation Biological Sciences (Formerly 81.753)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7530/",
+        "id": "007597",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7590": {
+        "name": "BIOL.7590 PhD Dissertation Biochemistry (Formerly 81.759)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7590/",
+        "id": "007599",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BIOL.7690": {
+        "name": "BIOL.7690 Continued Graduate  Research (Formerly 81.769)",
+        "url": "https://www.uml.edu/catalog/courses/BIOL/7690/",
+        "id": "007602",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

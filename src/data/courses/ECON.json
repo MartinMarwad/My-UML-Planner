@@ -1,0 +1,817 @@
+{
+    "total": 42,
+    "time": 29.900912284851074,
+    "ECON.1010": {
+        "name": "ECON.1010 The Economics of Social Issues (Formerly 49.101)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/1010/",
+        "id": "005896",
+        "description": "Social Issues in Economics will take economic theory and apply it to public policy decisions.  Topics that will be covered in the course  are; Economics of crime, Should we legalize drugs, is it more economical to imprison someone for life or seek the death penalty and did the Supreme Court decision in Roe v Wade (the legalization of abortion) contribute to the declining crime rate that began in the 90,s:  The economics of unintended consequences will explore how well meaning public policy sometimes backfires and has the reverse effect; health economics will look at the rising cost of healthcare and the effect of Obamacare; Taxes and poverty, is there a natural rate of poverty (does minimum wage increases actually contribute to a higher rate) and does taxing  the rich less actually help the economy; Energy & Environmental economics, what is the effect of global warming, or is it global cooling, and what is the best energy mix for the 21st century and lastly, who has it right, New Keynesians or Neo-Classicals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.2010": {
+        "name": "ECON.2010 Principles of Microeconomics (Formerly 49.201)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/2010/",
+        "id": "005897",
+        "description": "Studies the principles of production and exchange. An introduction to demand, supply, pricing, and output under alternative market structures. Derived demand and resource markets are introduced.  Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.2010SI": {
+        "name": "ECON.2010SI Supplemental Instruction for Economics I  - Navitas only. (Formerly 49.201SI)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/2010SI/",
+        "id": "038720",
+        "description": "Supplemental Instruction for Economics I  - Navitas only. Credits do not count toward degree requirements.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.2020": {
+        "name": "ECON.2020 Principles of Macroeconomics (Formerly 49.202)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/2020/",
+        "id": "005898",
+        "description": "This course studies national accounts, inflation, and aggregate unemployment, as well as the driving forces behind business cycles and long-run growth in the context of aggregate demand and aggregate supply. In addition, it examines monetary and fiscal policy, the Federal reserve, and select additional topics, such as an introduction to open-economy macroeconomics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.2060": {
+        "name": "ECON.2060 Economic Inequality",
+        "url": "https://www.uml.edu/catalog/courses/ECON/2060/",
+        "id": "042136",
+        "description": "Economic growth has led to rising living standards around the world, but the gains have not always been shared equitably or led to improvements in individual well-being. This course introduces students to the types of economic inequality that exist, to data sources and methods used to measure growth and inequality, and to basic economic models used to understand forces driving growth and inequality today Both the consequences (positive and negative) of this inequality and debates over policies to address it will be covered. The course is designed for students with no background in economics who are interested in learning about how economists approach issues of social and economic justice. This makes it well suited as an elective for students in the Bachelor of Liberal Arts program and Peace and Conflict Studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.2110": {
+        "name": "ECON.2110 Statistics for Business and Economics I (Formerly 49.211)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/2110/",
+        "id": "005901",
+        "description": "Presents descriptive statistics, sophisticated counting techniques and other components of probability, simple random variables and their distribution, bivariate functions, sampling theory properties of estimators.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1210 Management Pre-Calculus, or MATH.1220 Management Calculus, or MATH.1310 Calculus I, or MATH.1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1210",
+                    "MATH.1220",
+                    "MATH.1310",
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.2120": {
+        "name": "ECON.2120 Statistics for Business and Economics II (Formerly 49.212)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/2120/",
+        "id": "005902",
+        "description": "Discusses interval estimation, hypothesis testing, analysis of variance, applied regression theory, correlation analysis, and other selected topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON 2110 Statistics I or 92.183 Intro to Statistics or MATH 2830 Introduction to Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2110",
+                    "MATH.2830"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3020": {
+        "name": "ECON.3020 Labor Economics (Formerly 49.302)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3020/",
+        "id": "005904",
+        "description": "An introduction to the economic analysis of behaviors and institutions in the labor market: labor supply and participation, labor demand by firms, wage determination under different institutional settings, and gender, race or ethnicity as determinants of different labor market outcomes.  The course presents microeconomic models, empirical findings and their public policy implications on topics such as minimum wage, affirmative action, social insurance programs, workplace safety, and subsidized day care.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3030": {
+        "name": "ECON.3030 Microeconomic Theory (Formerly 49.303)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3030/",
+        "id": "005905",
+        "description": "Provides an advanced examination of price and production theory and the theory of the consumer and the firm.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.2010 Economics I, and MATH.1220 Management Calculus, or MATH.1310 Calculus I, or MATH.1320 Calculus II, or MATH.2310 Calculus III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ],
+                [
+                    "MATH.1220",
+                    "MATH.1310",
+                    "MATH.1320",
+                    "MATH.2310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3040": {
+        "name": "ECON.3040 Macroeconomic Theory (Formerly 49.304)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3040/",
+        "id": "005906",
+        "description": "Building on Principles of Macroeconomics (ECON.2020), this course studies goods markets and money markets in further detail. Emphasis is placed on aggregate labor markets and also on the relationship between inflation, unemployment, and aggregate output. These topics are contextualized in order to examine aggregate economic developments in the short, medium, and long run. Optimal monetary and fiscal policies are examined against this background. Select additional topics are covered, such as the basics of open-economy macroeconomics. This course meets the Essential Learning Outcome of Critical Thinking and Problem Solving (CTPS) as defined under the Core Curriculum requirements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.2020 Principles of Macroeconomics, and MATH.1210 Management Pre-Calculus, or MATH.1220 Management Calculus, or MATH.1310 Calculus I, or MATH.1320 Calculus II, or MATH.2310 Calculus III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2020"
+                ],
+                [
+                    "MATH.1210",
+                    "MATH.1220",
+                    "MATH.1310",
+                    "MATH.1320",
+                    "MATH.2310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3060": {
+        "name": "ECON.3060 Urban Economics (Formerly 49.306)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3060/",
+        "id": "005908",
+        "description": "More than half of the world population now lives in cities. Therefore, grasping the economic dynamics of cities is a key to understanding modern economic systems. Urban economics is the economic study of cities. This course covers (I) the theories underlying cities functioning, growth and development, (II) the methods useful for examining city economies, and (II) the public policies targeting metropolitan problems. Skills in using Geographic Information System (GIS) software are also trained in this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3100": {
+        "name": "ECON.3100 Development Economics (Formerly 49.310)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3100/",
+        "id": "005910",
+        "description": "Development Economics provides an introduction to the importance of political and market institutions in shaping the economic performance in the context of understanding economic role of institutions; theories of income distribution and distributional conflict; effect of social conflict and class conflict on development; political economic determinants of policies; causes and consequences of corruption; and importance of financial markets. The course utilizes both theoretical and empirical approaches in its analysis of economic development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3110": {
+        "name": "ECON.3110 Mathematical Economics",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3110/",
+        "id": "040935",
+        "description": "Since the late nineteen century, economics as a discipline has chosen mathematics as the main language of choice to describe the problems, hypothesis, theoretical explanation and tests it wants to study. This course aims to strengthen students' \"translation skills\" so that they can become more comfortable in applying mathematical concepts to their study of economics problems. Two distinct features set this course apart from a typical upper-level economics course of a pure mathematics course. First, this course will not only sharpen students' technical skills but will mainly emphasizes on the connections between those skills and economic intuitions. Second, students will learn those mathematical tools in a more organized and intensive way, with ample economic applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.2010 Economics I, and ECON.2020 Economics II, and MATH.1220 Management Calculus, or MATH 1310 Calculus I, or Math.1280 Calculus 1A.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ],
+                [
+                    "ECON.2020"
+                ],
+                [
+                    "MATH.1220",
+                    "MATH.1310",
+                    "MATH.1280"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3120": {
+        "name": "ECON.3120 Managerial Economics (Formerly 49.312)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3120/",
+        "id": "005911",
+        "description": "Applies the economic theory and statistical methods to business decision making. Estimation of demand, production, cost functions and accompanying elasticity estimates, pricing and output decisions, value maximization problems, and capital budgeting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3160": {
+        "name": "ECON.3160 Investments: Instruments and Strategies (Formerly 49.316)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3160/",
+        "id": "036846",
+        "description": "In this course we will look at different types of investments, from stocks, bonds and real estate top  mutual funds, hedge funds and derivatives exploring how and when to use them.  Students will create a diversified investment portfolio using an online trading program that incorporates products covered in class.  In addition we will look at how different exchanges operate and the role of financial investments in real capital accumulation and rising living standards.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3170": {
+        "name": "ECON.3170 Capital Markets (Formerly 49.317)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3170/",
+        "id": "005914",
+        "description": "A study of the principles of portfolio theory and the pricing of financial instruments in capital markets. Use of derivative markets to implement arbitrages, hedging and risk management strategies. Extensive background institutional detail on stock, bond, mortgage-backed, currency, futures and options markets.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3180": {
+        "name": "ECON.3180 Financial Markets and Monetary Policy (Formerly 49.318)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3180/",
+        "id": "005915",
+        "description": "This course studies the formal role of money, interest rates, interest rate determination, and financial markets within the context of aggregate economic activity. These topics are related to central banks, with a focus on the Federal Reserve, and linked to money supply and the tools of monetary policy. Formal theories and practical implementation of strategies and tactics of monetary policy are addressed, as well as their implications for aggregate economic activity. This course meets Core Curriculum Essential Learning Outcome for Information Literacy (IL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON 2010 Principles of Microeconomics and ECON 2020 Principles of Macroeconomics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ],
+                [
+                    "ECON.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3190": {
+        "name": "ECON.3190 Public Finance (Formerly 49.319)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3190/",
+        "id": "005916",
+        "description": "The economics of the public sector. Principles of public expenditure, taxation, and the public debt applied to federal, state, and local governments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3250": {
+        "name": "ECON.3250 United States Economic History (Formerly 49.325)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3250/",
+        "id": "005921",
+        "description": "The evolution of institutions and their functions, and sources of economic development. The contributions of railroads, agricultural population growth, immigration, capital formation and technological progress to economic development. Other areas addressed: rapid industrialization and antitrust laws; evolution of financial institutions, the creation of the Federal Reserve System, crash of 1929, the depression of the 1930s, the New Deal and various banking acts, the labor movement, the growth of international trade.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON 2010 Economics I (Microeconomics) or ECON 2020 Economics II (Macroeconomics).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010",
+                    "ECON.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.3450": {
+        "name": "ECON.3450 Health Economics (Formerly 49.345)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/3450/",
+        "id": "005926",
+        "description": "An introduction to the economic analysis of health care market  The course presents microeconomic models, empirical findings and public policies referring to the following topics:  the production and demand for health (the investment/consumption aspects of health and the relationship between socio economic status and health status), the issues of moral hazard and adverse selection in the insurance market, the role of information in the physician-patient relationship, the different regulation and payment systems for providers, the Medicare and Medicaid programs, and the comparisons between the US system and the health systems of other western economies and developing countries.  This class aims to help students becoming more informed future citizens and consumers or producers of healthcare.\nPrerequisites: 49.201 or instructor's approval.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4010": {
+        "name": "ECON.4010 Special Topics in Economics (Formerly 49.401)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4010/",
+        "id": "033036",
+        "description": "Special Topics in Economics  is a course for advanced undergraduates in Economics.  The content will vary from semester to semester depending on the research interests of the Faculty member teaching the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4020": {
+        "name": "ECON.4020 Industrial Organization (Formerly 49.402)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4020/",
+        "id": "039350",
+        "description": "The field of Industrial Organization studies the behaviors of firms in imperfectly competitive markets. Its importance is best illustrated by understanding limitations of perfect competition. By definition, a perfectly competitive firm takes the market determined price as given and therefore has absolutely not control on price. Consequently, there is no room for any pricing strategy, not room for advertisement, and the firm has little incentive to conduct R&D or merge with other firms. All these business practices that we see every day must be discussed and analyzed in a setting of imperfect competition - the main focus of Industrial Organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4030": {
+        "name": "ECON.4030 International Trade (Formerly 49.403)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4030/",
+        "id": "005928",
+        "description": "This course is devoted to the study of why countries trade the products they do and the attendant benefits and costs of trade. The course covers both the main theories of international trade, and their empirical applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4060": {
+        "name": "ECON.4060 International Macroeconomics",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4060/",
+        "id": "040785",
+        "description": "This course is part of the two sub-disciplines that compose the overall discipline of International Economics, with the other sub-discipline being International Trade. As such, International Macroeconomics is complementary to International Trade, but neither course is a prerequisite for the other. This course provides an overview of open economy macroeconomics, and international financial markets and policies. The focus is on exchange rate determination, the importance of the balance of payments for both the domestic economy and the economies of other countries, international capital flows, the impact of internal debt on the balance of trade, and the interaction and potential conflicts between domestic and international economic police objectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.2020 Economics II (Macroeconomics).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4070": {
+        "name": "ECON.4070 Econometrics (Formerly 49.407)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4070/",
+        "id": "005931",
+        "description": "This course covers regression analysis including ordinary least squares, bivariate and multiple regression. In addition to basic regression technique and inference issues, specific topics related to OLS, such as interaction terms and quadratic forms together with more advanced techniques such as panel data and instrumental variables will be covered. This course will be held in a teaching lab using the STATA software package widely used by economists and other social scientists. You will learn how to us STATA for the following: importing data from an external source into STATA; inspecting and becoming familiar with the dataset; producing the main descriptive statistics for the dataset (e.g., mean, median, standard deviation and scatter diagrams); analyzing the data to test hypotheses of interest.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2120 Statistics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4090": {
+        "name": "ECON.4090 Innovation and Development",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4090/",
+        "id": "040402",
+        "description": "This course integrates ideas from the history of economics with national development experiences to construct a theory of development. Fundamental to economic development is the innovation process through which business enterprises, situated in particular nations, generate productivity. The first part of the course focuses on the advanced nations, particularly Britain, United States, and Japan. Then we look at the emerged economies of South Korea, Taiwan, Singapore and Hong Kong, followed by the emerging economies of China and India. We explore why Russia is lacking in innovative enterprise. We conclude by asking how the integration of the theory and history of economic development can inform strategies to promote economic development characterized by stable and equitable growth.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.4100": {
+        "name": "ECON.4100 Economic Growth and  Development (Formerly 49.410)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4100/",
+        "id": "033657",
+        "description": "In this course, we try to solve the puzzles of why some countries are so rich and some are so poor and why some countries grow so quickly and some grow so slowly.   After introducing the basic analytical framework, we will investigate various possible reasons in explaining the oserved country differences.  Those possible explanations include differences in countries' investment rates, population growth rates, human capital accumulation rates, production technologies, openness to international trade, and government policies.  Issues of income inequality and their effect on economic growth will also be addressed.\nThis course is designed for Economics majors or minors who have fulfilled the following prerequisites, and master level students from other departments, such as the Regional Economic and Social Development Department.\nPre-req:  49.201 Economics I (Microeconomics)\n                 49.202 Economics II (Macroeconomics)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON 2010 Principles of Microeconomics and ECON 2020 Principles of Macroeconomics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ],
+                [
+                    "ECON.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4130": {
+        "name": "ECON.4130 Climate Change Economics",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4130/",
+        "id": "042122",
+        "description": "Climate change affects populations around the world, underscoring the need to reduce global greenhouse gas emissions. Many disciplines are needed for innovative solutions to climate change, and economics plays a key role. Economists provide assumptions for models of current and future impacts. Economic models permit to predict how incentives can modify individual and group behavior. Economists also use real-world data to obtain empirical estimates of the wide range of climate change effects. With this research, economists inform local and global climate policy. This course introduces concepts to understand how economists approach the development of climate polices. With this foundation and from the lens of an economist, students evaluate climate change impacts and policy solutions. Students also gain the skills to engage in active discussions of articles and other media related to these topics from a multifaceted perspective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4150": {
+        "name": "ECON.4150 Introduction to Environmental Economics (Formerly 49.315/415)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4150/",
+        "id": "005913",
+        "description": "This course provides an introduction to the field of environmental and natural resource economics. It is designed to give students an overview of how economic principles can be applied to environmental management and policy. Topic areas and applications include evaluation of environmental policies, valuation of environmental goods and services, climate change, and management of renewable and non-renewable resources. Students will learn to critique articles and other media and have intelligent discussions related to the topics listed above.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4160": {
+        "name": "ECON.4160 Experimental and Behavioral Economics",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4160/",
+        "id": "040438",
+        "description": "This course will introduce students to the experimental economics methodology. Experimental economics utilizes lab and natural experiments to investigate decision-making and motivations for observed behavior. After and overview of the method, the course will explore several specific topics where experimental economics has made particular contributions to the discipline. Experimental results often motivate theories of behavior that incorporate concepts such as altruism, reciprocity, and inequality aversion. Such, non-traditional, models of behavior were once considered to be solely the realm of psychology. As a result, this course will also serve as an introduction to behavioral economics - the incorporation of motivations other than self-interest into one's utility function.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.2010 Economics I (Microeconomics), and ECON.3030 Microeconomic Theory , or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ],
+                [
+                    "ECON.3030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4170": {
+        "name": "ECON.4170 Game Theory",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4170/",
+        "id": "042137",
+        "description": "Game theory looks a decision making in a social context where the outcomes are influenced by both our decisions and by the decisions of others. The tools of Game Theory can be used to better understand decision making in a brad range situations. This class will take examples from a variety of contexts including employee compensation, legal ramifications of crime, pricing strategies for firms, advertising, ranked choice voting, and social action. Studying game theory will not make it so we always \"win\" but it will improve our decisions and help us understand the world we live in.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.2010 Principles of Microeconomics, and MATH.1200 (or higher) Precalculus Mathematics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ],
+                [
+                    "MATH.1200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4200": {
+        "name": "ECON.4200 Advanced Software for Economics",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4200/",
+        "id": "041592",
+        "description": "This course is a \"survey\" of software used by professional economists and professionals in other disciplines to study empirical phenomena. The course is a \"survey\" because we will not be going into each software to deeply. Instead, the idea is that students become sufficiently familiar with the software we study so that: they are later comfortable getting into more complex operationalizations themselves and as needed given their professional trajectory; they understand similarities and differences between the software; and they develop a hands-on sense of which software may be best suited for any one application.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.3030 Microeconomic Theory, and ECON.3040 Macroeconomic Theory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.3030"
+                ],
+                [
+                    "ECON.3040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4300": {
+        "name": "ECON.4300 Analytical Economics",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4300/",
+        "id": "041591",
+        "description": "This course exposes students to advanced economic models and empirical techniques. Particular emphasis is given to the interplay between theory and empirical applications. Students in the course will learn how economic models are used to motivate empirical work in economics. They will also learn to interpret empirical work in light of the motivating theory. Finally, they will be able to evaluate to what extent and empirical application provides a good test of a theory and whether either the data or the empirical methods have any limitations in this regard.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON.3030 Microeconomic Theory, and ECON.3040 Macroeconomic Theory, and ECON.4070 Econometrics, and ECON.3110 Mathematical Economics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.3030"
+                ],
+                [
+                    "ECON.3040"
+                ],
+                [
+                    "ECON.4070"
+                ],
+                [
+                    "ECON.3110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4850": {
+        "name": "ECON.4850 Internship in Economics (Formerly 49.485)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4850/",
+        "id": "005938",
+        "description": "Economics majors who locate an internship experience in a public or private, profit or non-profit organization which provides an opportunity to observe and apply Economics concepts to decision making and processes in the production of goods or services may with permission of the Economics Department chair receive three credits for satisfactory completion of the experience.  Students are expected to have completed over 20 credits of economics classes before undertaking the internship. A five-page paper describing what was learned in the internship together with a note from the student's supervisor indicating hours worked and satisfactory completion of assigned work is required.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ECON 2020 Economics II (Macroeconomics) and ECON 2010 Economics I (Microeconomics).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2020"
+                ],
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.4991": {
+        "name": "ECON.4991 Independent Studies (Formerly 49.499)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/4991/",
+        "id": "005940",
+        "description": "A course to permit the advanced student to do research in topics of special interest in economics under faculty supervision. This course also may be utilized to offer topics to individual students where there are insufficient number of registrants for a regular class. Restricted to Economics majors.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON 2120 Statistics II, ECON 3030 Microeconomic Theory, and ECON 3040 Macroeconomic Theory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2120"
+                ],
+                [
+                    "ECON.3030"
+                ],
+                [
+                    "ECON.3040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.5130": {
+        "name": "ECON.5130 Foundations Of Comparative Regional Development (Formerly 57.513)(Formerly POLI.5130)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/5130/",
+        "id": "006191",
+        "description": "This course offers an initial grounding in economic, historical, political, and sociological methodologies and introduces discipline-based and interdisciplinary approaches to regional development. It introduces students to: identifying and assessing structural factors influencing regional development, defining regional development challenges, and generating problem-solving strategies and public policies. The course highlights the relationship between theory and application, and looks at development at the community, national, and international levels. It makes extensive use of case materials on regional development, including a unit on the development of the Massachusetts economy. Students will learn how to find, prepare and analyze data on regional economies and will learn several basic quantitative tools for regional analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.5140": {
+        "name": "ECON.5140 Researching Industries and Companies in the Global Economy",
+        "url": "https://www.uml.edu/catalog/courses/ECON/5140/",
+        "id": "040423",
+        "description": "The Internet revolution gives us access to vast amounts of information on economics, industries, and companies. This course provides students with a framework, rooted in Prof. Lazonick's \"theory of innovative enterprise,\" for the integration of facts and logic in conducting research. Students Learn where to find and how to make use of relevant information available as e-resources. Through the study of Lazonick's research, the course enables students to take a deep dive into the theoretical approaches and sources of information that he has used to analyze economies, industries, and companies in global perspective. During the course, students work in teams to produce e-resource-based research reports on innovation, competition, and globalization in selected industrial sectors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.5150": {
+        "name": "ECON.5150 Politics and Economics of Public Policy (Formerly 57.515)(Formerly POLI.5150)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/5150/",
+        "id": "006193",
+        "description": "The course will provide students with both a set of analytical frameworks to understand how and why specific public policies develop, and a set of normative perspectives to assess what makes for good public policy. Our treatment will be interdisciplinary drawing from areas of economics and political science. Following some grounding in the political economy of the role of government and policy making in a market based economy such as the United States, we will do case studies to understand and to evaluate policies from a variety of current areas of interest to the students and professors. Students will be introduced to basic ideas of cost benefit analysis, program evaluation, and implementation analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON.2010  Principles of Microeconomics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ECON.7300": {
+        "name": "ECON.7300 Microeconomic /Organization Theory (Formerly 49.730)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/7300/",
+        "id": "036931",
+        "description": "This course is an introduction to microeconomic theory.  The focus in on the behavior of individual consumers and firms in competitive settings.  Topics will include consumer preferences and utility, consumer choice, market demand, production theory and market structure.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.7310": {
+        "name": "ECON.7310 Statistics (Formerly 49.731)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/7310/",
+        "id": "036927",
+        "description": "This course covers descriptive statistics, random variables and expected value, discrete and continuous probability distributions, joint distribution functions, sampling distributions, point and interval estimation, and hypothesis testing, and non-parametric statistics.  This course will also provide a brief introduction to linear regression and analysis of variance (ANOVA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.7330": {
+        "name": "ECON.7330 Econometrics I (Formerly 49.733)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/7330/",
+        "id": "036928",
+        "description": "After a brief review of the required mathematics for the course, the primary focus will be on the multivariate linear model.  Topics include: consistency and asymptotic normality of the parameter estimates, sampling distributions, hypothesis testing, parameter restrictions, and specification test and corrections for violation of model assumptions.  This course will also include working with various statistical packages.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ECON.7340": {
+        "name": "ECON.7340 Econometrics II (Formerly 49.734)",
+        "url": "https://www.uml.edu/catalog/courses/ECON/7340/",
+        "id": "036929",
+        "description": "This course is a continuation of Econometrics II; the focus will be on the more advanced techniques used in estimation and inference problems in social science research.  Possible topics include nonlinear models, the generalized method of moments, limited dependent variable and sample selection problems, multi-equations models, time-series models, and panel data analysis.  Statistical packages will be utilized for a hands-on approach to the techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

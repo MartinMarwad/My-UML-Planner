@@ -1,0 +1,19 @@
+{
+    "total": 1,
+    "time": 3.6489346027374268,
+    "UGTC.BLOCK": {
+        "name": "UGTC.BLOCK Undergraduate Transfer Credit (Formerly UT BLOCK)",
+        "url": "https://www.uml.edu/catalog/courses/UGTC/BLOCK/",
+        "id": "032075",
+        "description": "Undergraduate Transfer Credit",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

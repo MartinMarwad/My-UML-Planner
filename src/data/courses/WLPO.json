@@ -1,0 +1,382 @@
+{
+    "total": 21,
+    "time": 15.109788417816162,
+    "WLPO.1100": {
+        "name": "WLPO.1100 Portuguese for Spanish Speakers I (Formerly 53.110)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/1100/",
+        "id": "038871",
+        "description": "Taught at a faster pace than a regular beginning course in Portuguese, is an introduction to the foundations of the Portuguese language and the cultural diversity of the Lusophone world for speakers of Spanish. Specific attention is devoted to the advantages and challenges that Portuguese presents to native or near-native speakers of Spanish. The course acknowledges that, in spite of the similarities between the two languages, there are important differences in pronunciation, vocabulary and grammatical structures. The course gives emphasis to all four language skill-listening, speaking, reading, writing-in order to achieve communicative goals. Portuguese is the language of instruction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 54.212 Spanish 4 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLPO.1130": {
+        "name": "WLPO.1130 Portuguese 1 and Culture (Formerly 53.113)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/1130/",
+        "id": "006040",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 113, 114 and 213, 214 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLPO.1140": {
+        "name": "WLPO.1140 Portuguese 2 and Culture (Formerly 53.114)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/1140/",
+        "id": "006041",
+        "description": "A continuation of 53.113 Portuguese 1 and Culture, which is a pre-requisite.  Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 113, 144 and 213, 214 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLPO.1130 Portuguese 1 or  Portuguese 1 Student group for level 1/waiver.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLPO.1130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.2130": {
+        "name": "WLPO.2130 Portuguese 3 and Culture (Formerly 53.213)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/2130/",
+        "id": "006055",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 113, 114 and 213, 214 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "53.114 Portuguese 2 or  Portuguese 2 Student group for level 2/waiver.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLPO.2140": {
+        "name": "WLPO.2140 Portuguese 4 and Culture (Formerly 53.214)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/2140/",
+        "id": "006056",
+        "description": "A continuation of 53.213 Portuguese 3 and Culture, which is a pre-requisite.  Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 113, 114 and 213, 214 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLPO.2130 Portuguese 3 or  Portuguese 3 Student group for level 3/waiver.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLPO.2130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3011": {
+        "name": "WLPO.3011 Special Topics: in Lusophone Studies (Formerly 53.301)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3011/",
+        "id": "038873",
+        "description": "An in-depth study of a specific topic in literature, culture, civilization from the Lusophone world. Class discussions, readings, oral and written work all in Portuguese or in English. May be repeated once for credit, if content changes, and with written consent of the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3020": {
+        "name": "WLPO.3020 Special Topics: in Portuguese Studies (Formerly 53.302)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3020/",
+        "id": "038874",
+        "description": "An in-depth study of a specific topic in literature, culture, civilization or cinema from Portugal. Class discussions, readings, oral and written work all in Portuguese or in English. May be repeated once for credit, if content changes, and with written consent of the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3030": {
+        "name": "WLPO.3030 Survey of Brazilian Cinema",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3030/",
+        "id": "039896",
+        "description": "An introduction to Brazilian cinema and society, focusing on the Cinema Novo (New Cinema) of the 1960s and 1970s as well as more contemporary films influenced by the ideals of this movement. Films will be analyzed via reference to historical and theoretical texts. Topics to be addressed include Brazilian history as reflected in film and the formation of a distinct Brazilian aesthetic sensibility. Taught in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3040": {
+        "name": "WLPO.3040 Survey of Brazilian,Portuguese and Lusophone African Cinema (Formerly 53.304)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3040/",
+        "id": "039114",
+        "description": "This course is designed as an introduction to film studies and to Brazilian, Portuguese and Lusophone African cinema and cultures. Taught in English. College Writing 1 (421 01) and College Writing 2 (42102).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3050": {
+        "name": "WLPO.3050 Culture and Civilization of Brazil",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3050/",
+        "id": "040726",
+        "description": "This course is an introduction to Brazilian culture and society. Attention is given to history, geography, cinema, literature, art, and issues of race, gender, and social inequality as they lead toward a fuller understanding of Brazil. This course will cover major aspects of Brazilian society. The main texts review significant events and forces that have helped shape Brazil today. A variety of films and videos will be used. Course will be taught in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3060": {
+        "name": "WLPO.3060 The Short Story in the Lusophone World",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3060/",
+        "id": "041570",
+        "description": "This course will introduce students to the development of the short story in the Portuguese-speaking world from the 19th century to today. Through theoretical readings, discussion and writing activities, students will learn to analyze, ask criticcal questions of, and develop critical arguments about short fiction.  Readings will be chosen from a variety of canonical authors from Brazil, Portugal, Cabo Verde, Mozambique, Angola, and Macau. Conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3070": {
+        "name": "WLPO.3070 The City in Contemporary Lusophone Literature and Film",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3070/",
+        "id": "041156",
+        "description": "This course provides a comprehensive view of contemporary Lusophone urban space through literature and film. The course will explore the histories and cultures of the Portuguese-speaking countries by analyzing fictional texts and films related to their cities. Through readings and films, students will gain a critical understanding of many key events that have shaped Lusophone history, politics, and economy, and will be guided to discover, among others, themes related to national identity, language, ethnicity, migration, economic injustice, unhealed wounds of war, dictatorship, and colonialism. Conducted in English (English reading material; film screenings will be in Portuguese with English subtitles).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3080": {
+        "name": "WLPO.3080 Lusophone Music and Culture",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3080/",
+        "id": "041934",
+        "description": "This course will study the role of music and song in Lusophone cultures, including Brazil, Portugal, and Lusophone Africa. We will examine the historical and cultural evolution of some iconic music genres, including fado, samba, bossa nova, morna, and kizomba. Students will examine the social and political importance of music, including the politically engaged song from the 1960s and 1970s to today. Conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3090": {
+        "name": "WLPO.3090 Luso-Brazilian Women Writers in Translation",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3090/",
+        "id": "042028",
+        "description": "This course studies a diverse selection of texts by women writers from Brazil and Portugal. This course further examines the differing strategies deployed by female-authored fiction, poetry, autobiography and essay as these negotiate genre and gender, and issues affecting feminism, social relations and psychological discourses. Conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3370": {
+        "name": "WLPO.3370 Portuguese Literature in Translation (Formerly 53.237)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3370/",
+        "id": "038518",
+        "description": "This course offers a broad overview of Portuguese literature, in English translation, from the Middle Ages to the contemporary period, placing literary movements and major authors in their historical and aesthetic context. It focuses on promoting a basic level of cultural literacy about Portugal based on representative reading drawn from the last seven centuries of the country's history situated in their social, cultural and historic contexts. Course assignments lead students to develop skills in textural interpretation, critical thinking, and academic writing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3375": {
+        "name": "WLPO.3375 Brazilian Literature in Translation",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3375/",
+        "id": "042284",
+        "description": "This course surveys selected Brazilian works of fiction and nonfiction from the different literary periods, including Romanticism, Realism, Modernism, and Postmodernism. The texts are studied in their historical, cultural, social, and aesthetic contexts. Themes include colonialism and empire, race, gender, and dictatorship. Conducted in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3440": {
+        "name": "WLPO.3440 Advanced Portuguese Grammar",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3440/",
+        "id": "041671",
+        "description": "A systematic review of Portuguese grammar and syntax, and the study and practice of the basic principles of writing in Portuguese. Taught in Portuguese.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLPO.2130 Portuguese 3 and Culture, or WLPO.2140 Portuguese 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLPO.2130"
+                ],
+                [
+                    "WLPO.2140"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.3450": {
+        "name": "WLPO.3450 Advanced Portuguese Conversation and Composition",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/3450/",
+        "id": "042027",
+        "description": "The course aims at developing advanced written and oral proficiency in Portuguese. Topics of contemporary significance are selected for discussions. Taught in Portuguese.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLPO.2130 Portuguese III or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLPO.2130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLPO.4810": {
+        "name": "WLPO.4810 Directed Studies in Portuguese Composition (Formerly 53.481)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/4810/",
+        "id": "039391",
+        "description": "Students, through regular and frequent consultation with their instructor, pursue a special program of composition or creative expression in Portuguese.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLPO.4830": {
+        "name": "WLPO.4830 Independent Studies in Portuguese (Formerly 53.483)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/4830/",
+        "id": "039393",
+        "description": "This course allows students to undertake research on non-literature related topic on the Portuguese speaking world that is not made available through normal course offerings. The syllabus for the independent study will specify the topic and readings for the course, as well as dates by which readings and written work must be completed, the frequency of required meetings, and how the grade for the course will be determined. As an independent study is an upper level course, there is substantial writing component.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLPO.4850": {
+        "name": "WLPO.4850 Advanced Portuguese Tutorial (Formerly 53.485)",
+        "url": "https://www.uml.edu/catalog/courses/WLPO/4850/",
+        "id": "039395",
+        "description": "A program of directed study affords advanced student to provide an additional opportunity to pursue a previously explored problem in greater depth or to initiate and additional problem. The purpose is to sharpen and refine techniques for scholarly research and presentation and for creative expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

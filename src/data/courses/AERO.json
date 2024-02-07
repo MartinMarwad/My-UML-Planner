@@ -1,0 +1,139 @@
+{
+    "total": 9,
+    "time": 8.360408067703247,
+    "AERO.0001": {
+        "name": "AERO.0001 AF ROTC Leadership Lab (Formerly 29.001)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/0001/",
+        "id": "004429",
+        "description": "LLAB is a dynamic grouping of developmental activities that provide the experiential component of the AFROTC academic curriculum. LLAB offers first-ear cadets an informative and motivational program designed to recruit, retain, and familiarize cadets with the Air Force way of life and foster leadership, followership, teamwork, and esprit de corps. Second-year cadets receive the skill sets and confidence required to succeed at their summer field training. Third-and fourth-year cadets develop and demonstrate the leadership management skills needed to successfully function as active duty officers by leading the planning, organizing, and execution of the 35 distinct LLAB lesson objectives. NOTE: LLAB also incorporates a mandatory physical fitness training regimen.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.1010": {
+        "name": "AERO.1010 Heritage and Values of the U.S. Air Force Part I (Formerly 29.101)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/1010/",
+        "id": "004430",
+        "description": "A survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force. In addition, students are introduced to leadership, team building, and ethical decision making principles. Finally, students enter into a comprehensive communications program whereby presentation and writing skills are developed and honed.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.1020": {
+        "name": "AERO.1020 Heritage and Values of the U.S. Air Force Part II (Formerly 29.102)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/1020/",
+        "id": "004431",
+        "description": "A survey course designed to introduce students to the United States Air Force and provides an overview of the basic characteristics, missions, and organization of the Air Force. Part II focuses on the evolution of airpower and the principles of war and tenets of airpower through computer simulation. Students ultimately learn Air Force capabilities and contributions throughout the spectrum of conflict, from humanitarian aid and disaster response to major combat operations.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.2010": {
+        "name": "AERO.2010 Team and Leadership Fundamentals Part I (Formerly 29.201)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/2010/",
+        "id": "004432",
+        "description": "This survey course focuses on laying the foundation students require to improve their leadership on a personal level and within a team. Students complete personality profile inventories to understand how the various personality types influence leadership and mission accomplishment. The full Range Leadership Model is presented and augmented with topics on effective listening, followership, problem solving, and more.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.2020": {
+        "name": "AERO.2020 Team and Leadership Fundamentals Part II (Formerly 29.202)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/2020/",
+        "id": "004433",
+        "description": "This survey course focuses on laying the foundation students require to improve their leadership on a personal level and within a team. In Part II, students build upon their knowledge of how teams are formed, utilizing case studies to understand the various stages of team growth. Lessons in human relations, conflict management, resiliency, and ethical moral leadership prepare students for the course's leadership capstone.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.3010": {
+        "name": "AERO.3010 Leading People and Effective Communication Part I (Formerly 29.301)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/3010/",
+        "id": "004434",
+        "description": "This course teaches student advanced skills and knowledge in management and leadership. Special emphasis is placed on understanding how biases, experiences, and perspectives can impact a leader's decision-making and leadership effectiveness. Through case studies and simulations, students gain knowledge of the 12 cultural domains and develop cross-cultural skills to enhance one's ability to relate, communicate, negotiate, and influence. Additional topics include change management, effective supervision, and leading and thriving with diversity.",
+        "credits": {
+            "min": "0",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.3020": {
+        "name": "AERO.3020 Leading People and Effective Communication Part II (Formerly 29.302)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/3020/",
+        "id": "004435",
+        "description": "This course teaches students advanced skills and knowledge in management and leadership. Part II continues to hone students' cross-cultural competencies by enhancing self-awareness (to include biases) and enhanced negotiation strategies. Additionally, students learn the benefits and approaches towards personnel feedback, mentoring, and evaluations. Finally, students discuss several topics crucial in establishing positive organizational climates and the importance of vision in mission accomplishment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.4010": {
+        "name": "AERO.4010 National Security Affairs/Active Duty Prep Part I (Formerly 29.401)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/4010/",
+        "id": "004436",
+        "description": "This survey course ensures students understand the role of military officers in American society and provides and overview of the complex social and political issues facing the military profession. Students gain an understanding of air, space, nuclear, and cyber operations, Total Force contributions, and the force packaging required to serve the Joint Force and Combatant Commanders. Learning objectives on National Security Strategy, resulting defense policies, and military strategies underscore our nation's civilian control of the military and need for integrated diplomatic, information, military, and economic approaches in serving U.S. interests.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AERO.4020": {
+        "name": "AERO.4020 National Security Affairs/Active Duty Prep Part II (Formerly 29.402)",
+        "url": "https://www.uml.edu/catalog/courses/AERO/4020/",
+        "id": "004437",
+        "description": "This survey course ensures students understand the role of military officers in American society and provides an overview of the complex social and political issues facing the military profession. In Part II, students learn the responsibility, authority, and functions of military officers and commanders. Students learn the necessity of the military justice system as well as ethical decision making via lecture, guest speakers, and case studies. Finally, students receive preparation to groom and evaluate personnel via the officer, enlisted, and civilian appraisal systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

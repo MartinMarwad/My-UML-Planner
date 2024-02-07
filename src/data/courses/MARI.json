@@ -1,0 +1,169 @@
+{
+    "total": 11,
+    "time": 10.395389795303345,
+    "MARI.6300": {
+        "name": "MARI.6300 Biological Oceanography (Formerly IM.630)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/6300/",
+        "id": "020118",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.6500": {
+        "name": "MARI.6500 Physical Oceanography (Formerly IM.650)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/6500/",
+        "id": "020119",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7430": {
+        "name": "MARI.7430 Master's Thesis (Formerly IM.743)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7430/",
+        "id": "035705",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7460": {
+        "name": "MARI.7460 Master's Thesis (Formerly IM.746)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7460/",
+        "id": "035706",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7490": {
+        "name": "MARI.7490 Master's Thesis (Formerly IM.749)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7490/",
+        "id": "035707",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7510": {
+        "name": "MARI.7510 Doctoral Dissertation (Formerly IM.751)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7510/",
+        "id": "033675",
+        "description": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7530": {
+        "name": "MARI.7530 Doctoral Dissertation (Formerly IM.753)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7530/",
+        "id": "033677",
+        "description": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7550": {
+        "name": "MARI.7550 Doctoral Dissertation (Formerly IM.755)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7550/",
+        "id": "033679",
+        "description": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "5",
+            "max": "5"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7560": {
+        "name": "MARI.7560 Doctoral Dissertation (Formerly as IM.756)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7560/",
+        "id": "033680",
+        "description": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7590": {
+        "name": "MARI.7590 Doctoral Dissertation (Formerly IM.759)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7590/",
+        "id": "033683",
+        "description": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MARI.7690": {
+        "name": "MARI.7690 Continuing Graduate Research (Formerly IM.769)",
+        "url": "https://www.uml.edu/catalog/courses/MARI/7690/",
+        "id": "037339",
+        "description": "Graduate Research.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

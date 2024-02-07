@@ -1,0 +1,1150 @@
+{
+    "total": 68,
+    "time": 46.79541850090027,
+    "ATMO.1020": {
+        "name": "ATMO.1020 Weather Forecasting Seminar (Formerly 85.102)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1020/",
+        "id": "007764",
+        "description": "Introduction to forecasting techniques including use of upper air observations and numerical forecast guidance.\nThis course is intended primarily for students majoring in the various options of environmental science.  It does not satisfy specific science requirements for majors in the Division of Science.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.1200": {
+        "name": "ATMO.1200 The Nature of Science (Formerly 85.120)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1200/",
+        "id": "007765",
+        "description": "In this course students are introduced to the role of critical thinking in the development of scientific theories. Several major areas of science are explored with a focus on the link between conceptual thought and the resulting physical laws. The importance to society of scientists and citizens making informed decisions on science/technology issues are examined. Methods to gather and assess data are discussed and a number of examples of the use of scientific principles to prove fact or fraud are studied. The students will learn how to question propositions put before them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.1240": {
+        "name": "ATMO.1240 Scientific FORTRAN Programming (Formerly 85.234)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1240/",
+        "id": "007772",
+        "description": "A basic course in computer programming using FORTRAN 90/95. Topics include programming arithmetic, decisions, repetition, input/output structures, arrays and array processing, and simple algorithms for searching and sorting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.1410": {
+        "name": "ATMO.1410 Weather and Climate (Formerly 85.141)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1410/",
+        "id": "007766",
+        "description": "General meteorology course. Topics include atmospheric composition, solar radiation, temperature, moisture and condensation relationship between air pressure and wind, weather patterns, severe weather, optical phenomena in the atmosphere, and the behavior and possible change of climate. Appropriate for KCS major science elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ATMO.1430L Weather & Climate Lab, and Anti-req: ENVI.2020 Earth Systems: Atmosphere and Oceans,",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ATMO.1430L"
+                ]
+            ]
+        }
+    },
+    "ATMO.1430L": {
+        "name": "ATMO.1430L Weather and Climate Laboratory (Formerly 85.143)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1430L/",
+        "id": "007767",
+        "description": "The laboratory encourages students to apply knowledge from the lectures to a variety of atmospheric and climatic phenomena developed from data analysis, experimentation, and maps. Synthesis and critical thinking are encouraged in the solution of problems.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ATMO.1410 Weather & Climate.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ATMO.1410"
+                ]
+            ]
+        }
+    },
+    "ATMO.1500": {
+        "name": "ATMO.1500 The Physical Science of Climate Change",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1500/",
+        "id": "041773",
+        "description": "Due to the complexity of climate change, there are many important dimensions to the problem, including political, economic, social, and ethical. This course focuses on the physical science dimension of climate change: what are the key scientific principles that are needed to understand the causes and physical impacts of climate change, and to evaluate possible responses and their likely effectiveness The class is offered for both science and non-science majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: ATMO.1520L The Physical Science of Climate Change Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ATMO.1520L"
+                ]
+            ]
+        }
+    },
+    "ATMO.1520L": {
+        "name": "ATMO.1520L The Physical Science of Climate Change Lab",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1520L/",
+        "id": "041774",
+        "description": "This laboratory is designed to accompany the lecture material of The Physical Science of Climate Change (ATMO.1500), which focuses on the key scientific principles that are needed to understand the causes and physical impacts of climate change, and to evaluate possible responses and their likely effectiveness. The course is offered for both science and non-science majors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: ATMO.1500 The Physical Science of Climate Change.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ATMO.1500"
+                ]
+            ]
+        }
+    },
+    "ATMO.1990L": {
+        "name": "ATMO.1990L Atmospheric Sciences 1000 level elective Lab(Formerly 85.199)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/1990L/",
+        "id": "041447",
+        "description": "Atmospheric Sciences 1000 level elective Lab.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.2130L": {
+        "name": "ATMO.2130L Atmospheric Science Laboratory (Formerly 85.213)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/2130L/",
+        "id": "007770",
+        "description": "The plotting and analysis of meteorological data is introduced, with the goal of understanding the basis for various ways of looking at weather systems. After each technique is introduced, students will see the computer counterpart using the workstations in the weather lab. Both the strengths and weaknesses of automated displays are made clear to students, thus making them better able to interpret the computer images on a daily basis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.2140L": {
+        "name": "ATMO.2140L Meteorology Analysis Laboratory (Formerly 85.214)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/2140L/",
+        "id": "007771",
+        "description": "The use of the skew-T diagram to understand the vertical structure in the atmosphere is the main focus of this course. Students will learn to plot and analysis atmospheric sounding data, and to recognize various structures in the analyzed data. Both hand and computer-aided analysis will be compared.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.2340": {
+        "name": "ATMO.2340 Scientific FORTRAN Programming (Formerly 85.234)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/2340/",
+        "id": "007772",
+        "description": "A basic course in computer programming using FORTRAN 90/95. Topics include programming arithmetic, decisions, repetition, input/output structures, arrays and array processing, and simple algorithms for searching and sorting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.2910": {
+        "name": "ATMO.2910 Practicum in Meteorology (Formerly 85.291)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/2910/",
+        "id": "007773",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.3010": {
+        "name": "ATMO.3010 Atmospheric Thermodynamics (Formerly 85.301)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3010/",
+        "id": "007774",
+        "description": "The variables of state, Charles' law, Boyle's law, equation of state for an ideal gas, mixtures of gases. Thermodynamics of dry air, water vapor and moist air. Clausius-Clapeyron equation. Adiabatic and pseudoadiabatic processes. Moisture variables. Hydrostatics equilibrium, hydrostatics of special atmospheres. Hydrostatic stability. Convection theory, parcel method, slice method, entrainment, bubble theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENVI 2020 Earth & Env Systems II, PHYS 1030 General Physics I, and MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ],
+                [
+                    "PHYS.1030"
+                ],
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.3040": {
+        "name": "ATMO.3040 Methods in Meteorology (Formerly 85.304)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3040/",
+        "id": "007776",
+        "description": "The application of vector analysis to dynamic meteorology. Three-dimensional divergence and vorticity, circulation, and solenoids. Selected ordinary and partial differential equations of fluid mechanics and their solutions. Spectral decomposition of hemispheric wave motion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENVI 2020 Earth & Env Systems II and MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.3050": {
+        "name": "ATMO.3050 Methods in Meteorology II (Formerly 85.305)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3050/",
+        "id": "007777",
+        "description": "Fundamentals of numerical weather prediction. Data analysis methods in meteorology using the techniques of curve fitting, correlation, and power spectrum analysis. Solution of stability problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs:  ATMO 3040 Methods in Meteorology I and ATMO 2340 Scientific FORTRAN Programming.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ATMO.3040"
+                ],
+                [
+                    "ATMO.2340"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.3080": {
+        "name": "ATMO.3080 Synoptic Meteorology (Formerly 85.308)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3080/",
+        "id": "007779",
+        "description": "Explores techniques of synoptic analysis including graphical subtraction, thickness analysis, isentropic analysis, streamlines and trajectories, divergence and vorticity. The use of a computer to perform these computations is explored through student projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ATMO 1020 Weather Forecasting Seminar and ENVI 2020 Earth & Env Systems II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ATMO.1020"
+                ],
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.3090": {
+        "name": "ATMO.3090 Forecasting and Synoptic Techniques II (Formerly 85.309)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3090/",
+        "id": "007780",
+        "description": "Explores three-dimensional structure and dynamics of mid-latitude storm systems; capabilities and limitations of the barotropic model; quasi-geostrophic model; and operational primitive equation models. Some mesoscale phenomena are covered as time permits including coastal cyclogenesis, thermal lows, and sea-breeze circulations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 85.308 Forecast & Synop Techniques I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.3130": {
+        "name": "ATMO.3130 Physical Climatology (Formerly 85.313)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3130/",
+        "id": "007781",
+        "description": "Atmospheric processes determining the climate: solar and terrestrial radiation, elevation and thermal properties of surfaces, atmospheric circulations and eddy conduction between the atmosphere and land or sea surfaces, heat and water balance of earth's surface and the atmosphere; hydrologic cycle; and climatic simulation models.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.3400": {
+        "name": "ATMO.3400 Tropical Meteorology (Formerly 85.340)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3400/",
+        "id": "007782",
+        "description": "An introduction to the tropical atmosphere including tropical climatology, structure and dynamics of easterly waves, tropical cyclones and monsoonal circulations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENVI.2020 Earth & Env Systems II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.3500": {
+        "name": "ATMO.3500 Satellite and Radar Meteorology (Formerly 85.350)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/3500/",
+        "id": "007783",
+        "description": "Explores theory and applications of radar, satellites, and lidar. Use of satellite imagery as a forecasting aide, theory and use of satellite profiling, and application of conventional and Doppler radar to severe weather and short term forecasting. Use of lidar and other profiling techniques to determine vertical temperature structure and turbulence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENVI.2020 Earth & Env Systems II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.4030": {
+        "name": "ATMO.4030 Physical Meteorology (Formerly 85.403)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4030/",
+        "id": "007785",
+        "description": "Explores solar and terrestrial radiation processes and the heat balance of the atmosphere; fundamentals of radiation theory; radiative transfer processes in the atmosphere; atmospheric condensation processes; and nucleation theory and the growth of water drops and ice crystals by condensation, sublimation and accretion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 85.301 Atmospheric Dynamics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4080": {
+        "name": "ATMO.4080 The Climate System (Formerly 85.408)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4080/",
+        "id": "039360",
+        "description": "The course covers the main elements of the climate system--the atmosphere, ocean, biosphere, solid earth, and cryosphere--and the primary source of energy, the sun. The elements are examined in terms of observed structure and important physical processes, the ways in which they interact, and how they can be modeled. The global energy budget is discussed and both natural and human-caused climate change are considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1310 Calculus I, or MATH.1290 Calculus IB, and PHYS.1030 General Physics I, or PHYS.1410 Physics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1310",
+                    "MATH.1290"
+                ],
+                [
+                    "PHYS.1030",
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.4100": {
+        "name": "ATMO.4100 Advanced Forecasting (Formerly 85.410)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4100/",
+        "id": "007786",
+        "description": "Advanced analysis techniques and their use as forecasting tools are explored in both manual and computer formats. Techniques include moisture advection, moist isentropic trajectories, boundary layer destabilization, and other state-of-the-art techniques. Application of techniques to small and mesoscale phenomena.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENVI.2020 Earth & Env Systems II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.4120": {
+        "name": "ATMO.4120 Synoptic Weather Patterns (Formerly 85.412)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4120/",
+        "id": "039361",
+        "description": "This course is focused on applying meteorological theory to real weather patterns, with an emphasis on how the theory helps to understand the broad forcing mechanisms for each pattern as well as gaining an appreciation for the individual characteristics of each example. Topics will include nor'easters, back-door cold fronts, Alberta clippers, upper-air blocking, snow squalls, and stationary fonts. Analysis techniques will use digital display software as well as manual analysis of plotted weather data. In addition to individual homework, some case studies will be examined in small groups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 85.308 Forecast & Synop Techniques I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4150": {
+        "name": "ATMO.4150 Atmospheric Dynamics (Formerly 85.415)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4150/",
+        "id": "007788",
+        "description": "Explores dynamics of rotating fluids in a rotating reference frame. Conservation laws (momentum, continuity, and thermodynamics energy equations). Scale analysis, geostrophic balance. Applications to balanced flow, streamlines and trajectories, thermal wind, vertical motion, and surface pressure tendency. Circulation and vorticity, potential vorticity equation, barotropic and baroclinic vorticity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ATMO 3010 Atmospheric Dynamics and MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ATMO.3010"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.4160": {
+        "name": "ATMO.4160 Advanced Atmospheric Dynamics (Formerly 85.416)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4160/",
+        "id": "007789",
+        "description": "Atmospheric turbulence and boundary layer equations. Secondary circulation and spindown. Quasi-geostrophic prediction, diagnosis of vertical motion, and baroclinic disturbances. Atmospheric oscillations and perturbation theory. Hydrodynamic instability, baroclinic instability, and baroclinic waves.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 85.415 Adv Atmospheric Dynamics I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4200": {
+        "name": "ATMO.4200 Introduction to Operational Numerical Weather Prediction (Formerly 85.420)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4200/",
+        "id": "036535",
+        "description": "In this class, the student will learn the structure and science behind modern numerical weather prediction models and how to use them to solve real-world issues facing modern meteorological consultants.  The student will learn how to operate and apply a modern numerical weather prediction model to study such issues as offshore wind farm siting, solar power prediction, and energy load forecasting.  Students should be prepared to use Linux-based PC's (supplied) to perform and submit projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENVI.2020 Earth & Env Systems II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.4500": {
+        "name": "ATMO.4500 Satellite and Radar Meteorology (Formerly 85.450)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4500/",
+        "id": "039362",
+        "description": "This course explores the theory behind the operation of radar, satellites, and lidar. It demonstrates the use of satellite imagery as a forecasting aid, and the application of conventional and Doppler radar to severe weather and short term forecasting. Additional topics include the techniques used to determine vertical profiles of temperature, moisture and turbulence using lidar and satellite data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENVI.2020 Earth & Env Systems II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.4710": {
+        "name": "ATMO.4710 Air Pollution (Formerly 85.471)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4710/",
+        "id": "007791",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4840": {
+        "name": "ATMO.4840 Space Weather (Formerly 85.484)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4840/",
+        "id": "035075",
+        "description": "Space Weather is an emerging field of space science focusing on understanding the conditions and processes on the sun, in the interplanetary space, and in the Earth's magnetosphere, ionosphere and thermosphere that can influence the performance and reliability of space-borne and ground-based technological systems and can endanger human life or health.  This course is an introduction level course.  It applies knowledge learned in Physics I and II in particular in electromagnetics to a real situation: space.  The course introduces the present knowledge of space phenomena and the physical understanding of the plasma environment from the sun to the earth's ionosphere and in the heliosphere.  Regions in space to be discussed include solar surface, solar wind, bow shock, magnetsheath, magnetosphere, magnetotail, radiation belts, ring currents, and ionosphere.  Among space plasma physics theories, single particle theory, kinetic theory, and magnetohydrodynamics, which describe charged particle motion in electromagnetic fields and its consequences, are introduced and applied to space environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III, PHYS 1030 General Physics I, and PHYS 1040 General Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "PHYS.1030"
+                ],
+                [
+                    "PHYS.1040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.4870": {
+        "name": "ATMO.4870 Cloud Physics (Formerly 85.487)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4870/",
+        "id": "039363",
+        "description": "The course considers the physical processes involved in the formation of clouds and precipitation, and the properties of clouds. Topics include the thermodynamics of dry and moist air, with emphasis on moist air saturation; atmospheric dynamics leading to instabilities, convection, and air mixing; the formation and growth of air droplets, ice crystals, clouds, and the initiation of precipitation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 85.301 Atmospheric Dynamics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4910": {
+        "name": "ATMO.4910 Directed Study (Formerly 85.491)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4910/",
+        "id": "007793",
+        "description": "Students, through regular and frequent consultation with the instructor, undertake independent study of a particular area of meteorology.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4930": {
+        "name": "ATMO.4930 Internship: Atmospheric Science (Formerly 85.493)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4930/",
+        "id": "038853",
+        "description": "Work experience with private or public employer. Written report and supervisor evaluation required.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4950": {
+        "name": "ATMO.4950 Honors Research: Atmospheric Science (Formerly 85.495)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4950/",
+        "id": "007794",
+        "description": "An individual or team research project carried out by qualified students with the approval of and supervision by a faculty member.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4960": {
+        "name": "ATMO.4960 Practicum Experience in Meteorology (Formerly 85.496)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4960/",
+        "id": "007795",
+        "description": "A program of on-campus and/or off-campus experiences developed by the student in consultation with a faculty member and, when appropriate, a member of the staff of an off-campus firm. May be repeatedup to a maximum of six credits. The practicum may not be substituted for a nonelective course in the major.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.4970": {
+        "name": "ATMO.4970 Research: Atmospheric Science",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/4970/",
+        "id": "040067",
+        "description": "An independent scientific research project carried out by a qualified senior under the supervision of a faculty member.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5010": {
+        "name": "ATMO.5010 Boundary Layer Meteorology (Formerly 85.501)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5010/",
+        "id": "007796",
+        "description": "This course draws upon the equations of motion in the atmosphere to develop a theoretical understanding of the atmospheric boundary layer. This understanding is compared with real observations taken with the Department's rawinsonde equipment, as well as published data. The emphasis is on blending theory and practice to enhance the student's understanding of the behavior of the atmosphere.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5020": {
+        "name": "ATMO.5020 Advanced Synoptic Meteorology (Formerly 85.502)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5020/",
+        "id": "007797",
+        "description": "This course is designed for graduate students who have a strong background in mathematics and physics, but whose meteorology preparation is weak. The basic concepts of weather forecasting and analysis on synoptic scales are covered theoretically as well as in application to case studies and current weather. The coursework encourages the development of three - dimensional visualization techniques and an appreciation of the physics which controls weather systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5030": {
+        "name": "ATMO.5030 Remote Sensing (Formerly 85.503)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5030/",
+        "id": "007798",
+        "description": "This course is a survey of ground based, balloon, rocket probe, radar and satellite remote sensing techniques. Optical and radio frequency remote sensing techniques are surveyed. The focus is on the determination of physical, chemical and dynamical quantities by remote sensing measurements. The theory is presented used to interpret data obtained by remote sensing techniques. Various inversion methods are discussed used to obtain spatial discrete quantities from line - of - sight observations. Modeling and simulation techniques are described and practiced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5050": {
+        "name": "ATMO.5050 Atmospheric Measurements and Data Analysis",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5050/",
+        "id": "041464",
+        "description": "Against the backdrop of unprecedented global environmental change, meteorological and climatological observations have been thrust into the scientific and public spotlight. ATMO.5050 explores the range of instrumentation, measurement principles, and data analysis techniques used to monitor Earth's ever-changing weather and climate. From hands-on work with state-of-the-art field instruments, to computational data processing and visualization, students will gain a broad set of skills that will position them to succeed in both the observational and computational atmospheric science sub-fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1310 Calculus I, and PHYS.1410 Physics I,and ENVI.2020 Earth Systems: Atmos & Oceans.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1310"
+                ],
+                [
+                    "PHYS.1410"
+                ],
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.5080": {
+        "name": "ATMO.5080 The Climate System (Formerly 85.508)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5080/",
+        "id": "033556",
+        "description": "The main elements of the Climate System are the atmosphere, ocean, biosphere, land surface, and the cryosphere; the primary input of energy is from the Sun. This course examines these elements, the ways in which they interact and how they can be modeled. The Global Energy Budget is examined and both natural and human-caused climate change are considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5100": {
+        "name": "ATMO.5100 Regional Weather and Climate Modeling (Formerly 85.510)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5100/",
+        "id": "037957",
+        "description": "Mesoscale atmospheric dynamics and regional climate dynamics.  Application of regional weather and climate model to regional weather, climate modeling and forecast problems.  Multi-scale physical processes, such as mesoscale and convective-scale phenomena, low-level jets, mountain waves and orographic precipitation, land/sea breezes, cyclones etc., will be discussed in order to understand the linkage between regional weather and climate.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ATMO 2340 Scientific FORTRAN Programming, ATMO 3010 Atmospheric Dynamics and ATMO 4150 Advanced Atmospheric Dynamics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ATMO.2340"
+                ],
+                [
+                    "ATMO.3010"
+                ],
+                [
+                    "ATMO.4150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.5130": {
+        "name": "ATMO.5130 Physical Meteorology (Formerly 85.513)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5130/",
+        "id": "034585",
+        "description": "This course explores the essentials of cloud physics, beginning with the basic laws of thermodynamics of both dry and moist atmospheres.  Condensation, nucleation, and drop growth are studied in detail at an advanced level.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5150": {
+        "name": "ATMO.5150 Atmospheric Structure and Dynamics (Formerly 85.515)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5150/",
+        "id": "007801",
+        "description": "The temperature, pressure and density structure of the atmosphere are reviewed, as well as the chemical composition. Topics include atmospheric and solar radiation, atmospheric heat budget and the hypsometric equation. Dynamics of the atmosphere explores the behavior of fluids on a rotating earth, global circulation, synoptic scale motions, perturbation theory of wave motions. Elements of climatic change and the effects of anthropogenic emissions on climate and weather will also be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5160": {
+        "name": "ATMO.5160 Mesoscale Atmospheric Dynamics (Formerly 85.516)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5160/",
+        "id": "039101",
+        "description": "This course is designed for students to apply atmospheric dynamics and physical analysis techniques to mesoscale and convective-scale phenomena, including mesoscale convective systems, severe thunderstorms, tornadoes, dry lines, low-level jets, mountain waves and orographic precipitation, land/sea breezes, boundary layer rolls, and hurricanes. Emphasis will be given to the physical understanding of these processes instead of forecasting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ATMO 3010 Atmospheric Thermodynamics, and ATMO 4150 Advanced Atmospheric Dynamics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ATMO.3010"
+                ],
+                [
+                    "ATMO.4150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.5180": {
+        "name": "ATMO.5180 Forecasting and Synoptic Techniques I (Formerly 85.518)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5180/",
+        "id": "034590",
+        "description": "This is the first of a two-course sequence that provides graduate students a combined theoretical and applied understanding of synoptic-scale meteorology, with an emphasis on forecasting applications. The first course introduces the concepts of vorticity advection and the quasi-geostrophic approximation, and applies them synoptic-scale cyclones, including nor'easters.  The graduate students will learn to use Gempak graphics and will be introduced to the National Weather Service Weather Event Simulator, a combined hardware and software package that simulates the NWS forecast environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5230": {
+        "name": "ATMO.5230 Air Pollution Control (Formerly 85.523)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5230/",
+        "id": "007802",
+        "description": "This course describes air pollutants, their characterization, ambient concentrations, effects on human health and the ecology, and the environmental laws and regulations that set standards on emission rates and ambient concentrations. The basics of air pollutant dispersion and transport are also covered. The main focus of the course is on emission control technologies for particulate matter, carbon monoxide, sulfur oxides, nitrogen oxides, organic and inorganic toxic pollutants. The following technologies are discussed: cyclones, scrubbers, electrostatic precipitators, baghouses, adsorption, absorption and incineration. The automobile and its emission control are reviewed. Alternative methods are also discussed, such as fuel substitution, conservation and efficiency improvement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5240": {
+        "name": "ATMO.5240 Simple Atmospheric Models (Formerly 85.524)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5240/",
+        "id": "035197",
+        "description": "The basic wave types and fundamental dynamics of atmospheric motion are considered through analytical and numerical modeling of the main simplifications (models) of the full equations of motion for the atmosphere.  These models are derived by making assumptions that greatly simplify the full equations and which isolate individual wave types and specific physical mechanisms.  Together, these models describe the basic aspects of atmospheric motion: the maintenance and structure of the jet stream, the genesis and propagation of synoptic storms, and the forced and internal contributions to seasonal patterns of midlatitude climate variability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5290": {
+        "name": "ATMO.5290 Advanced Forecasting (Formerly 85.529)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5290/",
+        "id": "034915",
+        "description": "This course builds on the student's basic understanding of storm systems and extends their theoretical knowledge to particular weather patterns.  Topics include nowcasting, long-range forecasting, snow squalls, sea breeze, and especially deep convection.  Particular attention is paid to the structure and development of supercells.  Students will also be required to write a special report on a topic assigned by the professor, and present this in class as a special lecture.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5400": {
+        "name": "ATMO.5400 Tropical Meteorology (Formerly 85.540)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5400/",
+        "id": "037879",
+        "description": "An introduction to the tropical atmosphere, including tropical climatology, structure and dynamics of easterly waves, tropical cyclones and monsoon circulation's.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENVI.2020 Earth & Env Systems II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ATMO.5500": {
+        "name": "ATMO.5500 Satellite and Rad Meteorology (Formerly 85.550)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5500/",
+        "id": "007803",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5710": {
+        "name": "ATMO.5710 Air Pollution Phenomenology (Formerly 85.571)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5710/",
+        "id": "007804",
+        "description": "The course centers on transport, dispersion and transformation of air pollutants in the atmosphere. Atmospheric structure and dynamics are reviewed. The atmospheric dispersion equation is developed for instantaneous and steady- state releases of pollutants, including the Gaussian Plume Equation for point, line and area sources. The sources and transport of particulate matter are discussed, including haze and visibility impairment. Other topics are photooxidants (ozone), acid deposition, stratospheric ozone depletion and the greenhouse effect.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5810": {
+        "name": "ATMO.5810 Meteorology for Teachers (Formerly 85.581)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5810/",
+        "id": "030388",
+        "description": "The purpose of this course is to provide the middle school teacher with: a thorough understanding of several key concepts and processes of meteorology; the ability to effectively present meteorology topics that are appropriate for the middle school science classroom; the tools necessary to develop inquiry based lessons for the classroom.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5910": {
+        "name": "ATMO.5910 Directed Study (Formerly 85.591)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5910/",
+        "id": "007808",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.5950": {
+        "name": "ATMO.5950 Professional Experience Atmospheric Science (Formerly 85.595)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/5950/",
+        "id": "039333",
+        "description": "Professional experience with a private of public employer. Written report and supervisor evaluation required.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.6410": {
+        "name": "ATMO.6410 Special Topics in Meteorology (Formerly 85.641)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/6410/",
+        "id": "007809",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.6420": {
+        "name": "ATMO.6420 Special Topics in Meteorology (Formerly 85.642)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/6420/",
+        "id": "007810",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7010": {
+        "name": "ATMO.7010 Graduate Research Seminar (Formerly 85.701)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7010/",
+        "id": "007813",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7310": {
+        "name": "ATMO.7310 Master's Research (Formerly 85.731)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7310/",
+        "id": "033674",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7320": {
+        "name": "ATMO.7320 Graduate Research (Formerly 85.732)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7320/",
+        "id": "007814",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7330": {
+        "name": "ATMO.7330 Master's Research in Atmospheric Sciences (Formerly 85.733)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7330/",
+        "id": "007815",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7430": {
+        "name": "ATMO.7430 Master's Thesis in Atmospheric Sciences (Formerly 85.743)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7430/",
+        "id": "007817",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7530": {
+        "name": "ATMO.7530 Doctoral Dissertation in Atmospheric Sciences (Formerly 85.753)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7530/",
+        "id": "007819",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "8"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7600": {
+        "name": "ATMO.7600 Continuing Graduate Research (PhD) (Formerly 85.760)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7600/",
+        "id": "034591",
+        "description": "Continuing Graduate Research at the PhD level.  May be taken for variable credit.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7630": {
+        "name": "ATMO.7630 PhD Research in Atmospheric Sciences (Formerly 85.763)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7630/",
+        "id": "007820",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7650": {
+        "name": "ATMO.7650 Doctoral Dissertation (Formerly 85.765)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7650/",
+        "id": "033070",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.7680": {
+        "name": "ATMO.7680 Doctoral Dissertation (Formerly 85.768)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/7680/",
+        "id": "032226",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ATMO.REVIEW": {
+        "name": "ATMO.REVIEW Pending Departmental Review (Formerly 85.REVIEW)",
+        "url": "https://www.uml.edu/catalog/courses/ATMO/REVIEW/",
+        "id": "031868",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

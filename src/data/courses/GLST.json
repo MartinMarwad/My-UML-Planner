@@ -1,0 +1,274 @@
+{
+    "total": 18,
+    "time": 13.256330966949463,
+    "GLST.7010": {
+        "name": "GLST.7010 Global Studies I (Formerly GLS.701)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7010/",
+        "id": "037340",
+        "description": "The focus of this course is the intersection of theory and practice in Global Studies.   Students will be acquainted with the three fields of study that structure the Ph.D. Global Studies curriculum:  Comparative Cultures, Security and Human Rights, and Socio-Economic Development and the interdependence of these fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7011": {
+        "name": "GLST.7011 Interdisciplinary Education and Research",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7011/",
+        "id": "041250",
+        "description": "The recent growth of interdisciplinary programs has created new challenges and opportunities in higher education and research. This course is aimed at providing Global Studies PhD students with the skills and knowledge they need to overcome these challenges and make the most of these opportunities. In order to teach interdisciplinary research design and methods, students will also critique interdisciplinary research and learn how to identify research questions that are best approached using the perspectives of multiple disciplines. Additionally, students will become familiar with journals and conferences that publish and promote interdisciplinary work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7012": {
+        "name": "GLST.7012 Conflict, Cooperation, Security and Human Rights",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7012/",
+        "id": "040143",
+        "description": "This is an interdisciplinary course for the Global Studies PhD Program.  Drawing from political science, this course investigates the major global threats to human security, including poverty, public health crises, environmental deterioration, terrorism, mass killings and war. These threats to human security can also be framed as violations of human rights. Drawing from economics, the class will explore the interactions that lead to these violations and security threats with a game theoretic approach.  Employing game theory, the study of interdependent decision-making, will enable students to analyze and gain an understanding of the strategies that lead to violations of human rights, with the aim of developing policies to mediate these threats to human security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7017": {
+        "name": "GLST.7017 International Political Economy, Trade and Development",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7017/",
+        "id": "040896",
+        "description": "Since the end of the cold war it seems that analysts of international relations have changed their focus from the politics of preserving the peace to the politics of the international economy. Reading any international newspaper one is now less likely to see a story on the arms reduction talks between states on the front page than seeing an article on the trade relations between states. The economic crisis of 2007-8, the European debt crisis and the rise of China has brought more attention to the relationship between global politics and economics. This course is intended to give an introduction to international political economy (IPE) and global economic relations. Students will study the theoretical perspectives that are used by analysts, the history of IPE, and some important issues currently confronting the economic and trade relations of states in an era of globalization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7020": {
+        "name": "GLST.7020 Global Studies II (Formerly GLS.702)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7020/",
+        "id": "037350",
+        "description": "This course elaborates on the topics introduced in GLS 701 Global Studies I.  It familiarizes students with specific knowledge competencies in the three fields of study that structure the Ph.D. Global Studies curriculum:  Comparative Cultures, Security and Human Rights, and Socio-Economic Development and the interdependence of these fields.  Emphasis includes geography, history, economics, and cultural studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7030": {
+        "name": "GLST.7030 Global Research and Data Analysis (Formerly GLS.703)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7030/",
+        "id": "037349",
+        "description": "This course is designed to cultivate and further develop students' understanding and skills in research methods and data analysis as they become practitioners of qualitative and quantitative research addressing a range of global studies issues and problems.  Through the use of applied analysis projects students will explore multiple methods of data analysis, critique and evaluate existing research studies and reports, and develop skills in critical thinking.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7031": {
+        "name": "GLST.7031 Quantitative Approaches to Global Studies",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7031/",
+        "id": "041242",
+        "description": "This course introduces students to topics related to research design and quantitative analysis in global studies. This course can be broken up into three parts. During the first part students will build on what they have learned about constructing theories and Hypotheses, how to quantify concepts, and how to evaluate the academic work of others. In the second part students will begin to learn how to test theories and explore relationships using descriptive analysis and hypothesis testing. In the third and final part students will more thoroughly develop and evaluate their theories and hypotheses using correlation and regression analysis. The course will focus on data, units of analysis and techniques most appropriate for global studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7120": {
+        "name": "GLST.7120 Global Media Freedom, Human Rights, and Democratization (Formerly GLS.712)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7120/",
+        "id": "037347",
+        "description": "Media freedom is widely seen as critical to promoting democracy, development and human rights. Each year United States and European Union donors contribute to media assistance programs in the developing world. The idea is that independent media will deep government in line and make life better for citizens. Yet, little is known about weather free media are up to the task. This course addresses important questions in political communication, human rights, media studies and international relations and requires students to engage in systematic comparative analysis of the effects of media freedom on human rights, democratization and development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7130": {
+        "name": "GLST.7130 Special Topics in Security and Human Rights",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7130/",
+        "id": "037346",
+        "description": "Strategy is a crucial concept and practice in the field of international security. We will examine the foundational works in the area of strategy as well as contemporary work before exploring strategy as deployed in a range of issue areas, including military conflict, climate change, and arms control. The class will emphasize student participation and the application of concepts we learn in class. Students are asked to write a series of short policy memos and final paper exploring the application of strategy to international security broadly defined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GLST Program, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7132": {
+        "name": "GLST.7132 Comparative Political Theory",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7132/",
+        "id": "042081",
+        "description": "this course aims to introduce students to substantive topics in political theory at a Global Scale as well as to the main methodological issues that arise when we do research in something often called \"Comparative Political Theory\". Globalization has exposed not only the shortcomings and blind spots of traditional Western Political Theory, but also the violence, dispossession and oppression which have undergided the development of political communities in the modern world. Given this heritage, what might truly comparative and global political theory may look like.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7170": {
+        "name": "GLST.7170 Developing Economies (Formerly GLS.717)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7170/",
+        "id": "037342",
+        "description": "The emphasis of this course is an examination of globalization and whether it can be made a human-centered process, to historically examine the interrelatedness of the world economy to determine how policies shaped by industrialized countries impact developing countries, and to define key terms including poverty, sustainable development, market, informal economy, and civil society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7210": {
+        "name": "GLST.7210 Curricular Practical Training",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7210/",
+        "id": "040961",
+        "description": "An internship, practicum or other type of employment that is either required by the student's academic program or an experience for which a student receives academic credit. To be eligible the student must be in legal F-1 status and have been enrolled full-time for one academic year. CPT work experience must be in the student's field of study and contain a curricular component. Contact the Global Studies Program Director for additiona  details.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7220": {
+        "name": "GLST.7220 Civil Wars",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7220/",
+        "id": "041607",
+        "description": "This course aims to examine the traditional and recent developments in the civil war literature Some topics that will be covered in this course include the causes and termination of civil wars; the organization of rebel groups and its effect on the dynamics of civil conflicts; constructing peace in the aftermath civil war as well as the role of the international actors in establishing lasting peace. The course will introduce three sets of empirical methods. The first set examines the traditional studies that test extant theories on large-N TSCS datasets. The second set focuses extensively on \"micro-level\" studies that use village-level or other spatially disaggregated unit of analysis.The third set examines recent methodological developments, particularly survey and field experiments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7530": {
+        "name": "GLST.7530 Doctoral Dissertation/Global Studies (Formerly GLS 753)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7530/",
+        "id": "039545",
+        "description": "Doctoral Dissertation Research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7560": {
+        "name": "GLST.7560 Doctoral Dissertation/Global Studies (Formerly GLS 756)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7560/",
+        "id": "039546",
+        "description": "Doctoral Dissertation Research.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7590": {
+        "name": "GLST.7590 Doctoral Dissertation/Global Studies (Formerly GLS 759)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7590/",
+        "id": "039547",
+        "description": "Doctoral Dissertation Research.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7610": {
+        "name": "GLST.7610 Dissertation Review/Global Studies (Formerly GLS 761)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7610/",
+        "id": "039548",
+        "description": "Dissertation Review.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GLST.7910": {
+        "name": "GLST.7910 Global Studies Directed Studies (Formerly GLS.791)",
+        "url": "https://www.uml.edu/catalog/courses/GLST/7910/",
+        "id": "038488",
+        "description": "Global Studies Directed Studies",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "total": 23,
+    "time": 17.207725048065186,
+    "NONC.1010": {
+        "name": "NONC.1010 Navitas 101 (Formerly NC.101)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/1010/",
+        "id": "038203",
+        "description": "Navitas 101 has the intended purpose of providing its international students new to the University with specific resources, support, and programming to allow for successful transitions and acclimation into the University of Massachusetts and surrounding areas' communities. NAV 101 offers opportunities for students to explore and learn more about the different aspects, demands, and expectations of University life, from academic, cultural, and behavioral perspectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.1020": {
+        "name": "NONC.1020 Conversational English - Navitas (Formerly NC.102)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/1020/",
+        "id": "039538",
+        "description": "This Conversational English course will provide oral language instruction and conversational practice for Navitas students, thereby increasing fluency and confidence in both academic and social venues.  Activities will include small group and class discussions, role playing, and socially-constructed, real-time practice with pronunciation, vocabulary, and grammar.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.3600": {
+        "name": "NONC.3600 Extended English Program",
+        "url": "https://www.uml.edu/catalog/courses/NONC/3600/",
+        "id": "041413",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.5010": {
+        "name": "NONC.5010 Academic Communication for Graduate Students (Formerly NC 501)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/5010/",
+        "id": "036825",
+        "description": "Academic Communication for Graduate Students",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.5020": {
+        "name": "NONC.5020 Intercultural Issues for Graduate Students (NC 502)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/5020/",
+        "id": "036823",
+        "description": "Intercultural Issues for Graduate Students provides an opportunity for students to improve communication skills important to graduate study in the context of a university in the United States.  It explores communication through the intercultural domain to ensure students are equipped to respond appropriately in varied and multicultural environments.  Emphasis is placed upon developing personal awareness and reflection together with verbal, non-verbal and written communication.  Credits for this course do not apply toward degree requirements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.5030": {
+        "name": "NONC.5030 Introduction to Research (Formerly NC 503)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/5030/",
+        "id": "036824",
+        "description": "This course offers students a basic introduction to the world of research.  By exploring published research literature students will become familiar with the objectives and importance of quality research, and the methods and processes involved in carrying it out.  Students will also develop skills in the interpretation and evaluation of research results through the application of critical thinking and analysis skills.  Credits for this course do not apply toward degree requirements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.5040": {
+        "name": "NONC.5040 Academic Communication for Graduate Students (Formerly NC.504)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/5040/",
+        "id": "001905",
+        "description": "This course offers students a broad introduction to the skills students will find useful in undertaking graduate study at University of Massachusetts Lowell.  It will teach students skills in: finding and reading academic texts, critically assessing them, using the sources to build knowledge and displaying knowledge in a variety of spoken and written forms.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.5050": {
+        "name": "NONC.5050 Navitas PMP 501 (Formerly NC.505)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/5050/",
+        "id": "001907",
+        "description": "Navitas 501 has the intended purpose of providing its international students new to the University with specific resources, support, and programming to allow for successful transitions and acclimation into the University of Massachusetts and surrounding areas' communities. NAV 501 offers opportunities for students to explore and learn more about the different aspects, demands, and expectations of University life, from academic, cultural, and behavioral perspectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.5450": {
+        "name": "NONC.5450 Foundations of Communications for Graduate Students (Formerly NC.545)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/5450/",
+        "id": "037935",
+        "description": "This course will lay the foundation for successful professional and academic communication in oral and written English. It will allow students to strengthen their ability to communicate effectively in a variety of academic and professional settings. From perfecting  note taking, oral presentation  and  comprehension skills  to introducing students  to the principles of academic writing and critical reasoning, Foundations of Communications is designed to  build up the students' knowledge of and performance in the English language and ultimately prepare them for academic success.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.CALC1": {
+        "name": "NONC.CALC1 River Hawk Review Calculus 1",
+        "url": "https://www.uml.edu/catalog/courses/NONC/CALC1/",
+        "id": "036406",
+        "description": "Calculus 1 Transition Program:   This is a program for students receiving a D or D+ in calculus 1, and wish to try to continue on to calculus 2. The course is not a lecture but rather problem solving sessions. At the end of the course the students take a calculus 1 final exam to determine whether or not they can transition to calculus 2.  There is no grade change.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.CALC1A": {
+        "name": "NONC.CALC1A NC Math Boot Camp - Calculus 1A (Formerly NC.CALC1A)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/CALC1A/",
+        "id": "037587",
+        "description": "This bootcamp will be open to Calculus 1A students having \"High-F\" numeric grade.  Invitations will be e-mailed to the \"High-F\" students shortly after grades are posted.  This course is also open to students with a D, D+, or C- on a space available basis.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.CHEM1": {
+        "name": "NONC.CHEM1 River Hawk Review - Chemistry I (Formerly NC.CHEM)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/CHEM1/",
+        "id": "037590",
+        "description": "The intersession chemistry 1 course has been created for students in 84.121 who received an F, D or D+ during the previous semester in this course. Students who withdrew from the course will also be considered if they withdrew near the withdrawal deadline. It is imperative that the student has previously been exposed to all of the material in the regular class to be able to succeed in this intersession class.  The course will cover the same content as 84.121 and will include regular tests, detailed homework and a final exam. The student will receive a grade for this course based upon their test, homework and final exam scores per the standard guidelines for chemistry 1.  The earned grade will replace the grade received for the regular course as a grade change if the student earns a better grade. If the student earns a lower grade then the regular course grade will remain.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.CW2": {
+        "name": "NONC.CW2 River Hawk Review - College Writing 2",
+        "url": "https://www.uml.edu/catalog/courses/NONC/CW2/",
+        "id": "042062",
+        "description": "The River hawk Review College Writing non-credit course is intended for students who have almost completed the requirements for College Writing I or II, and who have been identified by faculty instructors as showing promise to complete the course with additional support. These students will be invited by First-Year Writing instructors for participation. Requirements for completing College Writing I and II will be agreed upon at the start of the Winter intersession, and students will work with a faculty instructor and Writing Center tutors to complete course requirements. At the end of the period, students will submit and based on their performance, will have their course grade revised.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.CWS": {
+        "name": "NONC.CWS RHR - College Writing Studio",
+        "url": "https://www.uml.edu/catalog/courses/NONC/CWS/",
+        "id": "042063",
+        "description": "The River hawk Review College Writing non-credit course is intended for students who have almost completed the requirements for College Writing Studio, and who have been identified by faculty instructors as showing promise to complete the course with additional support. These students will be invited by First-Year Writing instructors for participation. Requirements for completing College Writing Studio will be agreed upon at the start of the Winter intersession, and students will work with a faculty instructor and Writing Center tutors to complete course requirements. At the end of the period, students will submit and based on their performance, will have their course grade revised.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.DIFEQT": {
+        "name": "NONC.DIFEQT River Hawk Review - Differential Equations",
+        "url": "https://www.uml.edu/catalog/courses/NONC/DIFEQT/",
+        "id": "040968",
+        "description": "Differential Equations Transition Program: This is a program for students receiving a D D+ or C  in Differential Equations, and wish to try to raise their grade to a C. The course is not a lecture but rather problem solving sessions. At the end of the course the students take a Differential Equations final exam to determine whether or not they can receive a passing grade for the course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.ENDIFE": {
+        "name": "NONC.ENDIFE River Hawk Review - Engineering Differential Equations",
+        "url": "https://www.uml.edu/catalog/courses/NONC/ENDIFE/",
+        "id": "040967",
+        "description": "Engineering Differential Equations Transition Program: This is a program for students receiving a D D+ or C  in  Engineering Differential Equations, and wish to try to raise their grade to a C. The course is not a lecture but rather problem solving sessions. At the end of the course the students take a  Engineering Differential Equations final exam to determine whether or not they can earn a passing grade of a C for Engineering Differential Equations.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.GENE": {
+        "name": "NONC.GENE River Hawk Review - Genetics",
+        "url": "https://www.uml.edu/catalog/courses/NONC/GENE/",
+        "id": "042158",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.MCALC": {
+        "name": "NONC.MCALC River Hawk Review Management Calculus",
+        "url": "https://www.uml.edu/catalog/courses/NONC/MCALC/",
+        "id": "042057",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.OPRSYS": {
+        "name": "NONC.OPRSYS River Hawk Review - Operating Systems",
+        "url": "https://www.uml.edu/catalog/courses/NONC/OPRSYS/",
+        "id": "040969",
+        "description": "The Riverhawk Review Operating Systems non-credit course is intended for students who received marginal or failing grades in a crucial course, but who have been identified by faculty instructors as showing promise. These students will be invited by faculty instructors for participation.  In the program, students sign up for a 5-week self-study period that will be supervised by faculty. At the end of the period, students will re-take the course final exam (a new version) and based on their performance, will have their course grade revised.  The program will consist of: 1. Weekly mini-lecture recordings, 2. Weekly homework, 3. On-line, small-group homework review video meetings and a Final exam. After the intervention period, students will sit a revised version of the course final held on the Lowell campus. The date of the final will be established at the outset of the program. Students must consent to be able to arrive on campus and sit the exam. The faculty instructor will proctor the exam and grade it afterward.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.PCLC1": {
+        "name": "NONC.PCLC1 NC Math Boot Camp - Pre-Calculus",
+        "url": "https://www.uml.edu/catalog/courses/NONC/PCLC1/",
+        "id": "042292",
+        "description": "This bootcamp will be open to Pre-Calculus students having \"High-F\" numeric grade.  Invitations will be e-mailed to the \"High-F\" students shortly after grades are posted.  This course is also open to students with a D, D+, or C- on a space available basis.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.R4ORG2": {
+        "name": "NONC.R4ORG2 Get Reddie for Organic II",
+        "url": "https://www.uml.edu/catalog/courses/NONC/R4ORG2/",
+        "id": "040797",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.STAT": {
+        "name": "NONC.STAT River Hawk Review Statics",
+        "url": "https://www.uml.edu/catalog/courses/NONC/STAT/",
+        "id": "038702",
+        "description": "Comprehensive application of the topics in ENGN.2050 Statics  will be explored through instructor-led group solutions of problems.  This program is for students receiving a grade of C-, D+, or D  in  ENGN.2050 Statics.  Students will have the opportunity to improve their grade to C by successful completion of a comprehensive final exam at the end of the program.  Students who had withdrawn from the class will need to petition as to why they should be allowed to participate in the program and, if accepted into the program, will likewise need to complete all outstanding assignments (i.e., projects and semester exams) in the class since withdrawing.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NONC.STREN": {
+        "name": "NONC.STREN NC Boot Camp: Strength of Materials (Formerly NC STREN)",
+        "url": "https://www.uml.edu/catalog/courses/NONC/STREN/",
+        "id": "039457",
+        "description": "This boot camp is available to those students who took 22.212 (sections 201, 202, or 203) during the Spring 2015 semester and received a grade of D+ or D. A successful completion of all of the boot camp requirements will result in the course grade being increased to a C-.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "total": 12,
+    "time": 10.673442363739014,
+    "WLKH.1040": {
+        "name": "WLKH.1040 Elementary Cambodian for Heritage Speakers",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/1040/",
+        "id": "041253",
+        "description": "This intensive, 3-credit Cambodian language and culture course in intended for heritage Cambodian speakers who already have a basic command of the spoken and written language. The course covers the reading, writing, speaking and listening skills comprising the Cambodian Language & Culture 1 & 2 course in a single semester. Contemporary news information is also presented on a weekly basis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLKH.1350": {
+        "name": "WLKH.1350 Cambodian 1 and Culture (Formerly 53.135)",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/1350/",
+        "id": "006044",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 135, 136 and 235, 236 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLKH.1360": {
+        "name": "WLKH.1360 Cambodian 2 and Culture (Formerly 53.136)",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/1360/",
+        "id": "033186",
+        "description": "This course continues the oral practice, reading, writing, grammar and cultural studies begun in 53.135.  Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 135, 136 and 235, 236 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLKH.1350 Cambodian 1 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLKH.1350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLKH.2040": {
+        "name": "WLKH.2040 Intermediate Cambodian for Heritage Speakers",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/2040/",
+        "id": "041254",
+        "description": "This intensive 3-credit Cambodian language and culture course is intended for heritage Cambodian speakers who already have successfully completed WLKH.1040, Elementary Cambodian for Heritage Speakers, or its equivalent. The course covers the reading, writing, speaking and listening skills comprising the Cambodian Language & Culture 3 & 4 courses in a single semester. Contemporary news information is also presented on a weekly basis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLKH.1040 Elementary Cambodian for Heritage Speaking, or WLKH.1360 Cambodian II and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLKH.1040",
+                    "WLKH.1360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLKH.2100": {
+        "name": "WLKH.2100 Introduction to Cambodian Culture (Formerly 59.210)",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/2100/",
+        "id": "037478",
+        "description": "This 3-credit course focuses on the culture of Cambodia from ancient times to present.  Specifically, this course provides an overview of the geography, demographics, monarchy, religion, architecture, dance & music, literature and performing arts in historical context.  The course also requires students to examine contemporary Cambodia in terms of change continuity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLKH.2350": {
+        "name": "WLKH.2350 Cambodian 3 and Culture (Formerly 53.235)",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/2350/",
+        "id": "032059",
+        "description": "Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 135, 136 and 235, 236 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 53.136 Cambodian 2 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLKH.2360": {
+        "name": "WLKH.2360 Cambodian 4 and Culture (Formerly 53.236)",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/2360/",
+        "id": "032060",
+        "description": "This course is a continuation of 53.235 Cambodian 3 and Culture, which is a pre-requisite.  Development of fundamental skills in oral expression, aural comprehension, reading and writing is required in language courses. Beginning and intermediate language courses at the 135, 136 and 235, 236 levels must be elected in the prescribed sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLKH.2350 Cambodian 3 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLKH.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLKH.3100": {
+        "name": "WLKH.3100 The Literary Cultures of Cambodia",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/3100/",
+        "id": "039895",
+        "description": "This course provides a survey of the role and function of literature and literary institutions in Cambodia. Selections of literature in translation from various genres (poetry, the short story, novels) are analyzed in terms of the development of the particular genre and its function vis-a-vis Cambodia's cultural institutions. Similarly, the course examines the role of these cultural institutions in supporting the production of these literatures in different historical periods (classical to modern). Particular emphasis is given to the role of literature and literary institutions in the development of national and cultural identity during and after colonial rule.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLKH.2100 Introduction to Cambodian Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLKH.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLKH.3200": {
+        "name": "WLKH.3200 Cambodian Culture in Lowell",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/3200/",
+        "id": "040120",
+        "description": "This course examines the emergence and growth the Cambodian American culture in Lowell from the early 1980s until the present. The course focuses on cultural and artistic organizations and events, such as the Angkor dance troupe and the Southeast Asian Water Festival within the changing political and historical context of Lowell during that period. Particular attention is given to the role of Cambodian cultural organizations and events in Lowell's cultural economy, which includes Lowell's art district and city organizations like the Cultural Organization of Lowell (COOL), the Merrimack Repertory Theater and the Lowell National Historical Park.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLKH.2100 or ENGL.1020.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLKH.2100",
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLKH.3250": {
+        "name": "WLKH.3250 Contemporary Cambodian Cinema",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/3250/",
+        "id": "040289",
+        "description": "This 3-credit course examines Cambodian cinema and filmmakers from the 20th and 21st centuries. The course will include films in English or with English subtitles made by Cambodian filmmakers, as well as films about Cambodia made by foreign filmmakers. The course will be organized chronologically and thematically beginning with the first documentary films from the 1290's produced by foreign filmmakers, to Cambodia's \"golden age\" of cinema in the 1960's, to films from the 1980's about the genocide, to the fast-growing contemporary film scene in Cambodia. Students will view and examine the films in terms of their cultural context and how this context is reflected in the films' plot, characters and perspective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLKH.2100 Introduction to Cambodian Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLKH.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLKH.3490": {
+        "name": "WLKH.3490 Literature, Politics and Genocide in Cambodia (Formerly 59.349)",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/3490/",
+        "id": "036699",
+        "description": "This course will examine various literary and political responses to the Cambodian genocide, particularly personal accounts or literary testimony by survivors and government sanctioned legal proceedings.  The course will consider how the literary and political responses to the Cambodian genocide have at different times paralleled, complimented and opposed each other.  The course will also ask whether their overall effect contributes to or detracts from the serving of justice and the process of healing for the survivors.  To pursue these questions, we will read selections from novels and poetry written by Cambodian survivors side by side with accounts of political activities of the Cambodian government and the international community to bring the perpetrators of the genocide to justice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLKH.4930": {
+        "name": "WLKH.4930 Directed Study in Cambodian Culture (Formerly 53.493)",
+        "url": "https://www.uml.edu/catalog/courses/WLKH/4930/",
+        "id": "036697",
+        "description": "Students through regular and frequent consultation with their instructor develop a course of directed study in Cambodian (Kmer) culture, and define a problem for individual research. The student's findings are presented in a paper of significant proportions.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

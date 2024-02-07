@@ -1,0 +1,2267 @@
+{
+    "total": 128,
+    "time": 82.70011138916016,
+    "COMP.1000": {
+        "name": "COMP.1000 Media Computing (Formerly 91.100)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1000/",
+        "id": "008054",
+        "description": "An introductory course to computer programming using multimedia applications such as images, video and audio. Linear data structures representing multimedia data are manipulated with loops and conditionals in the Python language.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.1005": {
+        "name": "COMP.1005 An Introduction to Programming for Data Science",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1005/",
+        "id": "041157",
+        "description": "Linguists, chemists, business analysts, social scientists, and essentially everyone needs computational approaches to structure, analyze and present their data. However, non-experts are often intimidated to start programming and may struggle to see the numerous possibilities it may open up for their field of study. Using the poplar and easy-to-learn Python language, this course offers a practical introduction to basics of programming and how it can be used to analyze, structure, and visualize data. Students will also gain hands-on experience with a number of popular libraries useful for data preparation and analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.1010": {
+        "name": "COMP.1010 Computing I (Formerly 91.101)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1010/",
+        "id": "008055",
+        "description": "Introduction to computing environments: introduction to an integrated development environment; C, C++, or a similar language.  Linear data structures; arrays, records, and linked lists.  Abstract data types, stacks, and queues.  Simple sorting via exchange, selection, and insertion, basic file I/O. Programming style documentation and testing.  Ethical and social issues.  Effective Fall 2013, Co-req 91.103 Computing 1 Lab.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: COMP.1030L Comp. 1 Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "COMP.1030L"
+                ]
+            ]
+        }
+    },
+    "COMP.1020": {
+        "name": "COMP.1020 Computing II (Formerly 91.102)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1020/",
+        "id": "008056",
+        "description": "Computing II focuses on the implementation and applications of data structures, including arrays, linked lists, stacks, queues, trees, binary trees, binary search trees, heaps, graphs, and hash tables. Recursive approaches are used. Performance analysis is discussed. Attention is paid to programming style, documentation, and testing. This course includes extensive laboratory work. Effective Fall 2013, Co-req: Computing 2 Lab.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.1010 Computing I with a B- or better, and COMP.1030L Computing I Lab, and Co-req: COMP.1040L Computing II Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1010"
+                ],
+                [
+                    "COMP.1030L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "COMP.1040L"
+                ]
+            ]
+        }
+    },
+    "COMP.1030L": {
+        "name": "COMP.1030L Computing I Lab (Formerly 91.103)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1030L/",
+        "id": "038309",
+        "description": "This is the lab class for COMP.1010 Computing I. This class must be taken with COMP.1010 Computing I in the same semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.1040L": {
+        "name": "COMP.1040L Computing II Lab (Formerly 91.104)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1040L/",
+        "id": "038310",
+        "description": "This is a lab class for 91.102 Computing II. This class must be taken with 91.102 Computing II in the same semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: Computing II COMP.1020.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "COMP.1020"
+                ]
+            ]
+        }
+    },
+    "COMP.1080": {
+        "name": "COMP.1080 Intro to App Des & Mobile Comp (Formerly 91.108)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1080/",
+        "id": "038246",
+        "description": "This course is an introduction to design principles of applications (\"apps\") that run on mobile devices (smart phones and tablet computers). The course focuses on software interaction design and computational thinking. Students will gain theoretical knowledge and design skills in these domains by building a series of apps that run on the Android platform using MIT App. Inventor software. The course will also include discussion of societal impacts of computing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.1110": {
+        "name": "COMP.1110 First Year Seminar for Computer Science Students",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1110/",
+        "id": "041593",
+        "description": "This course is designed to acclimate incoming students to their new University environment. Students will learn about the Computer Science field, the program at the University, its faculty, and other resources useful for success.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.1120": {
+        "name": "COMP.1120 Undeclared Science Seminar (Formerly 91.112)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1120/",
+        "id": "036238",
+        "description": "Discussions will be conducted on a wide range of topics in the sciences to familiarize the student with the programs, procedures, research, and educational opportunities at the University.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.1130": {
+        "name": "COMP.1130 Exploring the Internet (Formerly 91.113)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/1130/",
+        "id": "008058",
+        "description": "An introduction to internet technologies and how they intersect with social, political, and economic issues. Includes: the history of the internet, how it's presently managed, how information is transferred between servers and clients, collaborative web technologies, search engines, encryption, digital rights management, certificate authorities, phishing and other malware, and privacy concerns. Students will build a basic website using HTML and CSS.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Not for Academic Plan Computer Science (BS).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.2010": {
+        "name": "COMP.2010 Computing III (Formerly 91.201)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2010/",
+        "id": "008064",
+        "description": "This course presents an introduction to object-oriented software development using the C++ programming language. The main ideas are encapsulation, class hierarchy and inheritance, polymorphism, copy control, operator overloading, dynamic memory management, and templates. Additional topics include the Standard Template Library (containers and iterators), class design diagrams, and exception handling.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.1020 Computing ll, and Co-req: COMP.2010L Computing lll Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "COMP.2010L"
+                ]
+            ]
+        }
+    },
+    "COMP.2010R": {
+        "name": "COMP.2010R Computing III Lab",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2010R/",
+        "id": "039960",
+        "description": "This is the lab class for COMP.2010 Computing lll. This class must be taken with COMP.2010 Computing lll in the same semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "COMP.1020 Computing ll, and Co-req: COMP.2010 Computing lll.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "COMP.2010"
+                ]
+            ]
+        }
+    },
+    "COMP.2030": {
+        "name": "COMP.2030 Assembly Language Programming (Formerly 91.203)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2030/",
+        "id": "008066",
+        "description": "Presents the organization and operation of a conventional computer, including principal instruction types, data representation, addressing modes, program control, I/O, assembly language programming, including instruction mnemonics, symbolic addresses, assembler directives, system calls, and macros, the usage of text editors, symbolic debuggers, and loaders, and the use of pseudocode in guiding structured assembly language programming.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.1020 Computing ll, and Co-req: COMP.2030L Assembly Language Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "COMP.2030L"
+                ]
+            ]
+        }
+    },
+    "COMP.2030R": {
+        "name": "COMP.2030R Assembly Language Programming Lab",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2030R/",
+        "id": "039961",
+        "description": "This is the lab class for COMP.2030 Computer Organization and Assembly Language. This class must be taken with COMP.2030 in the same semester.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "COMP.1020 Computing ll, and Co-req: COMP.2030 Computer Organization and Assembly Language.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "COMP.2030"
+                ]
+            ]
+        }
+    },
+    "COMP.2040": {
+        "name": "COMP.2040 Computing IV (Formerly 91.204)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2040/",
+        "id": "008067",
+        "description": "Advanced C++ programming, which deepens students' understanding of object-oriented analysis and design. Basic software engineering principles and practice, including work with APIs. Topics may include program translation, web software, parsing, and regular expressions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.2010 Computing III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.2110": {
+        "name": "COMP.2110 Computer Science for SRT Applications (Formerly 91.211)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2110/",
+        "id": "008069",
+        "description": "This course is an introduction to C programming, with applications in sound recording technology. Students will write and execute several programs that perform operations pertinent to SRT, including manipulating MIDI codes, performing simple signal processing functions, processing sampled data, and synthesizing sound algorithmically. Not for computer science majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Music majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.2120": {
+        "name": "COMP.2120 Special Topics: Sound Thinking (Formerly 91.212)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2120/",
+        "id": "035253",
+        "description": "Special Topics: Sound Thinking is an interdisciplinary elective for students at the  sophomore level and above that explores the intersection of computing and music. The course explores the properties of sound, musical form, non-traditional notation, music programming, the computer as a musical instrument, and live performance. It is co-taught by Music and Computer Science faculty.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.2300": {
+        "name": "COMP.2300 Introduction to Computer Security (Formerly COMP.3611)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2300/",
+        "id": "039802",
+        "description": "This course introduces students to introductory concepts in cybersecurity. The course will cover generic topics such as introduction to networks, security vulnerabilities in networking protocols, the confidentiality, integrity and availability (CIA) triad, basic cryptography concepts, key management, cryptographic protocols and practical applications of cryptography. For topics in computer security, this course will cover an overview of operation systems security (particularly Linux), password security, access control mechanisms, patching, vulnerability analysis, intrusion detection, auditing, system hardening, virtualization, and security policies. For topics in Network Security, this course will cover major threats affecting networks such as Denial of Service (DoS), brute-force, malicious packets, etc. There will be a high-level overview on network specific attacks such as replay, reflection and MitM and how modern authentication and communication protocols like SSH and TLS prevent them. For topics in application security, this course will overview major threats affection application such as Buffer Overflows, Race Conditions, XSS, Injection attacks, etc. and techniques to prevent them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.1020 Computing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.2350": {
+        "name": "COMP.2350 Cyber Crime Investigation (Formerly COMP.4611)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/2350/",
+        "id": "039803",
+        "description": "This class introduces students to computer forensics and network forensics, which are two major components of digital forensics. The class covers topics including legal compliance, applicable laws, affidavits, root cause analysis, case law, chain of custody, digital Investigations, authentication of evidence, metadata, using virtual machines for analysis, how to testify, E-Discovery, HIPAA/FERPA, computer security act, Sarbanes - Oxley Act, Gramm - Leach - Bliley Act, Children's Online Privacy Protection Act (COPPA), payment card industry data security standard (PCI D55), state, US and international standards/Jurisdictions, laws and authorities, US Patriot Act, problem solving, log-file analysis, interlacing of device and network forensics, etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2300 Intro to Computer Security.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3010": {
+        "name": "COMP.3010 Organization of Programming Languages (Formerly 91.301)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3010/",
+        "id": "008076",
+        "description": "Analytical approach to the study of programming languages. Description of the salient features of the imperative, functional, logical, and object-oriented programming paradigms in a suitable metalanguage such as Scheme. Topics include iteration, recursion, higher-order functions, types, inheritance, unification, message passing, orders of evaluation, and scope rules. Elementary syntactic and semantic descriptions. Implementation of simple interpreters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.2010 Computing III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3040": {
+        "name": "COMP.3040 Foundations of Computer Science (Formerly 91.304)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3040/",
+        "id": "008077",
+        "description": "A survey of the mathematical foundations of Computer Science. Finite automata and regular languages. Stack Acceptors and Context-Free Languages. Turing Machines, recursive and recursively enumerable sets. Decidability.  Complexity. This course involves no computer programming.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP 1020 Computing II, and MATH 3220 Discrete Structures II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "MATH.3220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3050": {
+        "name": "COMP.3050 Computer Architecture (Formerly 91.305)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3050/",
+        "id": "008078",
+        "description": "Examines the basic functional components of a computer system including the CPU, memory systems, and I/O systems. Each of these three areas will be developed in detail with a focus on the system design and component integration. Topics will include CPU control and ALU operation, computer timing, data address and I/O bus activity, addressing model, programmed and DMA I/O, and instruction sets and micro code.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: EECE 2650 Intro to Logic Design, COMP 1020 Computing II, COMP 2030 Comp Org & Assembly Lang or EECE 3170 Microprocessor Syst Des I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EECE.2650"
+                ],
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "COMP.2030",
+                    "EECE.3170"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3080": {
+        "name": "COMP.3080 Operating Systems (Formerly 91.308)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3080/",
+        "id": "001228",
+        "description": "Presents an introduction to major operating systems and their components. Topics include processes, concurrency and synchronization, deadlock, processor allocation, memory management, I/O devices and file management, and distributed processing. Techniques in operating system design, implementation, and evaluation will be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.3050 Computer Architecture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3085": {
+        "name": "COMP.3085 Introduction to Linux Kernel Development",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3085/",
+        "id": "042236",
+        "description": "Linux is the most widely used operating system in the world. The core software component of the Linux operating system is the kernel. Some of its roles include managing hardware interactions, virtualizing system resources, and enforcing security constraints. In effect, the Linux kernel powers almost all of the world's top supercomputers, android phones, and an innumerable variety of other computers. This course will introduce students to the Linux kernel development by focusing on device driver development, particularly character devices and the / proc and /sys interfaces. This will give students hands-on experience working with internal Linux kernel APIs for hardware access, memory management, DMA, and interrupts, among other, and provide an overview of some of the core features and components of the kernel, such as scheduling, system calls, the boot process, and hardware description trees. Gaining an understanding of the inner workings of the operating system and how to make changes to it will give students an invaluable perspective on how computers work behind the scenes, which will reveal a new layer of understanding to apply to any future software engineering practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2030 Assembly Language Programming.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3090": {
+        "name": "COMP.3090 Database I (Formerly 91.309)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3090/",
+        "id": "008080",
+        "description": "The Database I and II course pair provides students with a comprehensive introduction to data modeling, design of databases, use of database management systems for applications, and exploration into the building of databases. Database I covers relational data models, relational algebra and SQL -- The standard language for creating, querying, and modifying relational databases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.2040 Computing IV.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3100": {
+        "name": "COMP.3100 Database II (Formerly 91.310)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3100/",
+        "id": "008081",
+        "description": "Advanced topics in database systems. The database I and II course pair provides students with a comprehensive introduction to data modeling, design of databases, use of database management systems for applications, and exploration into the building of databases. Database II focuses on database design with Entity-Relationship (E-R) models. Students design and implement a web-based database using MySQL and PHP.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.309 Database I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.3300": {
+        "name": "COMP.3300 Introduction to Malware Analysis",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3300/",
+        "id": "041767",
+        "description": "This course covers a variety of topics on malware analysis, including basic and advanced static analysis and dynamic analysis, virtual machines, assembly language, reverse engineering tools, anti-reverse engineering techniques, and shell code analysis. Students will be able to apply the techniques to detect malware behaviors in binaries and systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2300 Intro to Computer Security.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3310": {
+        "name": "COMP.3310 Cyber Defense",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3310/",
+        "id": "041944",
+        "description": "The course objectives are to -(1) train students on designing, implementing, and evaluating operating systems, enterprise networks, protocols, and services that are secure from modern threats and attacks and (2) train students on performing security and vulnerability analysis of the aforementioned technologies.  The focus will be on highly used protocols such as Secure Shell (SSH), Remote Desktop Protocol (RDP), Active Directory (AD), Domain Name System (DNS), Transport Layer Security (TLS), Virtual Private Network (VPN), OpenID Connect (OID), OAuth, and services such as email servers and web servers.  The overarching goal is to understand the underlying principles behind the technologies, what makes these technologies inherently insecure and the steps to make them more resilient to attacks.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2300 Intro to Computer Security.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.3500": {
+        "name": "COMP.3500 Special Topics (Formerly 91.350)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/3500/",
+        "id": "008085",
+        "description": "Topics of mutual interest to the instructor and student(s). (Formerly 91.350).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.3050 Computer Architecture, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4010": {
+        "name": "COMP.4010 Software Project I (Formerly 91.401)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4010/",
+        "id": "008093",
+        "description": "Specification, design, and implementation of a one- or two-semester software project proposed to a directing faculty member. Projects may be proposed as a one- or two-semester effort based on faculty approval. A two-semester effort requires subsequent registration for COMP.4020 Prerequisite: Students must submit a proposal to the directing faculty member, obtain his/her signed approval, and forward a copy of the signed proposal to department chairperson",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Academic Plan or minor Computer Science (BS)  and Level Sophomore Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4020": {
+        "name": "COMP.4020 Software Project II (Formerly 91.402)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4020/",
+        "id": "008094",
+        "description": "A continuation of COMP.4010. Students must submit a proposal to the directing faculty member, obtain his/her signed approval, and forward a copy of the signed proposal to the department chairperson.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.401 Software Project I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4040": {
+        "name": "COMP.4040 Analysis of Algorithms (Formerly 91.404)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4040/",
+        "id": "008095",
+        "description": "Development of more sophisticated ideas in data type and structure, with an introduction to the connection between data structures and the algorithms they support. Data abstraction. Controlled access structures. Trees, lists, stacks, queues, graphs, arrays, hash tables. Algorithm design strategies such as divide and conquer. Elementary techniques for analysis; asymptotic analysis, recursion equations, estimation methods, elementary combinatorial arguments. Examination of problem areas such as searching and sorting, and the indicated representations and algorithms. The student will use the techniques learned in this course and in previous courses to solve a number of logically complex programming problems using pseudocode, with an emphasis on establishing algorithmic correctness and estimating time and space complexity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: COMP 1020 Computing II, MATH 3220 Discrete Structures ll and MATH 3860 Probability  & Statistics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "MATH.3220"
+                ],
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4060": {
+        "name": "COMP.4060 Compiler Construction I (Formerly 91.406)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4060/",
+        "id": "008097",
+        "description": "Includes both theory and practice. A study of grammars; specification and classes; the translation pipeline: lexical analysis, parsing, semantic analysis, code generation and optimization; and syntax-directed translation. Use of automatic generation tools in the actual production of a complete compiler for some language.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4110": {
+        "name": "COMP.4110 Software Engineering I (Formerly 91.411)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4110/",
+        "id": "008099",
+        "description": "Software Engineering is an essential discipline for any computer science major.  In this class you will learn skills that will help you design and build software projects for advanced computer science classes  This course provides an introduction to systematic techniques for development of software, i.e. , \"the Engineering of Software\".  Topics to be discussed include software life-cycle, group coordination, requirements specification, software design, software testing and software maintenance.  Emphasis is given to the development of one complex software system and the system documentation necessary for such a complete software product  The students will mock the software cycle via a medium-to-large semester-long project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.2040 Computing IV.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4120": {
+        "name": "COMP.4120 Software Engineering II (Formerly 91.412)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4120/",
+        "id": "008100",
+        "description": "Software development methodologies for large-scale systems. Project organization, life cycle concept, data modeling, structured analysis and design, information hiding, and the use of computer-aided software engineering (CASE) tools. Team projects are required; these emphasize the design, documentation, and maintenance of complex software systems. Not open to students who have taken 91.523 Software Engineering I.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.411 Software Engineering I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4130": {
+        "name": "COMP.4130 Data Communications I (Formerly 91.413)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4130/",
+        "id": "008101",
+        "description": "This course provides an introduction to fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications. Topics include: TCP/IP and OSI layered network architectures and associated protocols, application layer,  network programming API (sockets), transport, congestion, flow control, routing, addressing, autonomous systems, multicast and  link layer.  Examples will be drawn primarily from the Internet.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2030 Assembly Language Programming, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4140": {
+        "name": "COMP.4140 Data Communications II (Formerly 91.414)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4140/",
+        "id": "008102",
+        "description": "A continuation of 91.413.  Topics include Multimedia Networks, network Management, Network Security, Wireless and Mobile Networks.  Students will track discussion in IETF committees and work in a dedicated network laboratory.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.413 Data Communications I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4150": {
+        "name": "COMP.4150 Internet of Things",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4150/",
+        "id": "042179",
+        "description": "The course focuses on fundamental concepts and the state-of-the-art of the Internet of Things (IoT), IoT software, sensor signal processing, IoT networking systems, building IoT products using arduino, NodeMCU, IoT platforms and sensors, designing IoT solutions and mobile computing. Students will learn about the advantages of IoT, fog computing, the use of AI and blockchain technologies in IoT. Real-world applications and cases, such as smart homes, smart cars, and smart cities will be discussed and the future of IoT will be examined. At the end of this source, students will (1) obtain a solid understanding of IoT, fog computing, edge computing, the use of AI-blockchain technologies in IoT, (2) be able to apply data science in real-world applications and cases, such as smart homes, smart cars, smart cities, and healthcare.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.4220 Machine Learning.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4200": {
+        "name": "COMP.4200 Artificial Intelligence (Formerly 91.420)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4200/",
+        "id": "008104",
+        "description": "Topics include: search techniques and their properties, including A*; game-playing, including adversarial and stochastic search; probabilistic reasoning, including Markov Decision Processes and Hidden Markov Models; and reinforcement learning, including value iteration and q-learning. Topics are developed theoretically and with programming assignments. The course includes a student-directed final project and paper.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: COMP 3010 Organization of Programming Languages and MATH 3860 Probability and Statistics I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "COMP.3010"
+                ],
+                [
+                    "MATH.3860"
+                ]
+            ]
+        }
+    },
+    "COMP.4210": {
+        "name": "COMP.4210 Data Mining (Formerly 91.421)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4210/",
+        "id": "008105",
+        "description": "This introductory data mining course will give an overview of the models and algorithms used in data mining, including association rules, classification, and clustering.  The course will teach the theory of these algorithms and students will learn how  and why the algorithms work through computer labs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP 4200 Artificial Intelligence or COMP 3100 Database II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4200",
+                    "COMP.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4220": {
+        "name": "COMP.4220 Machine Learning (Formerly 91.422)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4220/",
+        "id": "008106",
+        "description": "This introductory course gives an overview of machine learning techniques used in data mining and pattern recognition applications. Topics include: foundations of machine learning, including statistical and structural methods; feature discovery and selection; parametric and non-parametric classification; supervised and unsupervised learning; use of contextual evidence; clustering, recognition with strings; small sample-size problems and applications to large datasets.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: COMP 1020 Computing II, MATH 3220 Discrete Structures ll and MATH 3860 Probability  & Statistics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "MATH.3220"
+                ],
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4230": {
+        "name": "COMP.4230 Computer Vision I (Formerly 91.423 & 91.523)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4230/",
+        "id": "038743",
+        "description": "Computer vision has seen remarkable progress in the last decade, fueled by the ready availability of large online image collections, rapid growth of computational power, and advances in representations and algorithms. Applications range from 3-D scene reconstruction, to visual Simultaneous Localization and Mapping (SLAM) for robotics, to real-time human body pose estimation. This introductory computer vision course explores various fundamental topics in the area, including the principles of image formation, local feature analysis, segmentation, multi-view geometry, image warping and stitching, structure from motion, and object recognition.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP 1020 Computing II, MATH 1320 Calculus II, and MATH 3220 Discrete Structures II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "MATH.3220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4240": {
+        "name": "COMP.4240 Introduction to Reinforcement Learning",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4240/",
+        "id": "042128",
+        "description": "This course provides a solid introduction to the field of Reinforcement Learning (RL) and Decision Making. The students will learn about the basic blocks, main approached, and core challenges of Reinforcement Learning including tabular methods, Finite Markov Decision Processes, Dynamic Programming, Monte Carlo Methods, Temporal-Difference learning, policy search, function approximation, exploration, and generalization. Through a combination of lectures, and written and coding assignments, students will become well versed in key ideas and techniques for RL. Assignments will include the basics of reinforcement learning. In addition, students will advance their understanding and the field of RL through a final project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2010 Computing III, and MATH.3860 Probability and Statistics I, or Permission of Instructor.(Students seeking this permission are expected to have knowledge of calculus, linear algebra, and Python).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2010"
+                ],
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4270": {
+        "name": "COMP.4270 Computer Graphics I (Formerly 91.427)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4270/",
+        "id": "008107",
+        "description": "Introduction to graphics systems and concepts. History of graphics. Introduction to hardware, software, and mathematical tools. Graphics languages and APIs (OpenGL and other traditional and web-based libraries). Graphics data structures and algorithms for 2D and 3D modeling and viewing. Input, archiving, and display architectures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.2010 Computing III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4280": {
+        "name": "COMP.4280 Computer Graphics II  (Formerly 91.428)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4280/",
+        "id": "008108",
+        "description": "An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models, realism through precision (ray tracing) and imprecision (fractals), modern hardware architectures, and animation and simulation systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.427 Computer Graphics I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4290": {
+        "name": "COMP.4290 Bioinformatics for CS",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4290/",
+        "id": "040401",
+        "description": "Complete genomic sequences of human, other mammals, and numerous other organisms are known for some time. From early on, comparisons or analyses of genomic sequences require aids of computer programming. After brief introductions to molecular biology for Computer Science students, the course will examine computer algorithms used in bioinformatics problems including sequence alignment, phylogeny, DNA sequencing, and data analyses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.1020 Computing II, and MATH.3860 Probability and Statistics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4420": {
+        "name": "COMP.4420 Natural Language Processing (Formerly 91.442 & 91.542)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4420/",
+        "id": "038884",
+        "description": "This course introduces principles and techniques behind natural language processing (NLP), and covers a large selection of important automatic text processing tasks. Selected topics include n-gram language models, part-of-speech tagging, statistical parsing, word sense disambiguation, discourse segmentation, information extraction, sentiment analysis, machine translation. Quantitative techniques are emphasized, with a focus on applying statistical models to large collections of text. The course provides students with a hands-on experience in building a substantial NLP application of their choice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "91.422 Machine Learning.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4500": {
+        "name": "COMP.4500 Mobile Robotics I (Formerly 91.450)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4500/",
+        "id": "008111",
+        "description": "An introduction to robotics, including laboratory. In the lab, students build and program robots. Topics include sensors, locomotion, deliberative, reactive, and hybrid control architectures, computer vision, application domains, and current research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP 1020 Computing II, or Co-req: EECE 3170 Microprocessor System Design I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "EECE.3170"
+                ]
+            ]
+        }
+    },
+    "COMP.4510": {
+        "name": "COMP.4510 Mobile Robotics II (Formerly 91.451)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4510/",
+        "id": "008112",
+        "description": "Advanced topics in robotics, including laboratory.  Topics to be covered include probabilistic methods, including sensor modeling, hidden Markov models, particle filters, localization, and map making. Research-level robots are used in the laboratories.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.1020 Computing II, or EECE.3170 Microprocessor System Design I and Co-req: MATH.3860 Probability and Statistics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020",
+                    "EECE.3170"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.3860"
+                ]
+            ]
+        }
+    },
+    "COMP.4600": {
+        "name": "COMP.4600 Selected Topics (Formerly 91.460)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4600/",
+        "id": "008120",
+        "description": "Depends on faculty interest, student demand, and developments in the field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4610": {
+        "name": "COMP.4610 Graphical User Interface Programming I (Formerly 91.461)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4610/",
+        "id": "008121",
+        "description": "This is a first course in the design and implementation of graphical user interfaces (GUIs) for web-based environments. The course requires the completion of several client-side programming projects that are evaluated on design and layout of the user interface, coding style, and comprehensiveness of documentation. Students learn to create web pages using HTML, CSS, JavaScript, jQuery, and a variety of jQuery plugins. Server-side techniques using PHP and MySQL are explored if time permits. The course may be taken on its own, but is intended to be followed by 91.462 to complete a two-course CS project sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.2010 Computing III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4620": {
+        "name": "COMP.4620 Graphical User Interface Programming II (Formerly 91.462)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4620/",
+        "id": "008122",
+        "description": "A second course in the design and implementation of graphical user interfaces for web-based environments. The course requires the completion of a semester-long project done with others as a team. It explores the writing of a project proposal, the development and presentation of alpha and beta versions, usability testing, and a final presentation to an external audience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.4610 GUI Program I with C or better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4630": {
+        "name": "COMP.4630 Mobile App Programming l",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4630/",
+        "id": "039983",
+        "description": "This is a first course in the design and implementation of mobile applications. The course requires the completion of several Android programming projects that are evaluated on the functional correctness, coding style, and documentation. Students learn the fundamental principles of Android components, application architectures, and common Android libraries to create non-trivial mobile applications. The course may be taken on its own, but is intended to be followed by Mobile App Programming ll to complete a two-course CS project sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2040 Computing lV.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4631": {
+        "name": "COMP.4631 Mobile App Programming ll",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4631/",
+        "id": "039984",
+        "description": "A second course in the design and implementation of mobile applications on Android platform. The course requires the completion of a semester-long project done with others as a team. It explores the writing of a project proposal, the development and presentation of alpha and beta versions, usability testing, and a final presentation to an external audience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.4630 Mobile App Programming l.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4650": {
+        "name": "COMP.4650 Introduction to IoT Security and Privacy",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4650/",
+        "id": "041853",
+        "description": "The Internet of Things (IoT) has broad application domains including healthcare, smart home, retail, manufacturing, agriculture, environmental monitoring and industrial automation. This course introduces different aspect of IoT security and privacy on hardware, software, network, and data. The key objectives include: understanding IoT frameworks, applications and security and privacy concerns; being familiar with IoT hardware security; understanding IoT system security; mastering IoT network security; understanding the IoT data security and privacy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2300 Intro to Computer Security.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.4800": {
+        "name": "COMP.4800 Honors Project I (Formerly 91.480)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4800/",
+        "id": "008128",
+        "description": "This course provides an undergraduate research experience for Computer Science majors enrolled in the Honors Program. Each student develops a project idea in consultation with the instructor. The student writes a proposal for the project, reads the relevant literature, performs the project, writes a project report or thesis, and makes an oral presentation about the project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4810": {
+        "name": "COMP.4810 Honors Project II (Formerly 91.481)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4810/",
+        "id": "008129",
+        "description": "In this course, students continue and complete the project started in 91.480 Honors Project I.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req or Co-Req: 91.480 Honors Project I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4900": {
+        "name": "COMP.4900 Directed Studies in Computer Science (Formerly 91.490)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4900/",
+        "id": "008131",
+        "description": "Individual study for a student desiring more advanced or more specialized work. This course may not be taken more than twice and may not be substituted for scheduled offerings. Prerequisite: Students must submit a proposal to the directing faculty member, obtain his/her signed approval, and forward a copy of the signed proposal to the department chairperson.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.4930": {
+        "name": "COMP.4930 Cooperative Education in Computer Science (Formerly 91.493)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/4930/",
+        "id": "038490",
+        "description": "Supervision of cooperative educational experiences in Computer Science.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5020": {
+        "name": "COMP.5020 Foundations of Computer Science (Formerly 91.502)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5020/",
+        "id": "008134",
+        "description": "An advanced introduction to theoretical computer science. This course will cover the fundamentals of automata, formal languages, and computability theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.4040 Analysis of Algorithms.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5030": {
+        "name": "COMP.5030 Algorithms (Formerly 91.503)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5030/",
+        "id": "008135",
+        "description": "Advanced algorithms and complexity analysis.  Dynamic programming; greedy algorithms; amortized analysis;  shortest path and network flow graph algorithms; NP-completeness;  approximation algorithms; number-theoretic algorithms; string matching; computational geometry.  Additional topics may include linear programming, parallel algorithms, fast Fourier transforms, polynomial, integer, and matrix algorithms.  Readings may  include conference and journal papers from the algorithms literature.Abstract types, lists, trees, graphs, sets; relevant algorithms and their worst and average case analyses; fast transforms; polynomial, integer, and matrix algorithms; NP-completeness.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.4040 Analysis of Algorithms.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5040": {
+        "name": "COMP.5040 Advanced Algorithms: Computational Geometry (Formerly 91.504)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5040/",
+        "id": "008136",
+        "description": "Advanced algorithms topics, such as design and analysis of geometric and combinatorial algorithms, computability andcomplexity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.503 Algorithms or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5100": {
+        "name": "COMP.5100 Computational Complexity Theory (Formerly 91.510)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5100/",
+        "id": "008139",
+        "description": "This course covers polynomial-time hierarchy and polynomial space, circuit complexity, structure of NP, probabilistic machines and complexity classes, complexity of counting, interactive proof systems, probabilistically checkable proofs, complexity of approximation problems, and average-case NP-completeness.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs.  COMP 5020 Foundations of CS, and COMP 5030 Algorithms.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5020"
+                ],
+                [
+                    "COMP.5030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5130": {
+        "name": "COMP.5130 Internet And Web Systems I (Formerly 91.513)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5130/",
+        "id": "008142",
+        "description": "This course is a survey of Web programming technologies. It begins with a discussion of what Web servers and clients are, how they interact, and how one sets them up. We then explore a wide variety of Web technologies including HTML, JavaScript, JavaServer Pages, Java Servlets, and XML and its many related technologies. Our goal in this course is to provide the basic understanding and knowledge of how the Internet and World Wide Web operate and the technical knowledge required to establish and maintain an Internet/Web site and to develop and introduce new capabilities and features on such sites.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5140": {
+        "name": "COMP.5140 Internet & Web Systems II (Formerly 91.514)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5140/",
+        "id": "008143",
+        "description": "A continuation of 91.513 with a focus on current topics and topics of special interest. Examples of recent topics include: The semantic Web and ontologies, Web services, Peer-to-peer networks, Information Search and Retrieval, Autonomous intelligent agents and Multi-modal presentations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.5130 Internet & Web Systems I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5150": {
+        "name": "COMP.5150 Operating Systems I (Formerly 91.515)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5150/",
+        "id": "008144",
+        "description": "This course provides insight into multiprocessing operating systems including processor memory, peripheral, and file systems management in batch, timesharing, real time, and distributed systems targeted for various hardware. Particular emphasis will be placed on techniques of virtual memory as well as the problems of concurrency in both centralized and distributed systems. An OS simulation is a required programming project. Some topics to be covered are process synchronization; high-Level mechanisms for concurrency; processor scheduling and system analysis; deadlock; virtual memory; distributed systems; computer security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5160": {
+        "name": "COMP.5160 Operating Systems II (Formerly 91.516)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5160/",
+        "id": "008145",
+        "description": "The design and implementation of an interactive multiprocessing operating system to run on a bare hardware system. Separate teams manage the major subsystems with in-class design reviews to coordinate system integration. A functioning system is a class requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.5150  Operating Systems I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5150"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5170": {
+        "name": "COMP.5170 Introduction to Linux Kernel Development",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5170/",
+        "id": "042218",
+        "description": "Linux is the most widely used operating system in the world. The core software component of the Linux operating system is the kernel. Some of its roles include managing hardware interactions, virtualizing system resources, and enforcing security constraints. In effect, the Linux kernel powers almost all of the world's top supercomputers, android phones, and an innumerable variety of other computers. This course will introduce students to the Linux kernel development by focusing on device driver development, particularly character devices and the /proc and/sys interfaces. This will give students hands-on experience working with internal Linux kernel APIs for hardware access, memory management, DMA and interrupts, among other, and provide an overview of some of the core features and components of the kernel, such as scheduling, system calls, the boot process, and hardware description trees. Gaining an understand of the inner workings of the operating system and how to make changes to it will give students an invaluable perspective on how computers work behind the scenes, which will reveal a new layer of understanding to apply to any future software engineering practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2030 Assembly Language Programming, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5230": {
+        "name": "COMP.5230 Computer Vision I (Formerly 91.423 & 91.523)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5230/",
+        "id": "038743",
+        "description": "Computer vision has seen remarkable progress in the last decade, fueled by the ready availability of large online image collections, rapid growth of computational power, and advances in representations and algorithms. Applications range from 3-D scene reconstruction, to visual Simultaneous Localization and Mapping (SLAM) for robotics, to real-time human body pose estimation. This introductory computer vision course explores various fundamental topics in the area, including the principles of image formation, local feature analysis, segmentation, multi-view geometry, image warping and stitching, structure from motion, and object recognition.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP 1020 Computing II, MATH 1320 Calculus II, and MATH 3220 Discrete Structures II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "MATH.3220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5270": {
+        "name": "COMP.5270 Human Computer Interaction (Formerly 91.527)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5270/",
+        "id": "008155",
+        "description": "The purpose of this class is to ground students in the basics of how humans interact with technology, and make students aware of the breadth of topic areas related to human-computer interaction (HCI).  This course emphasizes theoretical constructs such as the Model-Human Processor, and includes seminal readings by the original researchers.  Further, the course emphasizes techniques for understanding users' tasks, formulating users' requirements, and assessing proposed designs using heuristic evaluation.  As part of understanding users' needs, students will consider social, organizational, and ethical perspectives on information technology.  Students are also exposed to specialty topics in human-computer interaction such as multi-user computing, universal access to computer applications, and internationalizing interfaces.  This course includes a project to design, develop, document, and orally present a prototype interface.  At the end of the course students will be able to cite basic principles of human interaction and devise and carry out a usability engineering plan to aid in developing new human interfaces.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5280": {
+        "name": "COMP.5280 Evaluation of Human-Computer Interaction (Formerly 91.528)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5280/",
+        "id": "030391",
+        "description": "This course is an introduction to methods used to evaluate the design of human-computer interaction (HCI).  Students will apply examples of all three of the major types of HCI evaluation techniques: inspection, analytical, and empirical techniques.  The course also covers HCI experiment design and data analysis, including threats to experimental validity.  The course project consists of a formal usability test.  This project requires students to learn principles of ethical treatment of human subjects, complete the  University's Institutional Review Board applications and training for human-subject testing, conduct testing sessions, analyze data, recommend design changes, and document results in a professional manner.  At course completion, students will have demonstrated skills for assessing the effectiveness of interface designs and will understand how evaluation fits into computer products' lifecycles.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5300": {
+        "name": "COMP.5300 Special Topics (Formerly 91.530)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5300/",
+        "id": "008156",
+        "description": "Topics of mutual interest to the instructor and student(s). \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5310": {
+        "name": "COMP.5310 Design of Program Languages (Formerly 91.531)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5310/",
+        "id": "008157",
+        "description": "A one-semester course designed to provide students with hands-on understanding of the underlying concepts of programming languages, the principles of their design, and the fundamental methods for their implementation. An executable metalanguage such as Scheme or SML is used throughout the course, facilitating the design of high-level, concise interpreters that are easy to comprehend. The approach is analytical because the salient features of the imperative, functional, object-oriented, and logic programming paradigms are described in the executable meta-language.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  COMP 3010 Org Programming Languages or COMP 4060 Compiler Construction I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.3010",
+                    "COMP.4060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5340": {
+        "name": "COMP.5340 Compiler Construction I (Formerly 91.534)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5340/",
+        "id": "008160",
+        "description": "This course implements a compiler for a complete language. Topics include grammars, syntax, elements of parsing and recursive descent, semantics, basic code generation, fast compilation runtime support. Programming project required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5400": {
+        "name": "COMP.5400 Visual Analytics (Formerly 91.540)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5400/",
+        "id": "008164",
+        "description": "This course covers the basic topics for the interdisciplinary field of visual analytics.  This course is not just for computer science students but also for analysts and scientists in different disciplines.  The topics include visual analytics science and technology, perception, cognitive processes and human tasks and reasoning, data and knowledge representation, visualization and interaction, statistical and analytic methods, data mining and knowledge discovery, and evaluation and usability.  Numerous examples of systems, tools and applications will be presented.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Requisites: COMP 3010 Org Programming Languages or COMP 3040 Foundations of Comp Science; or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.3010",
+                    "COMP.3040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5411": {
+        "name": "COMP.5411 Data Visualization (Formerly 91.541)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5411/",
+        "id": "008165",
+        "description": "This course looks at classical and novel methodologies for the visualization of large and complex data sets. The course covers both scientific and information visualization starting with data modeling, human perception and cognition, basic and advanced techniques, interaction, formal models, real time systems, and frameworks for integrated analysis and visualization. Examples used come from numerous areas including the biomedical literature and security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5420": {
+        "name": "COMP.5420 Natural Language Processing (Formerly 91.442 & 91.542)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5420/",
+        "id": "038884",
+        "description": "This course introduces principles and techniques behind natural language processing (NLP), and covers a large selection of important automatic text processing tasks. Selected topics include n-gram language models, part-of-speech tagging, statistical parsing, word sense disambiguation, discourse segmentation, information extraction, sentiment analysis, machine translation. Quantitative techniques are emphasized, with a focus on applying statistical models to large collections of text. The course provides students with a hands-on experience in building a substantial NLP application of their choice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "91.422 Machine Learning.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5430": {
+        "name": "COMP.5430 Artificial Intelligence (Formerly 91.543)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5430/",
+        "id": "008167",
+        "description": "Search and games, knowledge representation paradigms, natural language understanding, planning, perception. Use of the LISP language for one or more programming projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5435": {
+        "name": "COMP.5435 Reinforcement Learning",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5435/",
+        "id": "042119",
+        "description": "This course provides a solid introduction to the field of Reinforcement Learning (RL) and Decision Making. The students will learn about the basic blocks, main approaches, and core challenges of Reinforcement Learning including tabular methods, Finite Markov Decision Processes, Dynamic Programming, Monte Carlo methods, Temporal-Difference learning, policy search, function approximation, exploration, and generalization. Through a combination of lectures, and written and coding assignments, students will become well versed in key ideas and techniques for RL. Assignments will include the basics of reinforcement learning. In addition, students will advance their understanding and the field of RL through a final project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.2010 Computing III, and MATH.3860 Probability and Statistics I, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.2010"
+                ],
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5440": {
+        "name": "COMP.5440 Data Mining (Formerly 91.544)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5440/",
+        "id": "008168",
+        "description": "This introductory data mining course will give an overview of the models and algorithms used in data mining, including association rules, classification, clustering, etc.  The course will teach the theory of these algorithms and students will learn how  and why the algorithms work through computer labs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP 5430 Artificial Intelligence, or COMP 5730 Database I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5430",
+                    "COMP.5730"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5450": {
+        "name": "COMP.5450 Machine Learning (91.545)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5450/",
+        "id": "008169",
+        "description": "This introductory course gives an overview of machine learning techniques used in data mining and pattern recognition applications.  Topics include: foundations of machine learning, including statistical and structural methods; feature discovery and selection; parametric and non-parametric classification; supervised and unsupervised learning; use of contextual evidence; clustering, recognition with strings; small sample-size problems and applications to large datasets.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: COMP 1020 Computing II, MATH 3220 Discrete Structures ll and MATH 3860 Probability  & Statistics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.1020"
+                ],
+                [
+                    "MATH.3220"
+                ],
+                [
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5455": {
+        "name": "COMP.5455 Graph Machine Learning",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5455/",
+        "id": "042015",
+        "description": "This course focuses on computational and modeling challenges in real world graphs (networks), with a particular emphasis on key advancements in graph representation and its applications. At the end of this course, students should have good understanding of computational techniques that can be applied to a variety of networks, as well as hands-on experience on a range of tasks from identifying important nodes to detection communities to tracing information diffusion in networks. Guest lectures by distinguished researchers and course assignments emphasize the subtleties of translating these techniques into practical applications that reveal insights on a variety of networks. Students should have a strong interest in conducting (or learning how to conduct) research to succeed in this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.4220 Machine Learning, and COMP.1020 Computing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4220"
+                ],
+                [
+                    "COMP.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5460": {
+        "name": "COMP.5460 Computer Graphics I (Formerly 91.546)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5460/",
+        "id": "008170",
+        "description": "Introduction to the hardware, software and mathematics of 2- and 3-dimensional interactive computer graphics systems, including standards, modeling, transformations, hidden-surface removal, shading, and realism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5470": {
+        "name": "COMP.5470 Computer Graphics II (Formerly 91.547)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5470/",
+        "id": "008171",
+        "description": "Lighting models, photo-realism, animation, constructive solid geometry, and distributed graphics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5480": {
+        "name": "COMP.5480 Robot Design (Formerly 91.548)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5480/",
+        "id": "008172",
+        "description": "A broad interpretation of robotics to mean systems that interact with people, each other, and the world around them, using sensors, actuators, communications, and a control program. Project- and lab-based course that involves electronics, embedded coding, mechanical design, and research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5490": {
+        "name": "COMP.5490 Mobile Robots (Formerly 91.549)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5490/",
+        "id": "008173",
+        "description": "This course will focus on the artificial intelligence side of robotics in a project- and lab-based course. Topics to be covered include robot architectures, mapping and localization, learning, vision, multi-agent systems and current research areas.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5495": {
+        "name": "COMP.5495 Robot Learning",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5495/",
+        "id": "041580",
+        "description": "This course will cover a variety of machine learning approaches that allow robots to learn manipulation tasks from their own actions and experiences, as well as through interaction with humans. Topics will include methods from a) imitation learning, b) learning from demonstration, and c) Reinforcement Learning. We will discuss methods including, but not limited, to data gathering and pre-processing, skill encoding, reproduction, and generalization, skill refinement, obstacle avoidance, symbol grounding, symbolic planning, feature selection and segmentation, and active learning. The course includes student presentations and a final project where students develop an existing approach and extend it further by applying and implementing their own ideas. There are no formal pre-requisites however, this course covers material that utilize a good deal of machine learning and there will be no time to cover all the background material. Therefore, I strongly recommend having a graduate-level machine learning course (COMP.5450), equivalent research experience, or the willingness to do significant studying outside of class. Students are also expected to have fair knowledge of (a) Linear algebra, (b) calculus, and (c) statistics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5500": {
+        "name": "COMP.5500 Topics (Formerly 91.550)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5500/",
+        "id": "008174",
+        "description": "Topics of mutual interest to the instructor and student(s).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5510": {
+        "name": "COMP.5510 Bioinformatics for CS",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5510/",
+        "id": "040416",
+        "description": "Complete genomic sequences of human, other mammals, and numerous other organisms are known for some time. From early on, comparisons or analyses of genomic sequences require aids on computer programming. After brief introductions to molecular biology for Computer Science students, the course will examine computer algorithms used in bioinformatics problems including sequence alignment, phylogeny, DNA sequencing, and data analyses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5520": {
+        "name": "COMP.5520 Foundations in Digital Health",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5520/",
+        "id": "041471",
+        "description": "Digital health is concerned about utilizing computational technologies to develop heath systems, in order to improve healthcare quality. These technologies include various software and hardware solutions such as web apps and wearable devices. This will introduce the foundations and methods in digital health and hand on lab sections to both undergraduate and graduate students, which include the scientific problems, challenges, and application tools of the domain, the tasks we need to handle with, and the applications of various methods such as statistics, machine learning and deep learning. After taking this course, students will obtain a clear concept about what is digital health and knowledge of a wide rang of resources and tools to solve the problems and tasks in this domain.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5530": {
+        "name": "COMP.5530 Deep Learning",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5530/",
+        "id": "008177",
+        "description": "This course focuses on the deep learning theory, algorithms, systems, and applications. Topics to be covered in this course include math and machine learning basics for Deep Learning, foundations of Deep Learning, Convolutional neural networks, Recurrent neural networks, Deep reinforcement learning, and practical methodology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.3080 Operating Systems, and COMP.4040 Analysis of Algorithms, and COMP.4220 Machine Learning.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.3080"
+                ],
+                [
+                    "COMP.4040"
+                ],
+                [
+                    "COMP.4220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5610": {
+        "name": "COMP.5610 Computer & Network Security I (Formerly 91.561)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5610/",
+        "id": "008183",
+        "description": "Basic concepts and techniques of computer network security; data encryption algorithms; public-key cryptography and key management; data authentication; network security protocols in practice; wireless network security; network perimeter security; the art of anti malicious software; the art of intrusion detection.  Students will implement encryption and authentication algorithms as network applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 3210 Discrete Structures I , COMP 4040 Analysis of Algorithms and COMP 4130 Data Communications I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3210"
+                ],
+                [
+                    "COMP.4040"
+                ],
+                [
+                    "COMP.4130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5620": {
+        "name": "COMP.5620 Computer Security II (Formerly 91.562)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5620/",
+        "id": "008184",
+        "description": "Applied computer security topics such as a computer and network forensics, virtual private networks, denial of service, viruses and worms, intrusion detection systems, smart cards, biometrics, programming language security, web security and privacy, e-commerce; case studies of deployed systems; policy and legal considerations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5630": {
+        "name": "COMP.5630 Data Communications I (Formerly 91.563)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5630/",
+        "id": "008185",
+        "description": "Resource sharing; computer traffic characterizations; multiplexing; network structure; packet switching and other switching techniques; design and optimization; protocols; routing and flow control; simulation and measurement; communications processors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5640": {
+        "name": "COMP.5640 Data Communications II (Formerly 91.564)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5640/",
+        "id": "008186",
+        "description": "Continuation of 91.563",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.5630 Data Communications I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5650": {
+        "name": "COMP.5650 Internet of Things",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5650/",
+        "id": "042176",
+        "description": "This course focuses on fundamental Concepts and the State-of-the-Art of the Internet of Things (IoT); IoT Software; sensors signal processing; IoT networking systems; building IoT products using Arduino; NodeMCU; IoT Platforms and Sensors; the design of IoT solutions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.4220 Machine Learning.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5660": {
+        "name": "COMP.5660 Malware Analysis",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5660/",
+        "id": "041809",
+        "description": "This class covers both introductory and advanced topics on binary reverse engineering techniques including virtual machines as sandboxes, basic and advanced dynamic analysis, a crash course on assembly language, reverse engineering tools, shellcode analysis and anti-reverse engineering techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5670": {
+        "name": "COMP.5670 IoT Security and Privacy",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5670/",
+        "id": "041837",
+        "description": "The key objectives of this class include: understand IoT frameworks, applications and security and privacy concerns; be familiar with IoT hardware security; master IoT systems security; master IoT software security; master IoT network security; understand the IoT data security and privacy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.5610 Computer & Network Security I, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5690": {
+        "name": "COMP.5690 Computer and Network Forensics",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5690/",
+        "id": "041868",
+        "description": "This class introduces students to computer forensics and network forensics. Computer forensics tackles forensic investigation of stand-alone computers while network forensics deals with forensic investigation of networked computers and networks. The class will cover topics such as laws and legal compliance, forensic imaging and analysis, log-file analysis, network traffic analysis and case study.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP.5610 Computer & Network Security I, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5700": {
+        "name": "COMP.5700 Topics (Formerly 91.570)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5700/",
+        "id": "008190",
+        "description": "Topics of mutual interest to the instructor and student(s).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.555 Comp Networks or 91.563 Data Communication I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5730": {
+        "name": "COMP.5730 Data Base I (Formerly 91.573)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5730/",
+        "id": "008192",
+        "description": "Study of various database models including hierarchical, network, relational, entity-relationship, and object-oriented models. This course also covers data design, integrity, security, concurrency, recovery, query processing, and distribution.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5740": {
+        "name": "COMP.5740 Data Base II (Formerly 91.574)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5740/",
+        "id": "008193",
+        "description": "Continuation of Data Base I. Various issues in the implementation of database systems will be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.5730 Data Base I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5730"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.5800": {
+        "name": "COMP.5800 Topics in Computer Science (Formerly 91.580)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5800/",
+        "id": "008194",
+        "description": "Topics of mutual interest to the instructor and student(s).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5870": {
+        "name": "COMP.5870 Computer Science Education in Secondary School (Formerly 91.587)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5870/",
+        "id": "008199",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5901": {
+        "name": "COMP.5901 Directed Study in Computer Science",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5901/",
+        "id": "041195",
+        "description": "Directed Study in Computer Science",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5920": {
+        "name": "COMP.5920 Special Topics: Computer Science (Formerly 91.592)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5920/",
+        "id": "008203",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.5930": {
+        "name": "COMP.5930 Cooperative Education (Formerly 91.593)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/5930/",
+        "id": "008204",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.6040": {
+        "name": "COMP.6040 Network Optimization (Formerly 91.604)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/6040/",
+        "id": "035779",
+        "description": "This course covers advanced topics in network optimization on continuous and discrete models, including the max-flow problem, the min-cost flow problem, simplex methods for min-cost flow, dual ascent methods for min-cost flow, auction algorithms for min-cost flow, nonlinear network optimization, convex separable network problems, and network problems with integer constraints.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.503 Algorithms.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.6130": {
+        "name": "COMP.6130 Advanced Topics in Information Retrieval and Mining (Formerly 91.613)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/6130/",
+        "id": "034993",
+        "description": "This is a proposed new 600-level course.  The topics are advanced topics in Information Retrieval and Mining, including (but not limited to) Search and Information Retrieval, Visual Text Mining, Document Retrieval and Analysis, Non-textual Retrieval (including Image-, Sound, Video-Retrieval).  The course's format is a seminar: (advanced, doctoral) students will be reading and presenting the current state-of-the-art literature.  Course requirements include weekly bibliography reports (at least 2 new entries each week) class presentations, two term papers, and a term project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.514 Internet & Web Systems II; and Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.6410": {
+        "name": "COMP.6410 Advanced Topics in Visualization (Formerly 91.641)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/6410/",
+        "id": "035415",
+        "description": "This course covers advanced topics in data visualization.  Coverage will be topical and may include advanced graph & text visualization, modern coordinated visualizations, collaborative visualization knowledge visualizations, security visualization, web-based visualization, and high-performance visualization.  Theory will also be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.541 Data Visualization.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.6440": {
+        "name": "COMP.6440 Topics in Data Mining (Formerly 91.644)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/6440/",
+        "id": "037056",
+        "description": "This course continues with 91.421/91.544 Data Mining and explores the state of the art research advances in mining large amount of data especially algorithms in association classification, clustering, and applications such as web mining and spatio-temporal data mining.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "COMP 4210 Data Mining or COMP 5440 Data Mining",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.4210",
+                    "COMP.5440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.6610": {
+        "name": "COMP.6610 Advanced Topics in Network Security (Formerly 91.661)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/6610/",
+        "id": "034625",
+        "description": "This is a topic course, with a subtitle to be determined by the instructor.  it covers advanced topics in network security of mutual interests to the faculty and students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.561 Computer & Network Security I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.6730": {
+        "name": "COMP.6730 Advanced Database Systems (Formerly 91.673)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/6730/",
+        "id": "035041",
+        "description": "This course covers advanced topics in database management systems, including query processing and optimization, indexing, transaction management, data warehousing, data mining, etc.  It also covers spartio-temporal databases, search engines,  stream and sensor databases, and open problems for research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: COMP.5730 Data Base I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "COMP.5730"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "COMP.7010": {
+        "name": "COMP.7010 Computer Science Research (Formerly 91.701)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7010/",
+        "id": "008212",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7020": {
+        "name": "COMP.7020 Computer Science Research (Formerly 91.702)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7020/",
+        "id": "008213",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7030": {
+        "name": "COMP.7030 Computer Science  Research (Formerly 91.703)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7030/",
+        "id": "008214",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7060": {
+        "name": "COMP.7060 Directed Research (Formerly 91.706)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7060/",
+        "id": "008217",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7100": {
+        "name": "COMP.7100 Approximation Algorithms (Formerly 91.710)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7100/",
+        "id": "036940",
+        "description": "This course covers advanced topics in approximation algorithms for NP-hard problems, including combinatorial algorithms and LP-based algorithms for set cover, k-cut, k-center, feedback vertex set, shortest superstring, knapsack, bin packing, maximum satisfiability, scheduling, Steiner tree, Steiner Forest, Steiner network, facility location, k-median, semidefinite programming.  It also covers counting problems, shortest vector, hardness of approximation, and open problems for research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 91.503 Algorithms.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7410": {
+        "name": "COMP.7410 Thesis Review (Formerly 91.741)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7410/",
+        "id": "035269",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7430": {
+        "name": "COMP.7430 Master's Thesis - Computer Science (Formerly 91.743)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7430/",
+        "id": "008223",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7460": {
+        "name": "COMP.7460 Master's Thesis - Computer Science (Formerly 91.746)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7460/",
+        "id": "008226",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7490": {
+        "name": "COMP.7490 Master's Thesis - Computer Science (Formerly 91.749)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7490/",
+        "id": "008227",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7510": {
+        "name": "COMP.7510 Doctoral Thesis Research (Formerly 91.751)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7510/",
+        "id": "008228",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7530": {
+        "name": "COMP.7530 Doctoral Dissertation/Computer Science (Formerly 91.753)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7530/",
+        "id": "008229",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7560": {
+        "name": "COMP.7560 Doctoral Dissertation/Computer Science (Formerly 91.756)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7560/",
+        "id": "008231",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7590": {
+        "name": "COMP.7590 Doctoral Dissertation/Computer Science (Formerly 91.759)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7590/",
+        "id": "008233",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.7690L": {
+        "name": "COMP.7690L Continued Graduate Research (Formerly 91.769)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/7690L/",
+        "id": "008236",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "COMP.REVIEW": {
+        "name": "COMP.REVIEW Pending Departmental Review (Formerly 91.Review)",
+        "url": "https://www.uml.edu/catalog/courses/COMP/REVIEW/",
+        "id": "031859",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

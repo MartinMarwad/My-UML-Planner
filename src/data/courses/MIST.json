@@ -1,0 +1,743 @@
+{
+    "total": 38,
+    "time": 28.041179895401,
+    "MIST.2010": {
+        "name": "MIST.2010 Business Information Systems (Formerly 63.301: Management Information Systems, MIST 201)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/2010/",
+        "id": "006488",
+        "description": "The course familiarizes students with key components and principles of information systems and information technology. Students will learn about the role of IS/IT in businesses for improving organizational performance, competing globally, and gaining competitive advantage. The course covers basic principles and technologies pertaining to information management, business intelligence, and business analytics for improving decision-making and managing knowledge. The basic role of enterprise systems in businesses for enabling operational excellence is also discussed. Social and ethical issues associated with the use of information systems are also discussed. Students will utilize IS technologies (e.g., spreadsheet and database software) in a hands-on manner for business problem-solving.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.3030": {
+        "name": "MIST.3030 Database Management Systems (Formerly 63.303, MIST 303)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/3030/",
+        "id": "034607",
+        "description": "An introduction to databases and Database Management Systems (DBMS). Topics include basic concepts of database technology, an introduction to SQL, techniques for logical and physical database design, interaction with a commercial DBMS, and data warehousing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.2010 Business Information Systems, or matriculation in BSIT program having completed INFO.1600 Introduction to Information Systems, or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.2010",
+                    "INFO.1600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.3040": {
+        "name": "MIST.3040 Data Communications and Networks (Formerly 63.404, MIST 304)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/3040/",
+        "id": "006496",
+        "description": "A comprehensive overview of concepts and practice in Business Data Communications and Networking. Explores the principles and applications of data communications in organizations from familiar applications into the more technical aspects of telecom architecture. Analyzes the various types of telecom networks, and how they are designed and configured, including issues involving the management and decision-making process within the telecom department. Students provided with hands-on network administration and configuration experience with a LAN administrator.  Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.3050": {
+        "name": "MIST.3050 Business Applications Development (Formerly 63.330: Application Systems Development, MIST 305)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/3050/",
+        "id": "006487",
+        "description": "Introduction to programming and computing. Topics include fundamental programming constructs, data structures, and object orientation. Through hands-on exercises to build business applications, students will learn programming concepts, software development principles, and computational problem-solving skills. Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.3070": {
+        "name": "MIST.3070 Web Development in MIS (Formelry 63.408 Current Topics in MIS, MIST 307)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/3070/",
+        "id": "006500",
+        "description": "This course addresses one or more current topics to the field of Information Systems. Topics can change at each course offering. Typically, the course will focus on an emerging information technology, discussing fundamental concepts and the technology's application to and effect on business. Examples of possible topics are expert systems, hypermedia and hypertext systems, factory automation systems, and the planning for and management of information resources. Subject matter to be announced in advance. Visit the current semester schedule on the Continuing Studies website for more details.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "63.301 Mgmt. Information System, and MIS Concentration only, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.4020": {
+        "name": "MIST.4020 Systems Analysis and Design (Formerly 63.307, MIST 402)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/4020/",
+        "id": "006491",
+        "description": "An overview of the information system and systems development life cycle (SDLC). Emphasis on tools and techniques that analyst can use to document information systems. Current, classical and structured tools for describing data flow, data structure, process flow, file design, input and output design and program applications will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.3030 Database Management Systems, or MIST.3050 Business Applications Development, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.3030",
+                    "MIST.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.4060": {
+        "name": "MIST.4060 Data Mining for Business Intelligence (formerly 63.406: Decision Support Systems)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/4060/",
+        "id": "006498",
+        "description": "Data mining and analytics can help transform raw data into business intelligence and insight. This course introduces data mining concepts and techniques and is intended to provide students with working knowledge of applying data mining methods. Throughout the course, students regularly use a widely used commercial data mining platform that also prepares them to pursue relevant certifications upon completing the course. Course topics include data exploration and preparation, sampling techniques, model evaluation methods, classification, regression, clustering, association rule mining, and text mining. Model transparency, explainability, and fairness issues are discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.4070": {
+        "name": "MIST.4070 Electronic Business (Formerly 63.407, MIST 407)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/4070/",
+        "id": "006499",
+        "description": "This course covers both the digital commerce business concepts and hands-on work with cloud platforms like Amazon's AWS platform. Topics covered include digital marketing, web privacy & security, mobile computing, FinTech & mobile payments, cloud computing and other emerging digital technologies. Students will learn how to host websites with AWS platform and can use course materials to apply for AWS certification after the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.4080": {
+        "name": "MIST.4080 Enterprise Systems Management (Formerly 63.308, MIST 408)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/4080/",
+        "id": "035576",
+        "description": "Enterprise Resource Planning systems (ERPs) integrate data & applications, crossing the functional boundaries within an organization. This course focuses on the implementation, operation, and usage of ERPs with hands-on work with SAP system. Topics covered include business process integration, change management, reporting, data integration & analytics, enterprise privacy and security issues, and emerging areas related to ERPs, such as AI/ML, blockchain, edge computing and others. Students can use course materials to apply for SAP certifications after the end of course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.4090": {
+        "name": "MIST.4090 Directed Study in Management Information Systems (Formerly 63.409, MIST 409)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/4090/",
+        "id": "006501",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.4880": {
+        "name": "MIST.4880 Current Topics in Management Information Systems (Formerly 63.498, MIST 488)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/4880/",
+        "id": "006511",
+        "description": "Selected topics having current and future impact in the field of MIS. Subject matter to be announced in advance. Contact the course instructor for topic details.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.4890": {
+        "name": "MIST.4890 Internship in Management Information Systems (Formerly 63.489, MIST 489)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/4890/",
+        "id": "006508",
+        "description": "Opportunity for students to earn academic credit through the integration of professional work experience with related academic work. Project jointly supervised by a faculty member and representative of the employing organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MIST.2010 Mgmt Information Systems, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6010": {
+        "name": "MIST.6010 Management Information Systems (Formerly 63.601, MIST 601)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6010/",
+        "id": "006516",
+        "description": "Examines computer technologies, database management, and data communications as vehicle to improve and/or restructure business processes and decision making effectiveness to create competitive advantage.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MBA who completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010 and MGMT.5110, or  MSA, or MS Business Analytics, or  Business Analytics Certificate, or MSF who have completed ACCT.5010 and FINA.5010, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6030": {
+        "name": "MIST.6030 Database Management (Formerly 63.730: Advanced Data Management, MIST 603)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6030/",
+        "id": "036974",
+        "description": "This course provides students with in-depth knowledge for modeling, designing, implementing, and managing database systems for operational and decision support purposes.  Topics covered include relational database model, entity-relationship modeling, normalization, SQL language, data warehousing, data quality and integration, data and database administration, and object-oriented database.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Information Systems, or Mat. MS Business Analytics, or Mat. Business Analytics Cert., or Mat. MS Finance, or Mat. MS accounting, or Mat. Manning MBA, or Mat. MS Industrial Engineering, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6060": {
+        "name": "MIST.6060 Business Intelligence and Data Mining (Formerly MIST 606)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6060/",
+        "id": "036985",
+        "description": "This Course introduces the concepts and technologies of business intelligence and data mining.  The course studies how data-oriented business intelligence techniques can be used by organizations to gain competitive advantages, as well as how to design and develop these techniques.  Topics include classification, clustering, association analysis, prediction, and text and web mining.  Data-mining related ethical issues will also be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Information Systems, or Mat. MS Business Analytics, or Mat. Business Analytics Cert., or Mat. MS Finance, or Mat. MS accounting, or Mat. Manning MBA, or Mat. MS Industrial Engineering, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6070": {
+        "name": "MIST.6070 Electronic Business  (Formerly 63.630: E-business, MIST 607)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6070/",
+        "id": "030437",
+        "description": "This course provides a foundation on digital commerce and e-business for MBA students. It will cover both technological and managerial aspects of managing e-business operations in either a traditional or pure \"dot.com\" organization. Issues covered include interactive marketing and market-spaces, agent-based commerce and intelligent markets, electronic shopping carts, user interface issues, EDI transaction via Extranets, database interfaces, personalization and targeted communications, security, encryption, and payment systems, privacy and intellectual property.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Information Systems, or Matriculated Manning MBA who have completed MIST.6010, or Matriculated MS Business Analytics, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6080": {
+        "name": "MIST.6080 Enterprise System Management (Formerly 63.640, MIST 608)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6080/",
+        "id": "030883",
+        "description": "This course, an MBA elective, will focus on Enterprise Resource Planning (ERP) systems that integrate information spanning the functional boundaries within an organization. ERP systems include like SAP/R3, PeopleSoft, Oracle, and Customer Relationship Management (CRM) like Seibel, Tariva, etc. The goals of the course are to help students understand ERP systems and their underlying components and technologies, the implications of implementing ERP in organizations. Course will cover management and technical issues during the pre-implementation, installation, and post-installation stages of the ERP and/or CRM software in organizations. This course will cover topics such as: ES planning, business process re-engineering, selection of ES software and vendors, role of outside consultants, budgeting and resource planning, systems conversion, testing, user training, stabilization, role of top management, IT staff, consultants, design teams, and employee, and other topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Information Systems, or Matriculated Manning MBA who have completed MIST.6010, or Matriculated MS Business Analytics, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6090": {
+        "name": "MIST.6090 Independent Study in MIST",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6090/",
+        "id": "040574",
+        "description": "Independent Study in MIST",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6100": {
+        "name": "MIST.6100 Information Technology Infrastructure (Formerly 63.610, MIST 610)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6100/",
+        "id": "037589",
+        "description": "This course examines in detail, the two major technologies for establishing the Information Technology (IT) architecture & Infrastructure in an organization Topics include Multi-user Database environments, review of IT architectures, the migration of legacy systems, network (WAN, LAN) design, deployment, and management, and role of the Internet, Extranet, and Intranet.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "63.601 Management of Information Systems or permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.6140": {
+        "name": "MIST.6140 Social and Economic Networks (Formerly 63.745: Electronic Commerce. MIST 614)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6140/",
+        "id": "036977",
+        "description": "This course introduces the concepts and technologies of social network analysis. The course studies how social media analytics can be used by organizations to gain competitive advantages, as well as how to develop and implement the techniques of network analysis. We cover graph theory, graph database, social influence , community detection, information diffusion, and applications of network analysis of recommendation and feature selections. Upon successful completion of this course, students will possess a working knowledge of many concepts of social media analytics and associated techniques and will be able to solve real-world data-driven decision problems at strategic, tactical, and operational levels.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Information Systems, or Matriculated MS Business Analytics or permission of program coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6150": {
+        "name": "MIST.6150 Data Quality for Business Analytics (Formerly 63.760 Enterprise Information Systems, MIST 615)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6150/",
+        "id": "036986",
+        "description": "This course provides students with knowledge and skills to process data for business analytics. Topics include data quality requirement and data preparation for business analytics, impact of data quality on analytics, and methods for assessing and improving data quality in the context of business analytics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Information Systems, or Mat. MS Business Analytics, or Mat. Business Analytics Cert., or Mat. MS Finance, or Mat. MS accounting, or Mat. Manning MBA, or Mat. MS Industrial Engineering, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6160": {
+        "name": "MIST.6160 Advanced Data Mining (Formerly 63.798: Independent Study in Management Information, MIST 616)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6160/",
+        "id": "006538",
+        "description": "The course will cover advanced data mining techniques with applications in different business domains. Students will be introduced to advanced analytic solutions aimed at addressing issues related to big data including volume, variety, and velocity. Topics will focus on performing descriptive and predictive analytics through programmatic analytic platforms as well as text analytics techniques for unstructured or semi-structured data. Concepts will be introduced through a hands-on approach using state-of-the-art analytic platforms and tools.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6060 Data Mining for bus. Intel., or POMS.6120 Stat. for Predictive Analytics, or POMS.6220 Decision Analytics, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6060",
+                    "POMS.6120",
+                    "POMS.6220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6170": {
+        "name": "MIST.6170 Advanced Machine Learning",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6170/",
+        "id": "036988",
+        "description": "This is an advanced course on machine learning and data science for business. In this course, students learn how to analyze, design and develop machine learning techniques and tools for business analytics. Applications to both strategic and operational problems in today's data-driven ecosystem will be discussed. Topics include supervised learning, unsupervised learning, statistical learning, ensemble learning, model and performance evaluation, text feature learning, text analytics, artificial neural networks, deep neural networks, deep learning, and machine-learning and Al related privacy and ethical issues. The course will be taught using Python programming language.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6060 Business Intelligence & Data Mining, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6350": {
+        "name": "MIST.6350 Project Management (Formerly MIST/MGMT 635)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6350/",
+        "id": "035584",
+        "description": "This course will focus on managing innovation and technology projects and the critical role that a project manager plays in successful execution.  Topics included in the course are: project planning, deliverables, managing quality, change management, documentation, communication, risks management, project team and human resource management approaches and creating and managing expectations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA Manning who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010 and MGMT.5110, or Matriculated MS Business Analytics, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6360": {
+        "name": "MIST.6360 Global Information Technology Governance",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6360/",
+        "id": "042288",
+        "description": "This course is designed to provide students with the essential knowledge and tools underlying governance of Information Technology (IT) services in a global setting. IT governance specifies the decision rights and accountability framework to facilitate desirable behavior using IT. This course will apply the widely adopted IT Infrastructure Library (ITIL) framework to assist students in learning the required knowledge and skillsets of IT service management in the context of IT governance in a global environment. This course will explore topics of IT service strategy, IT service design, IT service transition, IT service operations, IT service analytics, and continual IT service improvement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Info Systems, or Matriculated Manning MBA who have completed MIST.6010, or Matriculated MS Business Analytics, or Matriculated Business Analytics Certificate, or Matriculated MS Eng Management, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6450": {
+        "name": "MIST.6450 Information Technology Project Management (Formerly 63.620, MIST 645)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6450/",
+        "id": "035732",
+        "description": "Application and integration of the project management body of knowledge (PMBOK) areas to managing information technology (IT) projects.  Focuses on project management tools and techniques for defining and managing the project's goal, scope, schedule, and budget.  Other topics include quality management, risk management, change management, and knowledge management as they are related to IT projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.6010 Management Information Systems, or Matriculated Manning MBA who have completed MIST.6010, or Matriculated MS Business Analytics, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.6490": {
+        "name": "MIST.6490 Business Analytics Capstone Project",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6490/",
+        "id": "040519",
+        "description": "Students will be guided through the process of developing their soft (communications) and hard (Technical) skills while delivering a business analytics project to support decision making in organizations. In this culminating project, students draw on the breadth and depth of the curriculum to address an industry supplied problem in small teams. The capstone project will involve application of industry accepted methodologies and analytical tools to solve real-world problems in R&D, marketing, supply chain, healthcare, finance and/or other disciplines. Students who cannot participate in university provided projects, with the permission of the program coordinator, are provided with two alternative project options: a) conduct a real-world business analytics project individually in a similar manner as above with an organization of their choice; or b) conduct a data analytics project individually as part of a research project under the guidance of an OIS Department faculty member.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.CAPSTO Non-Credit Capstone Review.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.6880": {
+        "name": "MIST.6880 Current Topics in Management Information Systems (Formerly 63.688, MIST 688)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/6880/",
+        "id": "006524",
+        "description": "Selected topics having current and future impact in the field of MIS.  Subject matter to be announced in advance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.7060": {
+        "name": "MIST.7060 Data Analytics (Formerly 63.706, MIST 706)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7060/",
+        "id": "038321",
+        "description": "This course introduces the concepts and technologies of data analytics and data mining for transforming data into insight and business intelligence. The course studies how the data-driven analytics technologies can be used by organizations to gain competitive advantages, and how to design and develop these technologies. Topics include data integration, data transformation, prediction, classification, clustering, association, text mining, optimization, model and performance evaluation, and data-mining related privacy and ethical issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ECON 2110 Statistics for Business and Econmonics I or equivalent, MIST.3050 Application Systems Development or equivalent, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2110"
+                ],
+                [
+                    "MIST.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MIST.7070": {
+        "name": "MIST.7070 Electronic Commerce (Formerly 63.707, MIST 707)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7070/",
+        "id": "038716",
+        "description": "This course provides a foundation on digital commerce and e-business research for PhD. students. It will cover both technological and managerial aspects of managing e-business operations in either a pure (Dot.Com) organization or traditional organization (bricks-and-click). Issues covered include interactive marketing and market-spaces, agent-based commerce and intelligent markets, electronic shopping carts, user interface issues, EDI transaction via Extranets, database interfaces, personalization and targeted communications, security, encryption, and payment systems, privacy and intellectual property. Students will be conducting literature review in each of these key e-business areas and identify potential future research directions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "49.731 Statistics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.7080": {
+        "name": "MIST.7080 Enterprise Systems (Formerly 63.708, MIST 708)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7080/",
+        "id": "038566",
+        "description": "The course will focus on implementation issues with Enterprise Systems (also called Enterprise Resource planning -- ERP) which integrate the informational and functional boundaries within organization. The goals of the course are to help students understand the underlying ERP components and technologies, change management, and process integration in organization. Conceptual models will be analyzed on topics such as business process management, customer relationship management, supply chain management, privacy and security, and outsourcing issues as related to the implementation of enterprise systems. Students will be assessed through case analysis, exams , and research paper proposals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Business-PhD Students only or permission of the Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.7090": {
+        "name": "MIST.7090 Independent Study in Management Information Systems (Formerly 63.709, MIST 709)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7090/",
+        "id": "006527",
+        "description": "An opportunity for the student to carry out individualized study relating to the field of Management Information Systems under the supervision of a member of the faculty. Pre-requisites: MBA Foundation Core and Permission of MBA Coordinator",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.7370": {
+        "name": "MIST.7370 Multivariate Statistical Methods (Formerly 63.737, MIST 737)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7370/",
+        "id": "038569",
+        "description": "This course introduces statistical methods and techniques for multivariate data analysis. The course studies basic ideas underlying multivariate statistical methods and covers various applications of multivariate statistical analysis. The course discusses the design of a multivariate study, the choice of a multivariate method, the procedure of multivariate statistical analysis, and the interpretation of the analysis results. Topics include multivariate normal distribution, multivariate analysis of variance and covariance (MANOVA and MACOVA), principal components, factor analysis, structure equation modeling, canonical correlation, discriminant analysis, and cluster analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "49.731 Statistics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.7500": {
+        "name": "MIST.7500 Seminar in Information Systems Research (Formerly 63.750, MIST 750)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7500/",
+        "id": "036978",
+        "description": "This course focuses on the contemporary topics in information systems research.  The materials discussed in this course will be selected form leading IS research publications.  Subject areas may be organizational, social, or technological in nature.  Research methodologies may be empirical, computational or economics oriented.  This course will normally be taught by multiple faculty members jointly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.7880": {
+        "name": "MIST.7880 Current Topics in Management Information Systems (Formerly MIST 788)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7880/",
+        "id": "039077",
+        "description": "This course addresses one or more topics having current or future impact on the research fields of Information Systems. Topics can change at each course offering. Typically, the course will focus on emerging research streams in Management Information Systems, exploring new techniques and research methodologies used in the literature that yield high-impact research results.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "49.731 Statistics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.7900": {
+        "name": "MIST.7900 Doctoral Dissertation (Formerly MIST 790)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7900/",
+        "id": "006536",
+        "description": "Doctoral dissertation research.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.7970": {
+        "name": "MIST.7970 Managerial Research Seminar (Formerly MIST 797)",
+        "url": "https://www.uml.edu/catalog/courses/MIST/7970/",
+        "id": "039287",
+        "description": "The course will involve an on-going monthly presentation from across scholarly disciplines. Speakers will be drawn from local, national, and international universities. Attendance will be mandatory; PhD students should gain an appreciation for high level scholarship and corporate governance research. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MIST.CAPSTO": {
+        "name": "MIST.CAPSTO Non-Credit Capstone Review",
+        "url": "https://www.uml.edu/catalog/courses/MIST/CAPSTO/",
+        "id": "041110",
+        "description": "This is a non-credit (0credits) pre-requisite for the MIST.6490 capstone course. The focus of the course is on preparing students for their capstone projects in the MS Business Analytics program. The course covers background information on data privacy, non-disclosure agreement, project management best practices, data mining project methodology, team formation, and soft skills development to work with company sponsors.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "MIST.6030 Business Database Management, and MIST.6060 Business Intelligence and Data Mining, and POMS.6120 Stat. for Predictive Analytics, and POMS.6220 Decision Analytics, or Permission of MS Business Analytics Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.6030"
+                ],
+                [
+                    "MIST.6060"
+                ],
+                [
+                    "POMS.6120"
+                ],
+                [
+                    "POMS.6220"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

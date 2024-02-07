@@ -1,0 +1,2219 @@
+{
+    "total": 132,
+    "time": 90.31584525108337,
+    "MECH.1010": {
+        "name": "MECH.1010 Kinetic Projects",
+        "url": "https://www.uml.edu/catalog/courses/MECH/1010/",
+        "id": "039871",
+        "description": "Kinetic Projects is a hybrid course designed for a variety of majors to explore the intersections between mechanical engineering and sculpture. In this project-driven class, students will learn principles and practice in both the fields of engineering and art, and put them into practice by creating functioning kinetic objects to be displayed in a public setting. The course will also include guest lectures from practitioners in Art and Engineering. The course also provides an introduction to technical communications, teamwork, data analysis, computer coding, and introduction to CAD prototyping, report-writing and/or oral presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.1070": {
+        "name": "MECH.1070 Introduction to Mechanical Engineering (Formerly 22/25.107)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/1070/",
+        "id": "039472",
+        "description": "This course provides a hands-on introduction to mechanical engineering and the engineering design process. Through assignments and projects, students learn how to: identify a problem, develop alternative solutions, select the best alternative, make critical decisions, and work as a team.    Lecture and lab component.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.1CO-OP": {
+        "name": "MECH.1CO-OP Curricula Practical Training",
+        "url": "https://www.uml.edu/catalog/courses/MECH/1CO-OP/",
+        "id": "039724",
+        "description": "Curricula Practical Training. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.2000": {
+        "name": "MECH.2000 Mechanical Engineering Project I (Formerly 22.200)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/2000/",
+        "id": "032997",
+        "description": "Students work on engineering design/build/test (DBT) projects under the supervision of a mechanical engineering faculty member.  Projects can include student club based DBT projects.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Level: minimum Sophomore standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.2010": {
+        "name": "MECH.2010 Computer Aided Design (Formerly 22.201)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/2010/",
+        "id": "003796",
+        "description": "Course emphasis is on introducing the use of computer aided design tools in the engineering problem solving process. Assigned design projects require the use of both wire frame and solid modeling tools. Lecture and lab activities are used to support project requirements, and to provide more in-depth understanding of computer aided engineering design and drawing.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Requisite Introduction to Engineering I MECH.1070 or ENGN.1070.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.1070",
+                    "ENGN.1070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.2020": {
+        "name": "MECH.2020 Manufacturing Laboratory (Formerly 22.202)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/2020/",
+        "id": "003797",
+        "description": "This is an introductory course in manufacturing processes covering the basic machine tool practices utilized in the manufacturing of a product. The objective of the course is to develop a broad understanding of manufacturing operations and their relationship to engineering product design. Students manufacture, fabricate and measure the accuracy of a mechanical assembly from design drawings, using lathes, milling machines, drill presses and other conventional processes.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MECH.1070 Intro to Mechanical Engin or ENGN/EECE.1070.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.1070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.2420": {
+        "name": "MECH.2420 Thermodynamics (Formerly 22.242)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/2420/",
+        "id": "003803",
+        "description": "The first and second laws of thermodynamics are introduced and applied to the analysis of thermodynamic systems in terms of work, heat, energy transformation, and system efficiency.  The use of tables, graphs, and equations of state is introduced to obtain various properties of pure substances.  The concepts of work, heat and energy, as well as their relationships, are studied.  The theory and application of reversible and irreversible thermodynamic process, Carnot cycles, and entropy are studied in relation to the energy analysis of engineering systems.  Energy balances and ideal efficiencies of steady flow engineering systems are analyzed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, and CHEM.1210 Chemistry I, and Co-req or Pre-req: PHYS.2450 Physical Properties of Matter.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "CHEM.1210"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PHYS.2450"
+                ]
+            ]
+        }
+    },
+    "MECH.2960": {
+        "name": "MECH.2960 Materials Science for Engineers (Formerly 22.296)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/2960/",
+        "id": "003810",
+        "description": "Properties and characterization of engineering materials.  The behavior of engineering materials is studied experimentally to develop an understanding of properties important in materials selection and engineering design.  Structure-property-processing relationships are discussed.  Topics include stress, strain, strength, stiffness, thermal expansion, hardness, tensile and bending tests, strain gages, corrosion, microstructure of  metals, polymers, ceramics and composites.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 1210 Chemistry I; and Mechanical Engineering or Industrial Engineering majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3000": {
+        "name": "MECH.3000 Mechanical Engineering Project II (Formerly 22.300)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3000/",
+        "id": "032998",
+        "description": "Students work on engineering design/build/test (DBT) projects under the supervision of a mechanical engineering faculty member.  Projects can include student club based DBT projects.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: 22.200 Mechanical Eng Project I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.3020": {
+        "name": "MECH.3020 Instrumentation and Measurement Laboratory (Formerly 22.302)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3020/",
+        "id": "003811",
+        "description": "Students set up and conduct specific experiments designed to study: 1) fundamental ME instrumentation systems; 2) fundamental experimental techniques and 3) basic physical principles of mechanical systems. Experiments are divided into two areas; solid-mechanical and thermo-fluids. Students develop models for use in validating and comparing with experimental results. Written communication techniques are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "C- or better in ENGN.2060 Strength of Materials, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3110": {
+        "name": "MECH.3110 Applied Strength of Materials (Formerly 22.311)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3110/",
+        "id": "003812",
+        "description": "Strength of materials principles are applied to the stress analysis of machine components and structures.  The effects of buckling and combined bending, torsion, and axial loadings are studied together with the effects of stress risers due to geometrical complexities.  Topics include: 3D stress transformations; principal stresses; Mohr's circle; failure criteria; torsion of non-circular and hollow cross sections; stress concentration factors; equilibrium and energy methods;global and local buckling; introduction to finite element methods; introduction to composites.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGN.2060, and ENGN.2050, and MECH.2960, and MECH.3610, and MATH.2310, and C- or better required for ENGN.2050 and ENGN.2060, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2060"
+                ],
+                [
+                    "ENGN.2050"
+                ],
+                [
+                    "MECH.2960"
+                ],
+                [
+                    "MECH.3610"
+                ],
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "ENGN.2050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3210": {
+        "name": "MECH.3210 Kinematics of Mechanisms (Formerly 22.321)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3210/",
+        "id": "003814",
+        "description": "Design and kinematic analysis of mechanisms. Course topics include linkage synthesis and motion analysis (position, velocity and acceleration), cam, gear and power train design, and technical communication. This course meets the Essential Learning Outcome of Critical Thinking and Problem Solving as defined under the Core Curriculum requirements. As such, the course will reinforce the students' ability to identify, analyze, interpret, and evaluate arguments, data, evidence, problems, and conclusions as part of formulating an opinion or conclusion, and then use that information to design, evaluate and implement a strategy to achieve a desired outcome.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "C- in ENGN.2050 Statics and C- in ENGN.2070 Dynamics, and Pre-Co req  MECH.2010 Computer Aided Design and Mechanical Engineering majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2050"
+                ],
+                [
+                    "ENGN.2070"
+                ],
+                [
+                    "MECH.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3220": {
+        "name": "MECH.3220 Control of Mechanical Systems (Formerly 22.322)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3220/",
+        "id": "003815",
+        "description": "Design of cams and gear trains and control of mechanical devices.  Course topics include: cam sizing and manufacture, cam and gear train kinematics, dynamic force analysis, machine balancing, introduction to the control of mechanical systems.  The major project involves the design, analysis, manufacture, and dynamic testing of a cam having specified performance requirements; computer aided design (CAD) and computer numerically controlled (CNC) milling machines are applied.  Dynamic simulation (MATLAB) is used throughout the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MECH.3210 Kinematics of Mechanisms, with grade of 'C-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3230": {
+        "name": "MECH.3230 Control of Automated Systems",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3230/",
+        "id": "041996",
+        "description": "Control of various elements of automated and cyber-physical systems. Course topics include: introduction to modeling in continuous and discrete time, ordinary differential and difference equations, transfer functions, noise modeling and digital filtering, introduction to feedback control, and PID controller design and tuning. Course will also include discussion of case studies related to the security, stability, safety, reliability, and ethics of automated systems, with focus on diagnostics and prognostics. This course will rely on project-based learning to evaluate outcomes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MECH.3210 Kinematics of Mechanisms, with grade of 'C-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3410": {
+        "name": "MECH.3410 Conduction & Radiation Heat Transfer (Formerly 22.341)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3410/",
+        "id": "003817",
+        "description": "The theory of steady state and transient heat conduction in solids is developed and applied. The concepts of Biot and Fourier numbers are covered and their applications are studied.   The principals of thermal radiation with application to heat exchange between black and non-black body surfaces are studied.  The use of radiation networks (electrical network analogy) is examined. Surface radiation properties are extensively covered.    Design projects are integrated into the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MECH 2420 Thermodynamics, MATH 2310 Calculus III,   and MATH 2360 Eng Differential Equations or MATH 2340 Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.2420"
+                ],
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2360",
+                    "MATH.2340"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3420": {
+        "name": "MECH.3420 Convective Processes (Formerly 22.342)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3420/",
+        "id": "003818",
+        "description": "Internal and external flows with friction, Reynold's number, laminar and turbulent flows. Mathematical development of the hydrodynamic boundary layer.  Boundary layer separation and fluid dynamic drag.  Flow in pipes.  Forced and free convective heat transfer, the thermal boundary layer, Reynolds' analogy, Prandtl and Grashof numbers. Empirical engineering convection relations. Students engage in a design project throughout the term.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MECH 3410 Conduction & Rad Heat Transfer and MECH 3810 Fluid Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3410"
+                ],
+                [
+                    "MECH.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.3610": {
+        "name": "MECH.3610 Mathematical Methods for Mechanical Engineers (Formerly 22.361)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3610/",
+        "id": "003823",
+        "description": "This course focuses of the application of a variety of mathematical techniques to solve engineering problems. Topics include, error analysis, root finding, optimization, linear algebra, solutions to linear and non-linear systems, statistics, curve fitting, eigen value analysis, Fourier analysis, numerical integration and differentiation as well as numerical solutions to ordinary differential equations. MATLAB program development and modification as well as application of existing codes are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, and Co-req or Pre-req: MATH.2360 Engineering Differential Equations, or MATH.2340 Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.2360",
+                    "MATH.2340"
+                ]
+            ]
+        }
+    },
+    "MECH.3810": {
+        "name": "MECH.3810 Fluid Mechanics (Formerly 22.381)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3810/",
+        "id": "003824",
+        "description": "A calculus-based course that explores the properties of fluids in various states and their reaction to forces acting on them in the context of practical engineering systems. Topics include: fluid behavior and fluid properties; hydrostatic pressure and forces; buoyancy and stability; conservation of mass, momentum, and energy; control volumes and system representations; dimensional analysis and similitude; scale analysis and modeling; internal and external flows; laminar and turbulent flows; fluid flow in pipes and ducts; friction, major losses, and minor losses; boundary layer characteristics, drag, and lift.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calculus III, and MATH.2360 Eng Differential Equations, or MATH.2340 Differential Equations, and ENGN.2070 Dynamics with a C- or better, or Spring 2020 grade of \"P\", and Co-req or Pre-req: MECH.2420 Thermodynamics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2360",
+                    "MATH.2340"
+                ],
+                [
+                    "ENGN.2070"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MECH.2420"
+                ]
+            ]
+        }
+    },
+    "MECH.3820": {
+        "name": "MECH.3820 Heat Transfer (Formerly 22.382)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/3820/",
+        "id": "038230",
+        "description": "A calculus-based engineering course providing treatment of the fundamental modes of heat transfer. Topics include: steady-state and transient heat conduction in solids; forced and natural convection; the concept of thermal boundary layer; scale analysis and dimensionless number such as Reynolds, Prandtl, and Grashof numbers; Reynolds analogy; empirical engineering convection relations; thermal radiation involving heat exchange between black and non-black body surfaces.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.3810 Fluid Mechanics with a C- or better, or Spring 2020 grade of \"P\", and ME Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4000": {
+        "name": "MECH.4000 Mechanical Engineering Project III (Formerly 22.400)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4000/",
+        "id": "032999",
+        "description": "Students work on engineering design/build/test (DBT) projects under the supervision of a mechanical engineering faculty member.  Projects can include student club based DBT projects.  Completion of 22.400, 22.300, and 22.200 can count as a mechanical engineering technical elective (academic petition required).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: 22.300 Mechanical Eng Project II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.4030": {
+        "name": "MECH.4030 Thermal Fluids Laboratory (Formerly 22.403)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4030/",
+        "id": "003825",
+        "description": "Continuation of Mechanical Engineering Lab I. Focuses on digital data acquisition systems used on mechanical engineering equipment. Students design measurement systems composed of various transducers, their associated signal conditioners and digital data acquisition and recording devices. Statistical methods are emphasized. Experiments require the students to provide calibration and to select appropriate sampling rates and test durations. Systems under test range from simple multisensor laboratory apparatus to actual operating mechanical systems.  Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.3820 Heat Transfer, with a C- or better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4040": {
+        "name": "MECH.4040 Advanced Mechanical Dynamic Measurement Systems (Formerly 22.404)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4040/",
+        "id": "003826",
+        "description": "This course is an extension of 22.302 Mechanical Engineering lab I, and extends the laboratory measurements for a wide variety of dynamic systems applications including first order and second order systems using both time domain and frequency  domain approaches for the measurement and analysis of dynamic response. lectures will delve into more depth on time domain digital signal processing (extending the ME lab I course material) and progress Into frequency domain representations oftime response. This course counts as a mechanical engineering technical elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH 3020 Mechanical Engineering Lab I, ENGN 2060 Strength of Materials, MECH 3610 Math Methods for ME, and MECH 4510 Dynamic Systems Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3020"
+                ],
+                [
+                    "ENGN.2060"
+                ],
+                [
+                    "MECH.3610"
+                ],
+                [
+                    "MECH.4510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4230": {
+        "name": "MECH.4230 Capstone Design (Formerly 22.423)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4230/",
+        "id": "003835",
+        "description": "Students perform independent design work and participate in team efforts to develop conceptual designs from functional requirements. Perform design analysis and synthesis, modeling, fabrication, testing, cost estimating, and documenting the essential elements of the system design.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL), Information Literacy (IL), and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.4410 Thermo-fluid Applications, and MECH.4250 Design of Machine Elements, and MECH.4730 Design Theory and Constraints, and Senior Status, and Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.4410"
+                ],
+                [
+                    "MECH.4250"
+                ],
+                [
+                    "MECH.4730"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4250": {
+        "name": "MECH.4250 Design of Machine Elements (Formerly 22.425)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4250/",
+        "id": "003837",
+        "description": "The principles of mechanics and commonly used failure theories are applied to the design and analysis of machine elements subjected to static and dynamic (fatigue) load conditions. Elements studied include power screws, bolts, springs, bearings, gears, lubrication, shafts, brakes, clutches, and belts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre/Co-req: MECH.3220 Control of Mechanical Systems, or MECH.3230 Control of Automated Systems, and Pre-req: C- or better in MECH.2960 Materials Science for Engineers, and MECH.3110 Applied Strength of Materials, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MECH.3220",
+                    "MECH.3230"
+                ],
+                [
+                    "MECH.2960"
+                ],
+                [
+                    "MECH.3110"
+                ]
+            ]
+        }
+    },
+    "MECH.4260": {
+        "name": "MECH.4260 Green Energy Engineering (Formerly 22.426)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4260/",
+        "id": "036920",
+        "description": "Introduces a comprehensive range of green energy sources, and the tools and techniques to use that energy.  A strong emphasis is given to residential applications, particularly those that are cost effective.  Topics include solar energy, photovoltaic, water power, wind power, geothermal heating, and bio- fuel production and use.  Course will also investigate architectural considerations essential to effective implementation of green energy.  Course is open to Seniors in engineering and science and those with a solid knowledge of vector notations and college algebra.  Familiarity with the MATLAB computing environment would be useful.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.4280": {
+        "name": "MECH.4280 Fundamentals of Engineering (ME) Review (Formerly 22.428)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4280/",
+        "id": "039172",
+        "description": "This is a review course for students planning on taking the Mechanical Engineering version of the Fundamentals of Engineering (FE) Exam. Lectures will review theory, and students will be required to complete representative multiple-choice practice and test questions. Subject areas to be covered are as follows: mathematics and statistics, computers, ethics and economics, electromagnetism, engineering mechanics, materials, thermal fluids, measurement and instrumentation, dynamic systems and controls, and ME design and analysis. FE exam protocols will also be reviewed. The course counts as a mechanical engineering technical elective. Taking and /or passing the FE exam is not required in order to pass this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Senior Status or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.4410": {
+        "name": "MECH.4410 Thermo-fluid Applications (Formerly 22.441)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4410/",
+        "id": "003841",
+        "description": "Topics covered include: heat exchanger analysis and design; thermodynamic analysis of : gas power cycles,  steam and combined cycles, and refrigeration cycles; mixtures of ideal gases; air-vapor mixtures and psychometric charts with application to air conditioning systems; flow of a compressible fluid through a variable area passage: Mach number, choking conditions, and normal shock.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.2420 Thermodynanics with a C- or better,or Spring 2020 grade of \"P\",  and Co-req: MECH.3820 Heat Transfer.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.2420"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MECH.3820"
+                ]
+            ]
+        }
+    },
+    "MECH.4420": {
+        "name": "MECH.4420 Thermo-fluid Systems Design (Formerly 22.442)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4420/",
+        "id": "038231",
+        "description": "Application of the principles of thermodynamics, fluid mechanics and heat transfer to the design of thermofluid systems. Techniques will be presented for modeling, simulation, and economic analysis. The evolution of thermofluid systems from the Industrial Revolution to state-of-the-art systems as well as economic, environmental, social, political, ethical, health and safety, manufacturability and sustainability of systems will be studied. Use and regulation of thermo-fluid systems on a global and regional scale will be investigated. Systems to be studied and designed include combined power cycles, trigeneration (combined power, heating, and cooling) as well as energy storage systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.4410 Thermo-Fluid Application with a C- or better, or Spring 2020 grade of \"P\",  and ME Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.4410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4500": {
+        "name": "MECH.4500 Nanoscale Trans. Phenomena for Manuf.  Nanodevices (Formerly 10/22/26.450)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4500/",
+        "id": "036698",
+        "description": "An interdisciplinary course taught by faculty from the Chemical, Mechanical and Plastics Engineering Departments, who have special knowledge in nanoscale fluid mechanics and heat transfer.  The course on nanoscale transport phenomena constitutes a bridge between existing fluid and heat transfer courses in multiple disciplines and emerging nanoscale science and engineering concepts to reflect the forefront of nanomanufacturing.  The course is designed to incorporate recent advances in manufacturing polymer based nanodevices.   Key issues of the implementation and maintenance costs for fabrication will be addressed.  Hands-on laboratory experiments will be performed to complement the lectures with the ultimate goal of designing and building a complete nanodevice at the end of the course.  The course will prepare graduates for employment focused on designing and manufacturing nano/microfluidic systems, lab on ship devices, electronic devices, medical devices and other emerging technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MECH 3810, MECH 3410,  and MECH 3420; Co-Req: MECH 4030 ME Lab II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3810"
+                ],
+                [
+                    "MECH.3410"
+                ],
+                [
+                    "MECH.3420;"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MECH.4030"
+                ]
+            ]
+        }
+    },
+    "MECH.4510": {
+        "name": "MECH.4510 Dynamic Systems Analysis (Formerly 22.451)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4510/",
+        "id": "003844",
+        "description": "Dynamic modeling of mechanical, electrical, electro-mechanical, hydraulic and thermal components.  Application of ordinary differential equations, Laplace transforms, and numerical simulation for the response of these systems; response due to initial conditions and to transient and sinusoidal inputs using both time and frequency domain approaches considered. Use of block diagrams and numerical simulation using MATLAB and Simulink for linear time invariant systems is emphasized.  Project work includes model identification and synthesis from measured data for first and second order systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2360 Engineering Differential Equations, or MATH.2340 Differential Equations, and EECE.2110 Fundamentals of Electricity, or PHYS.1440 Physics II, and C- or better in ENGN.2070 Dynamics, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2360",
+                    "MATH.2340"
+                ],
+                [
+                    "EECE.2110",
+                    "PHYS.1440"
+                ],
+                [
+                    "ENGN.2070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4530": {
+        "name": "MECH.4530 Mechatronics (Formerly 22.453)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4530/",
+        "id": "003845",
+        "description": "Devices and methods to monitor and control mechanical systems, with particular emphasis on the use of embedded microprocessors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 22.361 Math Methods for Mech Eng.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.4730": {
+        "name": "MECH.4730 Design Theory and Constraints (Formerly 22.473)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4730/",
+        "id": "003851",
+        "description": "Concepts of world class design and manufacturing of modern products, including the issues of Design for Quality (DFQ), cost and the customer will be studied. Tools and techniques to be studied include Total Quality Management (TQM), statistical process control, process capability studies, six sigma quality, design efficiency ratings, design for cost, design of experiments, Analysis of Variance (ANOVA) of the mean and signal-to-noise ratio, and quality function deployment. Industrial case studies are used and student project work is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.3020 Instrumentation and Measurement Laboratory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4830": {
+        "name": "MECH.4830 Aerodynamics and Flight Mechanics (Formerly 22.483)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4830/",
+        "id": "003856",
+        "description": "Fundamentals of subsonic aerodynamics. Atmosphere models. Air speed measurement, boundary layers, aerodynamic heating. Circulation, downwash, and three-dimensional wing theory. Airfoil data, and lift and drag of aircraft components. Power required and power available. Introduction to aircraft performance calculations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGN 2070 Dynamics and MECH 3810 Fluid Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2070"
+                ],
+                [
+                    "MECH.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4860": {
+        "name": "MECH.4860 Ocean Engineering (Formerly 22.486)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4860/",
+        "id": "003859",
+        "description": "Summary of the ocean environment.  Fluid mechanics of ocean waves.  Modeling and scaling laws for ships, submarines, and river and estuary flows. Hydrodynamics of offshore and coastal structures.  Floating and submerged body hydrodyamics.  Marine propulsion.  Introduction to various underwater systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGN 2070 Dynamics, and MECH 3810 Fluid Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2070"
+                ],
+                [
+                    "MECH.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.4910": {
+        "name": "MECH.4910 Industrial Experience I (Formerly 22.491)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4910/",
+        "id": "003860",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.4920": {
+        "name": "MECH.4920 Industrial Experience II (Formerly 22.492)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4920/",
+        "id": "003861",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.4930": {
+        "name": "MECH.4930 Industrial Experience III (Formerly 22.493)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4930/",
+        "id": "003862",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.4991": {
+        "name": "MECH.4991 Directed Studies in Mechanical Engineering (Formerly 22.499)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/4991/",
+        "id": "003865",
+        "description": "This course provides seniors in Mechanical Engineering with the opportunity to pursue the study of a technical topic or project, individually under the supervision of a faculty member and, if desired, a responsible project engineer from industry. The course is to result in a term paper or technical report.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5010": {
+        "name": "MECH.5010 Graduate Research Seminar",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5010/",
+        "id": "040024",
+        "description": "Research seminar for students to listen to and engage with engineering-relevant researchers. Invited speakers will present recent research advances in fields relevant to mechanical engineering, and engage with the audience through a question and answer session. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5040": {
+        "name": "MECH.5040 Energy Engineering Workshop (Formerly 22.504)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5040/",
+        "id": "003869",
+        "description": "A group design of an innovative energy system. Integration of many aspects of the student's engineering background, including design concepts, technical analyses, economic and safety considerations. Ideally the whole design cycle of design, build, test. A formal report and oral presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5050": {
+        "name": "MECH.5050 Directed Studies - ME (Formerly 22.505)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5050/",
+        "id": "031917",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5100": {
+        "name": "MECH.5100 Dynamics and Diagnostics of Rotating Machinery (Formerly 22.510)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5100/",
+        "id": "038784",
+        "description": "Course provides the theoretical and practical background in the fundamentals of dynamics and diagnostics of rotating machinery. The course starts with an overview of rotating machinery components and systems with emphasis on their designs, and then builds and in-depth understanding of the dynamics of rotating systems by analyzing the design and dynamics of their component. Diagnostics, health monitoring, and associated signal processing theories regarding rotating machinery are emphasized, with applied examples such as aircraft engines, gas turbines, rotorcrafts, wind turbines, and automotive drivetrains, along with other turbomachines.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5110": {
+        "name": "MECH.5110 FEA of Textiles and Composites",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5110/",
+        "id": "040073",
+        "description": "This course covers applications of finite element analysis to the mechanical behavior of textiles and composites, including topics such as mechanics of orthotropic materials, elasticity and strength of laminates, computational micromechanics, meso-scale finite element modeling, material testing, modeling techniques. These topics will be studied using software packages such as Abaqus and Matlab.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5120": {
+        "name": "MECH.5120 Applied Finite Element Analysis (Formerly 22.512)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5120/",
+        "id": "003871",
+        "description": "An introduction to finite element methods using popular commercial packages. The features common to different programs as well as special features of particular programs are presented. Primary focus is on hands-on familiarity with the software with a limited discussion of the underlying finite element theory. ALGOR, ADINA, ABAQUS, LS-DYNA, HyperMesh, and FEMAP are among the pre/post-processing and analysis packages used in the class. This is a WWW based course and access to a PC, the Internet, and a frames-capable browser is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5130": {
+        "name": "MECH.5130 Theory of Finite Element Analysis (Formerly 22.513)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5130/",
+        "id": "003872",
+        "description": "Matrix algebra and the Rayleigh-Ritz technique are applied to the development of the finite element method. The minimum potential energy theorem, calculus of variations, Galerkin's and the direct-stiffness method are used. Restraint and constraint conditions are covered. C0 and C1 continuous shape functions are developed for bar, beam, and two and three dimensional solid elements. Recovery methods, convergence and modeling techniques are studied. Applications to problems in static stress analysis and heat conduction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5140": {
+        "name": "MECH.5140 Finite Element Analysis of Composites (Formerly 22.514)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5140/",
+        "id": "003873",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5150": {
+        "name": "MECH.5150 Structural Dynamic Modeling Techniques (Formerly 22.515)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5150/",
+        "id": "003874",
+        "description": "Review of single and multiple degree of freedom system using classical and Laplace formulations. Finite element methods for dynamic systems. Model reduction/expansion formulations. Modal participation and mode activation concepts. Linear algebra review, matrix formulations, matrix eigenanalysis, generalized inverses, spectral and singular valued decomposition techniques. Models developed using MATLAB.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5160": {
+        "name": "MECH.5160 Experimental Modal Analysis (Formerly 22.516)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5160/",
+        "id": "003875",
+        "description": "Prerequisite: 22.4xx/5xx Experimental Modal Analysis I (or permission of instructor) Review of system transfer and FRF matrices for development of a modal model. Review of DSP techniques for experimental modal analysis. Excitation techniques for the development of the system FRF matrix; SISO and MIMO techniques. Modal parameter estimation using time and frequency domain techniques. Advanced data manipulation for dynamic analysis. Introduction to structural dynamic modification and system modeling concepts. Models developed using MATLAB and commercially available software.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5170": {
+        "name": "MECH.5170 Structural Dynamics (Formerly 22.517)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5170/",
+        "id": "003876",
+        "description": "Prerequisite: MECH.5150 Development of system equations of motion for mdof systems. Proportional and non-proportional damping. Dynamic response using mode superposition, maximum response, frequency domain techniques and direct integration using central difference, Runge-Kutta, Wilson theta, and other techniques. Models developed using MATLAB.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5180": {
+        "name": "MECH.5180 Signal Proc Techniques (Formerly 22.518)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5180/",
+        "id": "003877",
+        "description": "The course covers analytical/numerical modeling and analysis of signal processing. The course topics include: Fourier Series, Linear Systems and Transfer Functions, Laplace Transforms, Analog filters, Fourier Transforms, Analog to Digital Conversion (A/D & D/A), Quantization, Sampling and Nyquist Theorem, Aliasing, Discrete Fourier Transform (DFT), Windowing & Leakage, FFT & STFT, Spectrograms, Spectral Analysis and Estimation, Convolution, ARMA processes, Correlation, Coherence, Kurtosis, Multi-rate filters and the Wavelet Transform , FIR & IIR Filters, Adaptive Filters, Signal Processing Hardware and Implementation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 22.451 Dynamic Systems Analysis (or equivalent)",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5190": {
+        "name": "MECH.5190 Engineering Spectral Analysis (Formerly 22.519)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5190/",
+        "id": "003878",
+        "description": "Analytical and experimental background for the fundamental understanding of time and frequency domain signals, required for digital signal processing, vibration, and acoustic signal analysis. Introductory theory is based on simplified concepts form different mechanical signatures in the time domain. The spectral conversion from time domain to frequency domain is illustrated from a phenomenological perspective using examples and dynamic signal analyzer illustrations. The concepts of vibration and acoustic measurement methods are studied through practical projects and LabVIEW exercises. Students will be prepared for more advanced topics on dynamic systems, controls, vibrations, advanced signal processing, acoustics, and experimental structural dynamics. Familiarity with Matlab required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2360 Eng. Differential Equations and MECH 4510 Dynamic Systems Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2360"
+                ],
+                [
+                    "MECH.4510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.5195": {
+        "name": "MECH.5195 Principles and Applications of Sensors for Engineering",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5195/",
+        "id": "041782",
+        "description": "The course focuses on defining concepts and operational principles of various sensing technologies and their applications for assessing the conditions of aerospace, civil, and mechanical engineering systems and materials. Analytical and experimental background of commonly used wire-based and wireless transducers, their data acquisition protocols, and signal processing techniques in time and frequency domains are discussed. A strong emphasis is provided to non-contact and optical techniques, including mono/stereo computer-vision and thermal infrared for nondestructive evaluation and subsurface inspection. The concepts discussed in the lectures are analyzed in deep and applied through practical projects, demonstrations, and hands-on experiments on laboratory scale structures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5200": {
+        "name": "MECH.5200 Numerical Methods for Partial Differential Equations (Formerly 22.520)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5200/",
+        "id": "036063",
+        "description": "Mathematical approaches for numerically solving partial differential equations.  The focus will be (a) iterative solution methods for linear and non-linear  equations, (b) spatial discretization and meshing (c) finite difference methods  (FDM), (d) finite volume methods (FVM),  (e) finite element methods (FEM) and (f)  boundary element methods (BEM).  The theory behind of each of these methods will be developed and discussed.  Computer programming applications involving the  solution of linear and non-linear PDEs in multiple dimensions will play a key role in this course.  Unique computer programming assignments will be selected from different engineering/science fields (possibilities include: fluid flow, heat transfer, electrostatics, electromagnetism, structural analysis, medical,  ocean engineering etc.) to illustrate the broad applicability of numerical methods.  Students will be expected to complete programming assignments -- while most class examples will deal with pseudo code and/or  matlab, a working knowledge of one of the following programming languages is recommended: Matlab, Octave, C, C++, fortran, Java, BASIC, or Python.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5210": {
+        "name": "MECH.5210 Solar Fundamentals (Formerly 22.521)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5210/",
+        "id": "003879",
+        "description": "Utilization Terrestrial irradiation on tilted surfaces; radiation, conduction, convection in collectors; absorptance, emittance, reflection, transmittance of solar irradiation; energy flow in flat plate and concentrator collectors; storage; design tools; small project; web-based.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5220": {
+        "name": "MECH.5220 Wind Energy Fundamentals",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5220/",
+        "id": "040513",
+        "description": "An overview of all aspects of wind energy power generation: The nature of and statistics of wind, turbine siting requirements, aerodynamics of the rotor system, mechanical power transmission, generators, blade construction, structural analysis of turbine components, electrical power distribution.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5221": {
+        "name": "MECH.5221 Offshore Wind Engineering",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5221/",
+        "id": "042286",
+        "description": "The Offshore Wind Engineering course provides a solid understanding of the science and engineering required to successfully develop and construct an offshore wind farm. The course includes a review of the basic equations which drive wind turbine performance, the unique challenges of engineering fixed bottom and floating wind turbine platforms, and an introduction to dynamic structural modeling of wind turbines using OpenFAST. Following this will be an examination of the leasing, permitting, environmental protection, grid connection, construction, and financing challenges which must be addressed to deliver a profitable wind farm.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5230": {
+        "name": "MECH.5230 Structural Health Monitoring (Formerly 22.523)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5230/",
+        "id": "030333",
+        "description": "Detail the entire process of structural health monitoring applications, including operational evaluation, data acquisition, normalization and cleansing, feature extraction and data compression, and statistical model development and pattern recognition. Aiming at detecting, localizing, and evaluating the damage severeness, topics that will be covered in this course include: sensors and sensor networks, signal processing and detection theory, nondestructive evaluation techniques, time and frequency modeling, damage prognosis, unsupervised/supervised learning, probability and statistics in feature evaluation. Case study of SHM activities will be conducted throughout the entire course, including mechanical, aerospace and civil structures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5240": {
+        "name": "MECH.5240 Fund of Acoustics (Formerly 22.524)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5240/",
+        "id": "031881",
+        "description": "Fundamentals of acoustics are introduced. Topics include: Motivation for studying acoustics, oscillatory motion, harmonic waves, the wave equation, sound pressure levels, decibel scale, frequency analysis, sound power, intensity, acoustic sources, directivity, sound radiation, sound power measurement, sound in enclosures, acoustic mode shapes, reverberation time, sound absorbing material, impedance, transmission loss, cavity resonators, reactive and dissipative mufflers, and applications to noise control.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 22.451 Dynamic Systems Analysis.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5250": {
+        "name": "MECH.5250 Grid-Connected Solar Electric Systems (Formerly 22.525)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5250/",
+        "id": "038510",
+        "description": "Students will study the concepts and design considerations of grid-connected, solar-powered, electrical generation systems, from residential through utility scale. Emphasis will be on practical applications that help make the student \"work ready\" at graduation. Grading consists of two tests during semester; one individual project (residential scale PV system); and one group project (commercial-scale system). This course fulfills an elective requirement for renewable energy students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5255": {
+        "name": "MECH.5255 Hydropower",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5255/",
+        "id": "041276",
+        "description": "The fundamentals of hydropower engineering and the related parameters for the design of hydropower plants, including, hydraulic, hydromechanics and hydroelectric components, are presented in this course. References are also made to dams and water conduit systems, in multi-purpose hydro development projects, as well as small hydroelectric plants. The hydrological, environmental and economical aspects of hydro projects are also briefly addressed. At the end of the course, students should be able to calculate the basic parameters of hydropower projects, at a preliminary level, such as powerhouse capacity, turbine and generator technical parameters and dimensions, water conduit and hydro mechanical equipment types and sizes, and perform a cost-benefit evaluation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5260": {
+        "name": "MECH.5260 Transport Processes in Energy Systems (Formerly 22.526)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5260/",
+        "id": "038509",
+        "description": "Course focuses on the development of a fundamental understanding of transport processes from a multi-scale and multi-physics perspective, and the application of such understanding to the analysis of energy engineering systems. Derivations of the equations describing the mechanisms for mass, momentum, and energy transport are presented, together with approaches for the evaluation of material properties and constitutive relations. Emphasis is placed on a holistic view of transport processes as combinations of transient, advective, diffusive, and reactive phenomena.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5270": {
+        "name": "MECH.5270 Solar Energy Engineering (Formerly 22.527)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5270/",
+        "id": "003881",
+        "description": "Systems engineering, stochastic modeling, design, and life-cycle cost analysis of several solar systems: photovoltaics, passive heating, solar cooling, and daylighting; Web Based.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5280": {
+        "name": "MECH.5280 Photovoltaics Manufacturing (Formerly 22.528)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5280/",
+        "id": "034725",
+        "description": "Overview of the manufacturing processes used to make a typical crystalline solar cell.  Detailed study of selected processes and manufacturing problems, such as solar cell testing, characterization, reliability issues, factors affecting yields, automated material handling, affect of impurities in crystal growth.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5285": {
+        "name": "MECH.5285 Energy Policy and Energy Codes",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5285/",
+        "id": "040646",
+        "description": "Explore and codify the status of the world's energy infrastructure and discuss energy-related policies. Identify areas of energy inefficiency and examine pathways to a future dominated by renewable and sustainable resources.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5290": {
+        "name": "MECH.5290 Fuel Cell Fundamentals (Formerly 22.529)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5290/",
+        "id": "003882",
+        "description": "The primary objective of this course is to understand the fundamental science and engineering of fuel cells and redox flow batteries (i.e., reversible fuel cells). The fundamental principles of electrochemistry, thermodynamics, and kinetics of electrochemical reaction processes, as well as mass transport in electrochemical energy systems will be considered. Emphasis will be placed on operating principles and the design and diagnostics of the proton exchange membrane fuel cell as a portable energy conversion system, and the vanadium redox flow battery as a large-scale energy storage system. Cell components and their influence on the overall performance of these systems will be discussed in detail. An introduction to the cost analysis of electrochemical energy storage will be presented.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5300": {
+        "name": "MECH.5300 Autonomous Robotic Systems (Formerly 22.530)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5300/",
+        "id": "038577",
+        "description": "This course covers concepts related to autonomous robotic systems, emphasizing the synthesis and design of control algorithms for autonomous robotic vehicles. Topics that will be covered in the course include: Linear and nonlinear systems analysis, stability in the sense of Lyapunov, linearization of nonlinear dynamic equations, rigid body equations of motion in three dimensions, dynamic model derivation of aerial, space, marine and ground vehicles, fundamentals of flight dynamics, feedback control design for autonomous robotic vehicles, guidance and navigation, description of components typically encountered to autonomous robotic vehicles, guidance and navigation, description of components typically encountered to autonomous robotic vehicles, cooperative control of multi-robot teams and state estimation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5305": {
+        "name": "MECH.5305 Introduction to Legged Locomotion",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5305/",
+        "id": "041463",
+        "description": "Introduction to the modeling, analysis, planning, and control of legged robotic locomotion systems. Topics covered include: basic components of robotic systems, selection of coordinate frames, homogeneous transformations, solutions to kinematic equations, velocity and force/torque relations, legged Locomotion dynamics in Lagrange's formulation and Newton-Euler formulation, digital simulation of kinematic and dynamic models, kinematics of legged robots, zero-moment-point (ZMP) stability, hybrid-zero-dynamics (HZD) methods, and motion planning and locomotion control.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2360 Differential Equations, and Co-req: MECH.4510 Dynamic Systems Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MECH.4510"
+                ]
+            ]
+        }
+    },
+    "MECH.5310": {
+        "name": "MECH.5310 Math Methods In Mechanical Engineering (Formerly 22.531)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5310/",
+        "id": "003883",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5315": {
+        "name": "MECH.5315 Modern Control Systems",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5315/",
+        "id": "040647",
+        "description": "Introduction to the analysis and design of feedback controllers for linear systems using the state-space formulation. Topics covered include linear algebra, vector spaces, state-space representation, realization theory, stability in the sense of Lyapunov, controllability and observability, Kalman decomposition, pole placement via state-feedback, observer design, linear quadratic regulators and introduction to nonlinear systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5320": {
+        "name": "MECH.5320 Off-Grid Solar Electric System (Formerly 22.532)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5320/",
+        "id": "003884",
+        "description": "This course examines the technical, financial and societal aspects of photovoltaic (PV) systems that are not connected to the electrical grid. Topics include: reasons for going off the grid, the components of an off-grid PV system, how to size a PV system to meet the required load, site impacts on performance, determining the loss of load probability (LOLP) for a system, hybrid systems, e.g. solar plus a generator, energy storage solutions, regulatory issues, and cost. Systems sized to meet the annual load requirements of a remote communication system, a net-zero home, and a small village will be examined. HOMERMicrogrid, PVWatts, and other software will be used to design these systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "22.525 Grid-Connected Solar Electric System.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5330": {
+        "name": "MECH.5330 Nanomaterials for Energy",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5330/",
+        "id": "040206",
+        "description": "Introduction of fundamental materials development and principles in addressing issues associated with affordable and sustainable energy. The course starts with basic concepts in materials science and engineering, with special attention paid to the origin of size effects in controlling the properties of nanomaterials. Then a range of materials issues related to development of renewable energy resources and sustainable energy technologies will be discussed. Topics to be covered include: photovoltaic materials and solar energy conversion; thermoelectric materials; materials for electrical energy storage and generation; materials for hydrogen production; piezoelectric energy harvesting; and materials for other emerging energy processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5340": {
+        "name": "MECH.5340 Green Combustion and Biofuels (Formerly 22.534)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5340/",
+        "id": "039123",
+        "description": "Fundamentals of combustion and pollutant formations in application to internal combustion engines, turbines, and fire safety.  Concepts include flame structure, flame speed, flammability,ignition, reaction kinetics, nonequillibrium processes, diffusion flames, and boundary layer combustion.  Additional specific emphasis on combustion modeling, green approaches to energy production, and biofuels.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5350": {
+        "name": "MECH.5350 Fundamentals of Sustainable Energy",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5350/",
+        "id": "040504",
+        "description": "Introduction to scientific principles associated with sustainable energy technologies. Topics include: thermodynamic laws and engineering fundamentals in energy processes, thermodynamic energy conversion, wind and geothermal energy, photovoltaics, ocean thermal energy conversion, electrochemical energy, biomass, and selected emerging energy technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5410": {
+        "name": "MECH.5410 Advanced Heat Transfer",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5410/",
+        "id": "041372",
+        "description": "Advanced Heat Transfer is one of the ore courses for graduate students to build the foundation and knowledge for the subsequent studies of specialized subjects. This course mainly comprises two parts: thermal conduction and convection. The thermal conduction part covers conduction formulations, analytical methods, and numerical technique to solve the multidimensional steady-state and transient conduction problems. The convection part covers the fundamental concepts of convection, governing equations, boundary layers and analytical solutions for external and internal flows, natural convection, boiling and condensation heat transfer.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.3820 Heat Transfer, or Permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.5420": {
+        "name": "MECH.5420 Convective Heat/Mass Transfer (Formerly 22.542)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5420/",
+        "id": "003888",
+        "description": "Conservation equations. Heat transfer in laminar and turbulent boundary layer and duct flow. Free convection. Convective mass transfer.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5440": {
+        "name": "MECH.5440 Combustion Modeling",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5440/",
+        "id": "040144",
+        "description": "This course is focused on combustion modeling and computational combustion. It will introduce methods for modeling laminar and turbulent premixed and non-premixed flames, as well as particulate combustion. Specific emphasis will be placed on the theory and derivation of the methods, their implementation, and the use of existing computational tools. Models will include combustion kinetics, convective and diffusive transport, equilibrium, simple reactors, canonical premixed and non-premixed flames, and methods for treating turbulent flows. Practical applications include internal combustion engines and gas turbines.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MECH.5340 Green Combustion and Biofuels",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.5340"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.5450": {
+        "name": "MECH.5450 Advanced Industrial Heat and Mass Transfer (Formerly 22.545)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5450/",
+        "id": "032792",
+        "description": "This course specializes in obtaining practical solutions for applied and industrial heat transfer problems related to device development and production processes.  Topics include review of heat transfer modes (i.e. conduction, convection and radiation), transport phenomena in material processing and manufacturing, analytical models and numerical simulations   Representative problems include curing of polymers, thermal conditioning of human body, food packaging and long-term food preservation, thermal management of electrical and electronic equipment, control of water vapor and pollutant transfer, material processing, and heat and mass exchangers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5490": {
+        "name": "MECH.5490 Cooling of Electronic Equipment (Formerly 22.549)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5490/",
+        "id": "003894",
+        "description": "This course focuses on teaching the primary techniques for cooling electronics, and methods for modeling their performance.  Heat-transfer fundamentals: conduction, convection, radiation, phase change, and heat transfer across solid interfaces. Heat-generating electronic equipment: ICs, power converters, circuit cards and electrical connectors. Thermal management equipment: heat sinks, interface materials, heat spreaders including liquid loops, and air movers. System design: system packaging architectures, facilities, system analysis. Advanced Topics: spray cooling, refrigeration",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5491": {
+        "name": "MECH.5491 Advanced Thermodynamics",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5491/",
+        "id": "040728",
+        "description": "The primary objective of this course is to prepare upper-level engineering students to effectively solve problems directly related to the fundamental science and engineering of thermodynamic systems. The course expands upon the first and second laws of thermodynamics. A significant emphasis is placed on the concepts of entropy generation and its transport mechanisms with respect to single-phase, multi-phase, chemically reacting and non-reacting systems. The methods of entropy generation minimization for commonly studied thermodynamic systems are discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5500": {
+        "name": "MECH.5500 Vibrations (Formerly 22.550)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5500/",
+        "id": "003895",
+        "description": "This course provides the analytical background for the fundamental understanding of vibration analysis, modeling and testing of mechanical systems. The course starts with an overview of the concepts in vibrations and later builds an in-depth understanding of the vibrations of single degree of freedom and multi degree of freedom systems. Both free and forced vibrations of these systems under steady-state and transient mechanical excitations will be investigated. The important concepts of modal analysis and vibration measurement methods will be studied. The continuous system modeling, nonlinear and random vibrations will also be touched upon.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2360 Eng. Differential Equations and MECH 4510 Dynamic Systems Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2360"
+                ],
+                [
+                    "MECH.4510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MECH.5520": {
+        "name": "MECH.5520 Probabilistic Methods and Analysis",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5520/",
+        "id": "040209",
+        "description": "The course will review the fundamentals of probability and statistics, and introduce the methodologies that are commonly adopted in mechanical engineering domain. The concepts of uncertainty, confidence and risk of engineering decision-making will be emphasized. Specific topic areas will include: random vibration and analysis, random data processing, probability evolution, uncertainty quantification in system modeling, model validation and verification, data fusion and model updating, Bayesian inference and statistical learning. Course assignments will be primarily deployed in Matlab environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5530": {
+        "name": "MECH.5530 MEMS & Microsystems (Formerly 22.553)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5530/",
+        "id": "032791",
+        "description": "The  purpose of this course is to give a broad introduction to Micro-electro-mechanical Systems (MEMS) technology, and will provide graduate students in mechanical, electrical, manufacturing and related engineering disciplines with necessary fundamental knowledge and experience in the design, manufacture, and packaging of microsystems.   The topics include basic sensing and actuating principles, modeling of electromechanical components, material properties, fabrication technologies, process integration, system design, and packaging of MEMS and microsystems.   The course will also cover current literature, MEMS markets and applications.   The course will be a combination of lectures, case studies and homework assignments.   The students are expected to possess prerequisite knowledge in college mathematics, physics, and chemistry, as well as in engineering subjects such as fundamental materials science, electronics, thermal-fluid, and machine design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5540": {
+        "name": "MECH.5540 Dynamic Systems and Controls (Formerly 22.554)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5540/",
+        "id": "003898",
+        "description": "Matrix-based classical and modern techniques are applied to the dynamics of control systems. Design of controllers, and full and reduced-order observers. Introduction to optimal control and Kalman filters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5550": {
+        "name": "MECH.5550 Networked Multi-Agent Systems",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5550/",
+        "id": "041781",
+        "description": "Our world is increasingly becoming more connected, with multiple natural and engineered entities operating in a common space, and possessing the capability to sense, react to, and manipulate the physical world around us. Many modern world systems such as the traffic networks, multi-robot systems, stock exchanges, and even human societies, exist as multi-agent systems (or system-of-systems). In this course, we will discuss approaches to model, quantify, and influence (or control) the global behaviors of these multi-agent systems. The course will provide introductory dynamic modeling techniques for multi-agent systems. The course will provide introductory dynamic modeling techniques for multi-agent systems, discuss information-theoretic measures for quantifying the behaviors of these systems, and provide techniques to design stat-of-the a-art controllers for these systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5570": {
+        "name": "MECH.5570 Microsystem Design (Formerly 22.557)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5570/",
+        "id": "034605",
+        "description": "Design aspects of Microsystems (MEMS). Topics covered include working principles of various microsystems, analytical and numerical modelling, and case studies.  Course incorporates lectures, computer laboratories and term project presentations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5580": {
+        "name": "MECH.5580 Aero/Wind Eng (Formerly 22.558)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5580/",
+        "id": "030334",
+        "description": "This course will introduce and examine classical and modern theoretical and computational two and three dimensional aerodynamics and aeroelastic modeling with applications in wind and subsonic aero/hydrodynamics applications.  In addition, wind and meteorological science as well as simple FEM structural modeling and coupling concepts will be examined.  The class will comprise scheduled lectures and discussions.  Students will be expected to perform presentations and directed projects which involve computer programming.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5590": {
+        "name": "MECH.5590 Multi-Scale Computational Fluid Dynamics I (Formerly 22.559)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5590/",
+        "id": "037600",
+        "description": "Derivation of governing equations; Scale analysis; Role of relative dimensionless parameters; Discretization of the governing equations; Finite-Difference, Finite-Volume, and/or Finite Element Techniques; Solutions of several problems in micro/meso/macro scale applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5600": {
+        "name": "MECH.5600 Multi-Scale Computational Fluid Dynamics II (Formerly 22.560)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5600/",
+        "id": "037601",
+        "description": "Applications of CFD methods to the solution of multi-phase problems such as: heat pipes, fuel cells, nanofluidics, material processing and manufacturing, etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "22.559 Multi-Scale Computational Fluid Dynamics I (CFD).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5620": {
+        "name": "MECH.5620 Solid Mechanics I (Formerly 22.562)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5620/",
+        "id": "003901",
+        "description": "Topics covered include the theory of stress, kinematics of strain, Hooke's Law, work and energy, equations of stress equilibrium, Navier's equations, strain compatibility, and the Beltrami-Michell equations. Problems for uniformly varying 3-D states of stress, torsion, and plane deformation are studied. Axisymmetric deformation is considered. Green's function solutions for plane and axisymmetric problems are studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5630": {
+        "name": "MECH.5630 Dynamic Behavior of Materials",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5630/",
+        "id": "039874",
+        "description": "The time-dependent material behavior and stress-wave propagation in solids. Topics will be selected from applied mechanics and materials science, e.g. mathematical and physical description of one dimensional and three dimensional waves in solids, strain rate-dependent behavior of materials, viscoelasticity of materials and its time-and frequency-domain descriptions including relaxation and creep, introduction to shock waves, introduction to experimental techniques for material characterization in dynamic environment such as ultrasonic testing, split Hopkinson bar technique, dynamic mechanical analysis, and drop tower and impact experiments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5710": {
+        "name": "MECH.5710 Quality Engineering (Formerly 22.571)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5710/",
+        "id": "003907",
+        "description": "Focuses on methodologies used by world class companies to guide the design and development of high quality, low cost products in the most timely manner through the use of analytical tools in case studies: Topics include: new product creation strategy and process, organizational aspects of multi-disciplinary design teams, concurrent project management, and structural methodologies for identifying customer requirements and manufacturing process design, control and selection. In particular, focus is on the interrelationship of CE, manufacturing and Quality tools and methodologies and how they contribute in determining the appropriate level of product/process quality and design efficiency.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5720": {
+        "name": "MECH.5720 Manufacturing Processes",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5720/",
+        "id": "003908",
+        "description": "Ferrous and non-ferrous, plastic and ceramic material behavior and properties. Electronic manufacturing processes, including printed circuit board fabrication, population and soldering. Castings, materials forming and shaping. Surface preparations and heat treatment. Additive manufacturing and fabrication of composites.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5740": {
+        "name": "MECH.5740 Design For Reliability Engineering (Formerly 22.574)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5740/",
+        "id": "003910",
+        "description": "(3-0)3 Design for Reliability Engineering provides a systematic approach to the design process that is focused on reliability and the physics of failure. It provides the requirements on how, why, and when to use the wide variety of reliability engineering tools available in order to achieve the reliability goals of the total design cycle. Topics include the product design cycle and customer requirements, analytical physics, reliability statistics, accelerated testing, accelerated reliability growth, industry standard predictive models, design reliability assessment, reliability FMEA, product risk evaluation and thermodynamic reliability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5750": {
+        "name": "MECH.5750 Industrial Design of Experiment (Formerly 22.575)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5750/",
+        "id": "003911",
+        "description": "Concepts of Robust Design and statistical Design Of Experiments (DOE) as applied to the design and manufacturing of new high technology products. Classical and current methodologies of DOE including Full Factorial, Fractional Factorial, Taguchi, Central Composite and Yates Algorithms. The course will also provide for different methods for experimental design and analysis, including average and variability analysis. Commercial software packages and case studies using industrial experiments will be used to illustrate the material.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5760": {
+        "name": "MECH.5760 Engineering Project Management (Formerly 22.576)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5760/",
+        "id": "003912",
+        "description": "Skills are developed enabling engineers to be effective decision makers and technical leaders in an environment where technology management, business operations and strategies for contract compliance are critical to achieving competitive advantage.  Elements of the Project Planning and Control System are presented along with analytical methods important for maintaining Projects on schedule and within budget.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5790": {
+        "name": "MECH.5790 Robotics (Formerly 22.579)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5790/",
+        "id": "003914",
+        "description": "Common robotics joints and robotics classification. Planes of motion and fold lines. Robotics capability. Forward and inverse kinematics and the RobSim software package. Trajectory planning and elementary obstacle avoidance. Robotics dynamics and feasible trajectory evaluation. Design of the control system for the non-linear robotics problem. Classroom studies are followed by hands-on applications in the Automated Manufacturing Assembly and Robotics Laboratory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5810": {
+        "name": "MECH.5810 Advanced Fluid Mechanics (Formerly 22.581)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5810/",
+        "id": "003916",
+        "description": "Fundamental equations of fluid motion, kinematics, vorticity, circulation, Crocco's theorem, Kelvin's theorem, Helmholtz's velocity laws, secondary flows. Stream function, velocity potential, potential flows. Unsteady Bernoulli equation, gravity water waves.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5830": {
+        "name": "MECH.5830 Advanced Aerodynamics (Formerly 22.583)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5830/",
+        "id": "003918",
+        "description": "3-0)3 Fundamentals of subsonic and supersonic aerodynamics. Atmosphere models, air-speed measurement, and aerodynamic heating. Circulation, downwash, and three-dimensional wing theory. Airfoil data, and lift and drag of aircraft components. Compressibility effects on drag, and airfoils and wings in supersonic and hypersonic flow. Aircraft performance calculations. Fundamentals of orbital mechanics. Special project required in supersonic wind tunnel testing or orbital mechanics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5840": {
+        "name": "MECH.5840 Ocean Engineering (Formerly 22.584)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5840/",
+        "id": "003919",
+        "description": "Physical Properties of the Ocean Environment, ocean wave mechanics, computer solutions of wave interactions, physical modeling of marine vehicles and coastal environments (modeling and scaling laws), resistance and propulsion of surface ships and submarines, and forces on floating and submerged objects such as buoys, pipelines, piers, and breakwaters. Research report required summarizing some aspect of ocean engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5890": {
+        "name": "MECH.5890 Finite Element in Thermofluids (Formerly 22.589)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5890/",
+        "id": "003923",
+        "description": "The Galerkin finite element technique is first applied to a simple one-dimensional steady state convection/conduction equation. The element equations are derived and the assembly process is described. These concepts are then extended to two-dimensional transient problems. A finite element package is used to solve a variety of fluid flow problems. All course materials are available on the WWW.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5910": {
+        "name": "MECH.5910 Mechanical Behavior of Materials (Formerly 22.591)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5910/",
+        "id": "003925",
+        "description": "Quantification of structure-property relationships requires application of solid mechanics concepts to materials microstructure. Using micromechanics approach, the course focuses on the deformation and fracture behavior of metals, ceramics, composites and polymerics. Topics include: elastic behavior, dislocations, crystal plasticity, strengthening mechanisms, composite materials, glassy materials, creep and creep fracture, tensile fracture, and fatigue.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5930": {
+        "name": "MECH.5930 Graduate Co-op Education (Formerly 22.593)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5930/",
+        "id": "003927",
+        "description": "The prediction, analysis, and prevention of failure in mechanical design is covered. Failure mechanisms such as creep, plastic deformation, crack propagation, cyclic fatigue, thermal fatigue, fretting and galling are considered. Theories of failure such as Colomb-Mohr, Beltrami, and Huber-Von Mises are used to predict failure. Cumulative damage theories such as those of Gatts, Corten and Dolan, Marin, and Manson will be studied. Statistical methods of analysis and test data interpretation are studied. Materials such as steels, aluminum alloys, solders, plastics, and composites will be considered.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5950": {
+        "name": "MECH.5950 Graduate Co-op II (Formerly 22.595)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5950/",
+        "id": "003929",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5960": {
+        "name": "MECH.5960 Mechanics of Composite Materials (Formerly 22.596)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5960/",
+        "id": "003930",
+        "description": "Analysis of anisotropic lamina and laminated composites. Methods of fabrication and testing of composites. Other topics include environmental effects, joining and machining.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5970": {
+        "name": "MECH.5970 Processing of Composites (Formerly 22.597)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5970/",
+        "id": "003931",
+        "description": "Methods of fabrication. Analysis of forming, fiber orientation, permeability, polymer rheology, flow through porous media, consolidation, cure kinetics, combined flow and cure models. Effect of manufacturing defects",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5980": {
+        "name": "MECH.5980 Experimental Characterization of Composites",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5980/",
+        "id": "040176",
+        "description": "Characterization of composite material properties and performance. Constituent testing of matrix and reinforcement materials. Characterization of microstructure. Mechanical property testing according to ASTM standards. Interpretation of test results.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.5CO-OP": {
+        "name": "MECH.5CO-OP Curricula Practical Training (Formerly 22.5CO-OP)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/5CO-OP/",
+        "id": "037971",
+        "description": "Curricula Practical Training. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6020": {
+        "name": "MECH.6020 Special Topic: Thermo-Fluids (Formerly 22.602)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6020/",
+        "id": "003934",
+        "description": "Study of advanced topics in thermo-fluid energy systems and processes not covered in the regular curriculum. Contents may vary from year to year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6030": {
+        "name": "MECH.6030 Special Topic: Vibration Dynamics (Formerly 22.603)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6030/",
+        "id": "003935",
+        "description": "Study of advanced topics in vibrations/dynamics not covered in the regular curriculum. Contents may vary from year to year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6040": {
+        "name": "MECH.6040 Special Topic: Finite Element Methods",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6040/",
+        "id": "040807",
+        "description": "Study of advanced topics in finite element methods not covered in the regular curriculum. Contents may vary from year to year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6110": {
+        "name": "MECH.6110 Matrix Methods for Structural Dynamics (Formerly 22.611)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6110/",
+        "id": "003940",
+        "description": "3-0)3 Prerequisite: 22.515 Matrix linear algebra. Solution of algebraic equations using Gaussian elimination and decomposition variants. Eigenanalysis using various direct similarity techniques and simultaneous vector iteration methods. Algorithm development of solution techniques. Solution techniques for structural mechanics, dynamic systems and stability. Models developed using MATLAB.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6140": {
+        "name": "MECH.6140 Advanced Finite Element Methods (Formerly 22.614)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6140/",
+        "id": "003942",
+        "description": "Nonlinear finite element methods as applied to large deformation and nonlinear material behavior are the focus of this course. Various classical and contemporary constitutive models and their implementation in the finite element method are considered. Procedures for determining material parameters from a matrix of material test results are investigated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6150": {
+        "name": "MECH.6150 Micromechanics of Composites and Metamaterials",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6150/",
+        "id": "040149",
+        "description": "Overall behavior of composite materials and metamaterials. The fundamentals of homogenization for elastic composites, variational principles and energy-based bounds, and dynamic homogenization concepts and techniques are introduced. Voigt and Reuss mixture rules are discussed and expanded to dilute distribution, self-consistent, Mori-Tanaka, and periodic approaches with examples from particulate, whisker, platelet, and fiber-reinforced composites. The effects of damage and cracks and the concept of metamaterial are discussed and examples are presented. The use of finite element calculations for static, nonlinear, and dynamic homogenization will be discussed and the application to non-mechanical and coupled problems are explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6500": {
+        "name": "MECH.6500 Nano. Transport Phen. for Manufacturing Nanodevice (Formerly 22.650)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6500/",
+        "id": "038883",
+        "description": "This course on nanoscale transport phenomena constitutes a bridge between existing fluid and heat transfer courses in multiple disciplines and emerging nanoscale science and engineering concepts to reflect the forefront of nanomanufacturing. The course is designed to incorporate recent advances in manufacturing polymer-based nanodevices. Key issues of the implementation and maintenance costs for fabrication will be addressed. Hands-on laboratory experiments will be performed to complement the lectures with the ultimate goal of designing and building a complete nanodevice at the end of the course. The course will prepare graduates for employment focused on designing and manufacturing nano/microfluidic systems, lab-on-a-chip devices, electronics devices, medical devices, and other emerging.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.6690": {
+        "name": "MECH.6690 Fracture Mechanics (Formerly 22.569)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/6690/",
+        "id": "038881",
+        "description": "The application of fracture mechanics and approaches for exploring the impact of cracks on engineering structures. Topics will be chosen from a range of mathematical techniques, applied mechanics, and materials science, e.g. theoretical strength, stress concentration, linear and nonlinear fracture mechanics, stress singularity, fracture modes, energy methods, stable and unstable crack growth thermal cracks, crack tip plastic zone, Dugdale and Irwin models, the R-curve, power-law materials, and the J-integral. Students should have a good understanding of the principles of strengths of materials and be able to apply these principles to the solution of problems in solid mechanics. The associated knowledge in complex variables and partial differential equations will be reviewed as needed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7410": {
+        "name": "MECH.7410 Master's Thesis - Mechanical Engineering (Formerly 22.741)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7410/",
+        "id": "003959",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7420": {
+        "name": "MECH.7420 Master's Thesis - Mechanical Engineering (Formerly 22.742)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7420/",
+        "id": "003960",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7430": {
+        "name": "MECH.7430 Master's Thesis - ME (Formerly 22.743)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7430/",
+        "id": "003961",
+        "description": "MS Thesis Research",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7460": {
+        "name": "MECH.7460 Master's Thesis - ME (Formerly 22.746)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7460/",
+        "id": "003962",
+        "description": "MS Thesis Research",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7490": {
+        "name": "MECH.7490 Master's Thesis - Mechanical Engineering (Formerly 22.749)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7490/",
+        "id": "003963",
+        "description": "MS Thesis Research",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7510": {
+        "name": "MECH.7510 Adv Projects In Mechanical Engineering (Formerly 22.751)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7510/",
+        "id": "003964",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7530": {
+        "name": "MECH.7530 Doctoral Dissertation/Mechanical Engineering (Formerly 22.753)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7530/",
+        "id": "003965",
+        "description": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7560": {
+        "name": "MECH.7560 Doctoral Dissertation/Mechanical Engineering (Formerly 22.756)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7560/",
+        "id": "003966",
+        "description": "Doctoral Dissertation Research",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7590": {
+        "name": "MECH.7590 Doctoral Dissertation/Mechanical Engineering (Formerly 22.759)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7590/",
+        "id": "003967",
+        "description": "Masters and doctoral students who have attained the required number of thesis\ncredits may enroll in:",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7610": {
+        "name": "MECH.7610 Continued Grad Research (Formerly 22.761)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7610/",
+        "id": "038491",
+        "description": "Continued Grad Research",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7630": {
+        "name": "MECH.7630 Continued Graduate Research (Formerly 22.763)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7630/",
+        "id": "003968",
+        "description": "Continuing Graduate Research",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7660": {
+        "name": "MECH.7660 Continued Graduate Research (Formerly 22.766)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7660/",
+        "id": "003969",
+        "description": "Continuing Graduate Research",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7690": {
+        "name": "MECH.7690 Continued Graduate Research (Formerly 22.769)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7690/",
+        "id": "003970",
+        "description": "Continuing Graduate Research",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7710": {
+        "name": "MECH.7710 Systems Analysis I (Formerly 22.771)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7710/",
+        "id": "003971",
+        "description": "Study of the key areas in multiple engineering disciplines including Mechanical, Electrical, Software, Systems and Optical. Students are introduced to weekly topics and then work in multidiscipline teams to solve technical assignments.  Topics covered include: Concept of Operations and Requirements development, integration, test and verification, vibration/shock analysis, thermal analysis, power supply design, digital electronics & FPGA, intro to optical engineering, SCRUM planning, continuous integration and UML/SW design. Content may vary year to year. This course is part of the Engineering Leadership Development Program (ELDP) and team taught by industry experts at BAE Systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7720": {
+        "name": "MECH.7720 Systems Analysis II (Formerly 22.772)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7720/",
+        "id": "003972",
+        "description": "Introduction and analysis of complex systems aligned with the key product lines of BAE Systems.  Students are introduced to multiple types of systems and then work in multidiscipline teams to solve technical assignments.  The systems covered include but are limited to: Electronic Warfare (EW), Communications Electronic Attack (Comms EA), Wide Area Airborne Surveillance (WAAS), Signal Intelligence (SIGINT), RADAR Navigation, Radio Communications, and Infrared Countermeasures (IRCM).   Content may vary year to year. This course is part of the Engineering Leadership Development Program (ELDP) and team taught by industry experts at BAE Systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7730": {
+        "name": "MECH.7730 Systems Analysis III (Formerly 22.773)",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7730/",
+        "id": "003973",
+        "description": "Study of project management concepts, product development methods, transition to operations and new business capture. Topics covered include but are not limited to risks and opportunities management, earned value management, lean product development, business strategy, design for manufacturability/maintainability (DFM^2), and request for  information (RFI) response. Content may vary year to year. This course is part of the Engineering Leadership Development Program (ELDP) and team taught by industry experts at BAE Systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MECH.7CPT": {
+        "name": "MECH.7CPT Curricular Practical Training for Engineering Doctoral Candidates",
+        "url": "https://www.uml.edu/catalog/courses/MECH/7CPT/",
+        "id": "041751",
+        "description": "Curricular Practical Training (CPT) is a training program for doctoral students in Engineering. Participation in CPT acknowledges that this an integral part of an established curriculum and directly related to the major area of study or thesis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

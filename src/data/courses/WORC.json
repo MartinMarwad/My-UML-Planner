@@ -1,0 +1,199 @@
+{
+    "total": 13,
+    "time": 10.81741738319397,
+    "WORC.673N": {
+        "name": "WORC.673N Clinical Pyschopharmacology",
+        "url": "https://www.uml.edu/catalog/courses/WORC/673N/",
+        "id": "041355",
+        "description": "Intercampus Course -- Please Refer to UMASS Worcester Course Catalog for Details. (UME-N 673N.)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.704BBS": {
+        "name": "WORC.704BBS Responsible Conduct of Research - Animal Subject (Formerly WOR 704BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/704BBS/",
+        "id": "038705",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details.\n(BBS704).",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.715BBS": {
+        "name": "WORC.715BBS Chemical Biology (Formerly WOR 715BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/715BBS/",
+        "id": "038703",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details. (BBS715).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.716BBS": {
+        "name": "WORC.716BBS Molecular Biophysics (Formerly WOR 716BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/716BBS/",
+        "id": "038506",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details.\n(BBS716).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.725BBS": {
+        "name": "WORC.725BBS Cancer Biology (Formerly WOR 725BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/725BBS/",
+        "id": "038507",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details.\n(BBS725).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.755BBS": {
+        "name": "WORC.755BBS Infection and Immune Response (Formerly WOR 755BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/755BBS/",
+        "id": "038704",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details.\n(BBS755).",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.804N": {
+        "name": "WORC.804N Survey/Measure in Health Research",
+        "url": "https://www.uml.edu/catalog/courses/WORC/804N/",
+        "id": "041353",
+        "description": "Intercampus Course -- Please Refer to UMASS Worcester Course Catalog for Details. (UME-N 804).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.812N": {
+        "name": "WORC.812N Health Literacy in Research Practice",
+        "url": "https://www.uml.edu/catalog/courses/WORC/812N/",
+        "id": "040881",
+        "description": "Intercampus Course -- Please Refer to UMASS Worcester Course Catalog for Details. (N812).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.819N": {
+        "name": "WORC.819N Advanced Qualitative Research Methods and Analysis",
+        "url": "https://www.uml.edu/catalog/courses/WORC/819N/",
+        "id": "041354",
+        "description": "Intercampus Course -- Please Refer to UMASS Worcester Course Catalog for Details. (UME-N 819).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.821BBS": {
+        "name": "WORC.821BBS Molecular and Cellular Immumology (Formerly WOR 821BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/821BBS/",
+        "id": "038470",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details.\n(BBS821)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.8326BBS": {
+        "name": "WORC.8326BBS Intro to Flow and Image Cytometry II (Formerly WOR 8326BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/8326BBS/",
+        "id": "038469",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details.\n(BBS8326)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.8329BBS": {
+        "name": "WORC.8329BBS Intro to Flow and Image Cytometry I (Formerly WOR 8329BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/8329BBS/",
+        "id": "038468",
+        "description": "Intercampus Course--Please refer to UMASS Worcester Course Catalog for details.\n(BBS8329)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WORC.870BBS": {
+        "name": "WORC.870BBS Thesis Research (Formerly WOR 870BBS)",
+        "url": "https://www.uml.edu/catalog/courses/WORC/870BBS/",
+        "id": "038646",
+        "description": "Intercampus Course -- Please refer to UMASS Worcester Course Catalog for details. (BBS870).",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

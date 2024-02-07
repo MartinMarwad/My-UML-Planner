@@ -1,0 +1,1274 @@
+{
+    "total": 75,
+    "time": 51.14389085769653,
+    "SOCI.1010": {
+        "name": "SOCI.1010 Introduction to Sociology (Formerly 48.101)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/1010/",
+        "id": "005812",
+        "description": "Serves as the basic course in sociology. Emphasis is directed at the ways in which social institutions such as government, schools, the economy, social class, and the family develop and influence our lives. It is concerned not only with presenting various ways to understand our relationship to society but also with ways to change it.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.1020": {
+        "name": "SOCI.1020 Social Anthropology (Formerly 48.102)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/1020/",
+        "id": "005813",
+        "description": "Using the comparative approach to society, this course examines several distinct cultures as a means of understanding both the universal constants and the variations in human societies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.1110": {
+        "name": "SOCI.1110 A Novel Approach to Sociology (Formerly 48.111)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/1110/",
+        "id": "030412",
+        "description": "Examines major sociological themes through analysis of literature, primarily major works of fiction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.1120": {
+        "name": "SOCI.1120 Sociology Goes to the Movies (Formerly 48.112)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/1120/",
+        "id": "033538",
+        "description": "This course is designed to give students the opportunity to survey primary sociological texts and view films, offer commentary on and analysis of social behavior.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.1150": {
+        "name": "SOCI.1150 Social Problems (Formerly 48.115)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/1150/",
+        "id": "038335",
+        "description": "This entry level course uses the core concept of social problems to introduce basic social science reasoning-how social scientist define research questions, develop systematic methods to study them, gather evidence, search for pattern, in link findings to existent knowledge,. Cases provide opportunities to discuss how private problems develop into public issue, illustrating sociology as a discipline that evolves in response to social conflicts and inequalities. The course also meets General Education requirements for Ethics and Diversity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2004": {
+        "name": "SOCI.2004 Introduction to Multiracial Studies",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2004/",
+        "id": "041941",
+        "description": "What does is mean to be biracial or multiracial?  How is being bi/multiracial shaped by other identities? We will explore these important questions.  You will also learn about the experiences, identities, and unique struggles of bi/multiracials.  You will develop the analytical skills to challenge rigid racial binary.  Bi/multiracial Americans are a growing population in the United States, and therefore, you are statistically more likely to befriend, date, work with and/or parent a bi/multiracial American than any other generation in American history.  Consequently, this course was developed to enhance your racial consciousness by acknowledging the complexities of racial inequality in a population that is often assumed to be evidence of racial harmony in America.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2010": {
+        "name": "SOCI.2010 Foundations of Social Analysis (Formerly 48.201)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2010/",
+        "id": "005816",
+        "description": "This intermediate-level class deepens students' analytical skills beyond intro level preparing for more abstract work in Theory and Methods courses.  It also prepares students for more complex integration of theory, methods and issue content in 300 level courses.  This course will attend to developing students' ability to recognize, and write social science research papers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: SOCI.1010 Introduction to Sociology, and Sociology Majors, or BLA Sociology concentration or permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ]
+        }
+    },
+    "SOCI.2050": {
+        "name": "SOCI.2050 Public Sociology (Formerly 48.205)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2050/",
+        "id": "033259",
+        "description": "Public sociology includes sociological initiatives targeting non-university audiences and serving the public good. This course will  1) introduce and critique the various conceptualizations of public sociology linking them to broad schools of sociological theory;  2) explore alternative field models and methods, preparing students for field projects in future semesters; and 3) expose students to sociological practitioners and practices compatible with the mission of the university and department. From a liberal arts perspective, the course stresses critical thinking and communication skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.2100": {
+        "name": "SOCI.2100 Sociology of Food (Formerly 48.210)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2100/",
+        "id": "038760",
+        "description": "This course is about Sociology of food exploring the connection between food, society and culture. Our food choices are influenced by age, gender, ethnicity, class and religion. History of food and methods of food production contribute to understanding of social relations among individuals and social changes in society. This course will examine 1. role of food in society, culture and change, 2. changes in food production from simple to complex societies and 3. problems associated with new systems of food production locally and globally.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2110": {
+        "name": "SOCI.2110 Sociology of American Education (Formerly 48.303/SOCI.3030)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2110/",
+        "id": "005840",
+        "description": "Course introduces students to ongoing debates in the field of Sociology regarding the American educational system, its structures and functions and how it relates to issues of inequality by race, class and gender. Students are expected to explore, examine and evaluate the current issues relating to the system of education in the United States.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2120": {
+        "name": "SOCI.2120 Cultures of the World (Formerly 48.212)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2120/",
+        "id": "005819",
+        "description": "Focuses on a different country or region each time it is given. Students examine the traditional culture, recent history, economic development, class structure, and international relations of the area covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2130": {
+        "name": "SOCI.2130 Sociology of Immigration (Formerly 48.307/SOCI.3070)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2130/",
+        "id": "037721",
+        "description": "The United States is frequently described as a country with a proud history of immigration.  As a result, citizens and residents of the U.S. often identify their home as a nation of people who make up a melting pot country.  While useful and insightful, the melting pot metaphor requires comparison with additional explanations of immigration and immigrant experiences.  In order to provide deeper comprehension of the topic matter, this course offers sociological examination of immigration processes, laws, and debates.  Three areas compose the main portion of class content:  historical accounts and theories, legislation, and the social, economical, and political experiences of immigrants.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2140": {
+        "name": "SOCI.2140 Sociology of Sports (Formerly 48.340/SOCI.3400)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2140/",
+        "id": "005854",
+        "description": "Examines the history of modern sports at the amateur and professional levels and international competition. The impact of race, sex, economics, and politics on the institution of sports will also be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2150": {
+        "name": "SOCI.2150 Peacemaking Alternatives (Formerly 48.215)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2150/",
+        "id": "005821",
+        "description": "Examines various positive alternatives to war and violence, including disarmament, nonviolence, conflict resolution, and the United Nations. Students do volunteer work with an activist agency or interview an activist. The course stresses the historical and contemporary role of peace movements and allied social-change movements such as feminism, civil rights and environmentalism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2160": {
+        "name": "SOCI.2160 Sociology of War and Peace (Formerly 48.216)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2160/",
+        "id": "030413",
+        "description": "The purpose of this course is to examine critically the social forces that contribute to war, war's social consequences, and the possibilities for creating a more peaceful world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2170": {
+        "name": "SOCI.2170 Social Movements (Formerly 48.382/SOCI.3820)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2170/",
+        "id": "005868",
+        "description": "Considers organized action undertaken to alter the social position of a group. Organization, techniques of action, motivation of participants, and group ideologies are studied. Materials from historical, social, psychological, and sociological sources are used.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2200": {
+        "name": "SOCI.2200 Self-Assessment and Career Development (Formerly 48.220)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2200/",
+        "id": "005822",
+        "description": "Studies the meaning of work in our society. Class participants will assess their own life experiences and develop plans to integrate interests, values, and abilities into meaningful and realistic life/work options.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Jr. or Sr. status only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2250": {
+        "name": "SOCI.2250 Sociology of Disability (Formerly 48.225)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2250/",
+        "id": "033256",
+        "description": "This course is organized around several key questions that are used to study the concepts of disability and ability from a variety of sociological and interdisciplinary perspectives.  Specifically, the course explores representations of disability in popular culture and medical discourses to discuss disability and ability as social constructs.  By looking at various literary and cultural representations, this course investigates constructions of the disabled and abled body, how this becomes politicized, and the implications of these constructions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2310": {
+        "name": "SOCI.2310 Sociology of Families (Formerly 48.231)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2310/",
+        "id": "005824",
+        "description": "This course uses a sociological approach to understand family forms, practices, and controversies in contemporary society, with particular emphasis on families in the United States. We will look closely at how family experiences and opportunities have changed over time, and also how they vary by gender, age, class, race/ethnicity and sexual orientation. What functions do families perform in modern society? How are they changing? How do these changes affect our lives?",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2340": {
+        "name": "SOCI.2340 Race and Ethnicity (Formerly 48.234)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2340/",
+        "id": "005825",
+        "description": "This course locates and studies the sociological dynamics of race and ethnic relations in the United States as it pertains to all groups. The course material presents theories and models that explain periods of conflict and cooperation between diverse sets of people. While providing some historical background, the course focuses primarily on recent and contemporary situations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2350": {
+        "name": "SOCI.2350 Digital Inequalities",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2350/",
+        "id": "042125",
+        "description": "Digital sociology is broadly interested in how (1) social actors use technology in everyday life and (2) technology shapes social processes, especially social problems. This course is a sociological exploration of the development and evolution of racial and gender inequalities online, as well as the implications of racism and sexism online on groups and society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2360": {
+        "name": "SOCI.2360 Climate Crisis and Society (Formerly 48.236)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2360/",
+        "id": "033284",
+        "description": "Focusing on case studies of recent and pending environmental disasters, this course will trace how political, social, economic and cultural arrangements and choices contribute to environmental catastrophes and their resolution. In order to identify possibilities for agency, students will play several environmental games in which they will assume roles in the global economy, governmental and civil society to identify possibilities for agency. As a final project, students will describe a recent disaster identifying both structures that create environmental stresses and the options that might exist for structural changes. The project is intended to develop both critical thinking and communication skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2400": {
+        "name": "SOCI.2400 Sociology of Gender (Formerly 48.240)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2400/",
+        "id": "005827",
+        "description": "This course is an interdisciplinary introduction to the field of gender studies. A variety of topics are presented, such as gender stratification, work and family, sexual identities, media representations of women and men, women's movement, and violence against women. Feminist theories and methods are also introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2450": {
+        "name": "SOCI.2450 Introduction to Labor Studies (Formerly 48.245)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2450/",
+        "id": "037377",
+        "description": "This foundational course has two overarching learning objectives: (1) to give students basic empirical knowledge and analytical tools to understand the context of work in the United States at the dawn of the twenty-first century and (2) to give students an understanding of how labour unions work, what has been their impact historically, and what their role is in contemporary society. The course will be explicitly interdisciplinary, drawing on readings from history, sociology, economics, political science, and psychology to offer and introduction to understanding work and labor through and analytic lens. In addition, the course will include a service-learning component in collaboration with the UML Labor Education Program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2550": {
+        "name": "SOCI.2550 Sociology of Deviance (Formerly 48.255)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2550/",
+        "id": "005831",
+        "description": "Analysis of how social institutions define and respond to various forms of social deviance, from individual mental illness to gang violence to illegal acts by governments and corporations. Attention will be paid to the construction and management of deviant identities, the role played by social status, and the social importance of institutions of social control.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2560": {
+        "name": "SOCI.2560 Political Sociology (Formerly 48.256)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2560/",
+        "id": "005832",
+        "description": "Focuses on the development and use of power in modern society. Emphasis is placed on the relationship of American political institutions to economic institutions, to social class, and to supporting ideologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2700": {
+        "name": "SOCI.2700 Self and Society (Formerly 48.270)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2700/",
+        "id": "005835",
+        "description": "An examination of the relationship between individuals and the social world around them. The course examines the underlying structures that pattern human interaction. Topics include the social construction of the self, the construction of social reality, and the sociology of emotions, among others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2710": {
+        "name": "SOCI.2710 Sociology of Work (Formerly 48.371 and SOCI.3710)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2710/",
+        "id": "005867",
+        "description": "In the United States, work is a fundamental part of people's identities, consumes huge amounts of our time and effort, is a vital part of our economic and social development, and is linked inextricably to gender, racial-ethnic, and class inequalities. This course will take a sociological perspective, challenging students to take a step back and look analytically at work, something with which most of us are intimately familiar.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2760": {
+        "name": "SOCI.2760 Sociology of the Gun (Formerly 48.276)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2760/",
+        "id": "005837",
+        "description": "This course examines the social impact of guns on the American psyche, from deer hunters and intergenerational family bonds to street gangs and broken families, from collectors and recreational users to hospital trauma.  Self-defense issues are discussed within the context of the Second Amendment.  The conflict between pro-gun and anti-gun special interest groups and the evolution of an American gun culture will be studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.2800": {
+        "name": "SOCI.2800 Drugs and Society (Formerly 48.280)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/2800/",
+        "id": "030844",
+        "description": "This course is designed to introduce students to the cultural and poplitical qualities of drugs in society. The course provides a historical and cross-cultural overview of the use of organic and simple processed substances, as well as a history of drug policy in the United States.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.3010": {
+        "name": "SOCI.3010 Sociology of Human Rights (Formerly 48.301)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3010/",
+        "id": "005839",
+        "description": "Examines the politically divergent definitions of rights and freedoms. Attention will be paid to the activities of international human rights organizations to the human rights policies of the major powers. Various current human rights issues will be examined. Case histories may include the Soviet Union, Northern Ireland, South Africa, Afro-Americans, Armenians and Palestinians.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3020": {
+        "name": "SOCI.3020 Seminar on Homelessness: Lowell and Mumbai",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3020/",
+        "id": "039593",
+        "description": "This course will focus on understanding housing insecurity by looking closely at what it means to be homeless in two very different cities, located across the world from each other: Lowell, USA and Mumbai, India. In doing so, we will use this comparison to highlight the root causes of homelessness within a global context, including how certain social situations, policies and innovations may exacerbate and /or improve this situation. Simultaneously, students will gain a first-hand understanding of homelessness in Lowell through performing 3-4 hours of service per week at a local shelter and/or drop-in center.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3040": {
+        "name": "SOCI.3040 Science, Technology and Society (Formerly SOCI.2220)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3040/",
+        "id": "039609",
+        "description": "The complex relationships between science, technology, and society are commonly obscured by a popular belief in the value-neutrality and objectivity of science and technology. Being able to analyze that belief as a myth is necessary in order to engage in critical analysis of the ways in which science, technology and society are mutually constituted. Social inequalities are both built into and perpetuated by science, technology, and engineering. Likewise, science, technology, and engineering shape and are shaped by various societal power relations. This course will provide the analytical tools necessary to understand science, technology, and engineering as fundamentally social enterprises and to understand how they shape society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3050": {
+        "name": "SOCI.3050 Sociology of Family Law (Formerly 48.305)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3050/",
+        "id": "005841",
+        "description": "Examines some social issues in family law, the changes therein, and the social climate and consequences accompanying these. By using the sociological method of inquiry to examine family law cases, the relationship between law and society as instruments of order and change are exemplified.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3060": {
+        "name": "SOCI.3060 Race, Gender, and the Future of Work",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3060/",
+        "id": "042171",
+        "description": "This course will use an intersectional lens to examine the role of race, gender, class, ability, and other dimensions of inequality in structuring work in the United States and around the world. How do different groups of people end up in different jobs? What is the wage gap and what does it mean for you? Why is who in the family changes diapers and cooks dinner connected to work? What are the implications of the rise of automation, remote work, and the gig economy for the future of work? These are some of the questions we will address, using sociological literature and contemporary news sources and making connections to our own experiences as past, present and future workers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3080": {
+        "name": "SOCI.3080 Asian American Identities and Globalization",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3080/",
+        "id": "042276",
+        "description": "The course explores the historical relevance of race, class, and gender concerning Asian Americans in globalized contexts. We will analyze the transformation of the Asian American immigrant identities from \"yellow peril\" to \"model minority status\". We will look at the raced representations of Asian Americans and Asians across visual media. We will explore the politics around Asian American stereotypes and connect them with the ongoing debate around Asian American immigrants and Asian American immigration to the US. By the end of the course, you will be able to contextualize the Asian American experience in the contemporary contexts of US race relations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3100": {
+        "name": "SOCI.3100 Ethnicity in Massachusetts (Formerly 48.310)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3100/",
+        "id": "005844",
+        "description": "Massachusetts is well known for its rich immigrant history and culture. This course examines the social history of and conditions faced by immigrants upon arrival to Massachusetts, the ways they are affected as they settle in communities and their social and cultural impact locally and state-wide. Selected ethnic groups/communities are examined to understand the common processes and experiences as well as differences among them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3110": {
+        "name": "SOCI.3110 Sociological Perspective on Communication & Social Change (Formerly 48.311)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3110/",
+        "id": "033285",
+        "description": "Most social interactions and interventions involve communication. Thus, communication patterns present critical issues for sociological inquiry. This course introduces communication as a central yet often ignored element of social life. It surveys existing communication theories, then focuses on models used by marginalized populations in efforts to democratize communication systems. Finally, it introduces tools for communication strategizing. As a final product students will conduct a frame analysis of a current social topic. From a general liberal arts perspective, the course will stress critical thinking and writing skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3160": {
+        "name": "SOCI.3160 Youth and Society (Formerly 48.316)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3160/",
+        "id": "039557",
+        "description": "Youth (or adolescence) constitutes a historically and socially constructed stage of the life course between childhood and adulthood. Since the early twentieth century, society's view of this life period has been ambivalent, at once glorifying the age of youth while also fretting over the problems that youth face. This course takes a sociological view of the study of youth/adolescence with particular attention to: (1) how this stage of the life course intersects with race, gender, immigration status and sexuality; (2) how society has responded to youth over time through a range of youth-serving organizations and media representations; and (3) how youth have responded as agents in their own public representations and development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3170": {
+        "name": "SOCI.3170 Sociology of Genocide (Formerly 48.317)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3170/",
+        "id": "005846",
+        "description": "The deliberate destruction of an ethnic group is an historical event and a social process. This course addresses such questions as: Why do genocides occur? Why do people become genocide perpetrators? How do genocides affect survivors and their offspring? How can genocide be prevented? Focus is on Native American, Armenian and Jewish experiences and recent cases of ethnic cleansing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3200": {
+        "name": "SOCI.3200 Community Service (Formerly 48.320)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3200/",
+        "id": "005830",
+        "description": "Course uses fieldwork approach to understand social problems and to discipline study and career pursuit in the area of public service.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3210": {
+        "name": "SOCI.3210 Classical Social Theory (Formerly 48.321)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3210/",
+        "id": "005848",
+        "description": "This course offers a critical examination of major classical sociological theories. It emphasizes the relationship between the individual and society and the competing pressures for social order and social conflict.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "SOCI.2020 Foundations of Social Analysis, and Sociology Majors only or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3220": {
+        "name": "SOCI.3220 Contemporary Social Theory (Formerly 48.322)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3220/",
+        "id": "005849",
+        "description": "This course offers a critical examination of major contemporary sociological theories, including critical theory, neo-Marxism, critical race theory, feminist theory, and postmodernism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI 1010 Intro to Sociology and SOCI 3210 Social Theory I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ],
+                [
+                    "SOCI.3210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3250": {
+        "name": "SOCI.3250 Global Conflicts (Formerly 48.325)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3250/",
+        "id": "005851",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3300": {
+        "name": "SOCI.3300 Fast Food, Hot Planet: Sociological Approaches (Formerly 48.330)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3300/",
+        "id": "038308",
+        "description": "With an eye on climate change sustainability, this course maps the social and historical dimensions of crisis and inequalities of food production and distribution. In addition to exploring food security's relation to sustainable food production, students will strengthen critical thinking, writing, and library research skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3350": {
+        "name": "SOCI.3350 Sociology of Intimacies and Sexualities",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3350/",
+        "id": "040412",
+        "description": "In this course, students will investigate the relationship between society and sexualities, including: social categorizations of sex, gender, and sexuality; social and cultural representations of intimacy and sexuality; and social and institutional control of sexualities and sexual behavior and practice. Students will read theoretical and methodological works from the field of sexualities studies, including sociological, feminist, post-colonial, and queer theorists. By the end of the course, students will be able to articulate a sociological perspective on intimacy and sexualities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3410": {
+        "name": "SOCI.3410 Wealth, Status and Power (Formerly 48.341)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3410/",
+        "id": "005855",
+        "description": "Focuses on the phenomenon of social class distinctions with particular emphasis on social class in America. The approach is both historical and sociological.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3440": {
+        "name": "SOCI.3440 Race, Gender and Film",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3440/",
+        "id": "041790",
+        "description": "In this course, we will critically and sociologically analyze racial and gender patterns in American films. We will analyze how each film is shot with regard to racial messages using film studies terminology (for example, cinematography). We will also highlight which films are recognized with prestigious awards, and what this suggests about American society. In addition, we will discuss the role of power in the film industry and how directors, producers and screenwriters shape the public imagination of the American society and the world through widely disseminated media portrayals. We will also critically evaluate seemingly race-neutral, animation films, such as children's films, where characters appear in animal form.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3450": {
+        "name": "SOCI.3450 Urban Sociology (Formerly 48.345)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3450/",
+        "id": "005856",
+        "description": "Deals with issues related to the quality of life in American cities. Students taking this course may engage in research projects on the city of Lowell and the role of the University of Massachusetts Lowell within that city.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3510": {
+        "name": "SOCI.3510 The Sociology of Health and Health Care (Formerly 48.351)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3510/",
+        "id": "005860",
+        "description": "With the passage of the Affordable Care Act, the U.S. Health Care system is undergoing a radical change as profound as any in U.S. history including those for minority and woman's rights. A large segment of the population has struggled to obtain even basic health care coverage. The changes taking place are analyzed in a historical and comparative context by examining health care in other countries. Special attention is given to understanding the professions in medicine and the role medical professions have had in shaping medical care. At the micro level, the course examines evolving health care provider/patient relationships to better understand the level of control patients can exert over their health care decisions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3520": {
+        "name": "SOCI.3520 Latinos/as in the United States",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3520/",
+        "id": "039893",
+        "description": "By 2060, Latinos are forecast to comprise over 28 percent of the US population. While the presentation of Latinos/as in public discourse often frames them a recently arrived immigrants, Spanish-speaking peoples in the US have a long and rich history. This course focuses a sociological lens on the historical and contemporary experiences of a community whose emergence requires deep analysis. Emphasis is placed on immigration policy, demographic shifts, labor market discrimination and bilingual education.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3550": {
+        "name": "SOCI.3550 Black Experience in American Life (Formerly 48.355)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3550/",
+        "id": "005862",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3570": {
+        "name": "SOCI.3570 The Sociology of Religion (Formerly 48.357)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3570/",
+        "id": "005863",
+        "description": "An investigation of religious institutions and experiences. Emphasis is placed on the influence of religion on social change.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3600": {
+        "name": "SOCI.3600 Sociology of Non-Violence (Formerly 48.360)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3600/",
+        "id": "005864",
+        "description": "An analysis of non-violent efforts to achieve social change through demonstrations, civil disobedience, etc. Movements led by Mahatma Gandhi, Martin Luther King, Jr., and others are examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3610": {
+        "name": "SOCI.3610 Sociology of Law (Formerly 48.361)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3610/",
+        "id": "005865",
+        "description": "The course examines the role of social forces in defining the law. Topics include the legal profession, white-collar crime, and the importance of race, class and gender in the criminal justice system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3620": {
+        "name": "SOCI.3620 Social Welfare Policy (Formerly 48.362)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3620/",
+        "id": "030414",
+        "description": "The course examines the development of social welfare policy in the United States as well as alternative strategies for social welfare provision. Particular attention is paid to the role of race/ethnicity, class, and gender in the formation of social welfare policy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3700": {
+        "name": "SOCI.3700 Intersections of Disability and Gender",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3700/",
+        "id": "041346",
+        "description": "This course is organized around several questions that will be used to help engage students in the study of the concepts of disability and gender from a variety of sociological and interdisciplinary perspectives. The course will explore feminist representations of disability and gender in popular culture discourses to discuss disability as well as gender as social constructs. By analyzing books, movies, television, cartoons, and the internet, we will look at how conceptualizations of disability and gender intersect and are represented in these \"texts\" and the possible influences on perceptions and definitions of disability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "SOCI.2250 Sociology of Disability, or SOCI.2400 Sociology of Gender, or GNDR.2400 Introduction to Gender Studies.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.2250",
+                    "SOCI.2400",
+                    "GNDR.2400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3740": {
+        "name": "SOCI.3740 Race and Families",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3740/",
+        "id": "041791",
+        "description": "This course will explore the \"traditional\" definition of family throughout American history as well as how now more than ever, many families challenge the conventional definition. We will discuss how different political, economic and social factors (i.e. enslavement, immigration policies, etc.) have shaped the experiences, structure and dynamics of how families function in the United States. We will analyze families of diverse racial backgrounds as well as other families that have been constructed as outside of the \"norm,\" such as LGBT families, military families and adoptive and foster families. We will also outline specific societal changes (e.g. assisted reproductive technology) that have contributed to how families form, bond and experience family life.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.3800": {
+        "name": "SOCI.3800 Sociology of Mass Media (Formerly 48.380)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/3800/",
+        "id": "033539",
+        "description": "Examines ownership and control patterns of electronic and print media and their impact on media content and censorship.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.4020": {
+        "name": "SOCI.4020 Quantitative Methods for Social Research (Formerly 48.402)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4020/",
+        "id": "005873",
+        "description": "An introduction to methods of social research, with emphasis on quantitative research methods. Presents basic statistical techniques used in social research as well as the computer software used for analyzing social science data. For majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "SOCI.2020 Foundations of Social Analysis, and Sociology Majors only or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.4030": {
+        "name": "SOCI.4030 Qualitative Methods for Social Research (Formerly 48.403)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4030/",
+        "id": "005874",
+        "description": "Qualitative research methods. Discusses various strategies employed by qualitative researchers with special emphasis on field research. For majors only. Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: SOCI.1010 Intro to Sociology;  Sociology majors, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.4040": {
+        "name": "SOCI.4040 Learning from the Field (Formerly 48.404)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4040/",
+        "id": "005875",
+        "description": "Provides students with the opportunity to directly observe and participate in the operation of a social service organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "SOCI.4030 Sociological Research 2: Qualitative Approaches, and Sociology Majors only or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.4030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.4050": {
+        "name": "SOCI.4050 Feminist Methodologies (Formerly 48.405)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4050/",
+        "id": "034784",
+        "description": "Despite the recent growth of feminist methodologies, there is no one way of doing feminist methodologies.  The growing body of literature in this area addresses the distinctive challenges and strengths of doing this research.  Gender Studies scholars especially seek to question the framing of a study, managing of emotions, and ethical dilemmas.  We will explore feminist strategies for creating, implementing, and analyzing a project that is grounded in the everyday lives of people while situating them in a social, political, and economic context.  We will explore the interdisciplinary intersections where these challenges push at the boundaries of the disciplines of your major field of study.  We will also investigate how to use as variety of qualitative approaches while doing a feminist project and the ways in which feminism can enlighten understandings of \"traditional\" qualitative methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "SOCI.4030 Sociological Research 2: Qualitative Approaches, and Sociology Majors only or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "SOCI.4030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "SOCI.4210": {
+        "name": "SOCI.4210 Seminar on the Family (Formerly 48.421)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4210/",
+        "id": "005877",
+        "description": "Study of the family structures and gender roles in various human societies. Prerequisites: 48.101 plus either 48.231 or 48.241.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sociology (BA) majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4690": {
+        "name": "SOCI.4690 Seminar on Global Society (Formerly 48.469)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4690/",
+        "id": "005882",
+        "description": "Considers the spread of industrial society globally. Emphasizes economic, political and cultural changes in various parts of the world and in the USA.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sociology (BA) majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4720": {
+        "name": "SOCI.4720 Seminar on Ethnic Communities  (Formerly 48.472)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4720/",
+        "id": "005885",
+        "description": "This course examines a variety of issues, problems and prospects immigrants experience as they attempt to \"make it in America\".  Immigrant America is increasingly ethnically diverse and this course focuses on the factors underlying migration and the ethnic communities migrants settle into with the aim to understand the cultural and contextual basis of their lives, their success and challenges.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sociology (BA) majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4840": {
+        "name": "SOCI.4840 Internship I (Formerly 48.484)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4840/",
+        "id": "005890",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sociology Majors Only, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4845": {
+        "name": "SOCI.4845 Civil Society and Social Change in Valencia, Spain",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4845/",
+        "id": "041155",
+        "description": "Students will study civic community in the third largest city in Spain to understand the unique linguistic and socio-political history of the region. The region provides rich opportunity for sociological analysis of socio-linguistic diversity within a modern national and global context. Readings, papers and field tips will emphasize the cultural construction of community and society. In addition, students who choose the six-credit option will spend 120 hours working in an individually defined internship placement in Valencia during six weeks after the end of the Spring semester. In addition students will be assigned hands-on activities and readings that will facilitate learning in the internship placement settings.",
+        "credits": {
+            "min": "3",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4910": {
+        "name": "SOCI.4910 Directed Studies in Sociology (Formerly 48.491)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4910/",
+        "id": "005892",
+        "description": "The student, through regular and frequent consultation with an instructor, develops a course of directed reading in sociology and defines a problem for individual research.  Prerequisite: permission of instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sociology (BA) majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4920": {
+        "name": "SOCI.4920 Directed Studies: Sociology (Formerly 48.492)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4920/",
+        "id": "005893",
+        "description": "A one-credit, short course available only to qualified seniors. Prerequisite: Permission of Department Chairperson.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Sociology (BA) majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4950": {
+        "name": "SOCI.4950 Thesis in Sociology (Formerly 48.495)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4950/",
+        "id": "005894",
+        "description": "A program of study which affords the advanced student with an additional opportunity to pursue a previously explored problem in greater depth or to initiate a new study. The purpose is to sharpen and refine techniques for scholarly research and presentation in the student's major discipline. Prerequisites: demonstrated proficiency in an area selected for directed study and permission of instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sociology (BA) majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.4960": {
+        "name": "SOCI.4960 Practicum Experience (Formerly 48.496)",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/4960/",
+        "id": "005895",
+        "description": "A program of on-campus and/or off-campus experience for sociology majors and minors only. Specific requirements vary depending upon department policies and the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a community, social, cultural, or artistic area and for applying techniques of problem solving and/or skills that are appropriate to the student's major discipline. May be repeated to a maximum of six credits. Students are graded satisfactory and unsatisfactory.  The practicum experiences may not be substituted for a required course in the major. Prerequisite: permission of Chairperson.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Sociology (BA) majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.5020": {
+        "name": "SOCI.5020 Managing Human Service Organizations",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/5020/",
+        "id": "040727",
+        "description": "The purpose of this course is to introduce students to the specific context of managing a human service organization in a nonprofit of public environment. Topics covered may include strategic planning in a mission driven organization, budgets in a nonprofit context, human resources management, human services leadership, the role of fund raising and development, public sector advocacy, and working a Board of Directors. This course is required for MPA students in Human Service Management (HSM) Option.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.5100": {
+        "name": "SOCI.5100 Asylum and Refugee Policy",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/5100/",
+        "id": "040156",
+        "description": "This course provides an introduction to asylum and refugee policy, including its historical development, current implementation, and interdisciplinary considerations. After understanding the legal underpinnings of current policy, students will examine the journey of a refugee or asylum applicant, beginning with push/pull migration factors and moving to experiences in the receiving context. Students will leave the course with practical knowledge for working with asylum and refugee populations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "SOCI.5150": {
+        "name": "SOCI.5150 Social Policy and Inequalities",
+        "url": "https://www.uml.edu/catalog/courses/SOCI/5150/",
+        "id": "039939",
+        "description": "Social Policy and Inequalities is a semester-long course that analyzes the social policies in the United States and Massachusetts that address persistent and structural inequalities in education, health and healthcare access, immigration, workforce, and human services. We will pay particular attention to social policies that contribute to or seek to alleviate inequalities based on race, gender, income and wealth, sexuality and disabilities. The course will identify key features of policy development, implementation and evaluation and interrogate the underlying patterns of inequalities at each stage. The course will analyze case studies of policies such as those related to poverty and income inequality; affirmative action; education; workforce development and employment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

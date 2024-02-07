@@ -1,0 +1,135 @@
+{
+    "total": 8,
+    "time": 7.856469631195068,
+    "AMST.2480": {
+        "name": "AMST.2480 Perspectives American Culture (Formerly 40/42.248)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/2480/",
+        "id": "001248",
+        "description": "The goal of this class is to enhance students' ability to read and interpret American texts by learning how to see them in context, to understand the way readers approach texts from interpretative lenses, and to express their insights about American culture in a variety of forms and genres. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AMST.2570": {
+        "name": "AMST.2570 The Family in American Literature (Formerly 40.257)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/2570/",
+        "id": "004950",
+        "description": "A study of literary selections dealing with traditions of family life, the individual, and social change.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AMST.2740": {
+        "name": "AMST.2740 Literature of Beat Movement (Formerly 40.274)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/2740/",
+        "id": "031963",
+        "description": "A survey of fiction and poetry by Beat Movement authors, including Lowell native Jack Kerouac, Allen Ginsberg, William Burroughs, Herbert Huncke, Gregory Corso, and Lawrence Ferlinghett",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AMST.3110": {
+        "name": "AMST.3110 South in American Literature (Formerly 40.311)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/3110/",
+        "id": "004951",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AMST.4010": {
+        "name": "AMST.4010 American Studies Seminar (Formerly 40.401)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/4010/",
+        "id": "004958",
+        "description": "A required seminar for American studies majors normally taken during the second semester of the junior year or during the senior year. Students undertake a research project leading to the writing of a major paper with a theme that combines more than one discipline.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Junior Status or ENGL 2480, AMST 2480 or 59.248.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.2480"
+                ],
+                [
+                    "AMST.2480"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "AMST.4910": {
+        "name": "AMST.4910 Directed Studies in American Studies (Formerly 40.491)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/4910/",
+        "id": "004959",
+        "description": "An investigation of a topic using an interdisciplinary approach and leading to the writing of a majorpaper. The course provides an opportunity for a student to work closely with an instructor on atopic of special interest.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AMST.4960": {
+        "name": "AMST.4960 Practicum Experience in American Studies (Formerly 40.496)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/4960/",
+        "id": "004960",
+        "description": "Allows students an opportunity to combine their formal education with an off campus project. After developing a proposal for the practicum under the guidance of an instructor, the student spends a  portion of his or her time working with persons engaged in business, the arts, museums, the professions, community service, or government. The coordinator for American studies maintains a file of organizations that accept students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "AMST.4970": {
+        "name": "AMST.4970 Practicum in American Studies (Formerly 40.497)",
+        "url": "https://www.uml.edu/catalog/courses/AMST/4970/",
+        "id": "004961",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

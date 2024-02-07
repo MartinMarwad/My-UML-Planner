@@ -1,0 +1,936 @@
+{
+    "total": 54,
+    "time": 39.473100423812866,
+    "GEOL.1010": {
+        "name": "GEOL.1010 General Geology (Formerly 89.101)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/1010/",
+        "id": "007881",
+        "description": "Presents a study of the earth with emphasis on earth materials, earth structure (crustal and internal), earth history, and the development of life. Designed for the general student.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: GEOL.1030L General Geology Lab, and Anti-req: ENVI.2010 Earth Systems Geosphere.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.1030L"
+                ]
+            ]
+        }
+    },
+    "GEOL.1030L": {
+        "name": "GEOL.1030L General Geology Laboratory (Formerly 89.103)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/1030L/",
+        "id": "007883",
+        "description": "Topics covered include rock and mineral identification; interpretation of topographic and geologic maps; earthquakes and rock deformation; ground water, streams, wind, and glaciers and the sculpting of the Earth's surface; and natural hazards and their impacts to humans.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: GEOL.1010 General Geology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.1010"
+                ]
+            ]
+        }
+    },
+    "GEOL.1510": {
+        "name": "GEOL.1510 Earth and Life (Formerly 89.151)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/1510/",
+        "id": "007891",
+        "description": "This course will trace the changes in both the Earth and a variety of organisms through an investigation of fossils, field sites, map interpretation, and basic earth science principles. The effects of physical change and geobiochemical processes on evolution will be stressed as will the effects of life on Earth. Students will gain an appreciation of the very special nature of the earth and its symbiont life forms when seen against the background of other planets.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "89.153 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.1530L": {
+        "name": "GEOL.1530L Earth and Life Laboratory (Formerly 89.153)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/1530L/",
+        "id": "007892",
+        "description": "This laboratory will concentrate on the identification of fossils, discrimination of fossils from sedimentary structures, and interpretation of ancient environments from lithology, fossils, and maps. A field trip is required.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "89.151 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.1990L": {
+        "name": "GEOL.1990L Geology Lab 1000 level elective",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/1990L/",
+        "id": "040041",
+        "description": "Geology Lab 1000 level elective",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.2150": {
+        "name": "GEOL.2150 Forensic Geology (Formerly 89.215)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/2150/",
+        "id": "030952",
+        "description": "This course deals with the application of geological and related principles to the solution of various types of crimes.  The course will explore the use of evidence (rocks and minerals, soils, geochemistry, etc.) to identify the source and hence the potential perpetrator of the crime.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS) and Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.2990L": {
+        "name": "GEOL.2990L Geology Lab 2000 level elective",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/2990L/",
+        "id": "040042",
+        "description": "Geology Lab 2000 level elective",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3010": {
+        "name": "GEOL.3010 Mineralogy and Crystallography (Formerly 89.301)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3010/",
+        "id": "007903",
+        "description": "This course will introduce the concepts of crystallography necessary to prepare the student to use the analytical equipment of Optical Mineralogy and X-ray Crystallography. It also contains topics on the physical properties and chemistry of minerals aimed at improving the student's ability to identify mineral samples. A significant portion of the course will be devoted to an introduction to optical methods using oil immersion and thin section techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "89.303 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3030L": {
+        "name": "GEOL.3030L Mineralogy And Crystallography Laboratory (Formerly 89.303)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3030L/",
+        "id": "007904",
+        "description": "Techniques of crystallographic description. Megascopic and microscopic techniques of mineral identification.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "89.301 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3040": {
+        "name": "GEOL.3040 Igneous & Metamorphic Petrology (Formerly 89.304)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3040/",
+        "id": "007905",
+        "description": "The origin and evolution of igneous and metamorphic rocks. Emphasis will be on physical and chemical processes, magma transport and crystallization, phase equilibria, development of metamorphic facies, open and closed system behavior, and the development of metamorphic fabric.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: 89.306 Ig & Meta Petrology Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3060L": {
+        "name": "GEOL.3060L Igneous and Metamorphic Petrology Laboratory (Formerly 89.306)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3060L/",
+        "id": "007906",
+        "description": "Identification and classification of igneous and metamorphic rocks. Emphasis is on thin section identification and use of rock textures and compositions as guides to petrogenesis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: 89.304 Igneous & Metamorphic Petrology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3070": {
+        "name": "GEOL.3070 Earth Materials I (Formerly 89.307)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3070/",
+        "id": "038083",
+        "description": "An introduction to the basic principles that control the arrangement of atoms in crystalline solids (minerals) and their physical and chemical properties.  Topics include crystal chemistry, crystal symmetry, macroscopic mineral identification, and the use of polarizing light microscopy and X-ray diffraction to identify and characterize minerals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: GEOL.3090L Earth Materials I Lab, and Environmental, Earth and Atmospheric Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.3090L"
+                ]
+            ]
+        }
+    },
+    "GEOL.3080": {
+        "name": "GEOL.3080 Earth Materials II (Formerly 89.308)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3080/",
+        "id": "038072",
+        "description": "Origin and properties of igneous, metamorphic, and sedimentary rocks.  The rock cycle is used as a unifying concept.  The role of rock properties in environmental, economic, and engineering applications is considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GEOL.3070 Earth Materials I and GEOL 3090L Earth Materials I Lab and Co-req: GEOL 3100L Earth Materials II Lab, and Environmental, Earth and Atmospheric Science Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GEOL.3070"
+                ],
+                [
+                    "GEOL.3090L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "GEOL.3100L"
+                ]
+            ]
+        }
+    },
+    "GEOL.3090L": {
+        "name": "GEOL.3090L Earth Materials I Laboratory (Formerly 89.309)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3090L/",
+        "id": "038084",
+        "description": "Laboratory to accompany Earth Materials I lecture.  Topics include crystal structures, crystal symmetry, hand-speciman identification of minerals, X-ray diffraction, and polarizing light microscopy.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: GEOL.3070 Earth Materials I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.3070"
+                ]
+            ]
+        }
+    },
+    "GEOL.3100L": {
+        "name": "GEOL.3100L Earth Materials II Lab (Formerly 89.310)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3100L/",
+        "id": "038073",
+        "description": "Macroscopic and microscopic characterization and classification of rocks.  Investigation of physical processes and spatial representation of rock and sediment distribution.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: GEOL.3080 Earth Materials II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.3080"
+                ]
+            ]
+        }
+    },
+    "GEOL.3140": {
+        "name": "GEOL.3140 Hydrogeology (Formerly 89.314)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3140/",
+        "id": "007907",
+        "description": "This course investigates the science of water in a geologic setting with special emphasis on the distribution, movement, and chemistry of the water. The course will include the following topics: techniques for measuring elements in the hydrologic equation, accuracy of hydrologic measurement, statistical studies of floods, and study of groundwater for both steady-state and transient conditions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3150": {
+        "name": "GEOL.3150 Environmental Geochemistry (Formerly 89.315)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3150/",
+        "id": "007908",
+        "description": "Application of geochemical principles to environmental problems including air pollution and atmospheric processes, climate change, water chemistry and water-rock interactions, and the transport and dispersal of organic and inorganic pollutants.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1210 Chemistry I, and CHEM.1230L Chemistry I Lab, and Co-req: GEOL.3170L Environmental Geochemistry Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ],
+                [
+                    "CHEM.1230L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "GEOL.3170L"
+                ]
+            ]
+        }
+    },
+    "GEOL.3160": {
+        "name": "GEOL.3160 Geomorphology (Formerly 89.316)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3160/",
+        "id": "007909",
+        "description": "A study of the physical and chemical processes at work on the earth's surface which result in the formation and development of surface features. Emphasis is placed on the mechanics of erosion (water, wind, ice, and waves) and the morphology and spatial distribution of the resultant landforms.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "89.316 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3170L": {
+        "name": "GEOL.3170L Environmental Geochemistry Lab",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3170L/",
+        "id": "041153",
+        "description": "Application of geochemical principles to environmental problems including air pollution and atmospheric processes, climate change, water chemistry and water-rock interaction, and the transport and dispersal of organic and inorganic pollutants. Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "CHEM.1210 Chemistry I, and HEM.1230L Chemistry I Lab, and Co-req: GEOL.3150 Environmental Geochemistry, Limit to Kennedy College of Science Majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "GEOL.3150"
+                ]
+            ]
+        }
+    },
+    "GEOL.3180L": {
+        "name": "GEOL.3180L Geomorphology Laboratory (Formerly 89.318)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3180L/",
+        "id": "007910",
+        "description": "Investigates landforms and surficialprocesses through an interpretation of maps and field work. Environmental applications of surficial processes are stressed.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "89.316 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3190": {
+        "name": "GEOL.3190 Earth Surface Processes (Formerly 89.319)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3190/",
+        "id": "038074",
+        "description": "A study of the physical and chemical processes that create landforms on the Earth's surface.  Emphasis is placed on physical and chemical weathering, fluvial erosion, glacial processes, soil formation, mass movements, slope stability and tectonic geomorphology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: GEOL.3210L Earth Surface Processes Lab, and Environmental, Earth and Atmospheric Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.3210L"
+                ]
+            ]
+        }
+    },
+    "GEOL.3210L": {
+        "name": "GEOL.3210L Earth Surface Processes Laboratory (Formerly 89.321)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3210L/",
+        "id": "038075",
+        "description": "Hands-on investigation of landforms and surficial processes through interpretation and synthesis of maps, aerial photography and field data.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: 89.319 Earth Surface Processes.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3220": {
+        "name": "GEOL.3220 Structural Geology (Formerly 89.322)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3220/",
+        "id": "007911",
+        "description": "An analysis of crustal deformation through detailed study of geologic structures with emphasis upon the response of geologic materials to stress and strain. Field techniques, tectonic principles, and geometrical analysis are employed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: Structural Geology Laboratory.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3240L": {
+        "name": "GEOL.3240L Structural Geology Laboratory (Formerly 89.324)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3240L/",
+        "id": "007912",
+        "description": "A survey of the graphical techniques used to convert field measurement into the information needed in the construction of geologic maps, cross-sections, and crustal stress-strain histories.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: 89.322 Structural Geology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3250": {
+        "name": "GEOL.3250 Geology for Engineers (Formerly 89.325)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3250/",
+        "id": "038517",
+        "description": "This course will introduce basic geological principles with an emphasis on engineering applications. Topics covered include minerals and rocks and their properties, surface processes, earthquakes and rock deformation, dynamic processes that affect the earth's surface, geological hazards and their mitigation, earth resources.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM 1210 Chemistry l, CHEM 1230L Chemistry l Lab, PHYS 1410 Physics l, and PHYS 1410L Physics l Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ],
+                [
+                    "CHEM.1230L"
+                ],
+                [
+                    "PHYS.1410"
+                ],
+                [
+                    "PHYS.1410L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.3310": {
+        "name": "GEOL.3310 Earth History (Formerly 89.331)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3310/",
+        "id": "038076",
+        "description": "An introduction to the history of the Earth and its life over the last 4.6 billion years.  Applications include geologic principles, earth material, depositional environments, stratigraphy, the geological timescale, plate tectonics, and evolutionary theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: GEOL.3330L Earth History Laboratory, and Environmental, Earth and Atmospheric Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.3330L"
+                ]
+            ]
+        }
+    },
+    "GEOL.3330L": {
+        "name": "GEOL.3330L Earth History Laboratory (Formerly 89.333)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3330L/",
+        "id": "038077",
+        "description": "This laboratory compliments Earth History lecture material.  Exercises include stratigraphic methods, geologic maps and fossil identification.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: 89.331 Earth History.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3400": {
+        "name": "GEOL.3400 Geology of North America",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3400/",
+        "id": "042018",
+        "description": "This is a reading course that is paired with a summer field experience lab section\n(GEOL.3420L). This course will involve familiarization of the geology of a region in North America including, but not limited to State and National Parks, with a different regional focus each time the course is offered. Students will read and discuss papers on the region of geologic interest and will learn necessary skills (e.g., geologic mapping, sampling, geophysical methods, equipment use, safety, etc.) needed for the subsequent field experience.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: ENVI.2010 Earth Systems:Geosphere & EEAS Majors Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.3420L": {
+        "name": "GEOL.3420L Geology of North America - field experience",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3420L/",
+        "id": "042019",
+        "description": "Field experience is essential to geoscience education. This course will include a minimum of two weeks of intensive field work including note taking, mapping, analysis of geologic history and structures, geologic illustration, and report writing. Completion of this course will create a skill set that will be very beneficial to the geology professional. Additional fees may be required to cover transportation and lodging.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-req GEOL.3400 Geology of North America or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GEOL.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.3520": {
+        "name": "GEOL.3520 Sedimentation And Stratigraphy (Formerly 89.352)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3520/",
+        "id": "007915",
+        "description": "Principles and processes of sedimentation: erosion, mechanics of transport, diagenesis and lithification, models for sedimentary environments. Development of the stratigraphic record, relative and absolute time, and seismic stratigraphy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "89.354 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.3540L": {
+        "name": "GEOL.3540L Sedimentation And Stratigraphy Laboratory (Formerly 89.354)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/3540L/",
+        "id": "007916",
+        "description": "Determination of mass properties of sediments with emphasis on mechanical and statistical analysis, identification and description of sedimentary rocks, facies models and stratigraphic cross-sections.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "89.352 co-req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.4100": {
+        "name": "GEOL.4100 Geology of New England",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/4100/",
+        "id": "041180",
+        "description": "New England has an ancient and diverse geologic history. This course covers the tectonic and sedimentary processes that formed the bedrock of New England and New York, the Pleistocene history of ice sheet erosion and deposition and the most recent period of human interactions with the landscape.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENVI.2010 Earth Systems: Geosphere, or GEOL.3190 Earth Surface Processes, or GEOL.3310 Earth History.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2010",
+                    "GEOL.3190",
+                    "GEOL.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.4130": {
+        "name": "GEOL.4130 Exploring the Solar System",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/4130/",
+        "id": "041262",
+        "description": "we live in a remarkable era of robotic space exploration. In this course, we will walk through the formation of the Soar System and the comparative evolutions of the planets, moons, and other objects from a geological perspective, with special attention paid to the latest research and missions. We will also consider the prospects for life on other planetary bodies in our Solar System and in extrasolar planetary systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1110 General Chemistry I, and PHYS.1030 General Physics I, and GEOL.1010 General Geology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1110"
+                ],
+                [
+                    "PHYS.1030"
+                ],
+                [
+                    "GEOL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.4560": {
+        "name": "GEOL.4560 Applied Geophysics (Formerly 89.456)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/4560/",
+        "id": "007920",
+        "description": "Application of geophysics to problems in geology and environmental science. Principles and techniques of gravity, magnetic, electrical, and seismic methods. Field projects and surveys.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.4910": {
+        "name": "GEOL.4910 Directed Study: Geoscience (Formerly 89.491)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/4910/",
+        "id": "007921",
+        "description": "The student, through regular and frequent consultation with the instructor, undertakes independent study of a particular area of the geosciences.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.4930": {
+        "name": "GEOL.4930 Internship: Environmental Geoscience (Formerly 89.493)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/4930/",
+        "id": "038855",
+        "description": "Work experience with private or public employer. Written report and supervisor evaluation required.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.4950": {
+        "name": "GEOL.4950 Honors Research: Geoscience (Formerly 89.495)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/4950/",
+        "id": "007922",
+        "description": "An independent scientific research project carried out by a qualified senior under the supervision of a faculty member.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.4970": {
+        "name": "GEOL.4970 Research: Geoscience",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/4970/",
+        "id": "040069",
+        "description": "An independent scientific research project carried out by a qualified senior under the supervision of a faculty member.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5010": {
+        "name": "GEOL.5010 Paleoclimatology (Formerly 89.501)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5010/",
+        "id": "037512",
+        "description": "This course provides students with an overview of paleoclimatology by examining the use of proxy records, such as marine and lake sediment sequences, ice cores, tree rings, corals and historical data to reconstruct past climatic conditions.  Dating methods will be introduced.  Throughout, we will critically analyze our understanding of past climates and environments and identify directions for future research.  Topics include: abrupt climate change, human evolution and climate, biosphere-climate interactions and paleoclimate modeling.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5020": {
+        "name": "GEOL.5020 Quantitative Gemorphology (Formerly 89.502)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5020/",
+        "id": "037733",
+        "description": "This course follows the path of material as it is weathered form bedrock, moved down hillslopes and transported via glaciers and rivers.  Emphasis is on 1) quantifying erosion and sediment transport, 2) applying computer-based models and conservation of mass equations to earth surface processes and 3) understanding long-term landform evolution.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5100": {
+        "name": "GEOL.5100 Geology of New England (Formerly 89.510)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5100/",
+        "id": "007923",
+        "description": "New England has an ancient and diverse geologic history. This course covers the tectonic and sedimentary processes that formed the bedrock of New England and New York, the Pleistocene history of ice sheet erosion and deposition, and the most recent period of human interactions with the landscape.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENVI.2010 Earth Systems: Geosphere, or GEOL.3190 Earth Surface Processes, or GEOL.3310 Earth History.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENVI.2010",
+                    "GEOL.3190",
+                    "GEOL.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.5130": {
+        "name": "GEOL.5130 Exploring the Solar System",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5130/",
+        "id": "041106",
+        "description": "We live in a remarkable era of robotic space exploration. In this course, we will walk through the formation of the Solar System and the comparative evolutions of the planets, moons, and other objects form a geological perspective, with special attention paid to the latest research and missions. We will also consider the prospects for life on other planetary bodies in our Solar System and in extrasolar planetary systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1110 General Chemistry I, and PHYS.1030 General Physics I, and GEOL.1010 General Geology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1110"
+                ],
+                [
+                    "PHYS.1030"
+                ],
+                [
+                    "GEOL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.5150": {
+        "name": "GEOL.5150 Topics in Environmental Geochemistry (Formerly 89.515)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5150/",
+        "id": "030833",
+        "description": "Case-based course dealing with the application of thermodynamics and kinetics, acid-base equilibria, oxidation-reduction reactions, radioactive and stable isotopes, and mineral chemistry to the understanding and solution of environmental problems. Other topics will be considered based on student interest.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5200": {
+        "name": "GEOL.5200 Structural Geology (Formerly 89.520)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5200/",
+        "id": "037890",
+        "description": "An analysis of crustal deformation through detailed study of geologic structures with emphasis upon the response of geologic materials to stress and strain.  Field techniques, tectonic principles, and geometrical analysis are employed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: GEOL 5200L Structural Geology Laboratory.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "GEOL.5200L"
+                ]
+            ]
+        }
+    },
+    "GEOL.5220L": {
+        "name": "GEOL.5220L Structural Geology Laboratory (Formerly 89.522)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5220L/",
+        "id": "037895",
+        "description": "A survey of the graphical techniques used to convert field measurement into the information needed in the construction of geologic maps, cross-sections, and crustal stress-strain histories.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: 89.520 Structural Geology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5240": {
+        "name": "GEOL.5240 Regional Hydrogeology (Formerly 89.524)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5240/",
+        "id": "007925",
+        "description": "Concentrating on the storage and steady state flow of ground water at a basin-wide scale, thecourse studies flow nets, fluid potential, and numerical modeling of flow controlled by basingeometry and geology; water movement in the zone of aeration, the interaction of groundwaterwith surface water, the transport and dispersion of contaminants, and the use of modeling forgroundwater management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5250": {
+        "name": "GEOL.5250 Groundwater Modeling",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5250/",
+        "id": "041261",
+        "description": "This course covers the concepts and practice of mathematical and numerical modeling of saturated groundwater flow and solute transport. Students will use industry-standard groundwater modeling software, including MODFLOW, MODPATH, MT3DMS, SEAWAT, and PHT3D for single- and variable-density flow, particle tracking, and solute and reactive transport. Emphasis will be on formulating mathematical representations of flow, use of groundwater models with graphical user interfaces, and post-processing and analysis of model results.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GEOL.3140 Hydrogeology, and MATH.1310 Calculus I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GEOL.3140"
+                ],
+                [
+                    "MATH.1310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GEOL.5310": {
+        "name": "GEOL.5310 Isotopes in Environmental and Geosciences (Formerly 89.531)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5310/",
+        "id": "039335",
+        "description": "The course will show how radioactive and stable isotopes can be used to understand environmental and geological systems. Topics to be covered include radiometric dating using short and long half-life isotopes, radiogenic isotopic tracers, and stable isotopes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5560": {
+        "name": "GEOL.5560 Applied Geophysics (Formerly 89.556)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5560/",
+        "id": "037897",
+        "description": "Application of geophysics to problems in geology and environmental science.  Principles and techniques of gravity, magnetic, electrical, and seismic methods.  Field projects and surveys.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5850": {
+        "name": "GEOL.5850 Oceanography for Teachers (Formerly 89.585)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5850/",
+        "id": "037519",
+        "description": "This course will introduce students to basic oceanographic principles and processes.  Content will be linked to National and State Science Standards.  Students will create a number of oceanography-based lessons linked to the standards.  Pedagogy will be modeled in relation to teacher instruction and student learning.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.5930": {
+        "name": "GEOL.5930 Special Topics: Environmental Geoscience (Formerly 89.593)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/5930/",
+        "id": "039336",
+        "description": "Student/Instructor selected in-depth study of a specific topic(s) within the Environmental Geosciences of a closely related field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.7310": {
+        "name": "GEOL.7310 Master's Research in Environmental Geoscience (Formerly 89.731)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/7310/",
+        "id": "037926",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.7410": {
+        "name": "GEOL.7410 Master's Thesis in Environmental Geoscience (Formerly 89.741)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/7410/",
+        "id": "037925",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GEOL.REVIEW": {
+        "name": "GEOL.REVIEW Pending Departmental Review (Formerly 89.REVIEW)",
+        "url": "https://www.uml.edu/catalog/courses/GEOL/REVIEW/",
+        "id": "031875",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

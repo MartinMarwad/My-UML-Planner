@@ -1,0 +1,487 @@
+{
+    "total": 31,
+    "time": 21.715153217315674,
+    "MTEC.1010": {
+        "name": "MTEC.1010 Engineering Graphics (Formerly 23.101)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/1010/",
+        "id": "003974",
+        "description": "This course presents material in both class and laboratory format. Topics covered include: geometric constructions; multi-view sketching and projection; sectional views; isometric and oblique drawing; and dimensioning.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.1020": {
+        "name": "MTEC.1020 Engineering Design and Graphics (Formerly 23.102)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/1020/",
+        "id": "003975",
+        "description": "This course presents material in both class and laboratory format. Topics covered include: dimensioning, print reading, auxiliary views, graphs, screw threads, gears, and the design process.  Working in teams, a major design project with written and oral reports is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2000": {
+        "name": "MTEC.2000 Computer Aided Drafting (CADrf) (Formerly 23.200)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2000/",
+        "id": "003979",
+        "description": "This course introduces the student to the use of CAD for construction of basic shapes and multi view drawings.  It is a project oriented course introducing the student to graphic design using AutoCAD.  AutoCAD, as it is applied in MTEC.2000, is a two dimensional CAD program used to produce computer design models.  Course stresses hands-on work with AutoCAD.  Course is a fundamentals approach and requires no experience with other CAD programs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2020": {
+        "name": "MTEC.2020 Thermo/Fluids Laboratory (Formerly 23.202)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2020/",
+        "id": "003980",
+        "description": "The course covers the theory and the practical relevance of selected principles of thermo-fluids and fluid mechanics. Fundamentals of measurement and interpretation in the areas of thermo-fluids and fluid mechanics will be studied.  The student will be responsible to collect data with the supplied test apparatus, interpret the physical significance of the data, in relation to the laws and principles of thermo/fluids, and to report findings. Strong emphasis is placed upon developing technical report writing skills.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2030": {
+        "name": "MTEC.2030 Introduction to Automated Control Programming",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2030/",
+        "id": "040716",
+        "description": "This course is designed to introduce machine tool programming languages and their use in modern manufacturing. Emphasis will be placed upon students developing a formal understanding of the programming variables and constraints of Computer-Numerically Controlled manufacturing systems. Students will learn both introductory and advanced programming methods. Students will learn manual programming techniques developed from engineering drawings. Students will also learn manual programming techniques developed from engineering drawings. Students will also learn to use computer-based CAM software systems as well as computer based programming verification software. Mastercam, Esprit CAM, Autodesk CAM will be introduced in the course as exemplars of CAM software platforms. Vericut will be introduced as an exemplar of verification software.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2040": {
+        "name": "MTEC.2040 Manufacturing Technology Laboratory (Formerly 23.301/MTEC.3010)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2040/",
+        "id": "003989",
+        "description": "Students will develop an understanding of precision metrology and the machine tools, related equipment, and systems used in manufacturing.  Students will learn the inter-relationships between machine tools, various machining methods, engineering design considerations, and manufacturing techniques studied in the MET program. Lecture, case studies, and laboratory work are supported by a comprehensive text with supplemental materials provided by the instructor to enhance student learning. Students will work with lathes, drill presses, vertical milling machines, and abrasive finishing methods during laboratory sessions to manufacture several precision finished parts from engineering drawings. Course grades will be determined from student performance on examinations and laboratory projects.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MTEC.1010 Engineering Graphics",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MTEC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MTEC.2060": {
+        "name": "MTEC.2060 Applied Computer Aided Manufacturing (Formerly 23.419/MTEC.4190)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2060/",
+        "id": "004007",
+        "description": "This course is an introduction to computer aided manufacturing with an overall perspective focusing on the design process and how computer technology have affected the modern manufacturing environment. Introduces students to computer aided design systems, process engineering, basic tooling design, machining, programmable logic controllers (PLC), fundamentals of numerical control (NC), process planning, and concurrent engineering with the objective of design optimization for manufacturing and commercialization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2110": {
+        "name": "MTEC.2110 LABVIEW(TM) Programming with Engineering Applications (Formerly 23.211)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2110/",
+        "id": "030827",
+        "description": "LabVIEW(TM) software is a graphical programming language \"G\" that is widely used in industrial setting by engineers and scientists alike. Materials covered in the course will be basic to programming structures. As an example the course will cover For Loops, While Loops, Case Structures, and Boolean Logic. Control, data acquisition, data reduction, and analysis tools associated with the software program will be covered, and used. A comprehensive semester project will be assigned to teams of students to solidify the basic programming topics covered, teach the Virtual Instrument (VI ) hierarchy, and to emphasize the importance of teamwork. \n\nSpecial Notes: Can be used as an MET elective or as a substitute for 90.211 (Introduction to Programming with C-Part I) in the MET Program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2210": {
+        "name": "MTEC.2210 Statics (Formerly 23.221)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2210/",
+        "id": "003981",
+        "description": "Statics is the study of objects in equilibrium and the forces acting on that object.  Students will develop mathematical models to predict and analyze forces and their distributions with the use of the free body diagram.  The concepts presented in this course directly relate to other mechanical and civil engineering fields.  Students must have a basic understanding of trigonometry, geometry, physics and calculus.  This course is in a combined section with CET.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2220": {
+        "name": "MTEC.2220 Dynamics (Formerly 23.222)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2220/",
+        "id": "003982",
+        "description": "This course introduces the student to the kinematics and kinetics of particles, systems of particles, and rigid bodies. This course covers the basic methods of analysis including Newton's 2nd Law (force, mass, acceleration), Work and Energy, and Impulse and Momentum.  This course is in a combined section with CET.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2230": {
+        "name": "MTEC.2230 Mechanics of Materials (Formerly 23.223)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2230/",
+        "id": "003983",
+        "description": "This course discusses the principles of strength of materials and the relationships between externally applied forces and internally induced stresses in various types of structural and machine members and components. Included are axial, torsional, and flexural loadings, stress-strain relationships, deformation of materials, elastic deformation, principal stresses, temperature effects, Mohr\u00c6s circle, shear and bending moment diagrams, the design of beams, and the deflection of beams.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2260": {
+        "name": "MTEC.2260 Technical Communications for Engineering Technology (Formerly 23.226)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2260/",
+        "id": "034935",
+        "description": "This course introduces students to presenting ideas, data, and proposals in clear concise formats to maximize understanding and impact.  Both written and presentation skills are stressed and familiarity with MS Word, Excel and PowerPoint is preferred but not a prerequisite.  The end-product is a complete understanding of the elements which blend together to create effective communication in a technical environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2410": {
+        "name": "MTEC.2410 Elements of Thermodynamics I (Formerly 23.241)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2410/",
+        "id": "003984",
+        "description": "This course presents a thorough treatment of the concepts and laws of thermodynamics.  The first law (energy) and the second law (entropy), properties of liquids and gases, and common power cycles (Rankine and Otto) are covered.  Included is an overview of the global energy problem and power generation technologies, both established and novel",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2420": {
+        "name": "MTEC.2420 Applied Fluid Mechanics (Formerly 23.242)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2420/",
+        "id": "003985",
+        "description": "This course addresses the Properties of Fluids and basic concepts of Continuity, Momentum, Hydrostatics, and Fluid Flow Kinematics.  Analysis of flow of real fluids in pipes, ducts and open channels is conducted.  The study of compressible flows, fluid couplings as well as flow measurement techniques will also be discussed",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2430": {
+        "name": "MTEC.2430 Elements of Thermodynamics II (Formerly 23.243)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2430/",
+        "id": "003986",
+        "description": "This course is a continuation of Thermodynamics I analyzing in more detail various real world, practical power generation cycles, such as Rankine, reheat, regenerative, Otto, and Diesel.  Also covered are refrigeration cycles, the basics of psychrometry, and the thermodynamics of combustion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2620": {
+        "name": "MTEC.2620 Engineering Data Analysis (Formerly 23.262)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2620/",
+        "id": "003987",
+        "description": "This course introduces students to basic statistical techniques, probability, risk analysis, and predictive modeling, and how they impact engineering and manufacturing activities in both analytical and forward looking activities.  Topics covered basic statistics, probability, combinations, permutations, regression, correlation, and predictive model development with the objective of building working statistical models for a technical environment.  \nPre-Requisites: 92.126, Proficiency in MS Excel or equivalent.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.2950": {
+        "name": "MTEC.2950 Materials Science (Formerly 23.295)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/2950/",
+        "id": "003988",
+        "description": "Properties of materials, selection of materials and processing of materials for appropriate applications are the focus of this course. Case studies are utilized to demonstrate failures which need not have occurred. Materials which are considered include metals and alloys, ceramics, polymers, and composites.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.3020": {
+        "name": "MTEC.3020 Mechanics/Materials Laboratory (Formerly 23.302)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/3020/",
+        "id": "003990",
+        "description": "Methods of material testing and analysis are covered in this course with an emphasis on proper measurement procedures, data reduction, and presentation.  Lectures cover the background required to perform post laboratory calculations, and overview measurement techniques, laboratory result reporting, and formal presentations that are given by students to the class.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.3050": {
+        "name": "MTEC.3050 Manufacturing Processes (Formerly 23.305)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/3050/",
+        "id": "003991",
+        "description": "The course will focus upon a variety of manufacturing processes used for metals, ceramics and plastics, material interactions that occur during manufacturing, mechanical test methodology and material response to stress at different temperatures, methods to select appropriate processes to achieve product specification and methods to investigate process history based on material properties.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.3140": {
+        "name": "MTEC.3140 Manufacturing Productivity (Formerly 23.314)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/3140/",
+        "id": "003994",
+        "description": "The course will focus upon three primary categories of manufacturing improvement: theory of constraints/workflow, work definition and design, and quality improvement. Each students should understand and be conversant in the principles of productivity and able to lead a productivity improvement project upon successful completion of the course. Case studies will be used to illustrate the proper implementation of productivity improvement principles.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.3200": {
+        "name": "MTEC.3200 Machine Design (Formerly 23.320)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/3200/",
+        "id": "003997",
+        "description": "This course first briefly discusses materials strength and deformation, fracture toughness, and stress intensity factor to build the corner stones for any machine design work.  It then focuses on the design of five basic machine parts: fasteners, springs, bearings, gears and shafts.  The primary subjects in this course are thread standards and definitions, the mechanics of power screws, threaded fasteners, analyses and design of springs, fatigue loading, bearing types, bearing life, bearing load, selection of bearings, thin film lubrication, hydrodynamic theory of lubrication, gear conjugate action, contact and interference of gears, shaft design and analyses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.3530": {
+        "name": "MTEC.3530 Forensic Engineering (Formerly 15/23.353)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/3530/",
+        "id": "032150",
+        "description": "This course is a survey of forensic engineering with particular emphasis on using engineering science and technology to investigate and reconstruct failures of engineered systems. Topics include qualifications of the forensic engineer, the scientific method, failure hypotheses, levels of confidence, physical evidence, field investigation techniques, examination and testing, codes and standards, and personnel safety. Other topics include ethics, the hired gun, junk science, the legal process, introduction to expert witness testimony, trial exhibits, Frye and Daubert decisions, bias, forensic engineering practice, and engineering reports.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.3540": {
+        "name": "MTEC.3540 Problems in Mechanical Engineering Technology (Formerly 23.354)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/3540/",
+        "id": "003998",
+        "description": "The course provides the student with analytical skills necessary to solve a variety of engineering problems. Lectures consist of review and extension of concepts taught in statics, dynamics, mechanics of materials and machine design with emphasis on applying that knowledge to solve engineering problems. Students become proficient with advanced topics such as multiaxial stress-strain calculations, strain energy, impact, failure analysis and various solution techniques in vibrations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.4020": {
+        "name": "MTEC.4020 Engineering Measurement Laboratory (Formerly 23.402)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4020/",
+        "id": "004001",
+        "description": "This course provides hands-on experiments that are designed to teach the fundamentals of instrumentation devices and experimental techniques. Basic physical principles of theory that apply to the mechanical engineering technology student are covered for purposes of verifying experimental techniques and teaching the importance of experimental result verification. This course allows students to: 1) assemble measurement systems which include transducers, signal conditioners, and data acquisition systems; 2) conduct experiments on relevant mechanical systems; 3) data verifications using theoretical models. Effective written and verbal communication techniques are also emphasized throughout the course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.4140": {
+        "name": "MTEC.4140 Engineering Economics (Formerly 23.414)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4140/",
+        "id": "004004",
+        "description": "This course introduces students to accounting and finance operations and principles, and how they impact engineering and manufacturing activities in both analytical and forward looking planning activities.  Topics covered include financial statements, costing, depreciation, time value of money, cash flows, capital budgeting, and capital recovery with the objective of building working financial models for a technical environment.  \nPre-Requisites: 49.201 Economics I or instructor permission.  Proficiency in MS Excel or equivalent.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.4320": {
+        "name": "MTEC.4320 Capstone Design (Formerly 23.432)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4320/",
+        "id": "004012",
+        "description": "The course uses the Engineering Design Process methodology to formulate solutions to a product or project design effort. The design process is reviewed from problem statement to final design. The course utilizes casework, in-class exercises, examples of the preparation and use of customer and engineering specifications, and brainstorming techniques to generate feasible solutions to problems, and the process for selecting the most viable solution. Students learn to generate labor and materials budgets for product/project development and methods for the effective oral and written communication of these results. Students complete the course by delivering a comprehensive presentation of the product development effort and results.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.4440": {
+        "name": "MTEC.4440 Mechanical Vibrations (Formerly 23.444)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4440/",
+        "id": "038761",
+        "description": "The course will teach students methods to analyze single and two degree of freedom systems considering free vibration, harmonically excited motion, and transient vibration. Concepts of two degree of freedom systems generalized to multi-degree of freedom systems will be introduced. Various analytical approaches to vibration analysis will be taught. Solutions for continuous systems will be solved by the finite difference, finite element, and mode summation methods. Dynamic systems excited by random forces of displacements (random vibrations) will be covered. Additional mathematical content beyond Calculus C will be introduced within this course as required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 2250 Calculus C, PHYS 1320 Technical Physics II, MTEC 2210 Statics and Co-req: MTEC 2220 Dynamics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2250"
+                ],
+                [
+                    "PHYS.1320"
+                ],
+                [
+                    "MTEC.2210"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MTEC.2220"
+                ]
+            ]
+        }
+    },
+    "MTEC.4750": {
+        "name": "MTEC.4750 Heat Transfer (Formerly 23.475)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4750/",
+        "id": "004021",
+        "description": "This course focuses on the study of the fundamentals of heat transfer.  Case studies are utilized to enhance the students' knowledge of the basic principles of heat transfer and to develop their problem-solving ability in conduction, convection and radiation heat transfer.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.4800": {
+        "name": "MTEC.4800 Computer Aided Design (Formerly 23.480)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4800/",
+        "id": "004023",
+        "description": "Using Autodesk Inventor software, this course is a continuation of 23.200, Computer Aided Drafting. This course introduces 3D CAD techniques to demonstrate and utilize 3D parametric modeling in the design process. Solid models will be constructed, used to create assemblies, and drawings. These models, assemblies, and drawings will be modified and optimized using advanced operations. A design project and written report are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.4840": {
+        "name": "MTEC.4840 Introduction to  Pro/ENGINEER (Formerly 23.484)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4840/",
+        "id": "004026",
+        "description": "This course introduces the user to the principles of Pro/ENGINEER, solid modeling, and parametric design. It is a hands-on project and exercise-based course. Topics will include: feature-based parametric solid modeling, pick and place features, sketched features, the basics of creating parts and assemblies, and drawing creation. Advanced topics will include 3-D sweeps, helical sweeps, and blends",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MTEC.4850": {
+        "name": "MTEC.4850 Introduction to SolidWorks (Formerly 23.485)",
+        "url": "https://www.uml.edu/catalog/courses/MTEC/4850/",
+        "id": "004027",
+        "description": "This course introduces the student to the use of CAD for construction of basic shapes and multiview drawings.  It is a project oriented course introducing the student to graphic design using SolidWorks.  SolidWorks is a three dimensional solid modeling program used to produce computer design models.  \nPre-Requisite:23.200 or some experience with another CAD program is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "total": 3,
+    "time": 4.034945964813232,
+    "UNCR.3990": {
+        "name": "UNCR.3990 UC - Junior level (Formerly UC 399)",
+        "url": "https://www.uml.edu/catalog/courses/UNCR/3990/",
+        "id": "034980",
+        "description": "University Credit granted for a course that does not have an equivalent within the UML Academic Departments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UNCR.4990": {
+        "name": "UNCR.4990 UC - Senior level (Formerly UC 499)",
+        "url": "https://www.uml.edu/catalog/courses/UNCR/4990/",
+        "id": "034981",
+        "description": "University Credit granted for a course that does not have an equivalent within the UML Academic Departments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UNCR.600MAKEUP": {
+        "name": "UNCR.600MAKEUP 600 Level Make-up Class",
+        "url": "https://www.uml.edu/catalog/courses/UNCR/600MAKEUP/",
+        "id": "038422",
+        "description": "Graduate Make-up Class offered for 600 level course. Must be approved by Department and Registrar. Topic Title will reference course with Incomplete Grade. Registrar's Office will process grade changes.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

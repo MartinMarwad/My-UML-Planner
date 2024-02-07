@@ -1,0 +1,887 @@
+{
+    "total": 45,
+    "time": 30.408116340637207,
+    "WLSP.1010": {
+        "name": "WLSP.1010 Spanish 1 and Culture (Formerly 54.101)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/1010/",
+        "id": "006061",
+        "description": "Develops Spanish speaking, listening, reading and writing skills through the discovery of the culture of Spanish speaking countries in a communicative approach (instruction occurs in Spanish with clarification in English). This class is the 1st of the 4-course Spanish language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.1020": {
+        "name": "WLSP.1020 Spanish 2 and Culture (Formerly 54.102)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/1020/",
+        "id": "006062",
+        "description": "Continuation of Spanish 1 and Culture (or equivalent), which is a pre-requisite. Strengthens Spanish speaking, listening, reading and writing skills acquired in Spanish 1 and Culture through the discovery of the culture of Spanish speaking countries in a communicative approach (instruction occurs in Spanish with some clarification in English). This class is the 2nd of the 4-course Spanish language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLSP.1010 Spanish 1 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.1030": {
+        "name": "WLSP.1030 Medical Spanish (Formerly 54.103)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/1030/",
+        "id": "036649",
+        "description": "This course is designed to develop basic conversational skills necessary to communicate with patients in a health care setting.  Students will acquire a basic linguistic and cultural foundation enabling them to interview and manage patients in clinical settings using Spanish; to take a history and perform a physical exam using Spanish, and to interpret health concerns of Spanish-speaking populations.  The course is designed for health care professionals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req; WLSP.1010 Spanish 1 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.1040": {
+        "name": "WLSP.1040 Intensive Spanish 1 and 2 (Formerly 54.104)(Never Offered)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/1040/",
+        "id": "037140",
+        "description": "This intensive course in Spanish is a six credit blended (hybrid) course taught partly in the classroom and partly online.  This one-semester Intensive review of Spanish 1 and 2 courses in restricted to students who have been placed into it by placement examination.  Satisfactory completion of this course fulfills the prerequisite for Spanish 3.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.1050": {
+        "name": "WLSP.1050 Spanish Heritage Speakers I",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/1050/",
+        "id": "042026",
+        "description": "Spanish for Heritage Speakers (I) is targeted to students who are exposed to Spanish in their everyday life while growing up but have received limited or no formal instruction in this language. This course builds on the knowledge and experiences that students bring to the classroom by providing them with advanced sociolinguistic and grammar skills that will enable them to use Spanish for personal, social, and academic purposes. This course will also strengthen the students\u00bf communication skills in Spanish and help them differentiate between the use of Spanish and English in formal and informal contexts. Students will reflect on issues around Hispanic and Latino identities, as well as on the linguistic and cultural diversity in Latin America, Spain and the United States.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.2040": {
+        "name": "WLSP.2040 Intensive Spanish 3 and 4 (Formerly 54.204)(Never Offered)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/2040/",
+        "id": "037492",
+        "description": "A continuation of 54.104, Intensive Spanish 1 and 2, this is a six credit blended (hybrid) course-taught partly in the classroom and partly online--intensive one-semester accelerated version of the third and fourth Spanish courses.  Being a blended course, the online time will be dedicated to grammar review, and to the completion of various assignments and assessments.  Class time will focus on communicative activities that combine grammatical concepts, relevant vocabulary, and cultural themes.  An intensive course that aims to develop an intermediate mid proficiency in Spanish and familiarity with Hispanic culture through practice in the use of the grammatical structures and acquisition of vocabulary stressing language skills.  The purpose of instruction is to utilize previous language background to lay a solid foundation for further Spanish language study (advanced level).  Satisfactory completion of this course fulfils the prerequisite for Spanish 300-400 level courses.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Req: WLSP 1040 Spanish 1&2 Intensive, or WLSP 1020 Spanish 2 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.1040",
+                    "WLSP.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.2110": {
+        "name": "WLSP.2110 Spanish 3 and Culture (Formerly 54.211)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/2110/",
+        "id": "006065",
+        "description": "Enhances the four skills acquired in Spanish 2 and Culture (or equivalent), which is a pre-requisite: speaking, listening, reading and writing through the discovery of the culture of Spanish speaking countries in a communicative approach (instruction occurs in Spanish with minimal use of English). This class is the 3rd of the 4-course Spanish language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLSP 1040 Spanish 1&2 Intensive, or WLSP 1020 Spanish 2 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.1040",
+                    "WLSP.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.2120": {
+        "name": "WLSP.2120 Spanish 4 and Culture (Formerly 54.212)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/2120/",
+        "id": "006066",
+        "description": "This course has Spanish 3 and Culture (or equivalent) as a pre-requisite and is the 4th and last of the 4-course Spanish language program offered at UML. The course strengthens the four skill acquired in prior levels. It emphasizes increased accuracy and depth of students' abilities and knowledge of the culture of Spanish speaking countries in a communicative approach (instruction occurs in Spanish with almost no use of English). Students express themselves orally and in writing at the national standards level of high-intermediate and understand key-concepts when spoken clearly at native speed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2110 Spanish 3 and Culture, or WLSP.2210 Reading and Conversing in Spanish I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2110"
+                ],
+                [
+                    "WLSP.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.2150": {
+        "name": "WLSP.2150 Spanish Heritage Speakers II",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/2150/",
+        "id": "042025",
+        "description": "Spanish Heritage Speakers II",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.2210": {
+        "name": "WLSP.2210 Reading and Conversing in Spanish I (Formerly 54.221)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/2210/",
+        "id": "006068",
+        "description": "Emphasizes Spanish grammar review and the development of reading and conversational skills. Selected contemporary works provide the basis for developing conversational comprehension and conversational and composition skills. This course is intended for students with a solid foundation in the Spanish language which had been gained from at least three years of high school study immediately prior to admission to the University.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 54.102 Spanish 2 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.3005": {
+        "name": "WLSP.3005 LGBTQ and the Hispanic World",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3005/",
+        "id": "041908",
+        "description": "This course will examine relevant works of 20th and 21st century LGBTQ+ Spanish speaking literature and visual representations, including selections from well-known authors and a new generation of writers. We will explore these works within broad social and political contexts that extend from the beginning of the twentieth century to the present day. In this course, we will study how literature serves as a tool both for the expression of same-sex desire and for questioning political and social practices that have traditionally silenced non-heteronormative identities. Finally, we will discuss how LGBTQ+ literature defies aesthetic conventions to expand existing cultural frameworks and to create new ones that align with social and political progress. Taught in Spanish.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3010": {
+        "name": "WLSP.3010 Introduction to Spanish Literature (Formerly 54.301)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3010/",
+        "id": "006075",
+        "description": "This course studies representative literary texts of Spain form its beginnings to present times. The readings exemplify various genres and reveal the complicated series of interactions, conflict, and influences which have contributed to its cultural diversity and relevance in today's global context. Conducted in Spanish.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 and 4, or WLSP.2990 Language-Spanish 2000 level elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ],
+                [
+                    "WLSP.2990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3020": {
+        "name": "WLSP.3020 Survey of Latin American Literature (Formerly 54.302)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3020/",
+        "id": "006076",
+        "description": "A study of the major writers of Latin America from Native American literature to the modernist period.  The authors and their works are placed in their historical, sociological, and literary perspective, thus introducing students to the Latin American World.  Conducted in Spanish.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLSP 2110 Spanish 3 and Culture, or WLSP 2120 Spanish 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2110"
+                ],
+                [
+                    "WLSP.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3030": {
+        "name": "WLSP.3030 Modern and Contemporary Latin American Literature (Formerly 54.303)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3030/",
+        "id": "006077",
+        "description": "A continuation of WLSP 53.3020, Survey of Latin American Literature and Culture I.  Conducted in Spanish",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3040": {
+        "name": "WLSP.3040 Special Topics: in Latin American Studies (Formerly 54.304)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3040/",
+        "id": "038879",
+        "description": "An in-depth study of a specific topic in literature, culture, civilization or cinema from Latin American countries. Class discussions, reading, oral and written work all in Spanish. May be repeated once for credit, if content changes, and with written consent of the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3050": {
+        "name": "WLSP.3050 World Ready Topic Spanish Track",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3050/",
+        "id": "040844",
+        "description": "This course, taught in English, is for non Spanish majors and minors. It is offered for students who are completing their language requirement through the World Ready option, and have chosen the Spanish track. The course covers a topic of the Spanish-speaking world's culture, civilization, cinema or literature. Class discussions, readings, oral and written work all in English. Other materials could be in target language with translations or subtitles. May be repeated once for credit, if content changes, and with written consent of the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3100": {
+        "name": "WLSP.3100 Spanish Civilization and Culture (Formerly 54.310)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3100/",
+        "id": "006078",
+        "description": "Considers Spanish culture and civilization up to the present. Through audiovisual aids, current newspapers and selected readings, the student will explore the Spanish way of being, thinking, and living. Emphasis is placed on the main contributions of Spain to the Western world. Conducted in Spanish only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3110": {
+        "name": "WLSP.3110 Contemporary Spanish Culture and Society",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3110/",
+        "id": "040290",
+        "description": "Contemporary Spanish Culture and Society (1975-present) is a 3 credit course specifically designed for the UML summer faculty-led on-site program in Cadiz, Spain, over a period of 3 weeks (Dates TBA in July and August). Throughout our stay, as a group, we will discuss and exchange about the readings posted in advance on Blackboard (all in English) specifically reflecting upon the connections between what you learned, what you experienced personally in Spain and how different/similar this is from what you expected or imagined1. Class is taught in English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3120": {
+        "name": "WLSP.3120 Cultural Representations of the Spanish Civil War",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3120/",
+        "id": "041825",
+        "description": "This course will examine the war as the foundational trauma on which Spanish modernity and its cultural production are based. With this goal in mind, this course will examine the representation and understanding of the Civil War through the lens of Francoist, Communist, and Anarchist discourse. We will explore different ideological representations of the war in conjunction with a variety of aesthetic perspectives, such as realism, avant-garde, testimonial literature, and existentialism. We will also complement the study of literature with the representation of this event through film and photography produced during and after the Civil War.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3130": {
+        "name": "WLSP.3130 Fieldwork in the Spanish Community (Formerly 54.313)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3130/",
+        "id": "006079",
+        "description": "Involves individual assignments under the sponsorship of local service agencies servicing the Spanish-speaking community involving individual family and group contact. Written and oral reports will be in Spanish.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLSP 2110 Spanish 3 and Culture, or WLSP 2120 Spanish 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2110"
+                ],
+                [
+                    "WLSP.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3150": {
+        "name": "WLSP.3150 Latin American Civilization and Culture (Formerly 54.315)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3150/",
+        "id": "006080",
+        "description": "Considers significant intellectual, artistic, historical, and sociopolitical aspects of Latin America from the beginning of its history. Through audiovisual aids and selected readings, the student will explore the Latin American way of being and expressing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3200": {
+        "name": "WLSP.3200 Special Topics in Spanish Studies (Formerly 54.320)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3200/",
+        "id": "006081",
+        "description": "Focuses on a limited topic of special interest in culture, civilization, or literature. May be taught in English or in Spanish. Course content and approach will vary depending on instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3300": {
+        "name": "WLSP.3300 Spanish and Latin-American Women Writers (Formerly 54.330)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3300/",
+        "id": "006082",
+        "description": "Studies women writers of the Spanish speaking world.  Emphasis is given to their contribution to the development of Spanish literature and culture as well as their vision of the world and their concerns for the rights of women and humanity.  Conducted in Spanish only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3330": {
+        "name": "WLSP.3330 Advanced Spanish Grammar (Formerly 54.333)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3330/",
+        "id": "006083",
+        "description": "A systematic study of complex grammatical structures in Spanish. Conducted in Spanish only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3340": {
+        "name": "WLSP.3340 Advanced Spanish composition (Formerly 54.334)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3340/",
+        "id": "006084",
+        "description": "The purpose of this course is to help students make their writing more accurate, organized and to develop students abilities in composition tasks.  Specifically, students will learn how to approach the act of writing successfully by focusing on the interaction between writer, reader, purpose, and message.  Students will also learn to manage important writing resources such as grammar, vocabulary, rhetorical techniques for organizing information, and strategies for writing through problems, reading critically, revising, and rewriting.  Required for Spanish Majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3470": {
+        "name": "WLSP.3470 Advanced Spanish Conversation (Formerly 54.347)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3470/",
+        "id": "006087",
+        "description": "The course aims at developing advanced oral proficiency in rapid idiomatic speech. Topics of contemporary significance are selected for discussions. Required for Spanish Majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3500": {
+        "name": "WLSP.3500 Introduction to Literary Analysis (Formerly 54.350)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3500/",
+        "id": "006088",
+        "description": "In this course, students examine the various definitions and functions of literary language, and the formal aspects of diverse genre: narrative, poetry and essay. In this course, students also study the concept of literature as aesthetic phenomenon and its socio-cultural implications, through concepts such as author, reader, narrator and discourse, Major authors, themes, and genres from both Latin America and Spain are included, with basic concepts of contemporary literary criticism and theory. Taught in Spanish.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3510": {
+        "name": "WLSP.3510 Latin American Theater (Formerly 54.351)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3510/",
+        "id": "006089",
+        "description": "Examines Latin American theatrical works as forms of socially accepted resistance and politically charged art forms.  The course will consider plays and performances that challenge governments, inequities, and the status quo.  In this course, students will study a variety of Latin American plays, as well as performances an political acts that explore these issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLSP.2120 Spanish 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3520": {
+        "name": "WLSP.3520 Hispanic Perspectives (Formerly 54.352)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3520/",
+        "id": "038742",
+        "description": "In this course we will explore some of the foundational texts of Hispanic literature while discussing the intersections of political, literary, and cultural traditions that connect the United States with Spain and Latin America.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3710": {
+        "name": "WLSP.3710 Hispanic Literature & Film (Formerly 54.371)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3710/",
+        "id": "006090",
+        "description": "This course examines the relationship between the Hispanic narrative discourse and cinema, including film adaptations of literary works. Modern social and cultural issues, as well as Hispanic self-images. The selected works provide an array of genres and perspectives that reflect the cultural, historical, and socio-political aspects of each period. Taught in Spanish.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3750": {
+        "name": "WLSP.3750 Latin American and Spanish Cinema (Formerly 54.375)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3750/",
+        "id": "006092",
+        "description": "An exploration of representative Spanish and latin American films from a variety of major directors.  Areas of investigation include the cinematic representation of nationality, ethnicity, identity, gender, history and politics.  This course will be taught in English.  Knowledge of Spanish is desirable but not required.  Spanish majors and minors will complete written assignments, reviews, quizzes, and exams in Spanish.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP 1020 Spanish 2 and Culture, or WLSP 2040 Intensive Spanish 3 and 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.1020"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.3940": {
+        "name": "WLSP.3940 Enhancing your Knowledge of Spanish",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/3940/",
+        "id": "041487",
+        "description": "Designed for students who need/wish to enhance and advance their linguistic skills in Spanish. Conducted entirely in Spanish, the course will focus on the vocabulary of contemporary Spanish as well as selected grammatical and syntactical structures through the analysis of authentic audio, visual and printed texts. Spanish-speaking media (newspapers, radio, podcasts, TV) are readily available on the Web.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4010": {
+        "name": "WLSP.4010 Spanish Selected Authors (Formerly 54.401)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4010/",
+        "id": "006093",
+        "description": "Presents an intensive study of the works by a few Spanish and/or Latin American authors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4040": {
+        "name": "WLSP.4040 Cervantes (Formerly 54.404)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4040/",
+        "id": "006095",
+        "description": "In this study of the works of Cervantes participants will complete analysis and readings of either the Don Quijote and/or other works including but not limited to the short stories and the one-act plays.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLSP.2120 Spanish 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4045": {
+        "name": "WLSP.4045 Cervantes' Don Quijote in translation",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4045/",
+        "id": "040121",
+        "description": "Cervantes' Don Quijote will examine new ideas and concepts concerning one of the world's greatest novels. Taught in English, there is no language requirement for this course; however, this course is designed to engage student interest in historically and culturally significant events in Golden Age Spain and to - more importantly - expand student interest in literary criticism of the Spanish Golden Age and of Cervantes' masterwork in particular. Because it is taught in English, this course does not count toward the Spanish major or minor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4090": {
+        "name": "WLSP.4090 20th-221st Century Spanish Literature (Formerly 54.409)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4090/",
+        "id": "006098",
+        "description": "This course explores the most relevant literary movements of 20th and 21st century Spanish peninsular literature through some of its most renowned authors. We will analyze a selection of literary texts in relation to the literary movements in which they are conceived, such as modernism, avant-garde, tremendism, realism, experimentalism, etc. This course also examines key social and cultural issues related to literature of this period, such as the Spanish Civil War (1936-39) and the emergence of new identities and subjectivities in democratic Spain. This course will help students develop a solid understanding of 20th and 21st century Spanish literary and culture, and its relevance within a larger European and global context.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.2120 Spanish 4 and Culture, or WLSP.2040 Intensive Spanish 3 & 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ],
+                [
+                    "WLSP.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4100": {
+        "name": "WLSP.4100 Realism and the Nineteenth Century Spanish Novel (Formerly 54.410)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4100/",
+        "id": "006099",
+        "description": "Offers a study of fundamental aspects of life, thought, land itself and its sense of history as reflected in the literary masterpieces of Valera, Galdos, Alarcon, Pereda, and others. An analysis of the literary techniques and fiction of the Realism will be included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLSP.3010 Introduction to Spanish Literature, or WLSP.3500 Introduction to Literary Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.3010",
+                    "WLSP.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4120": {
+        "name": "WLSP.4120 Jorge Luis Borges",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4120/",
+        "id": "042238",
+        "description": "This course will provide an introduction to the work of Jorge Luis Borges. Borges is a fundamental author in the context of both Latin American and World Literature whose influence makes him uniquely important for those who wish to develop their understanding of the Spanish-speaking world. Participants in the course will learn about the social, political, and cultural context specific to 20th -century Argentina as well the development of the author's own literary strategies and ideas.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLSP.2120 Spanish 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4160": {
+        "name": "WLSP.4160 The Latin American Novel (Formerly 54.416)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4160/",
+        "id": "006102",
+        "description": "A study of the development of the Latin American novel.  Three major works of Latin American short story writers such as Borges, Cortazar, Marquez, Rulfo.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLSP.2120 Spanish 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLSP.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLSP.4910": {
+        "name": "WLSP.4910 Directed Studies in Spanish Literature (Formerly 54.491)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4910/",
+        "id": "006105",
+        "description": "Individual research projects in Spanish literature. Students, through regular and frequent consultation with their instructor, develop a course of directed study in Spanish literature and define a problem for individual research. The student's findings are presented in a paper of significant proportions. Permission of Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.4920": {
+        "name": "WLSP.4920 Directed Study in Latin America (Formerly 54.492)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4920/",
+        "id": "006106",
+        "description": "Individual research projects in Latin American topics. Students, through regular and frequent consultation with their instructor, develop a course of directed study in a specific Latin American topic and define a problem for individual research. The student's findings are presented in a paper of significant proportions. Permission of Instructor.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.4930": {
+        "name": "WLSP.4930 Directed Studies in Spanish Composition (Formerly 54.493)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4930/",
+        "id": "006107",
+        "description": "Students, through regular and frequent consultation with their instructor, pursue a special program of composition or creative expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.4940": {
+        "name": "WLSP.4940 Independent Study in Spanish (Formerly 54.494)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4940/",
+        "id": "031773",
+        "description": "Students, through regular and frequent consultation with their instructor, develop a course of independent study in Spanish culture and define a problem for individual research. The student's findings are presented in a paper of significant proportions.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.4950": {
+        "name": "WLSP.4950 Advanced Spanish Tutorial (Formerly 54.495)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4950/",
+        "id": "006108",
+        "description": "A program of directed study which affords advanced students an additional opportunity to pursue a previously explored problem in greater depth or to initiate an additional problem. The purpose is to sharpen and refine techniques for scholarly research and presentation and for creative expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLSP.4960": {
+        "name": "WLSP.4960 Spanish Practicum Experience (Formerly 54.496)",
+        "url": "https://www.uml.edu/catalog/courses/WLSP/4960/",
+        "id": "006109",
+        "description": "A program of on-campus and/or off-campus experiences for Spanish or Modern Language majors only. Specific requirements vary depending upon faculty policies and the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a community, social, cultural, or artistic area and for applying techniques of problem solving and/or skills which are appropriate to the student's major discipline. May be repeated for a maximum of nine credits. Students are graded satisfactory, or unsatisfactory. The practicum experience may not be substituted for a required course in the major.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

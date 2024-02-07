@@ -1,0 +1,322 @@
+{
+    "total": 18,
+    "time": 13.370214939117432,
+    "PHRM.1010": {
+        "name": "PHRM.1010 Introduction to the Pharmaceutical Industry",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/1010/",
+        "id": "040941",
+        "description": "The purpose of this introductory course is to provide an overview of the pharmaceutical industry. The student will become acquainted with the discovery and development processes required to bring a new therapeutic agent to the market. This course discusses current theoretical, practical, regulatory, and professional issues in the pharmaceutical industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHRM.3100": {
+        "name": "PHRM.3100 Introduction to Drug Design",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/3100/",
+        "id": "040471",
+        "description": "This course will provide an overview of how novel pharmacologically active molecules are discovered and designed to treat human disease. Topics will include drug discovery, molecular design and redesign,  synthetic strategies of drug molecules, structure-activity relationships (SAR), drug interactions with their targets, pharmacokinetics (PK) and pharmacodynamics (PD), and ethical considerations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHRM.3200 Molecular Pharmacology, or HSCI.3500 Human Biochemistry, or CHEM.4500 Introduction to Biochemistry, or BIOL.4190 Biochemistry, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHRM.3200",
+                    "HSCI.3500",
+                    "CHEM.4500",
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.3200": {
+        "name": "PHRM.3200 Molecular Pharmacology",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/3200/",
+        "id": "040443",
+        "description": "This course is designed to give students an understanding of the molecular basis of drug action. Upon completion of this course, students will be able to describe receptor-ligand interactions, signal transduction pathways, the different classes of target biomolecules for drugs and how genetic variability influences drug action.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.3500 Human Biochemistry, or CHEM.4500 Intro to Biochemistry, or BIOL.4190 Biochemisry, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3500",
+                    "CHEM.4500",
+                    "BIOL.4190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.4100": {
+        "name": "PHRM.4100 Basic Pharmaceutics",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/4100/",
+        "id": "040444",
+        "description": "This course is designed to give students an understanding of the basic physical chemistry needed to determine drug dosing and knowledge of how drugs are delivered through the body. Upon completion of this course, students will be able to describe how drugs are formulated, manufactured and how to ensure sterile manufacturing and delivery of these drugs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.2520 Physiological Chemistry II, and Junior or Senior level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.4600": {
+        "name": "PHRM.4600 Pharmacokinetics and Drug Metabolism",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/4600/",
+        "id": "040445",
+        "description": "This course focuses of the study of the biochemical and physiological effects of drugs and the mechanisms of their actions. The quantitative aspects of drug absorption, distribution, metabolism, and excretion will be explored. The philosophy of pharmacokinetic modeling and its application in practice will be introduced. An overview of the structure, function and regulation of major drug metabolic enzymes and transporters will also be emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHRM.3100 Introduction to Medicinal Chemistry, and PHRM.3200 Molecular Pharmacology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHRM.3100"
+                ],
+                [
+                    "PHRM.3200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.6100": {
+        "name": "PHRM.6100 Principles of Pharmaceutical Sciences (Formerly PHSC 610)",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6100/",
+        "id": "037990",
+        "description": "The purpose of this introductory course in the pharmaceutical sciences is to provide an overview of the drug development process, involving drug discovery, drug action, and drug delivery.  The student will become acquainted with cutting-edge research in discovery, action, and delivery. This course provides a foundation in pharmaceutical sciences along with theoretical, practical, regulatory, and professional issues in the pharmaceutical sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHRM.6120": {
+        "name": "PHRM.6120 Principles of Pharmaceutical Sciences Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6120/",
+        "id": "040158",
+        "description": "The purpose of this introductory course in the pharmaceutical sciences is to provide an overview of the drug development process, involving drug discovery, drug action, and drug delivery. Laboratory experiments will be performed to exemplify and expand upon the principles covered in Principles of Pharmaceutical Sciences lecture.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHRM.6200": {
+        "name": "PHRM.6200 Pharmacokinetics (Formerly PHSC 620)",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6200/",
+        "id": "037932",
+        "description": "This course focuses of the study of the biochemical and physiological effects of drugs and the mechanisms of their actions.  The quantitative aspects of drug absorption, distribution, metabolism, and excretion will be explored.  The philosophy of pharmacokinetic modeling and its application in practice will be introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHRM.6100 Principles of Pharmaceutical Sciences.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHRM.6100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.6300": {
+        "name": "PHRM.6300 Pharmaceutical Research Design and Ethics (Formerly PHSC 630)",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6300/",
+        "id": "037985",
+        "description": "This course explores research methodologies and statistics that are commonly used in pharmaceutical research.  Scientific integrity in research will be discussed, as well as ethical issues in conducting pharmaceutical research in the laboratory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHRM.6100 Principles of Pharmaceutical Sciences.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHRM.6100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.6400": {
+        "name": "PHRM.6400 Pharmaceutical Analysis (PHSC 640)",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6400/",
+        "id": "037992",
+        "description": "Students in this course learn about modern analytical methods used to analyze the purity, strength, and quality of drugs and pharmaceutics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHRM.6410": {
+        "name": "PHRM.6410 Drug Delivery (Formerly PHSC 641)",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6410/",
+        "id": "037931",
+        "description": "The biological, biophysical and chemical factors that influence drug delivery systems will be analyzed.  Principles of cellular drug transport, in vivo drug transport, and modern drug delivery, including drug targeting will be explored.  The course will also address membrane trafficking and intracellular transport and the utilization of these mechanisms in drug delivery and targeting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate level or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHRM.6420": {
+        "name": "PHRM.6420 Pharmaceutical Analysis Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6420/",
+        "id": "040159",
+        "description": "Students in this course analyze the purity, strength, and quality of drugs and pharmaceutics by applying modern analytical methods. Raw materials and completed dosage forms will also be analyzed in the laboratory.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: PHRM.6400 Pharmaceutical Analysis.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHRM.6400"
+                ]
+            ]
+        }
+    },
+    "PHRM.6501": {
+        "name": "PHRM.6501 Drug Discovery",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6501/",
+        "id": "039925",
+        "description": "Drug discovery is the translational application of biology, chemistry, medicine, business and law in the identification of new medicines. This course is designed to provide each student with a full understanding of the challenges and opportunities that face scientists engaged in this enterprise in the biotech and pharmaceutical industries. Active learning objectives (case studies; project team work0 are included to supplement the more didactic course materials, and to provide a simulation of the approaches used in industry to accomplish the key goal-the nomination of a clinical drug candidate worthy of extensive investment and testing in humans.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHRM.6600": {
+        "name": "PHRM.6600 Pharmacokinetics and Drug Metabolism",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/6600/",
+        "id": "040349",
+        "description": "This course focuses of the study of the biochemical and physiological effects of drugs and the mechanisms of their actions. The quantitative aspects of drug absorption, distribution, metabolism, and excretion will be explored. The philosophy of pharmacokinetic modeling and its application in practice will be introduced. An overview of the structure, function and regulation of major drug metabolic enzymes and transporters will also be emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHRM.6501 Drug Discovery, and graduate level, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHRM.6501"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.7070": {
+        "name": "PHRM.7070 Drug Metabolism (Formerly 36.707)",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/7070/",
+        "id": "037846",
+        "description": "This course provides an overview of the structure, function and regulation of major drug metabolic enzymes and transporters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHRM.6100 Principles of Pharmaceutical Sciences.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHRM.6100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.7100": {
+        "name": "PHRM.7100 Advanced Topics in Pharmaceutical Sciences (PHSC 710)",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/7100/",
+        "id": "037993",
+        "description": "Select advanced topics and the evaluation of scientific literature in pharmaceutical sciences will be discussed in this seminar.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "PHRM.6100 Principles of Pharmaceutical Sciences.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHRM.6100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHRM.7550": {
+        "name": "PHRM.7550 Graduate Research",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/7550/",
+        "id": "040426",
+        "description": "Enrolled students will be completing supervised research as they progress toward the completion of their degree.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHRM.7590": {
+        "name": "PHRM.7590 Doctoral Dissertation",
+        "url": "https://www.uml.edu/catalog/courses/PHRM/7590/",
+        "id": "040427",
+        "description": "Enrolled students anticipate completion of all dissertation requirements during the semester in which they are enrolled for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,2695 @@
+{
+    "total": 154,
+    "time": 99.99233388900757,
+    "PHYS.1010": {
+        "name": "PHYS.1010 Introductory Physics (Formerly 95.101)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1010/",
+        "id": "008523",
+        "description": "A survey course for students majoring in sound recording technology. Topics covered include:one and two dimensional motion, Newton's Laws of dynamics, statics, circular motion, work and energy, linear and angular momentum, electrostatics, electric and potential fields, magnetic fields, vibrations, waves, sound, Faraday's Law and AC circuits.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req:PHYS.1010L General Exp Physics; Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1010L": {
+        "name": "PHYS.1010L Introductory Experimental Physics (Formerly 96.101)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1010L/",
+        "id": "008666",
+        "description": "Experimental physics with topics correlated with the corequisite lecture course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: 95.101 Introductory Physics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1030": {
+        "name": "PHYS.1030 General Physics I (Formerly 95.103)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1030/",
+        "id": "008524",
+        "description": "Serves as the first semester of a one-year course which surveys the field of physics at a non-calculus level. Topics include force and motion, vectors, gravity, energy and momentum, heat and thermodynamics, and oscillations, waves and sound. Although the course emphasizes conceptual understanding, a functional knowledge of algebra and geometry is essential.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1030L": {
+        "name": "PHYS.1030L General Physics I Lab (Formerly 96.103)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1030L/",
+        "id": "008667",
+        "description": "Presents the first semester of a one-year course which surveys the field of experimental physics with topics correlated to the corequisite lecture course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "PreReq or Co-Req: 95.103 General Physics I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1040": {
+        "name": "PHYS.1040 General Physics II (Formerly 95.104)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1040/",
+        "id": "008525",
+        "description": "Provides a continuation of PHYS.1030 Topics include electricity and magnetism, geometrical and physical optics, atoms, and nuclei.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS 1030 General Physics I  with a 'C-' or higher; or Spring 2020 grade of 'P', and Co-req: or Pre-req: PHYS 1040L Physics ll Lab; Anti-Req: PHYS.1040/1040L, PHYS.1440/1440L; or PHYS.1640/1640L.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1030"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PHYS.1040L"
+                ]
+            ]
+        }
+    },
+    "PHYS.1040L": {
+        "name": "PHYS.1040L General Physics II Lab (Formerly 96.104)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1040L/",
+        "id": "008668",
+        "description": "Serves as a continuation of 96.103 with topics correlated with the corequisite lecture course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req or Pre-Req: PHYS.1040 General Physics II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.1040"
+                ]
+            ]
+        }
+    },
+    "PHYS.1050L": {
+        "name": "PHYS.1050L Sounds of Music (Formerly 96.105)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1050L/",
+        "id": "035598",
+        "description": "Examines the physical process that makes musical sounds from acoustic instruments.  Hands-on laboratory experiences explore how the vibrations of strings, air columns, membranes, plate and bars are transformed into musical sounds, how these propagate and are transformed by the listening space, and how these are received by ears and perceived by the brain. In addition harmonic series, the mean-tempered scale, the use of decibels, sonic interference and diffraction are explained.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1120": {
+        "name": "PHYS.1120 Freshman Physics Seminar (Formerly 95.112)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1120/",
+        "id": "008527",
+        "description": "An introduction to the scientific methods of physics and the exploration of research opportunities for undergraduates.",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1210": {
+        "name": "PHYS.1210 Exploring the Universe (Formerly 95.121)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1210/",
+        "id": "008528",
+        "description": "Addresses topics that include: Planet Earth, its structure, plate tectonics, greenhouse effect, ozone layer, craters and dinosaurs; our satellite Moon;other planets; our star Sun and its energy source; other stars, the HR diagram and stellar evolution, white dwarfs, neutron stars, supernovae, black holes; our galaxy, the Milky Way, its structure; other galaxies; the universe, its structures and expansion; evolution of galaxies, quasars, cosmology, the Big Bang and Unification of the forces of nature. Satisfies Gen Ed science requirements for non-science majors.  Does not satisfy science requirements for Science majors but may be used as a free elective by Science majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: PHYS.1210 Lab for Exploring the Universe; Anti-Req: ENVI.1150 Astronomy.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.1210"
+                ]
+            ]
+        }
+    },
+    "PHYS.1210L": {
+        "name": "PHYS.1210L Exploring the Universe Laboratory (Formerly 96.121)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1210L/",
+        "id": "008669",
+        "description": "Provides laboratory exercises to illustrate the basic principles and measurement techniques of astronomy. Quantitative techniques, properties of angles, modeling the earth-sun system, comparative planetology, the constellations, the inverse square law, blackbody radiation and spectra, the Hertzsprung-Russell diagram, distances to the stars, the Andromeda galaxy, cosmology. Satisfies Gen Ed science requirements for non-science majors.  Does not satisfy science requirements for Science majors but may be used as a free elective by Science majors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req or Pre-Req: PHYS.1210 Exploring the Universe.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.1210"
+                ]
+            ]
+        }
+    },
+    "PHYS.1310": {
+        "name": "PHYS.1310 Technical Physics I (Formerly 99.131)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1310/",
+        "id": "008909",
+        "description": "Presents material in both the class and laboratory format. Topics include: vectors; one- and two- dimensional motion; Newton's laws of motion; translational and rotational equilibrium; work and energy; linear momentum; and circular motion and gravitation. Two additional Friday night classes are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1320": {
+        "name": "PHYS.1320 Technical Physics II (Formerly 99.132)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1320/",
+        "id": "008910",
+        "description": "Covers material in both the class and laboratory format. Rotational dynamics; mechanical vibrations and waves; sound; solids and fluids; thermal physics; heat and law of thermodynamics will be discussed. One session per week. Two additional Friday night classes are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.2450 Technical Physics I with a 'C-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2450"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.1410": {
+        "name": "PHYS.1410 Physics I (Formerly 95.141)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1410/",
+        "id": "008529",
+        "description": "First semester of a two-semester sequence for science and engineering majors. Mehcanics including vectors, kinematics in one and two dimensions, Newton's laws of dynamics, work and energy, energy conservation, linear momentum conservation, rotational kinematics and dynamics, Newton's Universal Law of Gravitation, oscillatory motion and mechanical waves.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: PHYS.1410L Physics I Lab. Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.1410L"
+                ]
+            ]
+        }
+    },
+    "PHYS.1410L": {
+        "name": "PHYS.1410L Physics I Lab (Formerly 96.141)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1410L/",
+        "id": "008671",
+        "description": "Serves as an introductory course on methods and techniques of experimentation in physics with experiments in mechanics selected to support the concepts of the corequisite lecture course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: PHYS 1410 Physics I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.1410"
+                ]
+            ]
+        }
+    },
+    "PHYS.1410SI": {
+        "name": "PHYS.1410SI Supplemental Instruction for Physics I - Navitas Only (Formerly 95.141SI)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1410SI/",
+        "id": "038492",
+        "description": "Supplemental Instruction for Physics I - Navitas Students Only. Credits do not count toward degree requirements.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: PHYS.1410L Physics I Lab. Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.1410L"
+                ]
+            ]
+        }
+    },
+    "PHYS.1440": {
+        "name": "PHYS.1440 Physics II (Formerly 95.144)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1440/",
+        "id": "008531",
+        "description": "Continuation of 95.141,Physics I. Electricity and magnetism including Coulomb's Law, electric field, Gauss' Law, electric potential, Ohm's law, DC circuits with resistors, magnetic field, Ampere's Law, Faraday's Law, inductance, Maxwell's equations, and electromagnetic waves.Optics including Wave Optics (interference, diffraction) and Ray Optics (reflection, refraction, dispersion, ray tracing).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 1410 Physics I with a 'C-' or higher, or Spring 2020 grade of `P\u00bf, Pre/Co-Req: MATH 1320 Calculus II; and Pre/Co-Req: PHYS 1440L Physics II Lab; Anti-Req: PHYS.1040/1040L, PHYS.1440/1440L; or PHYS.1640/1640L.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.1440L"
+                ]
+            ]
+        }
+    },
+    "PHYS.1440L": {
+        "name": "PHYS.1440L Physics II Lab (Formerly 96.144)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1440L/",
+        "id": "008673",
+        "description": "Serves as a continuation of 96.141 with experiments in optics, electricity and magnetism, and modern physics to support the concepts of the corequisite lecture course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: PHYS 1410L Physics I Lab with a 'C-' or higher, or Spring 2020 grade of `P\u00bf, and  Co-Req: PHYS 1440 Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PHYS.1440"
+                ]
+            ]
+        }
+    },
+    "PHYS.1610": {
+        "name": "PHYS.1610 Honors Physics I (Formerly 95.161)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1610/",
+        "id": "008535",
+        "description": "Introductory mechanics at a more challenging level and the first semester of a sequence for physics majors. Mechanics of particles in one dimension, kinematics, forces, dynamics; particles in two and three dimensions, vectors, curvilinear and oscillatory motion; conservation principles, work, energy, linear momentum, collisions; rotational mechanics, angular momentum, torque and static equilibrium; gravitation and planetary orbits; wave motion, transverse and longitudinal, standing waves.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Co-Reqs: MATH 1310 Calculus I  and PHYS 1610L Honors Physics  I Lab; Anti-Req: Students only can receive credit for one of the following freshmen-level physics I lecture/lab courses: PHYS.1010/1010L; PHYS.1030/1030L, PHYS.1410/1410L; or PHYS.1610/1610L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.1310"
+                ],
+                [
+                    "PHYS.1610L"
+                ]
+            ]
+        }
+    },
+    "PHYS.1610L": {
+        "name": "PHYS.1610L Honors Physics I Laboratory (Formerly 96.161)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1610L/",
+        "id": "008678",
+        "description": "An introductory laboratory course at the honors level on the methods and techniques of experimental physics. Lectures on measurement uncertainties and error analysis are included and experiments are selected principally in mechanics.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: 95.161 Honors Physics I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.1640": {
+        "name": "PHYS.1640 Honors Physics II (Formerly 95.164)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1640/",
+        "id": "008537",
+        "description": "Geometrical optics, reflection, refraction, flat and curved mirrors, thin lenses; physical optics, interference and diffraction; electrostatics, charge, electric forces, fields and flux, electric potential, capacitance and field energy; electric charge in motion, currents, DC and RC circuits; magnetic fields, forces on moving charges, magnetic field of an electric current, electromagnetic induction, inductance, changing currents, AC circuits; electromagnetic radiation; the limits of classical electromagnetic theory.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Req: PHYS 1610 Honors Physics I with a 'C-' or higher; or Spring 2020 grade of 'P', and Co-Req: MATH 1320 Calculus II  and PHYS 1640L Honors Physics Lab II; Anti-Req: PHYS.1040/1040L, PHYS.1440/1440L; or PHYS.1640/1640L.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1610"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.1640L"
+                ]
+            ]
+        }
+    },
+    "PHYS.1640L": {
+        "name": "PHYS.1640L Honors Physics Lab II (Formerly 96.164)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/1640L/",
+        "id": "008679",
+        "description": "A continuation of 96.161 with experiments selected principally in optics, electricity and magnetism.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: PHYS.1640 Honors Physics II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.1640"
+                ]
+            ]
+        }
+    },
+    "PHYS.2010L": {
+        "name": "PHYS.2010L Health Physics Internship I (Formerly 96.201)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2010L/",
+        "id": "008681",
+        "description": "Applied work experience as a health physics technician at a government laboratory or a radiation facility of some industry, hospital, or education and research institution.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.2040": {
+        "name": "PHYS.2040 Introduction to Radiological Sciences (Formerly 95.204)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2040/",
+        "id": "008542",
+        "description": "This course is designed to introduce students to the working practices encountered in health physics. This is accomplished through field trips to local facilities that use radioactive materials, laboratory exercises, and class discussions. This class exposes the student to basic health physics procedures, vocabulary, and equipment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.2100": {
+        "name": "PHYS.2100 Introductory Modern Physics (Formerly 95.210)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2100/",
+        "id": "008544",
+        "description": "Special theory of relativity, experimental basis of quantum theory, structure of the atom, wave properties of matter, quantum theory, hydrogen atom, atomic nucleus, nuclear interactions and applications, and semiconductors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 1440 Physics II with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.2450": {
+        "name": "PHYS.2450 Physical Properties of Matter (Formerly 95.245)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2450/",
+        "id": "008546",
+        "description": "Fluid statics, dynamics of fluids, properties of solids, advanced topics in waves and vibrations, temperature and heat flow, kinetic theory of gases, thermodynamics, and the limits of classical physics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req or Co-Req: MATH 1320 Calculus II  and  PHYS 2450L Physics III Lab; Pre-Req: PHYS 1410 Physics I with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.2450L",
+                    "PHYS.1410"
+                ]
+            ]
+        }
+    },
+    "PHYS.2450L": {
+        "name": "PHYS.2450L Physics III Lab (Formerly 96.245)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2450L/",
+        "id": "008683",
+        "description": "Experiments are selected principally in properties of solids, vibrations, waves, heat, and thermodynamics.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: PHYS.2450 Physical Properties of Matter.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PHYS.2450"
+                ]
+            ]
+        }
+    },
+    "PHYS.2610L": {
+        "name": "PHYS.2610L The Physics of Materials and Devices (Formerly 96.261)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2610L/",
+        "id": "032070",
+        "description": "Investigating the phenomenology of materials involve sensing devices in which electrical signals must be evaluated  Observing physical phenomena with an electrical sensing device enables one to calibrate the dynamics of the electrical signal associated with the changes in the physical phenomenology oberved with that device.  Applications in these laboratory-based measurement techniques include the Wheatstone bridge, current/voltage device characterization, the operational amplifier as an active filter, stress & strain, Newton's law of cooling, Stefan/Boltzman's law and the ideal gas law.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 1440 Physics II with a 'C-' or higher;  Co-Req: PHYS 2690 Honors Physics III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PHYS.2690"
+                ]
+            ]
+        }
+    },
+    "PHYS.2620L": {
+        "name": "PHYS.2620L Principles in Laboratory Automation (Formerly 96.262)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2620L/",
+        "id": "008687",
+        "description": "This is an introduction to the principles of automating today's research laboratory.  A foundation of the Labview-based software and hardware tools required to conduct computer-controlled experiments will be presented, demonstrated and then used to acquire, display and analyze data on some typical physical phenomena.  Students will be fully involved in designing the control and acquisition software as well as setting up the experimental hardware.  Applications of the automated acquisition environment include AC characterization of RC and LRC circuits, the use of thermistors and thermocouples along with acquiring the temperature dependent resistivity of high Tc super conductors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.2690": {
+        "name": "PHYS.2690 Honors Physics III (Formerly 95.269)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2690/",
+        "id": "008547",
+        "description": "Statics and dynamics of fluids, pressure, viscosity, Archimedes and Bernoulli principles, mechanical properties of solids, stress and strain, shear, electric and magnetic properties of materials, para- dia- and ferromagnetism, electro-mechanical and magneto-mechanical effects,hysteresis, advanced topics in waves and vibrations, damping, resonance in mechanical and AC oscillators, thermodynamics, Maxwell's velocity distribution, blackbody radiation, and the limits of classical physics, introduction to special relativity.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Req: PHYS 1440 Physics II with a 'C-' or higher, or Spring 2020 grade of 'P', Co-Req: PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PHYS.2610L",
+                    "PHYS.2450L"
+                ]
+            ]
+        }
+    },
+    "PHYS.2800": {
+        "name": "PHYS.2800 Introduction to Space Weather",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/2800/",
+        "id": "042045",
+        "description": "\"Space weather\" is a multi-disciplinary field of science studying the conditions on the Sun and in the solar wind, magnetosphere, ionosphere, and thermosphere that can influence the performance and reliability of space-born and ground-based technological systems and can endanger human life or health. Space weather depends on the behavior of the Sun, the nature of Earth's magnetic field and atmosphere, and our location in the Solar system. In this course for science and engineering students, the phenomenology of the solar-terrestrial relationship is introduced and basic physics describing this interaction is explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.1440 Physics II, or PHYS.1640 Honors Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440",
+                    "PHYS.1640"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3010L": {
+        "name": "PHYS.3010L Health Physics Internship II (Formerly 96.301)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3010L/",
+        "id": "008691",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.3020L": {
+        "name": "PHYS.3020L Health Physics Internship II (Formerly 96.302)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3020L/",
+        "id": "008692",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.3040": {
+        "name": "PHYS.3040 Vibration and Sound (Formerly 95.304)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3040/",
+        "id": "037507",
+        "description": "The course serves to integrate the various sub-topics of physics that undergraduate majors have experienced by exploring the physical processes of vibrations of lumped and continuous electrical mechanical and acoustic systems:  the damped harmonic oscillator in electrical and mechanical form, the flexible string in tension and the coaxial cable with differing end conditions, vibrations of bars, membranes and plates, plane waves of sound, standing waves, radiation and scattering.  Throughout reference is made to analogous process in the quantum mechanical domain.  Closely coordinated with the recitations is the co-requisite laboratory course,k which provides concrete experience with the phenomena discussed in the recitations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS 2690 Honors Physics III, MATH 2310 Calculus III, PHYS 2610L Physics of Materials and Devices, or PHYS 2450L Physics III Lab with a 'C-' or higher, or Spring 2020 grade of 'P', and Co-req: PHYS 3040 Vibration and Sound Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2690"
+                ],
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "PHYS.2610L"
+                ],
+                [
+                    "PHYS.2450L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PHYS.3040"
+                ]
+            ]
+        }
+    },
+    "PHYS.3040L": {
+        "name": "PHYS.3040L Vibration and Sound Lab (Formerly 96.304)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3040L/",
+        "id": "037506",
+        "description": "A series of four directed four-hour experiments and one student directed experiment all of which are coordinated with Vibration and Sound 95.304.  Emphasis is on non-intrusive measurement techniques; choosing,k evaluating and applying appropriate transducers and structuring data processing and display in measurements of transfer functions. Impedances and modal structures for the system studied analytically in the companion course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.3050": {
+        "name": "PHYS.3050 Exoplanets",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3050/",
+        "id": "041344",
+        "description": "Beginning with the history of exoplanet research, observational techniques (transits, radial velocity, microlensing, direct imaging), and observations of exoplanet atmospheres via transmission spectra, the course will survey this rapidly developing field and focus on its theoretical foundations, including planet formation and dynamics, planetary atmospheres, planet habitability and astrobiology, star-planet interaction, and space weather on exoplanets.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.1410 Physics I, and PHYS.1440 Physics II, and PHYS.2450 Physical properties of matter, or PHYS.2690 Honors Physics III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410"
+                ],
+                [
+                    "PHYS.1440"
+                ],
+                [
+                    "PHYS.2450",
+                    "PHYS.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3080": {
+        "name": "PHYS.3080 Physics with Computers I (Formerly 95.308)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3080/",
+        "id": "008549",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.3160": {
+        "name": "PHYS.3160 Science and Technology in an Impoverished World (Formerly 95.316)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3160/",
+        "id": "037509",
+        "description": "Intended for junior-level science and engineering majors, this is a one-semester 3-credit course focused of the impact of science and technology in poverty stricken regions of the world.  Students will be challenged to consider the implementation of past and present technologies for solving resource shortages, evaluate and strengths and limitations of these solutions while developing alternatives to address future barriers to positive change.  Encouraged to work toward these issues, students will; 10 Pursue and evaluate topics in science and technology through the skills of inquiry, research, critical thinking and problem solving. 2) Demonstrate the knowledge for quantitative and qualitative analysis of problems in science and technology.  #0 Analyze and interpret issues in interdisciplinary areas of science and engineering developing a level of comfort with solving unfamiliar problems using acquired knowledge and skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.3370": {
+        "name": "PHYS.3370 Geometrical Optics (Formerly 95.337)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3370/",
+        "id": "008556",
+        "description": "Properties of light, plane surfaces and prisms, thin and thick lenses, mirrors and stops, matrix methods applied to Gaussian (paraxial) optics, Lagrange-Helmholtz invariant, primary and chromatic aberrations, ray tracing and Abbe's sine condition, basic optical instruments including cameras, telescopes, and microscopes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 1440 Physics II with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3380": {
+        "name": "PHYS.3380 Optics and Waves (Formerly 95.338)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3380/",
+        "id": "008557",
+        "description": "Wave nature of light, mathematics of wave motion, electromagnetic theory of light propagation, reflection and refraction, Fresnel coefficients, polarization, interference, Young's experiment, fringe visibility and coherence, various interferometers, Newton's ring and applications, Fraunhofer diffraction by single and multiple apertures and diffraction gratings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 1440 Physics II with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3530": {
+        "name": "PHYS.3530 Electromagnetism I (Formerly 95.353/553)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3530/",
+        "id": "001216",
+        "description": "The theory of electromagnetic fields using vector analysis: electrostatic fields and potentials in vacuum, conductors, and dielectric media, magnetic effects of steady currents in nonmagnetic media, magnetic induction and time varying currents and fields. (offered as 95.553 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 2310 Calculus III and PHYS 1440 Physics II with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3540": {
+        "name": "PHYS.3540 Electromagnetism II (Formerly 95.354.554)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3540/",
+        "id": "001215",
+        "description": "Magnetic materials, electric multipoles, solutions to Laplace's equation, boundary conditions, image charge problems, Maxwell's equations; propagation of electromagnetic waves in vacuum, conductors and dielectrics; reflection and refraction of electromagnetic waves; radiation from dipoles and antennas. (offered as 95.554 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.3530/5530 Electromagnetism I with a 'C' or higher, or Spring 2020 grade of' 'P'.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.3810": {
+        "name": "PHYS.3810 Mathematical Physics I (Formerly 95.381)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3810/",
+        "id": "036219",
+        "description": "Intended for students having completed 2 full years of physics and math, this course is designed to develop competency in the applied mathematical skills required of junior and senior level physics majors.  Covering topics involving infinite series, power series, complex numbers, and linear algebra along with vector and Fourier analysis, students will be trained with the rigor required to solve a wide range of applications in the physical sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Diff Equations with a 'C-' or higher; 4 semesters of calculus-based Physics with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3820": {
+        "name": "PHYS.3820 Mathematical Physics II (Formerly 95.382)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3820/",
+        "id": "036220",
+        "description": "Expanding on the skills mastered in 95.381 Mathematical Physics I, this course is designed to continue developing competency in the applied mathematics required of junior and senior level physics majors.  Intended for students having completed at least 2 years of physics and math, topics covered will involve ordinary, differential equations, calculus of variations, tensor analysis, special functions, series solutions of differential equations, partial differential equations, and complex variables as well as probability and statistics.  Students will be trained with the rigor required to solve a wide range of applications in the physical sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.3810 Mathematical Physics I with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3830": {
+        "name": "PHYS.3830 Astronomy and Astrophysics I (Formerly 95.383)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3830/",
+        "id": "008560",
+        "description": "This course is designed for an interdisciplinary general undergraduate (upperclassmen) audience. Fundamentals of astronomy and astromechanics, introductory survey of astrophysics and the solar system (i.e. planetary astronomy).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.3840": {
+        "name": "PHYS.3840 Observational Astronomy",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3840/",
+        "id": "041345",
+        "description": "The course provides project-based practical experience in observational astronomy. Guided by faculty, students will make their own astronomical investigations using telescoped, cameras, and spectrographs. Participants will become trained and certified to use the university observatory. Observations may include stars, planets, galaxies, the sun, and phenomena of tropical interest. Skills will be developed in image processing, data visualization, controlling telescopes/instruments, obtaining data remotely, and communication of results to peers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.1440 Physics II, or PHYS.1040 General Physics II, or PHYS.1640 Honors Physics II, or PHYS.1210 Exploring the Universe, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440",
+                    "PHYS.1040",
+                    "PHYS.1640",
+                    "PHYS.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3930L": {
+        "name": "PHYS.3930L Advanced Experimental  Physics Laboratory  I (Formerly 96.393)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3930L/",
+        "id": "008699",
+        "description": "Some of the most significant experiments in the history of physics are revisited. Form measuring the universal gravity constant to observing the quantization of light and matter, this laboratory course challenges students' experimental skills and tests their understanding of fundamental concepts. Preparing high quality lab reports and presentations is emphasized.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "PHYS.2610L The Physics of Materials & Devices, or  PHYS.2450L Physics II lab,  and PHYS.2620L Principles of Laboratory Automation with a grade of C- or better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2610L",
+                    "PHYS.2450L"
+                ],
+                [
+                    "PHYS.2620L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.3940L": {
+        "name": "PHYS.3940L Advanced Physics Lab II (Formerly 96.393)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/3940L/",
+        "id": "008700",
+        "description": "A continuation of 96.393 with experiments selected mainly from condensed matter and nuclear physics. Opportunities for independent work by permission of the instructor.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: PHYS.3930L Adv Exp Physics Lab I with a 'C-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.3930L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4010": {
+        "name": "PHYS.4010 Radiation Safety and Control I (Formerly 95.401)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4010/",
+        "id": "008562",
+        "description": "Introduction to radiation protection, including radiation sources, radiation dose and dose measurement, radiation exposure, radiation protection techniques, monitoring methods and instruments, contamination control and waste storage, facility design, hazards analysis, and applied health physics techniques for the safe handling and control of radioactive material including laboratory. (offered as RADI.5010L for graduate credit)",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4020L": {
+        "name": "PHYS.4020L Radiation Safety and Control II (Formerly 95.420/98.502)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4020L/",
+        "id": "008802",
+        "description": "This course provides a continuation of the theoretical and practical aspects of radiation protection provided in Radiation Safety and Control I (98.501). Topics include the statistical analyses and data reduction techniques that are used to analyze radiation measurements pertaining to the field of radiation protection. Laboratory sessions on alpha and gamma radiation measurements and air sampling will reinforce class lectures. Students also will experience applied radiation protection and dose assessment through a contamination control exercise that involves the use of protective clothing and respiratory protection.",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4060": {
+        "name": "PHYS.4060 Nuclear Instrumentation (Formerly 96.406)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4060/",
+        "id": "036046",
+        "description": "This course provides the operating principles and applications of nuclear radiation detection systems, including detector theory, electronic signal processing, and  measurement and data reduction techniques.  The systems covered include gas-filled detectors (ion chambers, proportional counters, and Geiger-Mueller counters), inorganic and organic scintillators, and high-purity germanium detectors, for the detection of alpha, beta, gamma, and neuron radiation.  This course also covers hypothesis testing, detection limits, and detector dead time (offered as 98.506 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 2100 Intro Modern Physics and PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ],
+                [
+                    "PHYS.2610L",
+                    "PHYS.2450L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4090": {
+        "name": "PHYS.4090 Nuclear Instrumentation (Formerly 96.409)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4090/",
+        "id": "037351",
+        "description": "This course provides the operating principles and applications of nuclear radiation detection systems, including detector theory, electronic signal processing, and measurement and data reduction techniques.  The systems covered include gas-filled detectors (ion chambers, proportional counters, and Geiger_Mueller counters), inorganic and organic scintillators, and high-purity germanium detectors, for the detection of alpha, beta, gamma, and neutron radiation.  This course also covers hypothesis testing, detection limits,and detector dead time,  This course is adapted for Nuclear Engineering and Medical Physics majors.  (offered as 98.509 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 2100 Intro Modern Physics and PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ],
+                [
+                    "PHYS.2610L",
+                    "PHYS.2450L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4110": {
+        "name": "PHYS.4110 Physics Perspectives (Formerly 95.411)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4110/",
+        "id": "008565",
+        "description": "Discussions on the role of the professional physicist in society.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4110L": {
+        "name": "PHYS.4110L Senior Research In Radiological Sciences (Formerly 96.411)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4110L/",
+        "id": "008703",
+        "description": "A research problem related to the field of radiation protection is investigated by the student under the direction of faculty and staff of the Nuclear Center. The student will present a seminar on this research project. Areas of research may include radiation shielding, radiation detection andmeasurement, radiation survey and monitoring, radiation biology, radiation chemistry, radiobiology, radiochemistry, radioecology, natural radioactivity, fallout, analyses and measurement of radioactivity and radiation levels associated with the operation of reactors and accelerators, and radioactive aerosols.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Senior status, and Community Health(BS).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4130": {
+        "name": "PHYS.4130 Mechanics (Formerly 95.413/513)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4130/",
+        "id": "001221",
+        "description": "Newton's laws of motion.  Momentum and angular momentum.  Energy. Oscillations.  Variational principles.  Central forces and planetary motion.  Non-inertial systems of reference.  Rotations of rigid bodies, tensors of inertia.  Normal modes of oscillation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2340 Differential Equations, and PHYS.1410 Physics I with a C- or better,or Spring 2020 grade of \"P\",  or PHYS.1610 Honors Physics I with a C- or better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340"
+                ],
+                [
+                    "PHYS.1410"
+                ],
+                [
+                    "PHYS.1610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4170": {
+        "name": "PHYS.4170 Space Science Mission Design (Formerly 95.417/517)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4170/",
+        "id": "038608",
+        "description": "This one-semester, 3-credit course intended for junior level science and engineering majors, is centered around the conceptual design of a spaceflight mission. In this project-based and team-based class, students will apply their science and technical knowledge to develop a spacecraft and mission concept tailored to answer a specific science question. Students will perform quantitative trade studies consistent with real-life constraints such as cost, schedule, manufacturability, team-expertise, operational environment, mission lifetime, etc.  Students will 1) learn the fundamentals of key subsystems involved in a space flight mission and 2) apply their skills of inquiry, research, critical thinking to design a complete space science mission to solve a real-world problem while working within a multidisciplinary team.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4210": {
+        "name": "PHYS.4210 Statistical Thermodynamics (Formerly 95.421/521)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4210/",
+        "id": "001220",
+        "description": "An integrated study of the thermodynamics and statistical mechanics, review of the experimental foundations and historical development of classical thermodynamics; probability and statistical methods of studying macroscopic systems; atomic basis of the laws of thermodynamics and microscopic definitions of thermodynamics quantities using the method of ensembles; entropy and related quantities; TdS equations, Maxwell relations, equation of state, and applications: canonical and grand canonical ensembles; phase transitions; quantum statistics; application to radiation, magnetism, specific heats. (offered as 95.521 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.4350/5350 Intro Quantum Mechanics I with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4240": {
+        "name": "PHYS.4240 Environmental Health Physics (Formerly 98.524 & 94.424)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4240/",
+        "id": "037592",
+        "description": "Natural and man-made sources of environmental radioactivity and radiation; environmental transport in air, water, and soil; exposure pathways; environmental standards and regulations; environmental monitoring and surveys (MARSSIM); contaminated site characterization, and site remediation; environmental radiological impact of industry, accidents, and natural and man-made disasters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4350": {
+        "name": "PHYS.4350 Introductory Quantum Mechanics I (Formerly 95.435/535)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4350/",
+        "id": "001219",
+        "description": "De Broglie waves, the Schroedinger equation, wave functions, wave packets, Heisenberguncertainty principle, expectation values, particle in a box, the simple harmonic oscillator, free particles, step barrier, barrier penetration, square well potential, time independent perturbation theory. (offered as 95.535 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations and PHYS 2100 Introductory Modern Physicswith a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ],
+                [
+                    "PHYS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4360": {
+        "name": "PHYS.4360 Introductory Quantum Mechanics II (Formerly 95.436)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4360/",
+        "id": "008567",
+        "description": "The three dimensional Schroedinger equation, the deuteron nucleus, angular momentum, spin, the hydrogen atom, spin-orbit interaction, Zeeman effect, Pauli exclusion principle, atomic structure, multi-electron atoms, the Fermi gas, X-rays. (offered as 95.536 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.4350 Intro Quantum Mechanics I with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.4350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4390": {
+        "name": "PHYS.4390 Electro-Optics (Formerly 95.439/539)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4390/",
+        "id": "001218",
+        "description": "Optical properties of materials, including dispersion, absorption, reflection and refraction at the boundary of two media. Crystal optics and induced birefringence and optical activity. Polarization states and Jones matrices. Applications to electro-optic devices. Experiments and projects involving the study of optical sources and detectors , spectroscopy, polarization, birefringence, pockels'  effect, optical fibers, and optical communication. (offered as 95.539 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations and PHYS 3380 Optics & Waves with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ],
+                [
+                    "PHYS.3380"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4410": {
+        "name": "PHYS.4410 Radiochemistry (Formerly 95.441)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4410/",
+        "id": "008569",
+        "description": "This course stresses analytical techniques applicable to identification and quantification of radionuclides in various sample types. Considerable time will be spent on review of general chemistry and inorganic analytical chemistry. The theories and applications of various separation techniques including precipitation, solvent extraction, ion exchange chromatography, and electrodeposition will be discussed with emphasis on separation of radioactive species. Additional material to be covered includes instrumental techniques for analysis of radioactive species, radiotracer and isotope dilution techniques, neutron activation analysis, and sample preparation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4450L": {
+        "name": "PHYS.4450L Characterization of Materials (Formerly 96.445/545)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4450L/",
+        "id": "035486",
+        "description": "A one-semester course designed to teach the student several of the important techniques for characterizing the structural, optical, and electronic properties of materials.  Experiments will include x-ray diffractometry, hardness measurements, elipsometry, visible and near infrared spectroscopy, far infrared spectroscopy, and raman spectroscopy.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: PHYS.3940L Advanced  Physics Lab II with a 'C-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.3940L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4530L": {
+        "name": "PHYS.4530L Health Physics Capstone (Formerly 95.453)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4530L/",
+        "id": "035837",
+        "description": "This course will provide the B.S. candidate in Physics (Radiological Health Physics option) with an undergraduate capstone experience through basic independent research, including critical thinking, problem solving, report writing, and  presentation skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4531L": {
+        "name": "PHYS.4531L Optics Project (Formerly 96.453)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4531L/",
+        "id": "008710",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4540": {
+        "name": "PHYS.4540 Physics Capstone (Formerly 95.454)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4540/",
+        "id": "030755",
+        "description": "This course will provide the graduating physics major with a capstone experience through an exposure to the rudiments of independent research; incorporating critical thinking, problem-solving, report-writing, and presentation skills learnt in the course of the undergraduate curriculum.  Prerequisite: Senior Status.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4560": {
+        "name": "PHYS.4560 Radiative Processes in Astrophysics (Formerly 95.456/556)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4560/",
+        "id": "038579",
+        "description": "Our knowledge of the universe beyond the Solar System is derived almost entirely from our interpretation of the radiation we receive from the universe; Our  knowledge of the Earth's upper atmosphere and the atmospheres of other solar system objects is heavily dependent on observations of electromagnetic radiation. To understand the atmospheres of Earth and other planets, stars,  galaxies and the universe, we need to understand the processes which produce electromagnetic radiation, and how radiation interacts with matter and propagates through space. This course describes the basic processes which create and alter such electromagnetic radiation before it's detected here in the Solar System.\nThe course will consist of a combination of lectures, problem sets and class discussion sessions. The  lectures will be expanded from the material in the text  and will include additional material on the astrophysical and planetary context of radiative processes, drawn primarily from the following list of references. The discussion sessions will often be based on recent  problem sets - regular participation of students in class discussions is expected.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS 3530 Electromagnetism I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.3530"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4610": {
+        "name": "PHYS.4610 Nuclear Physics I (Formerly 95.461/561)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4610/",
+        "id": "001214",
+        "description": "Nuclear properties including size, mass, binding energy, electromagnetic moments, parity and statistics; nuclear shell model, collective structure, deformed shell model, radioactive decay law and the Bateman equations, radioactive dating, counting statistics, energy resolution, coincidence measurements and time resolution, lifetime measurements; nuclear barrier pentetration; angular momentum, Coulomb barrier, alpha decay and systematics, fission. (offered as 95.561 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 95.210 Introductory Modern Physics",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4620": {
+        "name": "PHYS.4620 Radiation Biology (Formerly 95.462)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4620/",
+        "id": "008573",
+        "description": "Effects of ionizing radiation on cellular, molecular and organ systems levels of biological organization; Study of x-rays, gamma rays, accelerator beams, and neutrons in interaction with living systems; Cohesive treatment of radiation biophysics with applications in health physics and radiation oncology. (offered as 98.562 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.2100 Introductory Modern Physics with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4630": {
+        "name": "PHYS.4630 Computational Methods in Physics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4630/",
+        "id": "040610",
+        "description": "A practical overview of advanced computational methods currently used in physics research using kinetic, fluid, and spectral approaches, as well as other practical applications that physics researchers may encounter, such as high-performance computing and grid construction. The course will focus on hands-on experience with coding the algorithms of finite differences, finite volume, finite elements, Monte Carlo, particle in cell, and spectral methods, and will provide the students with tools to develop and use scientific numerical models.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calculus III, and MATH.2340 Differential Equations, and MATH.3810 Math Physics I, and MECH.3610 Math Methods ME.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2340"
+                ],
+                [
+                    "MATH.3810"
+                ],
+                [
+                    "MECH.3610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4640": {
+        "name": "PHYS.4640 Particle Astrophysics (Formerly 95.464/564)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4640/",
+        "id": "038580",
+        "description": "Review of Special Relativity and a brief introduction to general relativity.\nIntroduction to the Standard Model of Particle Physics. Fundamental particles, Quarks, Leptons and Gauge Bosons. Conservation rules and symmetries. Parity Conservation and intrinsic parity of particles. Parity violation in weak interactions. Charge conjugation invariance and its violation in weak interactions. Gauge transformations and local gauge invariance in quantum field theories. Gauge invariance in electroweak theory. The Higgs mechanism of spontaneous symmetry breaking. Higgs Boson. Comparison of electroweak theory with experiment. \nIntroduction to Astrophysics and Cosmology. The expanding universe. The Hubble Constant. Olber's paradox. The Friedman equation. The age of the universe. Cosmic microwave radiation. Radiation and Matter Eras. Primordial nucleosynthesis. Baryogenesis and the matter-antimatter asymmetry in the universe.\nDevelopment and structure in the early universe. Horizon and Flatness Problems.\nQuantum fluctuations and Inflation. Particle physics in the stars. Stellar evolution.  Hydrogen burning and the pp cycle in the sun. Helium burning and the production of carbon and oxygen. Production of heavy elements. Electron degeneracy pressure and the white dwarf stars. Neutron stars and Pulsars. Solar neutrinos, neutrino oscillations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS 4350 Intro Quantum Mechanics I, and PHYS 4210 Statistical Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.4350"
+                ],
+                [
+                    "PHYS.4210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4690": {
+        "name": "PHYS.4690 Plasma Physics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4690/",
+        "id": "040611",
+        "description": "Introduction to plasma physics, focusing on the fundamental physics principles aimed at upper level undergraduate and graduate students in physics and engineering. Material covered in the course includes single particle motion in a magnetic field, particle drift, adiabatic invariants, kinetic theory moments, fluid approximation of plasma & magnetohydrodynamics, waves in plasma, shocks, resistivity, plasma instabilities, plasma kinetic theory, plasma applications, and computational plasma physics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.3210 Calculus III, and MATH.2340 Differential Equations, and PHYS.3530 Electromagnetism I, and EECE.3600 Engineering Electromagnetics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3210"
+                ],
+                [
+                    "MATH.2340"
+                ],
+                [
+                    "PHYS.3530"
+                ],
+                [
+                    "EECE.3600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4720": {
+        "name": "PHYS.4720 Solid State Physics (Formerly 95.472/572)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4720/",
+        "id": "001213",
+        "description": "Crystal structures, x-ray diffraction, crystal binding, lattice vibrations, free electron and band models of metals. (offered as 95.572 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.4210 Statistical Thermodynamics and 95.310 Quantum Physics with a 'C-' or  higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.4210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4770": {
+        "name": "PHYS.4770 Solid State Electronic and Optoelectronic Devices (Formerly 95.477/577)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4770/",
+        "id": "001212",
+        "description": "This course is an introduction to solid state electronic and optoelectronic devices for undergraduate science students (i.e. biology, chemistry, mechanical engineering, electrical engineering, physics, etc.) graduate students just entering a scientific endeavor which utilizes solid state devices, and practical engineers and scientists whose understanding of modern electronics and optoelectronics needs updating. The course is organized to bring students with a background in sophomore physics to a level of understanding which will allow them to read much of the current literature on new devices and applications. The course will cover fundamental crystal properties, atoms and electrons, energy bands and charge carriers, excess carriers, junctions and p-n junction diodes (includes photodiodes and light-emitting diodes). Three or four practical demonstrations will also be performed with the analysis of the generated data assigned as homework. (offered as 95.577 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4780": {
+        "name": "PHYS.4780 Integrated Optics: Wave Guides and Lasers (Formerly 95.478/578)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4780/",
+        "id": "001211",
+        "description": "This course is a continuation of 95.477 and serves as an introduction to solid state electronic and optoelectronic devices. The course will cover bipolar junction transistors, field effect transistors, integrated circuits, lasers, switching devices, and negative conductance microwave devices. Three or four practical demonstrations will also be performed with the analysis of the generated data assigned as homework. (offered as 95.548 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4810": {
+        "name": "PHYS.4810 Mathematical Methods of Radiological Sciences (Formerly 95.481)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4810/",
+        "id": "008574",
+        "description": "An applied course emphasizing the mathematical skills used in radiological sciences/health physics fields, including special techniques used in radiation physics, radiation dosimetry, and radiation shielding. Computer applications will be emphasized. (offered as 98.581 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4820": {
+        "name": "PHYS.4820 Scientific Computing for Physicists (Formerly 95.482)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4820/",
+        "id": "008575",
+        "description": "An introduction to scientific computing. Common numerical methods and algorithms are implemented using MATLAB. Basic elements of programming are introduced including variables, types, arrays, logical and arithmetical operators, loops, conditional statements, and functions. Vectors, matrices, and solvers of linear equations are presented in the first module. The second module focuses on data interpolation, root finding, numerical differentiation and integration, and solvers of ordinary and partial differential equations. The third module is on statistical data analysis, probability distributions, fitting, regression, maximum likelihood and error propagation relevant to experimental science. The course concludes with Monte-Carlo sampling methods. No prior experience with MATLAB is necessary.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.3810 Mathematical Physics , or PHYS.3810 Mathematical Physics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3810",
+                    "PHYS.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.4950L": {
+        "name": "PHYS.4950L Special Research Problems I (Formerly 96.495)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4950L/",
+        "id": "008713",
+        "description": "Special problems in physics assigned to the individual student with emphasis on modern research methods and preparation of results for publication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4960L": {
+        "name": "PHYS.4960L Special Research Problems II (Formerly 96.496)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4960L/",
+        "id": "008714",
+        "description": "A continuation of 96.495 for a second semester.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.4970L": {
+        "name": "PHYS.4970L Senior Thesis in Physics (Formerly 96.497)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/4970L/",
+        "id": "008715",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5010": {
+        "name": "PHYS.5010 Energy, Force and Motion (Formerly 95.501)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5010/",
+        "id": "030760",
+        "description": "An introduction to the most fundamental area of physics:  the nature of motion, what affects it, and how it is measured.  We examine Newton's laws, including the law of gravity, and how forces produce acceleration   The course also examines the nature of energy - potential and kinetic - and how it relates to motion and forces.  We will concentrate on how to analyze physical situations and solve the basic equations of motion.  This course is intended to help teachers develop their understanding of the physics of motion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5130": {
+        "name": "PHYS.5130 Mechanics (Formerly 95.413/513)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5130/",
+        "id": "001221",
+        "description": "Newton's laws of motion.  Momentum and angular momentum.  Energy. Oscillations.  Variational principles.  Central forces and planetary motion.  Non-inertial systems of reference.  Rotations of rigid bodies, tensors of inertia.  Normal modes of oscillation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5170": {
+        "name": "PHYS.5170 Space Science Mission Design (Formerly 95.417/517)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5170/",
+        "id": "038608",
+        "description": "This one-semester, 3-credit course intended for junior level science and engineering majors, is centered around the conceptual design of a spaceflight mission. In this project-based and team-based class, students will apply their science and technical knowledge to develop a spacecraft and mission concept tailored to answer a specific science question. Students will perform quantitative trade studies consistent with real-life constraints such as cost, schedule, manufacturability, team-expertise, operational environment, mission lifetime, etc.  Students will 1) learn the fundamentals of key subsystems involved in a space flight mission and 2) apply their skills of inquiry, research, critical thinking to design a complete space science mission to solve a real-world problem while working within a multidisciplinary team.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5210": {
+        "name": "PHYS.5210 Statistical Thermodynamics (Formerly 95.421/521)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5210/",
+        "id": "001220",
+        "description": "An integrated study of the thermodynamics and statistical mechanics, review of the experimental foundations and historical development of classical thermodynamics; probability and statistical methods of studying macroscopic systems; atomic basis of the laws of thermodynamics and microscopic definitions of thermodynamics quantities using the method of ensembles; entropy and related quantities; TdS equations, Maxwell relations, equation of state, and applications: canonical and grand canonical ensembles; phase transitions; quantum statistics; application to radiation, magnetism, specific heats. (offered as 95.521 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5350": {
+        "name": "PHYS.5350 Introductory Quantum Mechanics I (Formerly 95.435/535)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5350/",
+        "id": "001219",
+        "description": "De Broglie waves, the Schroedinger equation, wave functions, wave packets, Heisenberguncertainty principle, expectation values, particle in a box, the simple harmonic oscillator, free particles, step barrier, barrier penetration, square well potential, time independent perturbation theory. (offered as 95.535 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5360": {
+        "name": "PHYS.5360 Introductory Quantum Mechanics II (Formerly 95.536)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5360/",
+        "id": "008589",
+        "description": "The three dimensional Schroedinger equation, the deuteron nucleus, angular momentum, spin, the hydrogen atom, spin-orbit interaction, Zeeman effect, Pauli exclusion principle, atomic structure, multi-electron atoms, the Fermi gas, X-rays.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5370": {
+        "name": "PHYS.5370 Geometric Optics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5370/",
+        "id": "008590",
+        "description": "This course will cover the use of lenses,mirrors,and other optics to construct optical systems.  Topics will include paraxial optics, aberrations, two element systems (such as telescopes), and dispersive optics (such as diffraction gratings and binary optics).  We will discuss transfer functions, zernike polynomials, ray tracing procedures, and other analysis techniques in order to understand the performance of systems and their aberrations.  As time allows we will discuss wave effects including diffraction, interferometry, and other physical effects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5380": {
+        "name": "PHYS.5380 Physical Optics and Waves (Formerly 95.538)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5380/",
+        "id": "008591",
+        "description": "Wave nature of light, mathematics of wave motion, electro-magnetic theory of light propagation, reflection and refraction, Fresnel coefficients, polarization, interference, Young's experiment, fringe visibility and coherence, various interferometers, Newton's rings and applications, Fraunhofer diffraction by single and multiple apertures and diffraction gratings, Fresnel diffraction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5390": {
+        "name": "PHYS.5390 Electro-Optics (Formerly 95.439/539)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5390/",
+        "id": "001218",
+        "description": "Optical properties of materials, including dispersion, absorption, reflection and refraction at the boundary of two media. Crystal optics and induced birefringence and optical activity. Polarization states and Jones matrices. Applications to electro-optic devices. Experiments and projects involving the study of optical sources and detectors , spectroscopy, polarization, birefringence, pockels'  effect, optical fibers, and optical communication. (offered as 95.539 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5450L": {
+        "name": "PHYS.5450L Characterization of Materials (Formerly 96.445/545)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5450L/",
+        "id": "035486",
+        "description": "A one-semester course designed to teach the student several of the important techniques for characterizing the structural, optical, and electronic properties of materials.  Experiments will include x-ray diffractometry, hardness measurements, elipsometry, visible and near infrared spectroscopy, far infrared spectroscopy, and raman spectroscopy.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5530": {
+        "name": "PHYS.5530 Electromagnetism I (Formerly 95.353/553)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5530/",
+        "id": "001216",
+        "description": "The theory of electromagnetic fields using vector analysis: electrostatic fields and potentials in vacuum, conductors, and dielectric media, magnetic effects of steady currents in nonmagnetic media, magnetic induction and time varying currents and fields. (offered as 95.553 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5540": {
+        "name": "PHYS.5540 Electromagnetism II (Formerly 95.354.554)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5540/",
+        "id": "001215",
+        "description": "Magnetic materials, electric multipoles, solutions to Laplace's equation, boundary conditions, image charge problems, Maxwell's equations; propagation of electromagnetic waves in vacuum, conductors and dielectrics; reflection and refraction of electromagnetic waves; radiation from dipoles and antennas. (offered as 95.554 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5550": {
+        "name": "PHYS.5550 Introduction to Space Physics (Formerly 95.555)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5550/",
+        "id": "033625",
+        "description": "The course introduces the present knowledge of space phenomena and the physical understanding of the plasma environment from the sun to the earth's ionosphere and in the heliosphere.  Regions in space to be discussed include the solar surface, solar wind, bow shock, magnetosheath, magnetosphere, magnetotail, radiation belts, ring currents, and the ionosphere.  Among space plasma physic theories, single particle theory, kinetic theory, and magnetohydrodynamics, which describe charged particle motion in electromagnetic fields and its consequences, are introduced and applied to the space environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III, MATH 2340 Differential Equations, PHYS 3540 or 95.554 Electromagnetism II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2340"
+                ],
+                [
+                    "PHYS.3540"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.5560": {
+        "name": "PHYS.5560 Radiative Processes in Astrophysics (Formerly 95.456/556)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5560/",
+        "id": "038579",
+        "description": "Our knowledge of the universe beyond the Solar System is derived almost entirely from our interpretation of the radiation we receive from the universe; Our  knowledge of the Earth's upper atmosphere and the atmospheres of other solar system objects is heavily dependent on observations of electromagnetic radiation. To understand the atmospheres of Earth and other planets, stars,  galaxies and the universe, we need to understand the processes which produce electromagnetic radiation, and how radiation interacts with matter and propagates through space. This course describes the basic processes which create and alter such electromagnetic radiation before it's detected here in the Solar System.\nThe course will consist of a combination of lectures, problem sets and class discussion sessions. The  lectures will be expanded from the material in the text  and will include additional material on the astrophysical and planetary context of radiative processes, drawn primarily from the following list of references. The discussion sessions will often be based on recent  problem sets - regular participation of students in class discussions is expected.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5610": {
+        "name": "PHYS.5610 Nuclear Physics I (Formerly 95.461/561)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5610/",
+        "id": "001214",
+        "description": "Nuclear properties including size, mass, binding energy, electromagnetic moments, parity and statistics; nuclear shell model, collective structure, deformed shell model, radioactive decay law and the Bateman equations, radioactive dating, counting statistics, energy resolution, coincidence measurements and time resolution, lifetime measurements; nuclear barrier pentetration; angular momentum, Coulomb barrier, alpha decay and systematics, fission. (offered as 95.561 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 95.210 Introductory Modern Physics",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5630": {
+        "name": "PHYS.5630 Computational Methods in Physics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5630/",
+        "id": "040623",
+        "description": "The course aims to provide an overview of the main and common computational methods currently used in physics research. The course will cover the topics of basic concepts of computational physics, first and second order methods of integration of advection equations, kinetic methods and N-body methods, Monte Carlo and Particle in Cell (PIC) methods, finite elements, finite volume and Computational Fluid Dynamics (CFD), spectral methods, girding methods and Adaptive Mesh Refinement (AMR), and introduction to parallel computing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calculus III, and MATH.2340 Differential Equations, and PHYS.3810 Math Physics I, and PHYS.3820 Math Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2340"
+                ],
+                [
+                    "PHYS.3810"
+                ],
+                [
+                    "PHYS.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.5640": {
+        "name": "PHYS.5640 Particle Astrophysics (Formerly 95.464/564)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5640/",
+        "id": "038580",
+        "description": "Review of Special Relativity and a brief introduction to general relativity.\nIntroduction to the Standard Model of Particle Physics. Fundamental particles, Quarks, Leptons and Gauge Bosons. Conservation rules and symmetries. Parity Conservation and intrinsic parity of particles. Parity violation in weak interactions. Charge conjugation invariance and its violation in weak interactions. Gauge transformations and local gauge invariance in quantum field theories. Gauge invariance in electroweak theory. The Higgs mechanism of spontaneous symmetry breaking. Higgs Boson. Comparison of electroweak theory with experiment. \nIntroduction to Astrophysics and Cosmology. The expanding universe. The Hubble Constant. Olber's paradox. The Friedman equation. The age of the universe. Cosmic microwave radiation. Radiation and Matter Eras. Primordial nucleosynthesis. Baryogenesis and the matter-antimatter asymmetry in the universe.\nDevelopment and structure in the early universe. Horizon and Flatness Problems.\nQuantum fluctuations and Inflation. Particle physics in the stars. Stellar evolution.  Hydrogen burning and the pp cycle in the sun. Helium burning and the production of carbon and oxygen. Production of heavy elements. Electron degeneracy pressure and the white dwarf stars. Neutron stars and Pulsars. Solar neutrinos, neutrino oscillations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5670L": {
+        "name": "PHYS.5670L Automation Techniques (Formerly 96.567)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5670L/",
+        "id": "008724",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5690": {
+        "name": "PHYS.5690 Plasma Physics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5690/",
+        "id": "040756",
+        "description": "The course aims to provide upper level undergraduate and graduate students from Physics and Engineering background in plasma physics, focusing on the fundamental physics principles, not any specific application or field of research. The course will cover the topics of basic plasma concepts, single-particle motion in an electromagnetic field, magnetohydrodynamics, plasma waves, plasma instabilities, plasma kinetics, and some advanced topics in plasma physics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calculus III, and MATH.2340 Differential Equations, and PHYS.3530 Electromagnetism I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2340"
+                ],
+                [
+                    "PHYS.3530"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.5720": {
+        "name": "PHYS.5720 Solid State Physics (Formerly 95.472/572)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5720/",
+        "id": "001213",
+        "description": "Crystal structures, x-ray diffraction, crystal binding, lattice vibrations, free electron and band models of metals. (offered as 95.572 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5770": {
+        "name": "PHYS.5770 Solid State Electronic and Optoelectronic Devices (Formerly 95.477/577)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5770/",
+        "id": "001212",
+        "description": "This course is an introduction to solid state electronic and optoelectronic devices for undergraduate science students (i.e. biology, chemistry, mechanical engineering, electrical engineering, physics, etc.) graduate students just entering a scientific endeavor which utilizes solid state devices, and practical engineers and scientists whose understanding of modern electronics and optoelectronics needs updating. The course is organized to bring students with a background in sophomore physics to a level of understanding which will allow them to read much of the current literature on new devices and applications. The course will cover fundamental crystal properties, atoms and electrons, energy bands and charge carriers, excess carriers, junctions and p-n junction diodes (includes photodiodes and light-emitting diodes). Three or four practical demonstrations will also be performed with the analysis of the generated data assigned as homework. (offered as 95.577 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5780": {
+        "name": "PHYS.5780 Integrated Optics: Wave Guides and Lasers (Formerly 95.478/578)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5780/",
+        "id": "001211",
+        "description": "This course is a continuation of 95.477 and serves as an introduction to solid state electronic and optoelectronic devices. The course will cover bipolar junction transistors, field effect transistors, integrated circuits, lasers, switching devices, and negative conductance microwave devices. Three or four practical demonstrations will also be performed with the analysis of the generated data assigned as homework. (offered as 95.548 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5830": {
+        "name": "PHYS.5830 Astronomy and Astrophysics I (Formerly 95.583)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5830/",
+        "id": "008599",
+        "description": "Physics based introduction to modern Astronomy and Astrophysics.  Aimed at students who have already studied E&M, Modern Physics, and Calculus.  Focus on fundamentals of Stellar Astrophysics and Galactic Astronomy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS 1410 Physics I, or PHYS 1610 Honors Physics I and PHYS 1440 Physics II or PHYS 1640 Honors Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410",
+                    "PHYS.1610"
+                ],
+                [
+                    "PHYS.1440",
+                    "PHYS.1640"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.5870": {
+        "name": "PHYS.5870 Cloud Physics (Formerly 95.587)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5870/",
+        "id": "038461",
+        "description": "This course explores the essentials of cloud physics, beginning with the basic laws of thermodynamics of both dry and moist atmospheres.  Condensation, nucleation, and drop growth are studied in detail at an advanced level.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.5930L": {
+        "name": "PHYS.5930L Graduate Physics Laboratory (Formerly 96.593)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/5930L/",
+        "id": "008726",
+        "description": "Experiments in various branches of physics including optics, atomic physics, solid state physics and nuclear physics.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6050": {
+        "name": "PHYS.6050 Mathematical Methods of Physics I (Formerly 95.605)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6050/",
+        "id": "008606",
+        "description": "Vector analysis; matrices and determinants; theory of analytical functions; differential equations, Fourier series, Laplace transforms, distributions, Fourier transforms.  Students taking PHYS.6050/6060 cannot get credit for PHYS.6070.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6060": {
+        "name": "PHYS.6060 Mathematical Methods of Physics II (Formerly 95.606)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6060/",
+        "id": "008607",
+        "description": "Partial differential equations, boundary value problems, and special functions; linear vector spaces; Green's functions; selected additional topics; numerical analysis. Students taking PHYS.6050/6060 cannot get credit for PHYS.6070.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.6050 Math Methods of Physics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.6050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.6070": {
+        "name": "PHYS.6070 Mathematical Methods of Physics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6070/",
+        "id": "041456",
+        "description": "Vector and tensor analysis; Linear spaces; Special functions; Fourier transforms; Theory of complex variables. Students taking PHYS.6070 cannot get credit for PHYS.6050/6060.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6110": {
+        "name": "PHYS.6110 Classical Mechanics (Formerly 95.611)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6110/",
+        "id": "008611",
+        "description": "Knowledge of Lagrangian mechanics assumed.  Central force problem, scattering, rigid-body mechanics, normal modes and special relativity.  Hamiltonian dynamics, canonical transformations, Hamilton-Jacobi theory and action-angle variables.  Continuous systems and fields.  Simplectic formulation, stochastic processes, and chaos theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6150": {
+        "name": "PHYS.6150 Quantum Mechanics I (formerly 95.615)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6150/",
+        "id": "008613",
+        "description": "The representation of quantum states as abstract vectors. Superposition of states. Quantum operators and their matrix representations. Angular momentum operator as the generator of rotations. Eigenvalues and eigenstates of angular momentum. The uncertainty principle. Spin one-half and spin one as examples. Addition of angular momentum. The Hamiltonian operator and the Schrodinger equation. One dimensional examples. The momentum operator, eigenstates of position. Operator solution of the harmonic oscillator. I(3,0) Quantum Mechanics I The representation of quantum states as abstract vectors. Superposition of states. Quantum operators and their matrix representations. Angular momentum operator as the generator of rotations. Eigenvalues and eigenstates of angular momentum. The uncertainty principle. Spin one-half and spin one as examples. Addition of angular momentum. The Hamiltonian operator and the Schrodinger equation. One dimensional examples. The momentum operator, eigenstates of position. Operator solution of the harmonic oscillator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6160": {
+        "name": "PHYS.6160 Quantum Mechanics II (formerly 95.616)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6160/",
+        "id": "008614",
+        "description": "Quantum mechanics in three dimensions. translational and rotational invariance and conservation of linear and angular momentum, center-of-mass coordinates. Position-space representation of the angular momentum operator, orbital angular momentum eigenfunctions. Bound states of central potentials, including the Coulomb potential and the hydrogen atom. Approximation methods: time-independent perturbations, applications to the Stark effect, the Zeeman effect, spin-orbit coupling in hydrogen. The variational method. Time dependent perturbations. Indistinguishable particles: multielectron atoms, covalent bonding. Scattering. Electromagnetic interactions: emission and absorption of radiation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6165": {
+        "name": "PHYS.6165 Graduate Quantum Mechanics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6165/",
+        "id": "041534",
+        "description": "This single-semester course assumes prior exposure to quantum mechanics and is designed to train students in more complex concepts and tools of quantum mechanics. The topics include mathematical framework of complex vector spaces, exactly solvable systems such as harmonic oscillator and spin-half, path integral formalism, continuous and discrete symmetries, gauge invariance and quantum Hall effect ,time-independent and time-dependent perturbation theory, second quantization of many-body quantum systems. The aim of the course is to provide foundational conceptual and technical background requisite for advanced elective courses, such as quantum Information, quantum optics, quantum field theory, and/or quantum many-body physics. Students can get credit for either PHYS.6165 or for PHYS.6150/PHYS.6160 Sequence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.5350 Introductory Quantum Mechanics I, and PHYS.5360 Inrodutory Quantum Mechanics II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.5350"
+                ],
+                [
+                    "PHYS.5360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.6170": {
+        "name": "PHYS.6170 Advanced Quantum Mechanics I (formerly 95.617)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6170/",
+        "id": "008615",
+        "description": "Dirac equation as a single particle wave equation, free particle spinors and plane waves, matrices and relativistic covariance, nonrelativistic approximation and the fine-structure of the H atom. Quantization of the e.m. field in the coulomb gauge; interaction of an atom with the quantized radiation field; radiative transitions in atoms; Thomson scattering; classical and quantized Lagrangian field theory; symmetries and conservation laws: quantization of the real and complex Klein-Gordon field; Dirac Field and the covariant quantization of the e.m. field; Feynman propagators; the interaction picture and the S-matrix expansion in perturbation theory and the Wick's Rule. Feynman diagrams and rules for calculating S-matrix elements in QED; formulas for cross-section and spin and photon polarization sums; calculation of cross-sections for (1) e++e- l++ l - (2) e++e- e++e- (3) Compton scattering and (4) scattering of electrons by an external e.m. field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6190": {
+        "name": "PHYS.6190 Physics of Quantum Information",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6190/",
+        "id": "040564",
+        "description": "Introduction of physical concepts behind quantum information processing; Quantum description of physical systems, such as a harmonic oscillator and a single qubit, from an information processing point of view; More complex systems composed of entangled qubits; General tools, rooted in density-matrix formalism, used to describe entanglement and decoherence; Quantum error correction and how it can correct for qubit decoherence to realize fault tolerant computation; Recent advances in engineering quantum information processing platforms, teleportation, and quantum annealing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.5350 Introductory Quantum Mechanics I, and PHYS.5360 Inrodutory Quantum Mechanics II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.5350"
+                ],
+                [
+                    "PHYS.5360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.6210": {
+        "name": "PHYS.6210 Advanced Statistical Mechanics",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6210/",
+        "id": "042294",
+        "description": "The aim of this elective course is to introduce graduate students to advanced concepts in collective phenomena, phase transitions, and renormalization group techniques. The course assumes familiarity with basic concepts of statistical physics such as kinetic theory of gases, partition functions, classical and quantum gases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.5210 Statistical Thermodynamics, and PHYS.6110 Classical Mechanics, and PHYS.6165 Graduate Quantum Mechanics, or special permission from the instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.5210"
+                ],
+                [
+                    "PHYS.6110"
+                ],
+                [
+                    "PHYS.6165"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.6310": {
+        "name": "PHYS.6310 Nonlinear Optics (formerly 95.631)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6310/",
+        "id": "008617",
+        "description": "Wave propagation in a linear anisotropic medium; Wave propagation in a nonlinear optical medium.  Classical model for the origin of nonlinear optical effects; Second order nonlinear optical effects - second harmonic generation, sum and difference frequency generation, linear electro-optical effect; Third order nonlinear optical effects, Kerr effect and intensity dependent nonlinear index of refraction, stimulated Raman and Billouin scattering; Photorefraction; Nonlinear optical devices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6570": {
+        "name": "PHYS.6570 Electromagnetic Theory I (formerly 95.657)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6570/",
+        "id": "008625",
+        "description": "Electrostatics and magnetostatics with special attention to boundary value problems. Quasistatic fields and displacement currents. Maxwell's equations, special relativity, wave-guides, scattering, radiation from accelerated charges, propagation in material media and plasmas, Kramers-Kronig relations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6580": {
+        "name": "PHYS.6580 Electromagnetic Theory II (Formerly 95.658)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6580/",
+        "id": "008626",
+        "description": "Electrostatics and magnetostatics with special attention to boundary value problems. Quasistatic fields and displacement currents. Maxwell's equations, special relativity, waveguides, scattering, radiation from accelerated charges; propagation in material media and plasmas, Kramers-Kronig relations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6620": {
+        "name": "PHYS.6620 Nuclear Physics II (Formerly 95.662)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6620/",
+        "id": "008629",
+        "description": "The nucleon-nucleon force; nuclear models; nuclear reaction theory and partial wave analysis of scattering; fast neutron physics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.6650": {
+        "name": "PHYS.6650 Space Physics (Formerly 95.665)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6650/",
+        "id": "037731",
+        "description": "This course provides in depth knowledge of space phenomena and physical understanding of the plasma environment form the sun to the earth's ionosphere and in the heliosphere.  Regions in space include solar surface, solar wind, bow shock, magnetosheath, magnetosphere, magnetotail, radiation belts, ring currents, and upper ionosphere.  Among space plasma physics theories, single particle theory and magnetohydrodynamics are discussed in depth.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS 5550 Introduction to Space Physics or ATMO 4840 Space Weather.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.5550",
+                    "ATMO.4840"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.6830": {
+        "name": "PHYS.6830 General Relativity",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6830/",
+        "id": "040537",
+        "description": "Special relativity and Lorentz transformations; Scalar and electromagnetic fields; Curved spacetime and the metric tensor; The equivalence principle; Geodesics, covariant derivatives, and Killing vectors; Einstein's field equations; The energy conditions; Relativistic cosmology and the expanding Universe; (Special topics: Schwarzschild solution and black holes; Penrose-Carter diagrams; Quantum gravity)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.3540 Electromagnetism II, and PHYS.3820 Mathematical Physics II, and PHYS.4130 Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.3540"
+                ],
+                [
+                    "PHYS.3820"
+                ],
+                [
+                    "PHYS.4130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.6840": {
+        "name": "PHYS.6840 Theoretical Cosmology",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/6840/",
+        "id": "041455",
+        "description": "Geometry, kinematics, and dynamics in an expanding Universe; Thermal history; Generation of standard model particles; Phase transitions; Inflation; quantum origin of primordial inhomogeneities; Scalar, vector, and tensor perturbations; Gravitational instability; Choice of gauge; Matter distribution; Galaxy bias; Redshift space distortions; Cosmic microwave background anisotropies; Baryon acoustic oscillations; Polarization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.6830 General Relativity, and PHYS.6150 Quantum Mechanics I, and PHYS.5210 Statistical Thermodynamics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.6830"
+                ],
+                [
+                    "PHYS.6150"
+                ],
+                [
+                    "PHYS.5210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHYS.7010": {
+        "name": "PHYS.7010 Physics Colloquium (Formerly 95.701)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7010/",
+        "id": "008632",
+        "description": "A series of invited lectures on current research topics in Physics. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7020": {
+        "name": "PHYS.7020 Physics Colloquium (Formerly 95.702)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7020/",
+        "id": "008633",
+        "description": "A series of invited lectures on current research topics in Physics. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7040": {
+        "name": "PHYS.7040 Seminar in Nuclear Physics (Formerly 95.704)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7040/",
+        "id": "008635",
+        "description": "involve presentations by students, faculty members, and visiting scientists of advanced topics, original research or journal articles. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7050": {
+        "name": "PHYS.7050 Seminar in Solid State/Optics (Formerly 95.705)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7050/",
+        "id": "008636",
+        "description": "involve presentations by students, faculty members, and visiting scientists of advanced topics, original research or journal articles. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7051": {
+        "name": "PHYS.7051 Supervised Teaching - Physics (Formerly 96.705)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7051/",
+        "id": "008728",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7060": {
+        "name": "PHYS.7060 Seminar in Solid State/Optics (Formerly 95.706)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7060/",
+        "id": "008637",
+        "description": "involve presentations by students, faculty members, and visiting scientists of advanced topics, original research or journal articles. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7090": {
+        "name": "PHYS.7090 Seminar in Accelerator Physics (Formerly 95.709)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7090/",
+        "id": "008640",
+        "description": "A weekly series of presentations and discussions by students and faculty concerning research in progress and planned research at the 5.5 MV Van de Graaff Accelerator. Enrollment in the course is limited to students whose research projects involve the Van de Graaff accelerator. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7100": {
+        "name": "PHYS.7100 Seminar in Experimental Optics (Formerly 95.710)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7100/",
+        "id": "008641",
+        "description": "A weekly series of presentations and discussions concerning experimental optics research in the University of Massachusetts Lowell Department of Physics and Applied Physics. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7110": {
+        "name": "PHYS.7110 Graduate Seminar in Physics (Formerly 95.711)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7110/",
+        "id": "008642",
+        "description": "Presentations by students of progress in their research projects. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7120": {
+        "name": "PHYS.7120 Graduate Seminar in Physics (Formerly 95.712)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7120/",
+        "id": "008643",
+        "description": "Presentations by students of progress in their research projects. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7130": {
+        "name": "PHYS.7130 Seminar in Theoretical Research (Formerly 95.713)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7130/",
+        "id": "008644",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7140": {
+        "name": "PHYS.7140 Seminar in Experimental Research (Formerly 95.714)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7140/",
+        "id": "008645",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7150": {
+        "name": "PHYS.7150 Seminar in Terahertz Technology (Formerly 95.715)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7150/",
+        "id": "033227",
+        "description": "Course involves presentations by students , faculty members, and visiting scientists of advanced topics, original research for journal articales relevant to technologies at terahertz frequencies. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7160": {
+        "name": "PHYS.7160 Seminar in Biomedical Optics (Formerly 95.716)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7160/",
+        "id": "036767",
+        "description": "Seminar in Biomedical Optics, offered at the Advanced Biophotonics Laboratory by Dr. Anna N. Yaroslavsky, covers topics related to recent advances in biomedical optics.  Examples include, but are not limited to, the development of individualized, image-based methods of light dosimetry and planning for cancer treatments, concepts and implementation of full inverse Monte Carlo technique for reconstruction of tissue optical properties, investigation of light scattering by complex biological structures and live tissues, development of steady-state and time-resolved polarization, fluorescence and elastic scattering methods for diagnostics and treatment of pathology. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7160L": {
+        "name": "PHYS.7160L Special Problems In Physics (Formerly 96.716)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7160L/",
+        "id": "008732",
+        "description": "Reading in preparation for research, or research not for thesis. If results of the research are to be subsequently incorporated into a thesis, credits earned in this course may be used to satisfy thesis credit requirements in M.S. or Ph.D. Thesis Research with the written permission of the thesis supervisor, provided such permission is granted at the time of registration for this course. If the results are incorporated in an M.S. project, not more than 3 credits are allowed.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7170": {
+        "name": "PHYS.7170 Seminar in Heavy Ion Physics (Formerly 95.717)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7170/",
+        "id": "033691",
+        "description": "Involves presentations by students, faculty members, and research scientists on advanced topics in heavy-ion spectroscopy, including both original research and journal articles. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7180": {
+        "name": "PHYS.7180 Seminar in Space Physics (Formerly 95.718)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7180/",
+        "id": "037671",
+        "description": "This course is a weekly seminar covering the areas of conventional \"space physics\" and extending to \"astrophysics\" and 'Upper atmospheric physics\".  Each seminar is focused on a topic that is currently at the cutting edge in these fields while an extended introduction will be given based on diverse background knowledge at graduate level in physics and engineering. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7190": {
+        "name": "PHYS.7190 Seminar in Nanoscale Physics and Technology (Formerly 95.719)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7190/",
+        "id": "008647",
+        "description": "Students will study the scientific literature on topics and concepts in nanoscale physics and technology, including nanoscale thermal properties, micro-and nano-fluidity, nano-optics, quantum confinement to electronic states, and other phenomena.  Students will make presentations and lead discussions on these studies at the frontiers of the field.  The presentations will help them to generate new ideas for their own graduate research.  Every student will have the opportunity to lead more than one discussion session. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7200": {
+        "name": "PHYS.7200 Medical Physics Seminar",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7200/",
+        "id": "039712",
+        "description": "Current research topics in medical physics, discussed by faculty, students and invited speakers. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7210": {
+        "name": "PHYS.7210 Selected Topics in Physics (Formerly 95.721)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7210/",
+        "id": "008648",
+        "description": "Selected topics courses cover recent advances and more advanced topics, not covered in the regular courses in these areas. Subject matter varies, depending on the interests of the instructor and the needs of the students. Subject matter varies sufficiently that these courses may be taken more than once for credit without repeating topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7230": {
+        "name": "PHYS.7230 Selected Topics in Nuclear Physics (formerly 95.723)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7230/",
+        "id": "008650",
+        "description": "Selected topics courses cover recent advances and more advanced topics, not covered in the regular courses in these areas. Subject matter varies, depending on the interests of the instructor and the needs of the students. Subject matter varies sufficiently that these courses may be taken more than once for credit without repeating topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7250": {
+        "name": "PHYS.7250 Selected Topics in Solid State (formerly 95.725)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7250/",
+        "id": "008652",
+        "description": "Selected topics courses cover recent advances and more advanced topics, not covered in the regular courses in these areas. Subject matter varies, depending on the interests of the instructor and the needs of the students. Subject matter varies sufficiently that these courses may be taken more than once for credit without repeating topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7270": {
+        "name": "PHYS.7270 Selected Topics in Theoretical Physics (formerly 95.727)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7270/",
+        "id": "008654",
+        "description": "Selected topics courses cover recent advances and more advanced topics, not covered in the regular courses in these areas. Subject matter varies, depending on the interests of the instructor and the needs of the students. Subject matter varies sufficiently that these courses may be taken more than once for credit without repeating topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7310": {
+        "name": "PHYS.7310 Advanced Projects In Physics I (formerly 96.731)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7310/",
+        "id": "008734",
+        "description": "Research project leading to the Graduate Research Admission Examination (for Ph.D. candidates only.)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7320": {
+        "name": "PHYS.7320 Advanced Projects In Physics II (formerly 96.732)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7320/",
+        "id": "008735",
+        "description": "Research project leading to the Graduate Research Admission Examination (for Ph.D. candidates only.)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7330": {
+        "name": "PHYS.7330 Graduate Project - Physics (formerly 96.733)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7330/",
+        "id": "008736",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7460": {
+        "name": "PHYS.7460 Master's Thesis  Research Physics (formerly 96.746)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7460/",
+        "id": "008742",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7560": {
+        "name": "PHYS.7560 Doctoral Dissertation/Physics (formerly 96.756)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7560/",
+        "id": "008747",
+        "description": "Note: Courses with 98 prefix are described in the Radiological Sciences and Protection section of this catalog.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7610": {
+        "name": "PHYS.7610 Continued Grad Research (formerly 96.761)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7610/",
+        "id": "039407",
+        "description": "Continued Grad Research",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7710": {
+        "name": "PHYS.7710 Physics Systems Analysis I (formerly 95.771)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7710/",
+        "id": "008663",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7720": {
+        "name": "PHYS.7720 Physics Systems Analysis II (formerly 95.772)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7720/",
+        "id": "008664",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.7730": {
+        "name": "PHYS.7730 Physics Systems Analysis III (formerly 95.773)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/7730/",
+        "id": "008665",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHYS.8000": {
+        "name": "PHYS.8000 Cooperative Education in Physics (formerly 96.800)",
+        "url": "https://www.uml.edu/catalog/courses/PHYS/8000/",
+        "id": "035615",
+        "description": "Cooperative Education in Physics. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

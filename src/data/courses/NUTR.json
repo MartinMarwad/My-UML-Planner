@@ -1,0 +1,590 @@
+{
+    "total": 34,
+    "time": 24.382738828659058,
+    "NUTR.1100": {
+        "name": "NUTR.1100 Nutrition and Wellness (Formerly 35.210 and NUTR.2100))",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/1100/",
+        "id": "038081",
+        "description": "This course is an introductory course to the science of nutrition as it applies to everyday life and health.  Focus will include the six major nutrients: carbohydrates, lipids (fats), protein, vitamins, minerals, and water and their importance in the human body.  Digestion, absorption, and metabolism in the human body will be introduced.  The course will also examine energy balance and weight management as they relate to nutrition and fitness.  The impact of culture, demographics and ethnicity on nutritional intake will be discussed.  Students will explore the relationship between nutrition and health through laboratory experiences. Students should not be taking NUTR.1100 if they already took NUTR.2060.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.2050": {
+        "name": "NUTR.2050 Introduction to Nutritional Science(Formerly 35.205)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/2050/",
+        "id": "036735",
+        "description": "This course introduces students to the major in Nutritional Science.  Objectives of the major are covered along with beginning nutritional and food science principles, history of the profession, career options, and legal aspects of practice as a nutrition educator.  An integrated survey of nutrition science as it relates to human physiological chemistry, food chemistry and biochemistry will also be discussed.  This course will include guest speakers from within the department and outside the university.  This course will be restricted to nutritional science majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Nutritional Sciences majors only. Permission number required.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.2060": {
+        "name": "NUTR.2060 Human Nutrition(Formerly 35.206)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/2060/",
+        "id": "004756",
+        "description": "This course provides an overview of nutrition and the components of a nutritious diet during the various stages of the life cycle. It emphasizes the impact of nutrition on the major contemporary health problems in the United States. Nutrition issues, trends and research, and their effect on society and the legislative process will be explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.1020 Anatomy & Physiology II, or BIOL.1120 Principles of Biology II, or Permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1020",
+                    "BIOL.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.2700": {
+        "name": "NUTR.2700 Introduction to Food Safety",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/2700/",
+        "id": "040507",
+        "description": "This course focuses on food safety from a 'farm to fork' perspective. The class will cover a comprehensive overview of the food safety system addressing the biological, chemical and physical agents with emphasis on domestic food-borne outbreaks, public health significance, disease control, and the microbial spoilage of foods. The history and fundamental principles of food safety will be addressed including the risk and hazard analysis of different foods and the important advances in food system that are necessary for controlling hazards in the modern food industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BS in Nutritional Science (Major or Minor), or (MPH in Dietetics or Nutrition).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.3010": {
+        "name": "NUTR.3010 Food Science with Lab",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/3010/",
+        "id": "039955",
+        "description": "This course explores the basic principles of food science such as: food preparation, food ingredients and food preservation, regulatory agencies and food regulations, and concepts that relate to food safety, recipe alteration and menu design. The laboratory component demonstrates and illustrates the chemical and physical properties of foods including the effects of processing, ingredients, and storage on food quality and nutrient retention.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Nutritional Sciences majors only. Permission number required.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.3310": {
+        "name": "NUTR.3310 Practice of Nutrition Professional (Formerly NUTR.4310)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/3310/",
+        "id": "041352",
+        "description": "This course provides students with the knowledge and application of the skills of the dietetics professional and the governance of nutrition and dietetics practice. Student will learn the importance of quality management of food and nutrition services and the management theories and business principles required to deliver programs and services. Students will also learn the fundamentals of public policy. This course will have an emphasis on preparing the student for supervised practice necessary for a career as a Registered Dietitian Nutritionist.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NUTR.2060 Human Nutrition.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.3360": {
+        "name": "NUTR.3360 Life Cycle Nutrition (Formerly 36.336)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/3360/",
+        "id": "037040",
+        "description": "Biology of the life cycle including development, growth, maturation, and aging and its impact on nutritional requirements of humans from the zygote to the elderly is considered.  How to meet these nutritional requirements is discussed relative to the feeding issues and context of each major life stage.  Course emphasizes the critical analyses of beneficial and adverse outcomes of various nutrient intakes and dietary patterns of the nutritional status and well-being through integration of nutrition and other health sciences in understanding nutritional needs during the life cycle.  Analysis of cultural, environmental, psychosocial, physical, and economic factors affecting nutritional status through the life span will also be discusses.  Methods of nutritional assessment for each stage of the life cycle will be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060",
+                    "HSCI.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.3450": {
+        "name": "NUTR.3450 Community Nutrition (Formerly 36.345)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/3450/",
+        "id": "036921",
+        "description": "This course explores the role of the nutrition professional in community needs assessment, intervention development and evaluation, and in forming domestic nutrition policy.  Nutrition problems in contemporary communities and of selected target groups in the United States and in developing countries are examined.  Programs and strategies to meet nutrition needs outside the acute care setting, such as nutrition education and food assistance are explored.  Local, state,and national nutrition policy and initiatives in nutrition will also be examined.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NUTR.2060 Human Nutrition.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.3710": {
+        "name": "NUTR.3710 Nutrition and Metabolism(Formerly 36.371)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/3710/",
+        "id": "004796",
+        "description": "This class is advancement into the biochemical and physiologic process through which the nourishment of the human organism is accomplished and how the interactions among nutrients, other aspects of the environment, and the body result in perturbations affecting human health.  The process of human nourishment proceeds within the context of an organism with an intricate structure, unique composition, and specific capacities for adaptive change.  Basic information from many disciplines relating to body function and structure will be summarized.  This will serve as setting the stage for detailed discussions, which describe the nutritional biochemistry and metabolism of the body for the normal state, and for states where nutrient availability is altered of disease is imposed.\n \nPrerequisites: 35.206",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060",
+                    "HSCI.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.3720": {
+        "name": "NUTR.3720 Body Diversity and Health (Formerly 36.372)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/3720/",
+        "id": "004797",
+        "description": "This class will advance the understanding of prevention and treatment of chronic diseases where body size is a significant risk factor. A comprehensive overview of the physiological and social determinants of energy balance will be provided. Methods to complete nutrition assessments and deliver culturally sensitive and unbiased interventions will be reviewed. Evidence based individual and population level strategies that promote healthy habits, a positive body image, and eliminates health disparities will be compared and contrasted to scientifically unsupported approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060",
+                    "HSCI.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.4060": {
+        "name": "NUTR.4060 Biochemistry of Lipids(Formerly 36.406)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4060/",
+        "id": "004799",
+        "description": "This advanced course in the nutritional biochemistry and physiology of lipids will detail the role of lipids in the normal and pathological processes at both the cellular and whole organism level. Topics will range from general discussions of the digestion, absorption and transport of lipids to the role of eicosanoids and lipid soluble antioxidants during normal and diseased states, such as atherosclerosis, diabetes and hypertension. Subject matter will also include a discussion of the various interventions for the prevention and treatment of certain of these disease states. There will also be discussion of the current issues in lipid nutrition.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: NUTR 2060 Human Nutrition, HSCI 3500 Human Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060"
+                ],
+                [
+                    "HSCI.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.4320": {
+        "name": "NUTR.4320 Practice of the Nutritional Professional II",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4320/",
+        "id": "041347",
+        "description": "This course in a continuation of Practice of the Nutrition Professional I. This course provides advanced study in professional nutrition settings that will prepare students for the professional work environment. Concepts related to Ethics, cultural competency, communication, professional development, interprofessional education, and leadership will be emphasized. Sites where students will participate in experiential learning include organizations that provide nutrition education, counseling, and services for various life cycle stages such as food pantries, YMCA's, hospitals assisted living facilities, schools, fitness centers, and after-school programs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Senior Status, and Dietetics Sub-plans only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.4630": {
+        "name": "NUTR.4630 Vitamins and Minerals(Formerly 36.463)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4630/",
+        "id": "004819",
+        "description": "Detailed analysis of the digestion, absorption, transport, and intermediary metabolism of vitamins and minerals as essential nutrients. The chemical and biochemical characteristics of vitamins and minerals are examined to account for the physiological functions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: NUTR 2060 Human Nutrition, HSCI 3500 Human Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060"
+                ],
+                [
+                    "HSCI.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.4650": {
+        "name": "NUTR.4650 Lab Methods in Nutrition Assessment (Formerly 36.465/565)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4650/",
+        "id": "031884",
+        "description": "This course provides the student the the opportunity to assess nutritional status using several modern analytical methods.  The course uses spectrophotometry, HPLC and automated procedures to assess the status of vitamins, lipids, iron, glucose,  and insulin.  The student will learn the mathematical calculations needed for the methods.  This course enables the student to appreciate how nutrient analysis is designed and implemented in the analytical laboratory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MLSC 3630 Clin. Lab. Inst. Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.3630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.4720": {
+        "name": "NUTR.4720 Nutrigenetics (Formerly 36.472)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4720/",
+        "id": "004821",
+        "description": "Regulation of eukaryotic gene expression by specific nutrients, hormones, and metabolites will be discussed including transcriptional, post-transcriptional, and translational mechanisms with emphasis on disease development or prevention. Application of material will include determining how human dietary requirements are affected by gene variants and inherited biochemical characteristics. This course will enable students to link their knowledge of nutrition with the growing discipline of the effects of diet on the human genome and specific hereditary diseases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NIUTR.2060 Human Nutrition, and NUTR.4630 Vitamins and Minerals, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.4630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.4810": {
+        "name": "NUTR.4810 Medical Nutrition Therapy I(Formerly 36.481)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4810/",
+        "id": "004824",
+        "description": "This course is intended to provide students with current knowledge and application in dietary prevention, treatment, and long-term management of obesity, diabetes, cardiovascular diseases, and upper gastrointestinal diseases.  Topics include nutrition counseling and communication skills, professional ethics, medical terminology, clinical laboratory values, dietary menu planning and analysis in specific situations, evaluating nutritional status, case studies for these diseases.  This course will stress the steps in the nutrition care process, determine appropriate methods for screening patients for nutritional risk, and help the student assess the nutritional status of patients.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: NUTR.2060 Human Nutrition or HSCI.2060 Human Nutrition.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.2060",
+                    "HSCI.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.4820": {
+        "name": "NUTR.4820 Medical Nutrition Therapy II(Formerly 36.482)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4820/",
+        "id": "037039",
+        "description": "This course is a continuation of Medical Nutrition Therapy I that will provide students with current knowledge and application in dietary prevention, treatment, and long-term management of patients with trauma, burns, HIV, cancer, liver, lower gastrointestinal diseases, celiac disease, and renal diseases.  Topics include nutrition counseling and communication skills, professional ethics, medical terminology, clinical laboratory values, dietary menu planning and analysis in specific situations, evaluating nutritional status, case studies for these diseases, and will examine enteral and parental nutrition support for critically ill patients.  Students will also develop a basic knowledge related tot the principles of fluid and electrolytes balance as well as acid-base balance as they relate to the nutritional care of patients/clients.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "36.481 Medical Nutrition Therapy I",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.4830": {
+        "name": "NUTR.4830 Senior Research in Nutrition I",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4830/",
+        "id": "039892",
+        "description": "Senior Research in Nutrition I will introduce concepts and application of research through critical exploration of the research process, research methodology, and ethics. Students will begin to critically review literature relevant to their field or interests and practice written scientific communication skills related to research.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Senior Status, Nutrition Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.4940": {
+        "name": "NUTR.4940 Directed Research in Nutrition(Formerly 36.494)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4940/",
+        "id": "004828",
+        "description": "Students with their faculty advisor structure a research project in the area of nutrition. A paper embodying the results of the project will be prepared.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Academic Sub-Plan Nutrition only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.4960": {
+        "name": "NUTR.4960 Senior Research in Nutrition(Formerly 36.496)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/4960/",
+        "id": "004829",
+        "description": "Continuation of 36.494.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL), Information Literacy (IL), and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.5060": {
+        "name": "NUTR.5060 Biochemistry of Lipids(Formerly 36.506)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/5060/",
+        "id": "004832",
+        "description": "This advanced course in the nutritional biochemistr and physiology of lipids will detail the role of lipids in the normal and pathological processes at both the cellular and whole organism level.  Topics will range from general discussions of the digestion, absorption and transport of lipids to the role of eicosanoids and lipid soluble anti-oxidants during normal and diseased states, such as atherosclerosis, diabetes and hypertension.  Subject matter will also include a discussion of the various interventions for the prevention and treatment of certain of these disease states.  There will also be discussion of the current issues in lipid nutrition.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.5630": {
+        "name": "NUTR.5630 Vitamins and Minerals(Formerly 36.563)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/5630/",
+        "id": "004842",
+        "description": "Provides a foundation for understanding the role of vitamins and minerals in human nutrition. Emphasis is placed on their roles in human biochemistry and physiology. The mechanism of action for each nutrient is examined. The course will explore the effects of nutrient deficiency, and identify the best dietary sources for each vitamin and mineral.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.5650": {
+        "name": "NUTR.5650 Lab Methods in Nutrition Assessment (Formerly 36.465/565)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/5650/",
+        "id": "031884",
+        "description": "This course provides the student the the opportunity to assess nutritional status using several modern analytical methods.  The course uses spectrophotometry, HPLC and automated procedures to assess the status of vitamins, lipids, iron, glucose,  and insulin.  The student will learn the mathematical calculations needed for the methods.  This course enables the student to appreciate how nutrient analysis is designed and implemented in the analytical laboratory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.5720": {
+        "name": "NUTR.5720 Nutrigenetics (Formerly 36.572)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/5720/",
+        "id": "004844",
+        "description": "Regulation of eukaryotic gene expression by specific nutrients, hormones, and metabolites will be discussed including transcriptional, post-transcriptional, and translational mechanisms with n emphasis on disease development or prevention. Application of material will include determining how human dietary requirements are affected by gene variants and inherited biochemical characteristics. This course will enable students to link their knowledge of nutrition with the growing discipline of the effects of diet on the human genome and specific hereditary diseases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "NUTR.3710 Nutrition and Metabolism, and NUTR.4630 Vitamins and Minerals, or NUTR.5630 Vitamins and Minerals.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.3710"
+                ],
+                [
+                    "NUTR.4630"
+                ],
+                [
+                    "NUTR.5630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.6000": {
+        "name": "NUTR.6000 Public Health Nutrition Practice",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6000/",
+        "id": "039741",
+        "description": "This course provides advanced study in public health and community nutrition. Concepts related to cultural competency, public health and nutrition policy, health promotion, and the nutrition care process will be learned through lectures, quest lectures, in-class activities, case studies, and peer-led discussions. Students will have the opportunity to practice skills in community and public health nutrition settings such as food pantries and senior nutrition centers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.6010": {
+        "name": "NUTR.6010 Nutrition Assessment(Formerly 36.601)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6010/",
+        "id": "039063",
+        "description": "This course provides an overview of tools used to assess nutritional health, dietary adequacy, dietary variety, and food security. Lectures and lab will be integrated together to demonstrate and provide experience in methods needed to assess, screen, and monitor physiological and dietary indictors of nutritional health. There will be an emphasis on methods and tools for assessing body composition, biochemical indicators, dietary intake, energy expenditure, and physical activity. Students will learn how to select and apply these methods in community, clinical and research settings and determine the strengths and limitations of each assessment tool.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PB-MPH Graduate Major or by permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.6020": {
+        "name": "NUTR.6020 Community Based Interventions (Formerly 36.602)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6020/",
+        "id": "039064",
+        "description": "This course will examine a broad range of community-based research and programs within the United States. Strategies for effective community-engagement and programming planning, implementation and evaluation will be discussed. Specific attention will be given to cultural tailoring of interventions. Students will engage in experiential learning and will work in teams to write a community funding proposal. Students will be required to present their funding proposal to a community panel. Field visits will allow students to interact with and learn from public health experts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: NUTR.6000 Public Health Nutrition Practice & MPH Public Health-MPH Graduate Students only or by permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "NUTR.6000"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.6030": {
+        "name": "NUTR.6030 Global Nutrition(Formerly 36.603)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6030/",
+        "id": "039065",
+        "description": "This course is an examination of the food and nutrition issues around the world. The impact of food production and food intake on the environment and global nature of our food systems will be reviewed. The course will also include consideration of specific nutrient deficiencies, as well as nutrition-related aspects of infectious and chronic disease along with the programs and resources available to combat malnutrition for children and adults worldwide.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "36.602 Public Health Nutrition and PB-MPH Graduate major or by permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.6040": {
+        "name": "NUTR.6040 Nutrition Epidemiology (Formerly 36.604)",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6040/",
+        "id": "039066",
+        "description": "This course is designed for graduate students who are interested in conducting or better interpreting epidemiologic studies relating diet and nutrition status to disease and health. There is an increasing awareness that various aspects of diet and nutrition may be important contributing factors in chronic disease. There are many important problems, however, in the implementation and interpretation of these studies. The purpose of this course is to examine methodologies used in nutritional epidemiologic studies in lecture and lab sittings, and to review the current state of knowledge regarding diet and other nutritional indicators as an etiologic factor in disease.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PUBH 5750 Intro to Biostatistics and Epideminology, and PUBH 5770 Biostatics for Health Data, and PB-MPH Graduate Major or by permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PUBH.5750"
+                ],
+                [
+                    "PUBH.5770"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "NUTR.6050": {
+        "name": "NUTR.6050 Food and Nutrition Management",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6050/",
+        "id": "039740",
+        "description": "This course provides advanced study in food and nutrition management principles. Topics include management theory, personnel selection, training, evaluation, organizational behavior, communication, governmental influences, labor management relations, marketing, and budgeting. This course requires group work, development of a business plan, and completion of management related case studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.6060": {
+        "name": "NUTR.6060 Advanced Clinical Nutrition",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6060/",
+        "id": "039736",
+        "description": "This course provides advanced study in clinical nutrition. Topics include the nutrition care process, standardized language and documentation, evidence-based practice, confidentiality of medical records, JCAHO regulations, and coding and billing. Case studies will be completed to review and advanced learning about medical nutrition therapy for acute and chronic nutrition-related diseases. As part of this course, students will practice providing nutrition assessment, counseling, education, professional documentation, and evaluation in clinical nutrition settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.6660": {
+        "name": "NUTR.6660 Community Nutrition Supervised Practice",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6660/",
+        "id": "039737",
+        "description": "This supervised practice experience is the application of knowledge and skills in community and public health nutrition. Students will practice nutrition assessment, nutrition counseling, and nutrition education for a wide range of populations at high nutritional risk. Students will develop cultural awareness and skills in cultural competency.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.6670": {
+        "name": "NUTR.6670 Food and Nutrition Management Supervised Practice",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6670/",
+        "id": "039738",
+        "description": "This supervised practice experience is the application of knowledge and skills in food and nutrition management. There will be hands-on experience in human resource and financial management. Management skills specific to the food service industry, including management functions related to safety, security and sanitation, will also be incorporated. Students will also be able to apply knowledge in food production, distribution, and food service systems along with skills in menu planning. There will be an emphasis on using strategies to reduce waste and protect the environment.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "NUTR.6680": {
+        "name": "NUTR.6680 Clinical Nutrition Supervised Practice",
+        "url": "https://www.uml.edu/catalog/courses/NUTR/6680/",
+        "id": "039739",
+        "description": "This supervised practice experience is the application of knowledge and skills in clinical nutrition. Students will receive hands-on experience in nutrition assessment, diagnosis, and treatment of nutrition-related diseases while using skills in nutrition counseling and applying principles from behavior change theories. Students will be able to practice documentation of nutrition care and participate as members of an interdisciplinary team.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

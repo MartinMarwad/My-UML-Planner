@@ -1,0 +1,311 @@
+{
+    "total": 20,
+    "time": 14.64899206161499,
+    "UMLO.1010": {
+        "name": "UMLO.1010 Living-Learning Community Seminar in DCA",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/1010/",
+        "id": "040397",
+        "description": "The Living Learning Community Seminar in DCA forges a link between the LLC and the academic programs that individual students are pursuing, and invites the student to develop and launch a plan for personal and professional development, with a particular focus on the Diversity and Cultural Awareness Essential Learning Outcome of the UML Core Curriculum. In this one-credit course, students draw intentional connections between their coursework, the practice of independent research, and the resources and learning opportunities available to them on campus and in their communities. Student projects serve to integrate curricular, co-curricular, and extra curricular learning experiences. Sections of this course will vary in topic, and are open only to student residing in the relevant LLC.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.1020": {
+        "name": "UMLO.1020 Living-Learning Community Seminar in SRE",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/1020/",
+        "id": "040399",
+        "description": "The Living Learning Community Seminar in SRE forges a link between the LLC and the academic programs that individual students are pursuing, and invites the student to develop and launch a plan for personal and professional development, with a particular focus on the Social Responsibility and Ethics Essential Leaning Outcome of the UML Core Curriculum. In this one-credit course, students draw intentional connections between their coursework, the practice of independent research, and the resources and learning opportunities available to them on campus and in their communities. Student projects serve to integrate curricular, co-curricular, and extra-curricular learning experiences. Sections of this course will vary in topic, and are open only to students residing in the relevant LLC.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.1020AERO": {
+        "name": "UMLO.1020AERO NC Placeholder - Crosstown",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/1020AERO/",
+        "id": "041999",
+        "description": "NC Placeholder - Crosstown",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.1030": {
+        "name": "UMLO.1030 Living-Learning Community Seminar in CTPS",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/1030/",
+        "id": "041081",
+        "description": "The Living Learning Community Seminar in CTPS forges a link between the LLC and the academic programs that individual students are pursuing, and invites the student to develop and launch a plan for personal and professional development, with a particular focus on the Critical Thinking and Problem Solving Essential Learning Outcome of the UML Core Curriculum. In this one-credit course, students draw intentional connections between their coursework, the practice of independent research, and the resources and learning opportunities available to them on campus and in their communities. Student projects serve to integrate curricular, co-curricular, and extra-curricular learning experiences. Sections of this course will vary in topic, and are open only to students residing in the relevant LLC. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.2010AERO": {
+        "name": "UMLO.2010AERO NC Placeholder - Crosstown",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/2010AERO/",
+        "id": "041998",
+        "description": "NC Placeholder - Crosstown",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.2500": {
+        "name": "UMLO.2500 RHSA Arts & Humanities Study Abroad",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/2500/",
+        "id": "042239",
+        "description": "The RHSA Arts & Humanities Study Abroad course will be offered every spring semester to students in River Hawk Scholars Academy. The faculty who teaches this course and their primary discipline of study will rotate through different Arts & Humanities departments as UMass Lowell. Regardless of the primary disciplinary focus for any one section, the course will employ and interdisciplinary approach to prepare students for a study abroad program that will occur during that semester's spring break; offer a vibrant, immersive experience during that time; and then provide activities and assignments after the study abroad experience to allow students to make meaning of that experience. This course will be intended to introduce students to study abroad and provide a framework through which to understand how to connect academic learning and disciplinary expertise in the Arts &  Humanities to the experiential learning that is study abroad. There will be a particular emphasis on placing the study abroad experience in the context of students' academic journeys and identities. Need-based scholarships will be made available to students so that the cost of study abroad will not be a barrier to any RHSA student who wants to participate.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, and ENGL.1020 College Writing II, or Equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "UMLO.4910": {
+        "name": "UMLO.4910 Directed Study",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/4910/",
+        "id": "040762",
+        "description": "Directed Study",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.ABROAD": {
+        "name": "UMLO.ABROAD Study Abroad Placeholder (Formerly UML ABROAD)",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/ABROAD/",
+        "id": "039094",
+        "description": "This course is a placeholder course for full-time students taking courses abroad.  Credits are excluded until student presents official transcript.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.CLASS": {
+        "name": "UMLO.CLASS Strategies for Success",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/CLASS/",
+        "id": "040373",
+        "description": "Strategies for Success is a retention and academic support program led by the Centers for Learning & Academic Support Services (CLASS) and Academic Colleges.  The accompanying Blackboard site is intended to serve as a source of academic support in the format of an online learning community.  Are you ready to engage with this community to maximize your learning experience at UMass Lowell?",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.CRSGEN": {
+        "name": "UMLO.CRSGEN NC Placeholder - General (Formerly UML.CRSGEN)",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/CRSGEN/",
+        "id": "039556",
+        "description": "NC Placeholder - General",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.EXCNGE": {
+        "name": "UMLO.EXCNGE International Exchange",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/EXCNGE/",
+        "id": "041176",
+        "description": "Non-credit course for International Exchange students.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.LAUNCH": {
+        "name": "UMLO.LAUNCH Master Classes and Seminars",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/LAUNCH/",
+        "id": "041714",
+        "description": "A master class is a class given to students of a particular discipline by an expert of that discipline.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.READY": {
+        "name": "UMLO.READY Get Riverhawk Ready",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/READY/",
+        "id": "041719",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.RHSA": {
+        "name": "UMLO.RHSA RiverHawk Scholars Academy - RHSA",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/RHSA/",
+        "id": "040594",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.RPPH": {
+        "name": "UMLO.RPPH Reserved Placement. Program Housing",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/RPPH/",
+        "id": "040886",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.SOARCS": {
+        "name": "UMLO.SOARCS SoarCS Summer program",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/SOARCS/",
+        "id": "041975",
+        "description": "Open to all first-year, full-time computer science students, SoarCS is committed to creating a diverse and inclusive environment. We highly encourage students from multicultural backgrounds, first-generation students and female students to take advantage of the progra",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.SOCI": {
+        "name": "UMLO.SOCI UMass Lowell Sociology Community",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/SOCI/",
+        "id": "041613",
+        "description": "A community forum for Sociology majors.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.SPEC": {
+        "name": "UMLO.SPEC Placeholder for Special Courses",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/SPEC/",
+        "id": "042199",
+        "description": "This course is a placeholder course that require additional fees for special programs.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.VISIT": {
+        "name": "UMLO.VISIT Visiting Students",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/VISIT/",
+        "id": "041720",
+        "description": "Visiting Students",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UMLO.WRIT": {
+        "name": "UMLO.WRIT Writing Course Finder",
+        "url": "https://www.uml.edu/catalog/courses/UMLO/WRIT/",
+        "id": "040694",
+        "description": "Writing Course Finder - used for Writing placement for incoming freshmen.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

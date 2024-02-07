@@ -1,0 +1,34 @@
+{
+    "total": 2,
+    "time": 3.9440500736236572,
+    "ENVS.5010": {
+        "name": "ENVS.5010 Wetlands Ecology (Formerly 18.501)",
+        "url": "https://www.uml.edu/catalog/courses/ENVS/5010/",
+        "id": "003489",
+        "description": "Types, characteristics and definitions, functions and values, regulation and management of wetlands; with due regard given to geology, soils and hydrology, and biological/ecosystem interactions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENVS.5810": {
+        "name": "ENVS.5810 Understanding Massachusetts Contingency Plan (Formerly 18.581)",
+        "url": "https://www.uml.edu/catalog/courses/ENVS/5810/",
+        "id": "003523",
+        "description": "The Massachusetts Contingency Plan (MCP) is a body of regulations designed to streamline and accelerate the assessment and cleanup of releases of oil and hazardous materials to the environment. This course serves as an introduction to the MCP and will explore the intent and use of key aspects of this working document. Though primarily a regulatory course, some topics to be covered are technical by nature. Prerequisites: None. Though not required, some familiarity with relevant environmental science and/or engineering principles is desirable.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

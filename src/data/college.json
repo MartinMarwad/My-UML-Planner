@@ -1,0 +1,1146 @@
+{
+    "colleges": [
+        {
+            "value": "EDGR",
+            "label": "College of Education",
+            "departments": [
+                {
+                    "value": "LCURR&INST|LEDUCATN",
+                    "label": "Education"
+                }
+            ]
+        },
+        {
+            "value": "EN",
+            "label": "College of Engineering",
+            "departments": [
+                {
+                    "value": "LBIOENGTC",
+                    "label": "Biomedical Engineering"
+                },
+                {
+                    "value": "LCHEMENGR|LNEENGENGR",
+                    "label": "Chemical Engineering"
+                },
+                {
+                    "value": "LCEENVENGR",
+                    "label": "Civil & Environmental Engineering"
+                },
+                {
+                    "value": "LENGINEER",
+                    "label": "College-wide Engineering courses"
+                },
+                {
+                    "value": "LEECSENGR",
+                    "label": "Electrical & Computer Engineering"
+                },
+                {
+                    "value": "LENVIRONML",
+                    "label": "Environmental Studies"
+                },
+                {
+                    "value": "LINDUSTENG",
+                    "label": "Industrial Engineering"
+                },
+                {
+                    "value": "LMECHENGR",
+                    "label": "Mechanical & Industrial Engineering"
+                },
+                {
+                    "value": "LPLSTCENGR",
+                    "label": "Plastics Engineering"
+                }
+            ]
+        },
+        {
+            "value": "A&S",
+            "label": "College of Fine Arts, Humanities and Social Sciences",
+            "departments": [
+                {
+                    "value": "LAMERSTDY",
+                    "label": "American Studies"
+                },
+                {
+                    "value": "LAESTCRSTY|LFINEARTS|LSTUDIOART",
+                    "label": "Art & Design"
+                },
+                {
+                    "value": "LARTHISTRY",
+                    "label": "Art History"
+                },
+                {
+                    "value": "LDGMD",
+                    "label": "Digital Media"
+                },
+                {
+                    "value": "LREGECOSOC",
+                    "label": "Economic & Social Development of Regions"
+                },
+                {
+                    "value": "LECONOMICS",
+                    "label": "Economics"
+                },
+                {
+                    "value": "LENGLISH",
+                    "label": "English"
+                },
+                {
+                    "value": "LGENDSTDY",
+                    "label": "Gender Studies"
+                },
+                {
+                    "value": "LGLS",
+                    "label": "Global Studies"
+                },
+                {
+                    "value": "LHISTORY",
+                    "label": "History"
+                },
+                {
+                    "value": "LHOPR",
+                    "label": "Honors Program"
+                },
+                {
+                    "value": "LLEGALSTDY",
+                    "label": "Legal Studies"
+                },
+                {
+                    "value": "LARTSCI|LLIBART",
+                    "label": "Liberal Arts"
+                },
+                {
+                    "value": "LMUSICHIST|LMUSICTHRY",
+                    "label": "Music"
+                },
+                {
+                    "value": "LMUSICBUS",
+                    "label": "Music Business"
+                },
+                {
+                    "value": "LMUSICCOMP",
+                    "label": "Music Composition"
+                },
+                {
+                    "value": "LAPPLMUSIC|LMUSENSMBL|LMUSICPERF",
+                    "label": "Music Performance"
+                },
+                {
+                    "value": "LMUSICED",
+                    "label": "Music Studies"
+                },
+                {
+                    "value": "LPCS",
+                    "label": "Peace & Conflict Studies"
+                },
+                {
+                    "value": "LPHILOSPHY",
+                    "label": "Philosophy"
+                },
+                {
+                    "value": "LPOLISCI",
+                    "label": "Political Science"
+                },
+                {
+                    "value": "LPSYCHGY",
+                    "label": "Psychology"
+                },
+                {
+                    "value": "LCRIMJUST",
+                    "label": "School of Criminology and Justice Studies"
+                },
+                {
+                    "value": "LSOCIOLOGY",
+                    "label": "Sociology"
+                },
+                {
+                    "value": "LSNDRECTEC",
+                    "label": "Sound Recording Technology"
+                },
+                {
+                    "value": "LTHEARTS",
+                    "label": "Theatre Arts"
+                },
+                {
+                    "value": "LWLS",
+                    "label": "Work, Labor and Society"
+                },
+                {
+                    "value": "LLANGUAGES",
+                    "label": "World Languages and Cultures"
+                }
+            ]
+        },
+        {
+            "value": "HP",
+            "label": "College of Health Sciences",
+            "departments": [
+                {
+                    "value": "LCLILABSCI|LMEDTECH|LNUTRSCI",
+                    "label": "Biomedical & Nutritional Sciences"
+                },
+                {
+                    "value": "LHEALTH",
+                    "label": "College-wide SHE courses"
+                },
+                {
+                    "value": "LPHARMSCI",
+                    "label": "Pharmaceutical Science"
+                },
+                {
+                    "value": "LEXPHYSGY|LPHYLTHRPY",
+                    "label": "Physical Therapy & Kinesiology"
+                },
+                {
+                    "value": "LHEALTHED",
+                    "label": "Public Health"
+                },
+                {
+                    "value": "LNURSING",
+                    "label": "School of Nursing"
+                }
+            ]
+        },
+        {
+            "value": "SCI",
+            "label": "College of Sciences",
+            "departments": [
+                {
+                    "value": "LBIOLOGY",
+                    "label": "Biological Sciences"
+                },
+                {
+                    "value": "LCHEMISTRY|LPOLYMSCI",
+                    "label": "Chemistry"
+                },
+                {
+                    "value": "LCOMPSCI",
+                    "label": "Computer & Information Sciences"
+                },
+                {
+                    "value": "LATMSPHSCI|LENVIRNSCI",
+                    "label": "Environmental Earth & Atmospheric Sciences"
+                },
+                {
+                    "value": "LINFOTECH",
+                    "label": "Information Technology"
+                },
+                {
+                    "value": "LMARSCITC",
+                    "label": "Marine Sciences"
+                },
+                {
+                    "value": "LMATH",
+                    "label": "Mathematical & Statistical Sciences"
+                },
+                {
+                    "value": "LPHYSICS",
+                    "label": "Physics & Applied Physics"
+                },
+                {
+                    "value": "LSCIMATH",
+                    "label": "Professional Science Masters"
+                },
+                {
+                    "value": "LRADSCI",
+                    "label": "Radiological Sciences"
+                }
+            ]
+        },
+        {
+            "value": "MG",
+            "label": "Manning School of Business",
+            "departments": [
+                {
+                    "value": "LACCOUNT",
+                    "label": "Accounting"
+                },
+                {
+                    "value": "LMANAGEMT",
+                    "label": "College-wide Business Courses"
+                },
+                {
+                    "value": "LFINANCE",
+                    "label": "Finance"
+                },
+                {
+                    "value": "LMGMTDEPT",
+                    "label": "Management"
+                },
+                {
+                    "value": "LENTREPREN|LMARKETING",
+                    "label": "Marketing"
+                },
+                {
+                    "value": "LOPERSYS",
+                    "label": "Operations & Information Systems"
+                }
+            ]
+        }
+    ],
+    "departments": [
+        {
+            "value": "LACCOUNT",
+            "label": "Accounting"
+        },
+        {
+            "value": "LAMERSTDY",
+            "label": "American Studies"
+        },
+        {
+            "value": "LAESTCRSTY|LFINEARTS|LSTUDIOART",
+            "label": "Art & Design"
+        },
+        {
+            "value": "LARTHISTRY",
+            "label": "Art History"
+        },
+        {
+            "value": "LBIOLOGY",
+            "label": "Biological Sciences"
+        },
+        {
+            "value": "LCLILABSCI|LMEDTECH|LNUTRSCI",
+            "label": "Biomedical & Nutritional Sciences"
+        },
+        {
+            "value": "LBIOENGTC",
+            "label": "Biomedical Engineering"
+        },
+        {
+            "value": "LCHEMENGR|LNEENGENGR",
+            "label": "Chemical Engineering"
+        },
+        {
+            "value": "LCHEMISTRY|LPOLYMSCI",
+            "label": "Chemistry"
+        },
+        {
+            "value": "LCEENVENGR",
+            "label": "Civil & Environmental Engineering"
+        },
+        {
+            "value": "LMANAGEMT",
+            "label": "College-wide Business Courses"
+        },
+        {
+            "value": "LENGINEER",
+            "label": "College-wide Engineering courses"
+        },
+        {
+            "value": "LHEALTH",
+            "label": "College-wide SHE courses"
+        },
+        {
+            "value": "LCOMPSCI",
+            "label": "Computer & Information Sciences"
+        },
+        {
+            "value": "LDGMD",
+            "label": "Digital Media"
+        },
+        {
+            "value": "LREGECOSOC",
+            "label": "Economic & Social Development of Regions"
+        },
+        {
+            "value": "LECONOMICS",
+            "label": "Economics"
+        },
+        {
+            "value": "LCURR&INST|LEDUCATN",
+            "label": "Education"
+        },
+        {
+            "value": "LEECSENGR",
+            "label": "Electrical & Computer Engineering"
+        },
+        {
+            "value": "LENGLISH",
+            "label": "English"
+        },
+        {
+            "value": "LATMSPHSCI|LENVIRNSCI",
+            "label": "Environmental Earth & Atmospheric Sciences"
+        },
+        {
+            "value": "LENVIRONML",
+            "label": "Environmental Studies"
+        },
+        {
+            "value": "LFINANCE",
+            "label": "Finance"
+        },
+        {
+            "value": "LGENDSTDY",
+            "label": "Gender Studies"
+        },
+        {
+            "value": "LGLS",
+            "label": "Global Studies"
+        },
+        {
+            "value": "LHISTORY",
+            "label": "History"
+        },
+        {
+            "value": "LHOPR",
+            "label": "Honors Program"
+        },
+        {
+            "value": "LINDUSTENG",
+            "label": "Industrial Engineering"
+        },
+        {
+            "value": "LINFOTECH",
+            "label": "Information Technology"
+        },
+        {
+            "value": "LLEGALSTDY",
+            "label": "Legal Studies"
+        },
+        {
+            "value": "LARTSCI|LLIBART",
+            "label": "Liberal Arts"
+        },
+        {
+            "value": "LMGMTDEPT",
+            "label": "Management"
+        },
+        {
+            "value": "LMARSCITC",
+            "label": "Marine Sciences"
+        },
+        {
+            "value": "LENTREPREN|LMARKETING",
+            "label": "Marketing"
+        },
+        {
+            "value": "LMATH",
+            "label": "Mathematical & Statistical Sciences"
+        },
+        {
+            "value": "LMECHENGR",
+            "label": "Mechanical & Industrial Engineering"
+        },
+        {
+            "value": "LMUSICHIST|LMUSICTHRY",
+            "label": "Music"
+        },
+        {
+            "value": "LMUSICBUS",
+            "label": "Music Business"
+        },
+        {
+            "value": "LMUSICCOMP",
+            "label": "Music Composition"
+        },
+        {
+            "value": "LAPPLMUSIC|LMUSENSMBL|LMUSICPERF",
+            "label": "Music Performance"
+        },
+        {
+            "value": "LMUSICED",
+            "label": "Music Studies"
+        },
+        {
+            "value": "LOPERSYS",
+            "label": "Operations & Information Systems"
+        },
+        {
+            "value": "LPCS",
+            "label": "Peace & Conflict Studies"
+        },
+        {
+            "value": "LPHARMSCI",
+            "label": "Pharmaceutical Science"
+        },
+        {
+            "value": "LPHILOSPHY",
+            "label": "Philosophy"
+        },
+        {
+            "value": "LEXPHYSGY|LPHYLTHRPY",
+            "label": "Physical Therapy & Kinesiology"
+        },
+        {
+            "value": "LPHYSICS",
+            "label": "Physics & Applied Physics"
+        },
+        {
+            "value": "LPLSTCENGR",
+            "label": "Plastics Engineering"
+        },
+        {
+            "value": "LPOLISCI",
+            "label": "Political Science"
+        },
+        {
+            "value": "LSCIMATH",
+            "label": "Professional Science Masters"
+        },
+        {
+            "value": "LPSYCHGY",
+            "label": "Psychology"
+        },
+        {
+            "value": "LHEALTHED",
+            "label": "Public Health"
+        },
+        {
+            "value": "LRADSCI",
+            "label": "Radiological Sciences"
+        },
+        {
+            "value": "LCRIMJUST",
+            "label": "School of Criminology and Justice Studies"
+        },
+        {
+            "value": "LNURSING",
+            "label": "School of Nursing"
+        },
+        {
+            "value": "LSOCIOLOGY",
+            "label": "Sociology"
+        },
+        {
+            "value": "LSNDRECTEC",
+            "label": "Sound Recording Technology"
+        },
+        {
+            "value": "LTHEARTS",
+            "label": "Theatre Arts"
+        },
+        {
+            "value": "LWLS",
+            "label": "Work, Labor and Society"
+        },
+        {
+            "value": "LLANGUAGES",
+            "label": "World Languages and Cultures"
+        }
+    ],
+    "prefixes": [
+        {
+            "value": "ACCT",
+            "label": "ACCT"
+        },
+        {
+            "value": "AERO",
+            "label": "AERO"
+        },
+        {
+            "value": "AEST",
+            "label": "AEST"
+        },
+        {
+            "value": "AMHE",
+            "label": "AMHE"
+        },
+        {
+            "value": "AMST",
+            "label": "AMST"
+        },
+        {
+            "value": "ARCH",
+            "label": "ARCH"
+        },
+        {
+            "value": "ARHI",
+            "label": "ARHI"
+        },
+        {
+            "value": "ARTS",
+            "label": "ARTS"
+        },
+        {
+            "value": "ASAM",
+            "label": "ASAM"
+        },
+        {
+            "value": "ATMO",
+            "label": "ATMO"
+        },
+        {
+            "value": "BIOL",
+            "label": "BIOL"
+        },
+        {
+            "value": "BMBT",
+            "label": "BMBT"
+        },
+        {
+            "value": "BMEN",
+            "label": "BMEN"
+        },
+        {
+            "value": "BMSC",
+            "label": "BMSC"
+        },
+        {
+            "value": "BOST",
+            "label": "BOST"
+        },
+        {
+            "value": "BUSI",
+            "label": "BUSI"
+        },
+        {
+            "value": "CHEM",
+            "label": "CHEM"
+        },
+        {
+            "value": "CHEN",
+            "label": "CHEN"
+        },
+        {
+            "value": "CIVE",
+            "label": "CIVE"
+        },
+        {
+            "value": "COMP",
+            "label": "COMP"
+        },
+        {
+            "value": "CONT",
+            "label": "CONT"
+        },
+        {
+            "value": "CORE",
+            "label": "CORE"
+        },
+        {
+            "value": "CRIM",
+            "label": "CRIM"
+        },
+        {
+            "value": "DART",
+            "label": "DART"
+        },
+        {
+            "value": "DGMD",
+            "label": "DGMD"
+        },
+        {
+            "value": "DPTH",
+            "label": "DPTH"
+        },
+        {
+            "value": "ECON",
+            "label": "ECON"
+        },
+        {
+            "value": "EDUC",
+            "label": "EDUC"
+        },
+        {
+            "value": "EECE",
+            "label": "EECE"
+        },
+        {
+            "value": "ENGL",
+            "label": "ENGL"
+        },
+        {
+            "value": "ENGN",
+            "label": "ENGN"
+        },
+        {
+            "value": "ENGY",
+            "label": "ENGY"
+        },
+        {
+            "value": "ENTR",
+            "label": "ENTR"
+        },
+        {
+            "value": "ENVE",
+            "label": "ENVE"
+        },
+        {
+            "value": "ENVI",
+            "label": "ENVI"
+        },
+        {
+            "value": "ENVS",
+            "label": "ENVS"
+        },
+        {
+            "value": "ETEC",
+            "label": "ETEC"
+        },
+        {
+            "value": "EXER",
+            "label": "EXER"
+        },
+        {
+            "value": "FAHS",
+            "label": "FAHS"
+        },
+        {
+            "value": "FINA",
+            "label": "FINA"
+        },
+        {
+            "value": "GEOL",
+            "label": "GEOL"
+        },
+        {
+            "value": "GLST",
+            "label": "GLST"
+        },
+        {
+            "value": "GNDR",
+            "label": "GNDR"
+        },
+        {
+            "value": "GRFX",
+            "label": "GRFX"
+        },
+        {
+            "value": "HIST",
+            "label": "HIST"
+        },
+        {
+            "value": "HONR",
+            "label": "HONR"
+        },
+        {
+            "value": "HSCI",
+            "label": "HSCI"
+        },
+        {
+            "value": "IENG",
+            "label": "IENG"
+        },
+        {
+            "value": "IM",
+            "label": "IM"
+        },
+        {
+            "value": "INFO",
+            "label": "INFO"
+        },
+        {
+            "value": "LABR",
+            "label": "LABR"
+        },
+        {
+            "value": "LGST",
+            "label": "LGST"
+        },
+        {
+            "value": "LIFE",
+            "label": "LIFE"
+        },
+        {
+            "value": "LMUCM",
+            "label": "LMUCM"
+        },
+        {
+            "value": "MARI",
+            "label": "MARI"
+        },
+        {
+            "value": "MATH",
+            "label": "MATH"
+        },
+        {
+            "value": "MECH",
+            "label": "MECH"
+        },
+        {
+            "value": "MGMT",
+            "label": "MGMT"
+        },
+        {
+            "value": "MIST",
+            "label": "MIST"
+        },
+        {
+            "value": "MKTG",
+            "label": "MKTG"
+        },
+        {
+            "value": "MLSC",
+            "label": "MLSC"
+        },
+        {
+            "value": "MPAD",
+            "label": "MPAD"
+        },
+        {
+            "value": "MSIT",
+            "label": "MSIT"
+        },
+        {
+            "value": "MTEC",
+            "label": "MTEC"
+        },
+        {
+            "value": "MUAP",
+            "label": "MUAP"
+        },
+        {
+            "value": "MUBU",
+            "label": "MUBU"
+        },
+        {
+            "value": "MUCM",
+            "label": "MUCM"
+        },
+        {
+            "value": "MUED",
+            "label": "MUED"
+        },
+        {
+            "value": "MUEN",
+            "label": "MUEN"
+        },
+        {
+            "value": "MUHI",
+            "label": "MUHI"
+        },
+        {
+            "value": "MUPF",
+            "label": "MUPF"
+        },
+        {
+            "value": "MUSR",
+            "label": "MUSR"
+        },
+        {
+            "value": "MUTH",
+            "label": "MUTH"
+        },
+        {
+            "value": "NONC",
+            "label": "NONC"
+        },
+        {
+            "value": "NURS",
+            "label": "NURS"
+        },
+        {
+            "value": "NUTR",
+            "label": "NUTR"
+        },
+        {
+            "value": "PCST",
+            "label": "PCST"
+        },
+        {
+            "value": "PHIL",
+            "label": "PHIL"
+        },
+        {
+            "value": "PHIT",
+            "label": "PHIT"
+        },
+        {
+            "value": "PHRM",
+            "label": "PHRM"
+        },
+        {
+            "value": "PHYS",
+            "label": "PHYS"
+        },
+        {
+            "value": "PLAS",
+            "label": "PLAS"
+        },
+        {
+            "value": "POLI",
+            "label": "POLI"
+        },
+        {
+            "value": "POLY",
+            "label": "POLY"
+        },
+        {
+            "value": "POMS",
+            "label": "POMS"
+        },
+        {
+            "value": "PSMA",
+            "label": "PSMA"
+        },
+        {
+            "value": "PSYC",
+            "label": "PSYC"
+        },
+        {
+            "value": "PTEC",
+            "label": "PTEC"
+        },
+        {
+            "value": "PUBH",
+            "label": "PUBH"
+        },
+        {
+            "value": "RADI",
+            "label": "RADI"
+        },
+        {
+            "value": "ROTC",
+            "label": "ROTC"
+        },
+        {
+            "value": "SCIE",
+            "label": "SCIE"
+        },
+        {
+            "value": "SOCI",
+            "label": "SOCI"
+        },
+        {
+            "value": "THEA",
+            "label": "THEA"
+        },
+        {
+            "value": "UGTC",
+            "label": "UGTC"
+        },
+        {
+            "value": "UMLO",
+            "label": "UMLO"
+        },
+        {
+            "value": "UNCR",
+            "label": "UNCR"
+        },
+        {
+            "value": "UTCH",
+            "label": "UTCH"
+        },
+        {
+            "value": "WLAN",
+            "label": "WLAN"
+        },
+        {
+            "value": "WLAR",
+            "label": "WLAR"
+        },
+        {
+            "value": "WLCH",
+            "label": "WLCH"
+        },
+        {
+            "value": "WLFR",
+            "label": "WLFR"
+        },
+        {
+            "value": "WLGE",
+            "label": "WLGE"
+        },
+        {
+            "value": "WLIT",
+            "label": "WLIT"
+        },
+        {
+            "value": "WLKH",
+            "label": "WLKH"
+        },
+        {
+            "value": "WLLA",
+            "label": "WLLA"
+        },
+        {
+            "value": "WLPO",
+            "label": "WLPO"
+        },
+        {
+            "value": "WLSP",
+            "label": "WLSP"
+        },
+        {
+            "value": "WORC",
+            "label": "WORC"
+        }
+    ],
+    "programs": [
+        {
+            "value": "AERO",
+            "label": "Aerospace Studies"
+        },
+        {
+            "value": "AMST",
+            "label": "American Studies"
+        },
+        {
+            "value": "ARST",
+            "label": "Arabic Studies"
+        },
+        {
+            "value": "ARCH",
+            "label": "Architectural Studies"
+        },
+        {
+            "value": "ARMY",
+            "label": "Army ROTC"
+        },
+        {
+            "value": "ARHI",
+            "label": "Art History"
+        },
+        {
+            "value": "ANST",
+            "label": "Asian Studies"
+        },
+        {
+            "value": "COAR",
+            "label": "Comparative Arts"
+        },
+        {
+            "value": "CULTURAL",
+            "label": "Cultural Studies"
+        },
+        {
+            "value": "DGMD",
+            "label": "Digital Media"
+        },
+        {
+            "value": "DSST",
+            "label": "Disability Studies"
+        },
+        {
+            "value": "ENSC",
+            "label": "Environment and Society"
+        },
+        {
+            "value": "FLST",
+            "label": "Film Studies"
+        },
+        {
+            "value": "FRST",
+            "label": "French Studies"
+        },
+        {
+            "value": "GNST",
+            "label": "Gender Studies"
+        },
+        {
+            "value": "GRST",
+            "label": "German Studies"
+        },
+        {
+            "value": "HONORS",
+            "label": "Honors Programs"
+        },
+        {
+            "value": "ENGIN.",
+            "label": "Intercollegiate Engineering"
+        },
+        {
+            "value": "FAHSS",
+            "label": "Intercollegiate Fine Arts Humanities and Social Sciences"
+        },
+        {
+            "value": "HEALTH",
+            "label": "Intercollegiate Health and Environment"
+        },
+        {
+            "value": "ITST",
+            "label": "Italian Studies"
+        },
+        {
+            "value": "WLSC",
+            "label": "Labor Studies"
+        },
+        {
+            "value": "LAST",
+            "label": "Latin American Studies"
+        },
+        {
+            "value": "MEDI",
+            "label": "Medieval & Renaissance"
+        },
+        {
+            "value": "PCST",
+            "label": "Peace and Conflict Studies"
+        },
+        {
+            "value": "POST",
+            "label": "Portuguese Studies"
+        },
+        {
+            "value": "RAST",
+            "label": "Race and Ethnic Studies"
+        },
+        {
+            "value": "ROBO",
+            "label": "Robotics Program"
+        },
+        {
+            "value": "TCHV",
+            "label": "Technology, Society & Hum. Val"
+        },
+        {
+            "value": "THAR",
+            "label": "Theatre Arts"
+        },
+        {
+            "value": "UC",
+            "label": "University Credit"
+        },
+        {
+            "value": "UTEACH",
+            "label": "UTEACH"
+        }
+    ],
+    "criteria": [
+        {
+            "value": "AH",
+            "label": "Arts and Humanities Perspective (AH)"
+        },
+        {
+            "value": "CW",
+            "label": "College Writing (CW)"
+        },
+        {
+            "value": "MATH",
+            "label": "Mathematics Perspective (MATH)"
+        },
+        {
+            "value": "SCL",
+            "label": "Sciences with Lab Perspective (SCL)"
+        },
+        {
+            "value": "SS",
+            "label": "Social Sciences Perspective (SS)"
+        },
+        {
+            "value": "STEM",
+            "label": "STEM Perspective (STEM)"
+        }
+    ],
+    "outcomes": [
+        {
+            "value": "AIL",
+            "label": "Applied & Integrative Learning (AIL)"
+        },
+        {
+            "value": "CTPS",
+            "label": "Critical Thinking & Problem Solving (CTPS)"
+        },
+        {
+            "value": "DCA",
+            "label": "Diversity & Cultural Awareness (DCA)"
+        },
+        {
+            "value": "IL",
+            "label": "Information Literacy (IL)"
+        },
+        {
+            "value": "QL",
+            "label": "Quantitative Literacy (QL)"
+        },
+        {
+            "value": "SRE",
+            "label": "Social Responsibility & Ethics (SRE)"
+        },
+        {
+            "value": "WOC",
+            "label": "Written & Oral Communication (WOC)"
+        }
+    ]
+}

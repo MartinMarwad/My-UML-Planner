@@ -1,0 +1,25 @@
+{
+    "total": 1,
+    "time": 4.007030248641968,
+    "ASAM.2120": {
+        "name": "ASAM.2120 Introduction to Asian American Studies",
+        "url": "https://www.uml.edu/catalog/courses/ASAM/2120/",
+        "id": "039554",
+        "description": "This course provides students with an overview of the multidisciplinary field of Asian American Studies from two distinct disciplines. The course begins with the history of Asian American Studies and the methods used to advance the field. Next, various aspects of the Asian American experience, such as gender and sexuality, are examined. Students also participate in service learning in partnership with Asian-serving community organizations in and around Lowell, MA.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1010 or 1020 College Writing I or II or (42.103 Col Writing I-Internatl or ENGL 1110 College Writing I ESL) or HONR.1100.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "ENGL.1110",
+                    "HONR.1100"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

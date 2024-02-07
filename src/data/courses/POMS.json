@@ -1,0 +1,535 @@
+{
+    "total": 26,
+    "time": 20.52331233024597,
+    "POMS.2010": {
+        "name": "POMS.2010 Introduction to Business Analytics (Formerly 63.210/POMS.201 Managerial Decision Making)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/2010/",
+        "id": "006486",
+        "description": "Introduction to quantitative methods for analyzing business problems. Analytic methods include decision analysis, linear programming, queuing and simulation. Applications address issues in areas such as marketing, production, finance and logistics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ECON 2110 Statistics I or MATH.2830 Intro to Statistics or MATH.3860 Probability and Statistics I",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2110",
+                    "MATH.2830",
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.3010": {
+        "name": "POMS.3010 Operations Management (Formerly 63.371/POMS 301)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/3010/",
+        "id": "006492",
+        "description": "Principles of production/operations management. Nature and function of production systems; operational planning and control; plant layout; materials handling; inventory and quality control.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "POMS.2010 Introduction to Business Analytics, or Matriculated BS (Industrial Engineering), or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4010": {
+        "name": "POMS.4010 Logistics and Transportation (Formerly  63.469/POMS 401)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4010/",
+        "id": "037423",
+        "description": "This case-based course will examine methods and strategies for managing and controlling material movement, with particular emphasis on international operations, from the purchase of production materials to the control of work in process to the distribution of the finished product.  Strategies that will be discussed include the design of international distribution networks, the use of third-party logistics providers, and the creation of links between logistic systems and marketing to create competitive advantage.  The course will also explore tactical issues that must be managed to pursue a logistics strategy successfully, including choices regarding means of transportation, packaging, and inventory policies.  Underlying themes of the course will be the use of information technologies (such as electronic data interchange and bar coding) and mathematical models to support logistics decision-making.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.3010 Operations Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4020": {
+        "name": "POMS.4020 Global Supply Chain Management (Formerly POMS 402/63.402)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4020/",
+        "id": "036450",
+        "description": "A supply chain consists of all of the activities and organizations required to produce and deliver a good or service from raw materials to the final end user.  Global Operations and Supply Chain Management (GOSCM) involves the coordination of this complex network of organizations and flows of materials, funds, and information among and between the stages of a supply chain.  GOSCM integrates the traditional business functions of operations, marketing, logistics, finance, and information systems in an international business context.  The course traces the flow of products and services from development through delivery to the final user and will address topics such as global sourcing strategies, managing demand and supply uncertainties distribution strategies and logistics network design for global operations, global strategic alliances, and the role of information technology and Enterprise Resource Planning (ERP) in managing global supply chains.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.3010 Operations Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4030": {
+        "name": "POMS.4030 Service Management (Formerly POMS 403/63.470)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4030/",
+        "id": "037422",
+        "description": "This course is intended to provide students with the necessary tools and understanding for managing service operations.  Service firms represent the fastest-growing sector of the economy.  This course will focus on the various aspects involved in the management of service operations.  The service operations are managed differently to their intangibility, time-sensitivity, high levels of customer involvement and lack of engineering standards.  This course will explore topics such as design and delivery of services, the measurement of productivity and quality, managing capacity and demand, redesign of service delivery processes, management of technology, and others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.3010 Operations Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4040": {
+        "name": "POMS.4040 Managerial Quality Control (Formerly 63.471/POMS 404)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4040/",
+        "id": "006502",
+        "description": "Views quality control from the total or company-wide perspectives. It contains traditional material on statistical process control (SPC), quality cost, quality assurance, quality information systems, as well as the recent management theories and ideas of Deming, Jurand, Ishikawa, and Taguchi.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.3010 Operations Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4050": {
+        "name": "POMS.4050 Predictive Data Analytics",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4050/",
+        "id": "040942",
+        "description": "The main objective of this course is for the students to develop an understanding of the role of predictive analytics in direct support of managerial decision-making commonly referred to as data analytics, and how they relate to other types of business analytic methodologies. Topics to be covered include logistic regression, data mining,regression prediction, classification prediction, artificial neural networks, sensitivity analysis, information fusion, and combining forecasts form different models. Data analytic enabling software packages will be used including some hands-on capabilities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.2010 Introduction to Business Analytics, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4060": {
+        "name": "POMS.4060 Simulation and Optimization for Business Analytics",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4060/",
+        "id": "040943",
+        "description": "Uncertainty manifests itself in most business dataset. Descriptive analytics tools help us explain the nature of the uncertainty that we have experienced, while predictive analytics tools further aid us in estimating outcomes for any given set of predictors. In this course, we cover simulation and optimization as prescriptive analytics methodologies. They take descriptive and predictive analytics results as input, helping us make managerial decision under such uncertainty. They are the art and science of creating and analyzing a model of real-world systems. This course covers business process design and analysis, simulation and optimization model development,and discrete-event simulation software application.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.3010 Operations Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4090": {
+        "name": "POMS.4090 Directed Study in Operations Management (Formerly 63.479/POMS 409)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4090/",
+        "id": "006507",
+        "description": "Topics of current interest in operations management. Subject matter to be announced in advance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.3010 Operations Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.4890": {
+        "name": "POMS.4890 Internship in Operations Management (Formerly 63.490/POMS 489)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/4890/",
+        "id": "038456",
+        "description": "Opportunity for students to earn academic credit through the integration of professional work experience with related academic work in Operations Management. A project, jointly supervised by a faculty member and representative of the employing organization with mutually defined objective(s), will be completed by the Student. An approved report in written form will be submitted to the supervising faculty member.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POMS.3010 Operations Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.5010": {
+        "name": "POMS.5010 Operations Fundamentals (Formerly 63.501/POMS 501)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/5010/",
+        "id": "006513",
+        "description": "Provides students with an introduction to operations management and operations analysis. The latter furnishes the student with a set of quantitative tools which are useful in designing and operating the former. These techniques are also generally applicable to other functional areas/courses within the MBA Program. Pre-requisites: MBA or Certificate Programs, or Permission of MBA Director.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Matriculated MBA students or MSF or MSEM or MGFB Certificate or PSM or MPA or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POMS.5CO-OP": {
+        "name": "POMS.5CO-OP Curricular Practical Training",
+        "url": "https://www.uml.edu/catalog/courses/POMS/5CO-OP/",
+        "id": "040354",
+        "description": "Curricular Practical Training. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POMS.6010": {
+        "name": "POMS.6010 Operations Management (Formerly 63.671/POMS 601)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6010/",
+        "id": "034656",
+        "description": "Examines the strategic and tactical operations processes of manufacturing and service firms that foster global competitiveness.  This course focuses on traditional and newer approaches including just-in-time, total quality management, MRP, flexible manufacturing systems, and capacity and management that lead to an integrated operations strategy.  Cost reductions, flexibility, and market responsiveness are also considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.6020": {
+        "name": "POMS.6020 Global Supply Chain Management  (Formerly POMS 602)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6020/",
+        "id": "006520",
+        "description": "Supply chain management has become a crucial factor in the success of many leading organizations, including for-profit and not-for-profit companies, government agencies, and humanitarian relief efforts. This course will start with principles and concepts of supply chain management, tracing the flows of materials, funds, and information required to develop and deliver products and services around the globe. Topics covered include sourcing, logistics, demand planning, and inventory management, along with the use of quality tools and lean methodologies to improve supply chain operations and develop supplier relationships. This course will also discuss the challenges, key issues, and trends in global supply chain management, such as sustainability, disruptions, security, and innovation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MBA Manning who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010 and MGMT.5110, or MS Engineering Management who have completed POMS.5010, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.6030": {
+        "name": "POMS.6030 Service Management (Formerly 63.673/POMS 603)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6030/",
+        "id": "006521",
+        "description": "This course is intended to provide students with the necessary tools and understanding to manage service operations. Service firms represent the fastest-growing sector of the economy. This course will focus on the various aspects involved in the management of service operations. The service operations are managed differently to their intangibility, time-sensitivity, high levels of customer involvement and lack of engineering standards. This course will explore topics such the measurement of productivity and quality, managing capacity and demand, management of waiting line, management of technology, and the most used service analytic tool - Data envelopment Management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MBA Manning who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, and MGMT.5110, or Matriculated Supply Chain and Operations Management Certificate, or MS Business Analytics, or Perrmisson of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.6040": {
+        "name": "POMS.6040 Managerial Quality Control (Formerly 63.690/POMS 604)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6040/",
+        "id": "006525",
+        "description": "Covers methods and managerial aspects related to quality management topics including statistical process control, quality cost and quality assurance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA Manning who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010 and MGMT.5110, or Matriculated MS Business Analytics, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.6120": {
+        "name": "POMS.6120 Statistics for Predictive Analytics",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6120/",
+        "id": "039994",
+        "description": "This course introduces statistical methods and techniques for predictive analytics. This is part of the business-analytics umbrella of courses. The main focus of this course is on regression, a powerful and widely used predictive method. Topics covered include simple linear regression, multiple regression, variable selection, model diagnostics, and systems of regression equations. The course also covers classification techniques using statistical methods such as linear discriminant function and logistic regression. Spreadsheet software, such as MS Excel, and statistical software, such as SAS and R, will be heavily utilized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "POMS.6010, or MS Business Analytics, or Business Analytics Certificate, or MS Industrial Engineering, or MS Engineering Management, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POMS.6210": {
+        "name": "POMS.6210 Advanced Statistics for Business Analytics",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6210/",
+        "id": "040520",
+        "description": "This course introduces important statistical techniques in business analytics such as time series analyses, multivariate analyses, and fundamental concepts in casual inferences. This course is practice-oriented with a focus on business contexts such as housing finance, e-commerce and online marketing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "POMS.6120 Stat. for Predictive Analytics, or MIST.6060 Business Intelligence & Data Mining, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POMS.6120",
+                    "MIST.6060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.6220": {
+        "name": "POMS.6220 Decision Analytics",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6220/",
+        "id": "039995",
+        "description": "This course covers the three main facets of business analytics: descriptive, predictive, and prescriptive analytics. Students will gain the knowledge of managerial decision-making (commonly referred to as data analytics, decision support systems-DSS, data mining). Some of the business analytic topics covered include neural networks, decision trees, support vector machines, k-means, association rule mining, Analytical Hierarchy Process, Data Envelopment Analysis, expert systems, optimization, and simulation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "POMS.6010, or MS Business Analytics, or Business Analytics Certificate, or MS Industrial Engineering, or MS Engineering Management, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POMS.6240": {
+        "name": "POMS.6240 Analytical Decision Making Tools",
+        "url": "https://www.uml.edu/catalog/courses/POMS/6240/",
+        "id": "040477",
+        "description": "This course covers principles and techniques of applied mathematical modeling for managerial decision making. Emphasis is on the methods of prescriptive analytics, including optimization models, decision analysis, simulation modeling, and risk analysis. Problems studied will include applications in finance, health care, marketing, operations, and management. Cases studies will be used extensively to demonstrate the practical use of models to improve managerial decision making. In addition to developing and applying models, emphasis will be placed on explaining the models and interpreting their results.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "POMS.6010, or MS Business Analytics, or Business Analytics Certificate, or MS Industrial Engineering, or MS Engineering Management, or Permission of Program Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POMS.7090": {
+        "name": "POMS.7090 Independent Study: Operations Management (Formerly 63.779/POMS 709)",
+        "url": "https://www.uml.edu/catalog/courses/POMS/7090/",
+        "id": "006534",
+        "description": "Pre-requisites: MBA Foundation Core and Permission of MBA Coordinator",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POMS.7100": {
+        "name": "POMS.7100 Predictive Modeling & Causal Analytics",
+        "url": "https://www.uml.edu/catalog/courses/POMS/7100/",
+        "id": "041778",
+        "description": "This class first builds the fundamentals for the advanced predictive modeling techniques in various domains of business. It also covers the methods to combine forecasts from various prediction models. then it explores the integration methods of structural equation modeling (covariance-based and partial least squares-based) along with the prediction modeling approaches, all of which are encompassed within the term of causal analytics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MIST.7370 Multivariate Statistical Methods, and COMP.5450 Machine Learning, or COMP.5440 Data Mining, or COMP.5430 Artificial Intelligence, Permission of PhD Coordinator, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MIST.7370"
+                ],
+                [
+                    "COMP.5450",
+                    "COMP.5440",
+                    "COMP.5430"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.7200": {
+        "name": "POMS.7200 Non-parametric Modeling",
+        "url": "https://www.uml.edu/catalog/courses/POMS/7200/",
+        "id": "041779",
+        "description": "Benchmarking and performance evaluation are used to improve an organization's products and processes. This course focuses on linear programming models used in benchmarking and performance evaluation. The technique is called data envelopment analysis (DEA). DEA has been proven to yield exceptional insights and substantial results in practice. Our emphasis is on basic concepts, mathematical formulas, and their applications. This is a spreadsheet-based modeling course. The mathematical models will be established and solved by using Excel and Excel Solver. Some Visual Basic for application (VBA) coding is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MGMT.7300 Research Design Method I, and MIST.7370 Multivariate Statistical Methods, Permission of PhD Coordinator, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MGMT.7300"
+                ],
+                [
+                    "MIST.7370"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.7300": {
+        "name": "POMS.7300 Prescriptive Analytics: Optimization & Simulation",
+        "url": "https://www.uml.edu/catalog/courses/POMS/7300/",
+        "id": "041780",
+        "description": "In this course, fundamental prescriptive analytics methodologies i.e. optimization and simulation are covered. This course provides an overview of optimization and simulation frameworks to solve wide range of issues in management science and also their applications are studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2210 Linear Algebra I, and MATH.2830 Introduction to Statistics, Permission of PhD Coordinator, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2210"
+                ],
+                [
+                    "MATH.2830"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POMS.7900": {
+        "name": "POMS.7900 Doctoral Dissertation",
+        "url": "https://www.uml.edu/catalog/courses/POMS/7900/",
+        "id": "041985",
+        "description": "Doctoral dissertation research.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POMS.7970": {
+        "name": "POMS.7970 Managerial Research Seminar",
+        "url": "https://www.uml.edu/catalog/courses/POMS/7970/",
+        "id": "042104",
+        "description": "The course will involve an on-going monthly presentation from across scholarly disciplines. Speakers will be drawn from local, national, and international universities. Attendance will be mandatory; PhD students should gain an appreciation for high level scholarship and corporate governance research. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

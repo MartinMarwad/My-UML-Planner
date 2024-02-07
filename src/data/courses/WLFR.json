@@ -1,0 +1,607 @@
+{
+    "total": 30,
+    "time": 22.16116166114807,
+    "WLFR.1010": {
+        "name": "WLFR.1010 French 1 and Culture (Formerly 50.101)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/1010/",
+        "id": "005949",
+        "description": "Develops French speaking, listening, reading and writing skills through the discovery of French and Francophone culture in a communicative approach (instruction occurs in French with clarification in English). This class is the 1st of the 4-course French language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.1020": {
+        "name": "WLFR.1020 French 2 and Culture (Formerly 50.102)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/1020/",
+        "id": "005950",
+        "description": "Continuation of French 1 and Culture (or equivalent), which is a pre-requisite. Strengthens French speaking, listening, reading and writing skills acquired in French 1 and Culture through the discovery of French and Francophone culture in a communicative approach (instruction occurs in French with some clarification in English). This class is the 2nd of the 4-course French language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR.1010 French 1 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.2110": {
+        "name": "WLFR.2110 French 3 and Culture (Formerly 50.211)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/2110/",
+        "id": "005952",
+        "description": "Enhances the four skills acquired in French 2 and Culture (or equivalent), which is a pre-requisite: speaking, listening, reading and writing through the discovery of French and Francophone culture in a communicative approach (instruction occurs in French with minimal use of English). This class is the 3rd of the 4-course French language program offered at UML. Language courses are sequential and must be taken accordingly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 50.102 French 2 and Culture",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.2120": {
+        "name": "WLFR.2120 French 4 and Culture (Formerly 50.212)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/2120/",
+        "id": "005953",
+        "description": "This course has French 3 and Culture (or equivalent) as a pre-requisite and is the 4th and last of the 4-course French language program offered at UML. The course strengthens the four skill acquired in prior levels. It emphasizes increased accuracy and depth of students' abilities and knowledge of French and Francophone culture and language in a communicative approach (instruction occurs in French with almost no use of English). Students express themselves orally and in writing at the national standards level of high-intermediate and understand key-concepts when spoken clearly at native speed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 50.211 French 3 and Culture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.3000": {
+        "name": "WLFR.3000 Quebec Literature and Culture",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3000/",
+        "id": "039894",
+        "description": "This course explores the culture and literature of French-speaking Quebec. Through essays, literary readings, songs, works of art, and film, students will follow the development of this province of Canada from its origins as a French colony through the exodus of French-Canadians in the early twentieth century and the Revolution Tranquille of the 1960's, up to the present day. Conducted entirely in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLFR.2110 French 3 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3010": {
+        "name": "WLFR.3010 Survey of French Literature (Formerly 50.301)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3010/",
+        "id": "005962",
+        "description": "A panoramic survey of French Literatue based on the history and civilization of France from the Middle Ages to the XXth (20th) Century, through readings in the original French language of excerpts from milestone novels, theater and poetry.\nClass conducted in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3015": {
+        "name": "WLFR.3015 Inventing Paris",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3015/",
+        "id": "041490",
+        "description": "The \"Haussmanization\" of Paris coincides with the emergence of the capital city of France as both a setting for contemporary literature, and as a literary character in its own right, holding different meanings for its many poets, writers, and painters. This course explores how Paris changed over the course of the nineteenth century by examining poetic and fictional responses to the Parisian landscape, and through their explorations of what it meant to live in the capital. Readings will include works by main French writers such as Balzac, Baudelaire, Hugo, Zola, and Maupassant, and feature cinematic works by Godard and Varda, in additional to examples of Paris as represented in new media. Taught in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLFR.2110 French 3 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3020": {
+        "name": "WLFR.3020 Survey of Francophone Literature (Formerly 50.302)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3020/",
+        "id": "005963",
+        "description": "A survey of contemporary Francophone Literature of  African, European, and North American French speaking countries since 1960 until today.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3025": {
+        "name": "WLFR.3025 The Short Story in Francophone Literature",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3025/",
+        "id": "041489",
+        "description": "A panoramic survey of the short story in Francophone literature, based on the history and civilization of France from the Early Modern period, through the beginning of the 21st Century, and including readings in the original French language of important works f short prose by Marguerite de Navarre, Jean de la Fontaine, Madame de Sevign\u00e9, Jean de La Bruy\u00e9re, Montesquieu, Francoise de Graffigny, Honor\u00e9 de Balzac, Gustave Flaubert, Guy de Maupassant, Rachilde, Madeleine Bourdouxhe, Fatou Diome, and Scholastique Mukasonga. Class conducted in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLFR.2110 French 3 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3030": {
+        "name": "WLFR.3030 Special Topics: in Francophone Studies (Formerly 50.303)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3030/",
+        "id": "038870",
+        "description": "An in-depth study of a specific topic in literature, culture, civilization or cinema from the French-speaking world. Class discussions, readings, oral and written work all in French. May be repeated once for credit, if content changes, and with written consent of the Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture or WLFR 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3050": {
+        "name": "WLFR.3050 World Ready Topic for French Track",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3050/",
+        "id": "040843",
+        "description": "This course, taught in English, is for non French majors and minors. It is offered for students who are completing their language requirement through the World Ready option, and have chosen the French track. The course covers a topic of the French-speaking world's culture, civilization, cinema or literature. Class discussions, readings, oral and written work all in English. Other materials could be in target language with translations or subtitles. May be repeated once for credit, if content changes, and with written consent of the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3100": {
+        "name": "WLFR.3100 French Speaking World (Formerly 50.310)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3100/",
+        "id": "005964",
+        "description": "Designed for prospective majors and minors in French as well as for those who have completed four years of high school or two years of college French. The course examines similarities and differences in the ethos of nations of the French-speaking world and in the life-styles of the individuals and groups that make them up. Conducted in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3150": {
+        "name": "WLFR.3150 Francophone Communities in North America (Formerly 50.315)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3150/",
+        "id": "005965",
+        "description": "This course introduces the concept of  \"Francophonie\" and describes the origins of the main francophone communities left in North America: Quebec, Acadia and New-Foundland in Canada, and Louisiana and New England (including Lowell) in the U.S.  The primary focus of this class is Culture, history and language (different varieties of French spoken by those communities).\nClass conducted in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3200": {
+        "name": "WLFR.3200 Contemporary French Civilization and Culture (Formerly 50.320)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3200/",
+        "id": "005966",
+        "description": "In this course we look closely at some fundamental issues reflecting the rapidly changing paramters of French culture and society today; the question of national identity and cultural hybridite, the relationship between the evolving types of family relations and new forms of social and political contracts; the crucial personal problems faced by the young, the poor, the immigrant and the elderly in an increasingly multicultural Hexagone attempting to define its place, role and funcation within the recently defined Europe unit and the new global world order; the current status of women; the relashionship between cities and ghettos, violence and crime; the nature of emerging forms of cultural production within new trends and styles of modernite.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3400": {
+        "name": "WLFR.3400 Contemporary French Cinema (Formerly 50.340)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3400/",
+        "id": "005968",
+        "description": "Provides a critical appreciation of contemporary French cinema (1985-today) aiming at sorting out its eclecticism and focusing on the following aspects: 1) French cultural exception in the European Union: cultural integration and national identity;  2) Representation of the ongoing social and moral changes in contemporary France;  3) The new generation of French filmmakers.  Class taught in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3440": {
+        "name": "WLFR.3440 Advanced French Grammar (Formerly 50.344)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3440/",
+        "id": "005956",
+        "description": "A systematic study of grammatical and syntactical structures. Review of more advanced structures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 50.211 French 3 and Culture or FRE3 or FRE4 student group waiver.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.3460": {
+        "name": "WLFR.3460 Advanced French Conversation (Formerly 50.346)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3460/",
+        "id": "005969",
+        "description": "Advanced oral practice in rapid and idiomatic speech. Topics of contemporary significance are selected from contemporary prose.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3480": {
+        "name": "WLFR.3480 Advanced French Conversation and Composition (Formerly 50.348)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3480/",
+        "id": "005970",
+        "description": "Designed to improve and reinforce proficiency in spoken and written French through regular exercises of oral communication and free composition, through the analysis of literary texts and authentic written and oral materials.  Taught in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3750": {
+        "name": "WLFR.3750 Gender and Sex in French Culture (formerly 50.375)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3750/",
+        "id": "030824",
+        "description": "Based on a wide range of theoretical texts from feminism, gender, and queer studies, this course will explore how literature and film offer new configurations of sexual and gender identity. We will examine representations of gender roles and power to explore the broader questions of belonging and marginality in the French-speaking world and globally. Students will become familiar with contemporary theories around the discursive construction of gender identity; reflect on the modalities of the representation of sexuality; analyze the problematization of sexual identity through the study of literary texts and films that question the representation and construction of gender.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3760": {
+        "name": "WLFR.3760 French Cinema & Society (Formerly 50.376)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3760/",
+        "id": "005973",
+        "description": "Covers the dramatic presentation French society gives of itself during the period of profound social and economic change, from the New Wave and the May 68 events to today's younger generation facing an uncertain tomorrow. Each screening (in French with subtitles) is preceded by an introduction placing the film in its historical context. In English.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.3800": {
+        "name": "WLFR.3800 Francophone Identity through Cinema (Formerly 50.380)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3800/",
+        "id": "005975",
+        "description": "Provides a critical appreciation of the notion of Francophone identity through modern and contemporary (1970-today) Francophone cinema from diverse places such as but not limited to North Africa, West Africa (especially Senegal), Canada (especially Quebec) the Caribbean, Belgium, and Switzerland.  The course is aiming at showing the evolution of the Francophone identity in the postcolonial period until now and is focusing on the following aspects:\n1) The emergence and importance of postcolonial Francophone cinema in the 1970s as a \"cinema engage\" (especially Sembene Ousmane in Senegal);\n2) Contemporary issues of the postcolonial Francophone societies through films;\n3) Representations of the cultural diversity in Francophone films;\n4) Identity, race and immigration, women's status issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture, or WLFR 2120 French 4 and Culture or WLAN 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ],
+                [
+                    "WLAN.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3810": {
+        "name": "WLFR.3810 The Negritude Movement in African Francophone Lit.",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3810/",
+        "id": "040231",
+        "description": "This course examines the work of prominent Francophone writers who launched the Negritude movement, a literary and ideological philosophy, developed by Francophone African intellectuals, writers, and politicians in France during the 1930s.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLFR.2110 French 3 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3815": {
+        "name": "WLFR.3815 Francophone Caribbean Studies through Lit & Film",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3815/",
+        "id": "040413",
+        "description": "This course explores major works from French Caribbean authors. Through novels, films, short stories, poetry, and play, we will uncover the historical, intellectual and social dynamics that define the French Caribbean world. A special emphasis will be placed on topics such as N\u00e9gritude, Antillanit\u00e9, Cr\u00e9olit\u00e9, and Migration.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLFR.2110 Pre-req or French 4 Waiver Group.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3820": {
+        "name": "WLFR.3820 Francophone Literature and Visual Arts of Senegal",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3820/",
+        "id": "041571",
+        "description": "Senegal has particular significance in Francophone studies for the highly visible contributions of its writers and artists from the colonial era through today, and its emblematic role in cultural production in West Africa. Through film, literature, visual arts and other cultural productions in the country from the French colonial period up through today, we examine how artists have responded to the history and present legacies of colonialism through their creative works. The course is conducted in French.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLFR.2110 French 3 and Culture, or WLFR.2120 French 4 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3825": {
+        "name": "WLFR.3825 Migration in Francophone Literature & Visual Arts",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3825/",
+        "id": "041823",
+        "description": "The long history of migration in France, and its current visibility in politics and society make studying this theme in literature, film, and other cultural production fundamental to our understanding of mainland France today.  This course focuses on written and visual texts connected to both France, and other regions of departure (including but not limited to North Africa and West/Central Africa).  We examine key themes in texts focused on migration: labor, education and assimilation, family/next generations, and clandestine immigration.  In addition to primary texts, secondary critical reading will ground discussion in postcolonial theory, gender studies, and francophone studies in order to understand the long tradition of these themes in francophone literature and film.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "WLFR.2110 French 3 and Culture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.3940": {
+        "name": "WLFR.3940 Enhancing and Advancing your Knowledge of French (Formerly 50.394)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/3940/",
+        "id": "005976",
+        "description": "Designed for students who need/wish to enhance and advance their linguistic skills in French. Conducted entirely in French, the course will focus on the vocabulary of contemporary French as well as selected grammatical and syntactical structures through the analysis of French-speaking Media (newspapers, Radios, TVs) available on the Web.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLFR 2110 French 3 and Culture or WLFR 3990 Elective.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "WLFR.2110"
+                ],
+                [
+                    "WLFR.3990"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "WLFR.4910": {
+        "name": "WLFR.4910 Directed Studies in French Literature (Formerly 50.491)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/4910/",
+        "id": "005983",
+        "description": "Individual research projects in French literature. Students, through regular and frequent consultation with their instructor, develop a course of directed study in French literature and define a problem for individual research. The student's findings are presented in a paper of significant proportions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.4920": {
+        "name": "WLFR.4920 Directed Studies French Composition (Formerly 50.492)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/4920/",
+        "id": "005984",
+        "description": "Students, through regular and frequent consultation with their instructor, pursue a special program of composition or creative expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.4950": {
+        "name": "WLFR.4950 Advanced French Tutorial (Formerly 50.495)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/4950/",
+        "id": "005985",
+        "description": "A program of directed study which affords the advanced student with an additional opportunity to pursue a previously explored problem in greater depth or to initiate a new problem. The purpose of the course is to sharpen and refine techniques for scholarly research, presentation and creative expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLFR.4960": {
+        "name": "WLFR.4960 French Practicum Experience (Formerly 50.496)",
+        "url": "https://www.uml.edu/catalog/courses/WLFR/4960/",
+        "id": "005986",
+        "description": "A program of on-campus and/or off-campus experiences (for French and Modern Language Majors only). Specific requirements vary depending upon faculty policies and the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a community, social, cultural, or artistic area and for applying techniques of problem solving and/or skills which are appropriate to the student's major discipline. May be repeated for a maximum of nine credits. Students are graded \"satisfactory\" or \"unsatisfactory\". The practicum experience may not be substituted for a required course in the major.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "total": 1,
+    "time": 2.9811153411865234,
+    "IM.769": {
+        "name": "IM.769 Continuing Graduate Research (Formerly IM.769)",
+        "url": "https://www.uml.edu/catalog/courses/IM/769/",
+        "id": "037339",
+        "description": "Graduate Research.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

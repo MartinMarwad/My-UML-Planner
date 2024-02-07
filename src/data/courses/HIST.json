@@ -1,0 +1,2285 @@
+{
+    "total": 146,
+    "time": 96.65601849555969,
+    "HIST.1010": {
+        "name": "HIST.1010 Classical Civilization (Formerly 43.101)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/1010/",
+        "id": "005189",
+        "description": "This course provides an introduction to the Ancient Near East, Greece and Rome.  The class first examines the formation of urban centers and the evolution of civilization as the late Bronze Age world transforms into the Iron Age with the creation of the vast empires such as Assyria and Achaemenid Persia.  The course then focuses on the development of Greek city-states and the ideological differences between Athens and Sparta with a brief exploration of Classical Greed culture.  Finally the class looks at the conquests of Alexander and his successors in the East, and the development of Rome as it shaped and was shaped by the cultures it conquered.  The course requires short analytical papers, exams, and historical analysis of primary sources.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.1050": {
+        "name": "HIST.1050 Western Civilization I (Formerly 43.105)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/1050/",
+        "id": "005191",
+        "description": "This course surveys some important issues and tendencies in the history of\nWestern Civilization from its origins through the early modern period,\nincluding ancient Mesopotamia, classical Greece and Rome, the Middle Ages,\nand the Renaissance.  These include \"civilization\" and the rise of cities,\ndifferent imaginings of god(s) and humanity, evolving forms of political\norganization, continuity and change in social organization and everyday\nlife, and the ongoing dialogue of faith and reason.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.1060": {
+        "name": "HIST.1060 The Modern World (Formerly 43.106)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/1060/",
+        "id": "005192",
+        "description": "In a period of intensifying globalization a basic understanding of our world is increasingly important. The main purpose of this course is to expose students to the global processes that have shaped our modern world since roughly the year 1500. Taking on a global and comparative perspective, this course will help students to develop a topical, chronological, and geographical understanding of global history and cultures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.1070": {
+        "name": "HIST.1070 World Civilizations to 1500 (Formerly 43.107)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/1070/",
+        "id": "005193",
+        "description": "This class examines societies and cultures from ancient until early modern times with the underlying assumption that world history is an important conceptual tool for understanding our interdependent world. Course topics analyze the nature of the earliest human communities, the development of the first civilizations and the subsequent emergence of cultures in selected areas of Eurasia, Africa, and the Americas. This course also offers a consideration of issues related to the connections and relationships that shaped civilizations as a result of migration, war, commerce, and the various cultural expressions of self, society, and the cosmos before 1500.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.1080": {
+        "name": "HIST.1080 World Civilizations Since 1500 (Formerly 43.108)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/1080/",
+        "id": "005194",
+        "description": "This course will introduce you to the study of world history, its relevance for living in the present, and the challenge to think critically about the emergence and subsequent development of the modern world since 1500. Participants in this course will examine experiences that transcend societal and cultural regions, focus on processes of cross-cultural interaction, and investigate patterns that influenced historical development and continue to impact societies on a global scale. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.1110": {
+        "name": "HIST.1110 United States History to1877 (Formerly 43.111)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/1110/",
+        "id": "005195",
+        "description": "This course surveys United States history from the early settlement of North America through the Civil War and Reconstruction.  It considers the role of the political and economic leadership in the building of the nation as well as actions of ordinary people whose energies and aspirations constitute the fabric of United States society.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.1120": {
+        "name": "HIST.1120 United States History since 1877",
+        "url": "https://www.uml.edu/catalog/courses/HIST/1120/",
+        "id": "005196",
+        "description": "This course surveys the history of the United States from the end of Reconstruction to the present.  It covers significant developments in the politics, economy, culture, and other aspects of American life during that period.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2000": {
+        "name": "HIST.2000 Early Christianity (Formerly 43.200)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2000/",
+        "id": "034822",
+        "description": "This course serves as an introduction to the first 800 years of Christian history.  It will begin with an introduction to the Apostolic Church of the first century (and its Jewish/Greco-Roman background) and conclude with an introduction to the Eastern Orthodox Church of Late Antiquity.  The course will also cover popular topics like \"Gnosticism,\"  \"Women in Early Christianity,\" and \"Early Christian Worship and Art.\"",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2001": {
+        "name": "HIST.2001 Religions in Medieval Europe",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2001/",
+        "id": "039601",
+        "description": "This course serves as an introduction to religion in medieval Europe (ca. 500-1500), that is, the Roman and Eastern traditions of Christianity, Christian movements deemed \"heretical\" by \"orthodoxy,\" Judaism, and Islam. Understanding the medieval history of these religions results in our gaining not only a comprehension of their individual developments but also how the three great monotheistic faiths have become some of the most powerful religious forces ever seen in civilization. These different religions will be treated not only individually but also in dialogue with one another.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2040": {
+        "name": "HIST.2040 China & the Modern World (Formerly 43.204)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2040/",
+        "id": "005201",
+        "description": "This course introduces China's interactions with the world since the 1840s. With theOpium War as the starting point, students are ushered into a traditional China whosepolitical system, cultural values, and an economic structure stood in sharp contrast to those of the outside world. The main focus of the course is to explore the process inwhich China fought for its survival as a sovereign nation and searched for its road tomodernization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2070": {
+        "name": "HIST.2070 Women in China (Formerly 43.207)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2070/",
+        "id": "005204",
+        "description": "From Confucian texts to current conditions, the course examines the evolution of Chinese women's status throughout the centuries.  The course will ask questions such as whether Confucianism dictated oppression against women, what factors influenced the changes of status for women, how Western feminism is connected with Chinese women, what roles women played in transforming China, and how ordinary women lived and are still living in China.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2090": {
+        "name": "HIST.2090 Colonial Latin America (Formerly 43.209)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2090/",
+        "id": "005206",
+        "description": "This class examines the history of Latin America from 1492 until the early nineteenth century.  After considering the rise of the Aztec and\nInca empires, we will consider how the Spanish and Portuguese were able to acquire and maintain control in the region.  Topics include indigenous-European relations, slavery, economic developments, the challenges of maintaining a colonial government, and Latin American independence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2110": {
+        "name": "HIST.2110 Historical Dimensions of Globalization (Formerly 43.211)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2110/",
+        "id": "033660",
+        "description": "This course explores the impact of globalization on the development of world societies in the late 20th-early 21st century.  Using historical analysis of contemporary realities, it develops an appropriate frame of reference to address questions about the nature and cause of globalization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2120": {
+        "name": "HIST.2120 Modern Latin America (Formerly 43.212)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2120/",
+        "id": "033661",
+        "description": "Modern Latin America, a 200-level course, surveys Latin America from independence in the early nineteenth century to the present using primary sources, a textbook, and scholarly works.  It begins with an understanding of the political, social, and economic context from which ideas of independence emerged and consideres the wars for independence.  We will spend a significant part of the course studying nation-building: how did the leaders of new nations define their nations and the values that would guide them?  Who was included and who was excluded in the process of nation-building?  The next part of the course examines the demands of groups originally excluded: the indigenous population, women, and the poor.  The portion of the course covering the twentieth century emphasizes Latin America's international connections, focusing on influence from the United States and the effectds of world wars on the region.  Mass politics also emerge, and are expressed in the Mexican Revolution and in Peronism.  We also wiill consider the Cuban Revolution and its wider effects in the region.  We will conclude our survey of the region by considering how historical trends continue to affect politics today.  For example, the Bolivian political scene continues to be affected by the events and outcome of the War of the Pacific (1879-1883) and by a  strong indigenist movement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2121": {
+        "name": "HIST.2121 Afro-Latin America",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2121/",
+        "id": "041995",
+        "description": "This class surveys the history of Africans and people of African descent in Latin America from the sixteenth century to the present. The vast majority of enslaved people from Africa who crossed the Atlantic arrived in Latin America, not in the US. In some areas, like the Caribbean and Brazil, the majority of the population for many years was (or is) of African descent. How has this affected social, cultural, and political life in the region? We will consider a range of topics, including how elements of African culture have been incorporated into broader Latin American traditions, slavery and abolition, the struggle for citizenship and inclusion, and the formation of a distinct Afro-Latin American identity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2130": {
+        "name": "HIST.2130 History of the Ancient Near East (Formerly 43.213)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2130/",
+        "id": "037455",
+        "description": "This broad survey investigates the development of the so-called \"Cradles of civilization, \" Ancient Mesopotamia, Egypt, Anatolia, the Levant and Persia.  At times the class will dip deeply into these cultures, using primary texts as well as archaeological and artistic evidence to better understand the political, religious, economic, military, social and artistic evolution of these closely associated cultures.  We will focus on themes such as the development of kingship as a secular and sacred ruler, the ideology of Empire, the environment, and the fragility of the inter-connected network of resources that developed.  The ultimate goal is to understand the inter-cultural milieu of the Ancient Near East and demonstrate how much Western civilization owes to these historical developments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2140": {
+        "name": "HIST.2140 Early America Through Material Culture",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2140/",
+        "id": "040715",
+        "description": "This class examines American history from the period before European contact to the early stages of the Industrial Revolution in the nineteenth century through the lens of material objects. Comparisons will be drawn between the objects and cultures used by European, Native American, and African American peoples, as well as over time.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2230": {
+        "name": "HIST.2230 England to 1660 (Formerly 43.223)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2230/",
+        "id": "035872",
+        "description": "A survey of English History to 1660 with emphasis on the Institutional, Economic and cultural developments.  In addition to providing general knowledge of the topic, the course is designed to enhance the learning  experience of both History and English majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2240": {
+        "name": "HIST.2240 Modern Britain (Formerly 43.224)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2240/",
+        "id": "035704",
+        "description": "A survey of the political, social and cultural history of modern Britain from the early 19th century to the present, focusing on the evolution of Britain from the period of Empire to its current membership of the European Union. Key themes include the transition from Empire to post-imperial Britain; economic development and distress; parliamentary and popular politics; social unrest and repression; nationalism, sub-nationalism and post-nationalism; and migration and citizenship.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: (ENGL 1020 College Writing II or HONR.1100) and HIST 1050 Western Civilization.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "HIST.1050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.2250": {
+        "name": "HIST.2250 Ancient Greek History (Formerly 43.225)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2250/",
+        "id": "005213",
+        "description": "A study of Greek history, institutions and culture from Minoan times through the Hellenistic period.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2255": {
+        "name": "HIST.2255 Hellenistic History",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2255/",
+        "id": "041821",
+        "description": "This course investigates the Hellenistic Period, defined as the era from the death of Alexander the Great in 323 BCE to the death of Cleopatra and the conquest of Rome in 31 BCE.  In these centuries, the Mediterranean world was exposed to brand new cultures and ideas, leading to an unmatched period of innovation and creativity, as well as to new conflicts and struggles.  This course will emphasize themes of cultural, social, and religious hybridity, which were brought about through close contact with the Near East, North Africa, and Central Asia, and closely engaged with all the complexities of the three hundred years that passed between the height of the classical Greek world and the beginning of the Roman Empire.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.2260": {
+        "name": "HIST.2260 Roman History and Civilization (Formerly 43.226)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2260/",
+        "id": "005214",
+        "description": "This course examines one thousand years of Roman history (ca. 500 BC-500AD) with equal emphasis upon social, political, military, and cultural aspects of the Republic and Empire.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2270": {
+        "name": "HIST.2270 Europe in the Middle Ages (Formerly 43.227)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2270/",
+        "id": "001244",
+        "description": "A survey of the Latin West during the formative period from the Roman Empire to the creation and development of the first European civilization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2280": {
+        "name": "HIST.2280 Women in European History (Formerly 43.228)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2280/",
+        "id": "005215",
+        "description": "This course examines the history of women in late medieval, early modern,\nand modern Western Europe (ca. 1300-1900). From medieval saints and\nRenaissance queens to Enlightenment Salonieres and ordinary wives and\nmothers, women have played an astonishing variety of roles. We will utilize\nprimary and secondary sources, historical films, and works of art to\nunderstand the contributions and challenges of women in the past.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2310": {
+        "name": "HIST.2310 Renaissance and Reformation (Formerly 43.231)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2310/",
+        "id": "005217",
+        "description": "The history of Europe in the time of transition between the late Middle Ages and the Early Modern Period. Two principle topics are the intensification of cultural change which began in Italy around 1300 and spread slowly northward and the disruption of the unity of the Western Christian Church.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2350": {
+        "name": "HIST.2350 Civil War and Reconstruction (Formerly 43.235)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2350/",
+        "id": "005220",
+        "description": "This course explores ways in which the U.S. changed in the years between 1848 and 1877. Topics covered may include the antislavery movement, black activism, secession, the war and reasons for U.S. victory, and the changes in American society and politics during Reconstruction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2370": {
+        "name": "HIST.2370 Europe in the Twentieth Century (Formerly 43.237)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2370/",
+        "id": "005221",
+        "description": "This course will survey the continent's history over its \"age of extremes\" in the twentieth century, moving broadly from the apogee of European global power at the turn of the century to its decline in the trauma of two world wars and decolonization, through the Cold War and post-1945 recovery and the challenges and possibilities that have arisen for Europe in the aftermath of 1989 and the fall of the Berlin Wall.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2390": {
+        "name": "HIST.2390 The Nonwestern World Since 1945 (Formerly 43.239)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2390/",
+        "id": "005223",
+        "description": "The recent history of Africa, the Middle East, Asia and Latin America and the comparative global processes and trends that have influenced the world since 1945.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2400": {
+        "name": "HIST.2400 World War I (Formerly 43.240)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2400/",
+        "id": "005224",
+        "description": "The course will cover the wide range of causes of this major conflict, the difficulties and changing dynamics of waging this massive war and the effects of all this on both the internal political and social conditions and external consequences for the combatants with the peace settlement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2410": {
+        "name": "HIST.2410 Colonial Survival: Case Studies in Early American Legal and Political History (Formerly 43.241)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2410/",
+        "id": "037709",
+        "description": "This class contrasts the dominant monoculture colonies of Massachusetts Bay and Virginia with the lesser known multicultural colonies of Maine, Plymouth, New Amsterdam, Maryland and Rhode Island.  While some of the multicultural colonies foundered, others flourished by utilizing a wide range of political and legal methods which allowed for their survival alongside much larger rival colonies.  The class finishes by examining similar political and legal methods employed by Native American tribes for their own survival, in particular the Cherokee, whose carefully negotiated accommodations to Anglo-American culture allowed them to live side by side with the growing United States until the 1830's.  Close analysis of both primary and secondary source material will provide students with an intensive look at rarely examined issues in early American history.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HIST.1110 United States History to 1877.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HIST.1110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.2420": {
+        "name": "HIST.2420 World War II (Formerly 43.242)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2420/",
+        "id": "005225",
+        "description": "The Second World War transformed states and people from East Asia to the United States to Europe.  We examine diplomatic and military aspects of the war and how it affected the lives of people in the countries involved. Topics include the prelude to the war, military campaigns in Europe and the Pacific, collaboration and resistance, the home front, the Holocaust, science and the atom bomb, and the consequences of the war.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2485": {
+        "name": "HIST.2485 United States Military History",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2485/",
+        "id": "040442",
+        "description": "This course is a survey of military history and the interaction between society and military institutions, technology and techniques, from the pre-colonial era to the present. The causes and consequences of war, the role of technology in war, and strategies and tactics of war will be emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2490": {
+        "name": "HIST.2490 The Vietnam War (Formerly 43.249)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2490/",
+        "id": "038202",
+        "description": "Covers the U.S. was in Vietnam from its origins in the French colonial era to its impact on contemporary culture and foreign policy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2580": {
+        "name": "HIST.2580 Russia to 1796 (Formerly 43.258)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2580/",
+        "id": "005233",
+        "description": "The growth of the Russian state: Varangian origins, the Kievan state, conversion to Christianity, Mongol domination, the rise of Muscovy, Europeanization and expansion under Peter the Great and Catherine the Great.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2700": {
+        "name": "HIST.2700 Women in American History (Formerly 43.270)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2700/",
+        "id": "005238",
+        "description": "This course surveys the history of women in the British North American colonies and United States with a special focus on social and economic change.  It examines women as a distinct group but also attends to divisions among them, particularly those based on class, ethnicity/race, and regional diversity.  Course themes include concepts of womanhood, the development and transgression of gender roles, unpaid work and wage labor, social reform and women's rights activism, as well as changing ideas and practices with respect to the female body.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2740": {
+        "name": "HIST.2740 Native American History (Formerly 43.274)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2740/",
+        "id": "005242",
+        "description": "A comprehensive study of the Native Americans through historical and first-hand accounts of their lives. Designed to enlighten students and to represent fairly the Native Americans, dispelling some of the existing myths about them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2745": {
+        "name": "HIST.2745 History of the U.S. South",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2745/",
+        "id": "039614",
+        "description": "The history of the southern United States from the colonial period to the present. Topics include the development of plantation slavery, the Civil War and Reconstruction, industrialization and the \"New South,\"  segregation and disenfranchisement, the Civil Rights Movement, and conservatism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2750": {
+        "name": "HIST.2750 African-American History (Formerly 43.275)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2750/",
+        "id": "005243",
+        "description": "This course surveys African American history in the United States from colonization to the present. It begins with a study of  life in West Africa and traces the forced migration of Africans to the Americas. It explores West African transmissions, the freedom struggle, the great migrations from the South,  the Harlem Renaissance, the modern Civil Rights movement, and the continuing impact of African Americans on life in the 21st century.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2790": {
+        "name": "HIST.2790 History of Lowell (Formerly 43.279)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2790/",
+        "id": "005245",
+        "description": "This course will provide an overview of the growth, decline, and rebirth of the city of Lowell, Massachusetts. Topics will include the Industrial Revolution, role of women and unions in the workplace, immigration and the formation of ethnic neighborhoods, urban renewal, and historic preservation. The survey will also discuss notable personalities such as labor activist Sarah Bagley, Civil War general Benjamin Butler, writer Jack Kerouac, Senator Paul Tsongas and boxer Micky Ward. The foregoing names may differ over time.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2810": {
+        "name": "HIST.2810 Sub--Saharan Africa (Formerly 43.281)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2810/",
+        "id": "030354",
+        "description": "This course provides a basic introduction to the history of the African continent. It will expose students to the processes and patterns that have shaped modern African history. The course examines the historical roots of the many challenges that the continent faces today. But, at the same time, it will also provide students with the knowledge to shatter the myths and stereotypes about Africa.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2860": {
+        "name": "HIST.2860 United States History Through Film (Formerly 43.286)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2860/",
+        "id": "005249",
+        "description": "This course explores selected moments in United States history - such as slavery, the Great Depression, World War ll, the Vietnam War, and the feminist movement - through the lens of film. Using written historical sources as well as film, students will investigate how particular films have depicted the past and shaped the way that Americans remember their history.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2950": {
+        "name": "HIST.2950 Japan Since 1600 (Formerly 43.295)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2950/",
+        "id": "005252",
+        "description": "A study of the traditional Japanese institutions and the transformation of Japan into a modern state after 1868: the Tokugawa Shogunate, Meiji Restoration, Russo-Japanese War, world power status, militarism, World War II, and present day Japan.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2960": {
+        "name": "HIST.2960 United States Diplomatic History (Formerly 43.296)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2960/",
+        "id": "005253",
+        "description": "Although the course takes the entire United States diplomatic history as its field of historical study, its focus is on the American foreign policy in the twentieth century. The course first explores domestic and international factors that made the United States a world power by 1898. It will then consider the goals, the practices, and the results of the twentieth century American foreign policy. The course challenges students to view American diplomacy in a global context.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.2980": {
+        "name": "HIST.2980 Introduction to Historical Methods (Formerly 43.298)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/2980/",
+        "id": "005255",
+        "description": "An introduction for the undergraduate student to the nature and principles of history. The course takes up methodology, historiography, research methods, electronic resources, bibliography, and the technical and stylistic problems involved in the presentation of research in scholarly form. Required of all history majors in the sophomore year.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL) and Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "History Majors, BLA History concentrators, and American Studies Majors only, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3010": {
+        "name": "HIST.3010 The World of Things: Consumer Cultures in the Modern West (Formerly 43.301)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3010/",
+        "id": "005257",
+        "description": "This course will examine the emergence and historical impact of consumer cultures in the modern West, from the eighteenth century through the present.  Topics to be covered will include the emergence of spaces of consumption (the home, the commercial/spectacular metropolis, the department store, the shopping mall, the tourist site), changing attitudes toward shopping and spending, the construction of modern social identities of class, gender, generation and race through consumption, and political struggles over consumption.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3020": {
+        "name": "HIST.3020 The Byzantine Empire (Formerly 43.302)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3020/",
+        "id": "005258",
+        "description": "Through this course, students will examine the history of Byzantine culture, which grew from the Greek-speaking remains of the Roman Empire. Students will consider how leading men and women shaped Byzantine Civilization and the political and military institutions that preserved it through the fifteenth century. The course will also focus on the development and spread of Eastern Orthodox Christianity and significant aspects of Byzantine culture, such as cuisine, gender roles, cities, and art. We will explore in some detail Byzantium's complex and difficult dialog with its neighbors: the Islamic world, the Slavs, and the Latin West. This course especially emphasizes reading and discussion of primary source documents. Students will compose a research paper as their main work for this class.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3040": {
+        "name": "HIST.3040 European Economic & Social History (Formerly 43.304)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3040/",
+        "id": "005260",
+        "description": "Europe has been transformed in the last 250 years from an agricultural society to a post-industrial one.  We study the processes by which this happened, from the Industrial Revolution of the 18th and early 19th century to the wars and depressions of the early 20th century and the collapse of the communist system and European unification in the late 20th century.  Students learn basic concepts and methods of history and economics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Level: minimum Sophomore standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3080": {
+        "name": "HIST.3080 History of Crime and Social Control (Formerly 43.308)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3080/",
+        "id": "005264",
+        "description": "Analyzes the causes and development of attempts to control crime, ethnic conflict, radical protest movements, urban disorders, and attitude and role conflicts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3100": {
+        "name": "HIST.3100 History of New England (Formerly 43.310)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3100/",
+        "id": "005266",
+        "description": "Explores the evolution of New England society from pre-Columbian to the Post-Industrial, emphasizing the ways succeeding generations of New Englanders have confronted social and economic change. Topics include: white-Indian relations, ecological change, Puritanism, the New England town, the industrial revolution, the rise of cities, immigration, ethnic and class conflict, and the distinctiveness of the region.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3105": {
+        "name": "HIST.3105 War and Native Americans in Colonial New England",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3105/",
+        "id": "041302",
+        "description": "war has played a significant role in the history of the indigenous peoples of New England and the Atlantic Northeast. From pre-colonial times through the American Revolution, conflict and warfare has had a dramatic impact on Native American societies in the region. In fact, as we examine in this course, war has been a defining feature in many indigenous communities. This course provides a cultural history of how the almost constant state of warfare shaped the lives of the Native Americans of the colonial Northeast.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3140": {
+        "name": "HIST.3140 American Social History II (Formerly 43.314)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3140/",
+        "id": "005270",
+        "description": "This course explores various aspects of common peoples' lives in the United States since 1880.  Primary areas of investigation include work and leisure, family and community, as well as culture and values.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3151": {
+        "name": "HIST.3151 Food in American History",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3151/",
+        "id": "040875",
+        "description": "This course examines change and continuity in American foodways from the pre-Revolutionary era to the present, focusing on the significance of class, race, gender, nationality, religion and region as well as transnational dimensions in that culinary history.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3160": {
+        "name": "HIST.3160 American  Environmental History (Formerly 43.316)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3160/",
+        "id": "005272",
+        "description": "This course explores the environmental history of early America and the\nUnited States from the end of the last ice age (c. 12,500 years ago) to the\npresent.  It examines the role played by nature as an historical agent as\nwell as the relationship between human communities and the physical and\norganic environment.  Course themes include evolving land use, the\nenvironmental significance of industrial capitalism, urban public health,\nresource conservation and wilderness protection, the impact of ecology on\npublic consciousness, as well as environmentalism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3200": {
+        "name": "HIST.3200 American East Asian Relations (Formerly 43.320)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3200/",
+        "id": "005276",
+        "description": "The course examines relations between the United States on one hand and Japan, Korea, China, Vietnam, and the Philippines on the other in the 19th and 20th centuries.  Besides political, trade, and cultural relations, there is also emphasis on American laws and practices regarding immigrants from these East Asian countries.  The aim of the course is for students to gain a basic knowledge of American relations with East Asia and to develop analytical skills for sophisticated inter-national relations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3210": {
+        "name": "HIST.3210 The Holocaust (Formerly 43.321)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3210/",
+        "id": "005277",
+        "description": "In a world in which genocide is real, the murder of six-to-eight million Jews between 1939 and 1945 remains a critical topic of inquiry. When were factories of death first conceived? What perverse rationale motivated the collaborators who built and operated the gas chambers and crematoria? This course will answer questions of this kind by examining the most respected scholars who have written on and primary sources that speak directly to the Holocaust",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3220": {
+        "name": "HIST.3220 Chinese Foreign Policy (Formerly 43.322)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3220/",
+        "id": "005278",
+        "description": "Chinese foreign policy since 1949 with a strong emphasis on tracing the links between historical, ideological, and cultural influences, on the one hand, and pragmatic and nationalistic considerations on the other. While tracing these links, the course explores the intricate process of policymaking in the People's Republic of China.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Requisite:  Sophomore level or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3230": {
+        "name": "HIST.3230 World of the Atlantic (Formerly 43.323)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3230/",
+        "id": "034780",
+        "description": "The concept of the Atlantic world arose to describe the interactions of the peoples of the Americas, Europe, and Africa through trade, conquest, colonialism, independence and beyond.  In this class, we will consider the cultural, economic, and political relationships that are formed and change over time between these groups.  We will pay special attention to historical approaches to studying and writing about the Atlantic World.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3270": {
+        "name": "HIST.3270 Medieval England (Formerly 43.327)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3270/",
+        "id": "001245",
+        "description": "From the first century Roman Conquest of the Britons to the 15th century Tudor victory at the Battle of Bosworth Field, this course aims to illuminate the social, political, religious, and cultural elements that made medieval England. This course will explore art, gender, class structures, and England's interactions with non-Christians, among many other topics. In addition to the extensive written sources available, special attention will be paid to archaeological discoveries that help us understand daily life in medieval England.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3290": {
+        "name": "HIST.3290 Childhood in Premodern Europe (Formerly 43.329)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3290/",
+        "id": "030355",
+        "description": "This course examines the concept of childhood in medieval and Renaissance Europe (ca. 1100-1600), with particular attention to England and Italy.   There are no specific prerequisites, although some knowledge of European history (i.e., Medieval Institutions, Western Civilization, Renaissance-Reformation) will be useful.  Among the topics we will consider are the following:  the different stages of childhood; children's education and apprenticeship; dress, diet, and demeanor of children; orphans; royal children; Protestant and Catholic views of children; adolescent sexuality; depiction of children in art; child labor; literature for children.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3300": {
+        "name": "HIST.3300 Tudor and Stuart England, 1485-1714 (Formerly 43.330)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3300/",
+        "id": "005283",
+        "description": "Traces the transformation of England from a small island kingdom to the hub of an overseas empire.   During this period the English people underwent religious upheaval and civil war, saw the rise and partial decline of the monarchy, built and rebuilt London, and enjoyed the plays of Shakespeare.  Although England provides the focus for this course, the rest of the Tudor and Stuart world is included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3320": {
+        "name": "HIST.3320 Warfare in the Ancient World (Formerly 43.332)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3320/",
+        "id": "037440",
+        "description": "Warfare in the Ancient World is a practical introduction to the study of warfare in the ancient world and traces the advances made in empire building, ideology and military technology.  The chronological structure of the class starts with the Egyptians and continues through the Dark Age, Classical and Hellenistic Greeks, to the rise and fall of Rome.  This course will trace certain themes through the centuries:  how different civilizations waged war; who served in various armies and why soldiers decided to fight.  While major battles and important individuals are discussed, military tactics and strategies are only tools to help understand the underlying causes for armed conflict.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3333": {
+        "name": "HIST.3333 American Women and Public Activism, 1800-1920",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3333/",
+        "id": "040874",
+        "description": "Over the course of the 1800's, women developed numerous strategies for influencing American society and politics, even though they were unable to vote in most elections. This course will explore how diverse groups of American women formed organizations that acted decisively in the public arena. By analyzing women's social and political activism, we will see how vital civil society is for a functional democracy, and explore how change happens. Possible topics include women's activism in social reform, local and state governments, civil rights, labor organizations, charitable work, religion, and women's rights. Consideration will be paid to the differences among women in terms of race, class, and sexuality.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3340": {
+        "name": "HIST.3340 The French Revolution and Napoleon (Formerly 43.334)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3340/",
+        "id": "005286",
+        "description": "This course will involve students directly in critical consideration of the central events and issues of the Revolutionary and Napoleonic periods, with an eye to their longer-term historical resonances in France, Europe and beyond.  The core problems we will be discussing are ones which have remained vital in modern and even contemporary political history: the nature of liberty, the nation and national identity, equality and inequalities, violence and terror in politics, the cult of the leader, war and empire.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3360": {
+        "name": "HIST.3360 Modern Ireland (Formerly 43.336)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3360/",
+        "id": "005288",
+        "description": "An upper-level course on the history Modern Ireland from the late 18th century to the  present, covering the movements for independence in the 19th century, the cultural revival and revolutionary period from the 1890s, the social and economic history of the independent state, and the Celtic Tiger phenomenon of the late 20th century. Key themes include nationalism and identity, colonialism and post-colonialism, religion and repression, emigration and disapora, culture and social life, and changing definitions of \"Irishness\" over time.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: (ENGL 1020 College Writing II or HONR.1100) and HIST 1050 Western Civilization.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HONR.1100)"
+                ],
+                [
+                    "HIST.1050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3370": {
+        "name": "HIST.3370 Germany Since 1871 (Formerly 43.337)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3370/",
+        "id": "005289",
+        "description": "This course will survey major developments of Modern German History, from German Unification through European Union. Topics covered will include German social, political and military evolution under the Empire: the impact of modern, \"total\" war; the upheavals of the Weimar and Nazi periods; German recovery and division during the Cold War; German reunification and its contemporary aftermath.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3380": {
+        "name": "HIST.3380 War and Memory in Twentieth Century France (Formerly 43.338)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3380/",
+        "id": "037041",
+        "description": "This course will address the individual and collective trauma of modern warfare, as that was experienced in France both during and after the country's three main wars in the twentieth century.  It focuses on how the experience of modern war was negotiated in culture---in personal and official memory, in gender relations, and in a great variety of written and visual texts.  Individual units will be dedicated to World War I, the Occupation and Vichy Regime during World War II, and the Algerian War, and to the long and conflicted afterlife of those conflicts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3420": {
+        "name": "HIST.3420 Inquisition: Myth and Reality (Formerly 43.342)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3420/",
+        "id": "005292",
+        "description": "Following a brief introduction and an overview of the medieval Inquisition, the first few weeks of the course will be devoted to a study of the Inquisition in Spain and Italy from 1450-1650.    We will also discuss the way in which the history of the Inquisition has been analyzed during the past five hundred years (what historians call \"historiography\").  The second half of the course will focus on student research and selected topics in Inquisition studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3430": {
+        "name": "HIST.3430 Fascism and the Radical Right in Twentieth Century Europe (Formerly 43.343)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3430/",
+        "id": "034573",
+        "description": "This course will offer a comparative exploration of the deep and enduring appeal of fascism and far rightist politics in twentieth century Europe.  Beginning with the nationalist revival and cultural crisis of the late nineteenth century and the cataclysm of World War I, we will trace the rise of the radical right to political prominence in Europe in the 1920's and 1930's.  While retaining a Europe-wide perspective throughout, we will analyze in particular detail the Fascist and National Socialist seizures of power in Italy and Germany, and examine their efforts of political, social, economic and cultural mobilization.  Issues covered will include fascist political communication and governance, terror and \"normality\" in everyday life, labor and youth policy, racism and racial purification, and gender and reproductive politics, among others.  In the final section of the course, we will contemplate the historical legacy of fascism after 1945, focusing on the politics of memory and representation in post-war Germany, Italy and Europe more generally, and assessing the recent resurgence of fascist and quasi-fascist political tendencies in the 1980's and 1990's.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3440": {
+        "name": "HIST.3440 Revolutions in the Modern World (Formerly 43.334)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3440/",
+        "id": "038334",
+        "description": "In this comparative history course, we look at the theories of Marx, Barrington Moore, Crane Brinton, Theda Skocpol, William Sewell, and others on the causes, dynamics, and outcomes of revolutions in the modern world. We then consider the history of the French, Russian, Vietnamese, and Iranian Revolutions (list may vary each semester) to see how well the theories fit the events. The course ends with a discussion of whether the pattern and analyses discussed in the course are helpful in understanding a contemporary revolution, such as that in Egypt.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "43.106  The Modern World.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3449": {
+        "name": "HIST.3449 American Slavery: History, Fiction, and Film",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3449/",
+        "id": "039597",
+        "description": "This course examines the history of slavery in the United States. It explores topics such as the role of slavery in the economy, the culture of enslaved Americans, resistance to slavery, and the abolition of slavery, often making comparisons to slavery in other parts of the Western Hemisphere. The course also investigates how the institution of slavery has been represented by different generations of historians and in American popular culture from the 1850's through the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Requisite:  Sophomore level or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3450": {
+        "name": "HIST.3450 Slavery and Abolition (Formerly 43.345)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3450/",
+        "id": "005293",
+        "description": "This course takes a comparative approach to the study of  plantation slavery in the Americas with special attention to developments in Virginia and Cuba. It surveys the structure of slavery in the nineteenth century United States South; slavery's legacy in the United States;  and its twenty-first century reincarnation in human trafficking and forced labor around the world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Requisite:  Sophomore level or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3480": {
+        "name": "HIST.3480 Making an Historical Documentary (Formerly 43.348)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3480/",
+        "id": "034782",
+        "description": "This course provides students with the basic conceptual and technical skills for developing and completing an historical documentary, including instruction about subject choice, narrative structure, camera work, and editing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3489": {
+        "name": "HIST.3489 Reform and Revolution in Latin America",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3489/",
+        "id": "041123",
+        "description": "This course focuses on reform movements and revolutions in modern Latin America as a way of considering how individuals and groups articulate their needs and demand access to resources, representation, and political change. Calls for lad reform, voting rights, environmental protection, indigenous representation, and anti-imperialism are common themes we will consider during the semester.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3490": {
+        "name": "HIST.3490 The Cuban Revolution (Formerly 43.349)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3490/",
+        "id": "034715",
+        "description": "The Cuban Revolution has been surrounded by controversy since it took power in 1959.  Through readings, films, and discussions, we will examine not only the events that have occurred in Cuba over the last four decades but also the ways that they have been presened to audiences in Cuba, the United States, and elsewhere.  We will carefully consider the role of perspective in academic writing and the media and how it has shaped understandings of the Castro era.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3500": {
+        "name": "HIST.3500 Colonial North America, 1550-1750 (Formerly 43.350)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3500/",
+        "id": "005295",
+        "description": "This class explores societal groups across the North American continent from 1550 to 1750 by comparing the approaches and responses to colonization taken by different European and Native American groups alongside the emergence of African slavery in North America. The semester concludes with the escalating colonial wars in the early eighteenth century, which would lead to both the French and Indian, and Revolutionary, Wars.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3510": {
+        "name": "HIST.3510 Captivity Narratives and Colonial Societies (Formerly 43.351)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3510/",
+        "id": "037722",
+        "description": "The long sequence of military conflicts in New England at the turn of the eighteenth century led to an equally long sequence of accounts describing the experiences of English colonists taken captive by Native American or French military forces. While these narratives remain the best known examples of this particular literary genre in the United States, this class will explore the multitude of ways in which the captivity narrative was used in colonial North America by people of different races and cultures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HIST.1110 United States History to 1877.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HIST.1110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3520": {
+        "name": "HIST.3520 British Colonization in the Eighteenth Century (Formerly 43.352)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3520/",
+        "id": "005296",
+        "description": "This class provides a thematic examination of the British North American colonies. Topics include colonies founded in the long eighteenth century, material culture, the multi-racial British empire, the Enlightenment, and the rise of individualism's impact on society and religion, and shifting political relationships between Britain and its colonies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3530": {
+        "name": "HIST.3530 The French and Indian and Revolutionary Wars (Formerly 43.353)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3530/",
+        "id": "005297",
+        "description": "The years between 1754 and 1784 saw drastic change on the North American continent and around the world for Britain and its colonies.  Colonists in North America went from being devout British subjects during the French and Indian War to rebelling and founding their own new country during the American Revolution.  In turn, the British Empire went from spending millions of pounds on North America in the 1750's to barely committing the resources necessary for fighting the Revolution.  This class examines these cultural and political transitions in context with discussions on the varied populations of North America who experienced them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HIST.1110 United States History to 1877.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HIST.1110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3540": {
+        "name": "HIST.3540 Mapping Early America",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3540/",
+        "id": "041994",
+        "description": "This class explores the diverse methods used by Native American, Spanish, French, British, and Dutch peoples to map, claim, and inhabit land and the built environment around them. Whether on paper, skins, or in the mind, this cartographic record documents developing technologies and shifting cultural and political identities alike. Weekly discussions provide students with both an introduction to the vast array of surviving maps from the early American world and the skills needed to analyze them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3550": {
+        "name": "HIST.3550 Jacksonian America (Formerly 43.355)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3550/",
+        "id": "005299",
+        "description": "An investigation of the social, political, and economic developments in the United States from 1815 to 1848. Special emphasis is placed on the spread of capitalism, the growth of reform movements, the development of cities, and the conflict over slavery.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3560": {
+        "name": "HIST.3560 Civil War and Reconstruction (Formerly 43.356)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3560/",
+        "id": "005300",
+        "description": "This course surveys the increasing political, social, and economic tensions between the North and the South during the first half of the nineteenth century; the explosion of those tensions into secession and conflict; the four years of war; and the postwar struggle to reconstruct the South and forge a new union.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Requisite:  Sophomore level or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3570": {
+        "name": "HIST.3570 American Civil War in Memory (Formerly 43.357)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3570/",
+        "id": "005301",
+        "description": "Students analyze how Americans have remembered the American Civil War in the years after the war ended in 1865. By looking at novels, memoir films, National Park Service Battlefields, and monuments, students discover how remembrances are influenced by views of race, gender, patriotism, regionalism, and economic forces.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3575": {
+        "name": "HIST.3575 The Age of Jim Crow",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3575/",
+        "id": "040403",
+        "description": "This course examines U.S. History--particularly the history of the South--during the era of Jim Crow, the period between the Civil War and the Civil Rights Movement when African Americans were systematically denied political and social rights. This course examines the visions white southerners held for what their region should be in this period, as well as the responses of African Americans.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3580": {
+        "name": "HIST.3580 Amazing American Lives (Formerly 43.358)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3580/",
+        "id": "005302",
+        "description": "Biography often has been used by historians as source material for representing the nature of the American experience. An examination of outstanding biographies of the lives of various Americans can yield insights into all levels and ranks of American society from colonial days to the late twentieth century.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3585": {
+        "name": "HIST.3585 American Women's Lives, 1600 - present",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3585/",
+        "id": "041493",
+        "description": "Some of the very best and most readable examples of American Women's History come in the form of biographies. While historians may sometimes lack sources for writing women's history, we often know spectacular amounts about individual women. Scholars have used this wealth of information to produce rich, complex readings of women's lives. In the process of doing so, historians of American Women also write the history of all of American society, culture, politics, ad economics. This course seeks to broaden our understandings of American History, the genre of biography, and most importantly, the history of American Women. The women chosen for the study will depend on the preferences of the professor, with attempts made to cover a variety of topics, time periods, and types of biographies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3587": {
+        "name": "HIST.3587 Women in Early America",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3587/",
+        "id": "042269",
+        "description": "Spanish, French, British, Dutch, Native American, and African American women had varying experiences on the North American continent between 1500 and 1800. This class uses ten case studies on topics ranging from the colonial borderlands to gender identity in the early modern period to the impact of slavery on family structures to examine their daily lives. In addition, students are introduced to the many scholars who have worked in this field during the past four decades, before considering new directions for the study of women in Early America.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3590": {
+        "name": "HIST.3590 Democracy in the United States 1800-1860 (Formerly 43.359)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3590/",
+        "id": "005303",
+        "description": "The course examines what is often referred to as the Golden Age of American Democracy. How much power did ordinary Americans have in the political system? What motivated people to participate in politics? What roles did women and racial minorities play in American politics despite not being able to vote?",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3620": {
+        "name": "HIST.3620 The Twenties and the Thirties (Formerly 43.362)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3620/",
+        "id": "005306",
+        "description": "An examination of the emergence of the corporate and governmental institutions of modern America set in two turbulent decades of cultural and political ferment that involved both booming prosperity and the economic collapse of the Great Depression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3650": {
+        "name": "HIST.3650 United States History since 1960 (Formerly 43.365)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3650/",
+        "id": "005309",
+        "description": "Discusses Cold War politics and civil rights upheavals during the 1960's and 1970's, the decline of American economic and political power, and the resurgence of conservative politics in the 1980's.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3660": {
+        "name": "HIST.3660 History of Race and Gender in Sports",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3660/",
+        "id": "042020",
+        "description": "This course is an in-depth examination of the history of race, ethnicity and gender in the development of collegiate and professional sports in the United States. It will track the maturity over time of athletic activities, specific sports, their rules and the impact each particular sport has had on society, politics, legislation, economic stratification, educational opportunity, and the American cultural experience. Students in this course will explore issues such as racial and sexual stereotyping in sports and related advertising, college athletes and academics, Native American mascots, sports during periods of social unrest including the Civil Rights Movement, and the importance of the passage of Title IX (9).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3690": {
+        "name": "HIST.3690 Russia 1796 to the Present (Formerly 43.369)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3690/",
+        "id": "038594",
+        "description": "This course covers the history of Russia in its various incarnations-Imperial Russia from the end of Catherine the Great's reign the Soviet Union, and today's Russian Federation. We use both historical works and literature to get a better understanding of the Imperial state, the nature and the social bases of autocracy, the ideologies and actions of the movements that supported the Empire and those that opposed it. We cover the cataclysms of World War I, the Revolutions, Civil War, and the Soviet period (preparing the student for the course on \"Stalin's Russia\", 43.374). We examine the causes and events involved int he decline and collapse of the Soviet Union, and the rise and emerging patterns of behavior of the Russian Federation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3710": {
+        "name": "HIST.3710 Medieval Institutions (Formerly 43.371)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3710/",
+        "id": "005315",
+        "description": "This is a reasonably intensive reading seminar focusing on a number of important medieval institutions that have helped to influence our modern world. You will read a number of works in order to discuss them in detail in class. In addition, you will be required to write a review of one of three required books.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3720": {
+        "name": "HIST.3720 Women in the Middle Ages",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3720/",
+        "id": "041303",
+        "description": "This course explores medieval Europe through the female lens. We will illuminate the influence of women on war, politics, business, religion and culture. We will study queens, writers, artists, nuns businesswomen, and peasants in order to understand how women shaped the medieval world, how they were shaped by it, and how they contributed to the brilliance of the Renaissance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3730": {
+        "name": "HIST.3730 Nazi Germany (Formerly 43.373)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3730/",
+        "id": "005317",
+        "description": "This course looks at the period 1933-1945 (the period of the \"Third Reich\") in Germany from the perspectives of economics, politics, society, and the arts. In the course, we will read preeminent historians who have written on each of these themes in order to gain a firm understanding of the historical debates that surround the period. Specific subjects include the Nazi consolidation of power, the increasingly brutal nature of anti-Semitic policies, the power struggles among chief Nazi officials, the ideologies and personae of figures like Hitler, Rosenberg, and Goebbels, the nature of \"Nazi art\" and cultural policies, and the path to war.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3740": {
+        "name": "HIST.3740 Stalin's Russia (Formerly 43.374)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3740/",
+        "id": "005318",
+        "description": "Spanning the period from the \"October Revolution\" of 1917 to Stalin's death in 1953, this course considers \"Stalinist Russia\" from the perspectives of economics, society, the arts, politics and war. In the course, we will read the preeminent historians who have written on these topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3760": {
+        "name": "HIST.3760 20th Century Irish History in Film (Formerly 43.376)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3760/",
+        "id": "038595",
+        "description": "This course is on the representation of Irish history in narrative feature and documentary films made in or about Ireland. Starting with the revolutionary era, it covers the key events, issues, and debates that defined Irish politics, culture and society in the last hundred years. The course is divided into five thematic sections and proceeds chronologically through the 20th century, starting with the War of Independence against the Britain and the Civil War that followed; the American romanticism of Ireland in film;social issues that plagued the Irish Free State and Republic;the period of violence in the North known as The Troubles;and the issued raised by multi-culturalism during the Celtic Tiger era.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3790": {
+        "name": "HIST.3790 United States Industry Twentieth Century (Formerly 43.379)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3790/",
+        "id": "005322",
+        "description": "An exploration of the rapid growth of the American economy in the 20th century, including the evolution of the large corporation and the mass production assembly line. Particular attention is devoted to the ways in which immigrants, women, and the African Americans were affected by the rise of big business. The course also traces the decline of the traditional U.S. manufacturing base following the Second World War and the impact this had on the working class and their unions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3800": {
+        "name": "HIST.3800 Work and Society (Formerly 43.380)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3800/",
+        "id": "005323",
+        "description": "Provides a survey of labor history from the colonial period to the present focusing on the interrelationship between culture and work in American society and on the dynamics of technical and economic changes on the organization of work processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3810": {
+        "name": "HIST.3810 United States in the 1960s",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3810/",
+        "id": "005324",
+        "description": "This course examines the United States during the 1960s.  General themes include the stifling and freeing of dissent, the \"rights revolution\", liberal social and economic policy, foreign policy in a bipolar world, redefinition of values and morals, changing relations between women and men, increasing concern with environmental pollution, the growing credibility gap between citizens and their government, and rise of the \"New Right\".",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3840": {
+        "name": "HIST.3840 Radicalism in American History (Formerly 43.384)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3840/",
+        "id": "005327",
+        "description": "A biographical approach to the influence of radicalism on American history with emphasis on significant and representative personalities and heir contributions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3845": {
+        "name": "HIST.3845 Malcolm X",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3845/",
+        "id": "040404",
+        "description": "This course investigates the personal transformation of Malcolm X during his lifetime as well as the impact he has had on both American and transnational culture and politics from the mid-twentieth century to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3860": {
+        "name": "HIST.3860 Working Women in the Roman World",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3860/",
+        "id": "035078",
+        "description": "This course addresses the role of female labor in the Roman world, from the Roman Republic to the Late Empire (~509 BCE-400 CE). The course uses the cases of women of different statuses to explore the economic contributions of women. Students will be invited to question the secondary role women have traditionally held in scholarship on the economy of the ancient world and reassess the whole economic picture through the lens of  \"untypical\" workers. We will study both free and enslaved women, and closely examine how economic necessity empowered some women and constrained others. Students will investigate what kinds of labor were deemed legally and socially appropriate for women and be exposed to instances when women pushed up against, or beyond, those boundaries.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3870": {
+        "name": "HIST.3870 Pirates of the Mediterranean",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3870/",
+        "id": "041822",
+        "description": "This course uses piracy, defined as armed robbery at sea, to highlight issues of violence, governmental intervention, and economic practices as they relate to marginalized people of the Greco-Roman world.  Students will be introduced to the methods of underwater archeology while examining shipwreck evidence, and epigraphic conventions while reading primary source material relating to piratical events.  The course follows the long history of the Mediterranean as a contested, yet central space, and tracks how the sea was used, not just as a resource, but as an opportunity for predation and personal advancement.  The main questions will be: what is a pirate, and who has the power to apply that label to others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3880": {
+        "name": "HIST.3880 Ancient Mediterranean: Cultures in Contact (Formerly 43.388)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3880/",
+        "id": "005330",
+        "description": "The ancient Mediterranean was home to a diverse array of cultures in close contact with each other through trade, warfare, and colonization.  This course will study a variety of Greco-Roman responses to other cultures through a series of case studies of contact between Greeks, Romans, and other cultures of the ancient world.  In particular, we will examine questions of the applicability of modern concepts such as race and ethnicity, and explore the ways in which these shifting representations of other cultures are reflective of the ways in which Greeks and Romans perceived themselves. We will also reflect on the ways in which these ancient Greco-Roman conceptions of culture relate to our own modern understandings of cultural difference.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3885": {
+        "name": "HIST.3885 Law in the Ancient Greek World",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3885/",
+        "id": "040441",
+        "description": "This course will examine the body of evidence for law in the ancient Greek world as a means of understanding the legal, political, and social history of the Greek poleis. In particular we will focus our attention on the large corpus of forensic speeches form Classical Athens with an eye to understanding the ways in which the Athenian city governed itself and resolved conflict within the poleis. Due to the nature of these speeches and the evidence for Greek legal practices, we will also be examining various aspects of Greek social and economic history within a legal context, including gender, slavery, property law, and citizenship.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3890": {
+        "name": "HIST.3890 Ancient History in Film (Formerly 43.389)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3890/",
+        "id": "037439",
+        "description": "Ancient History in Film seeks understand the interconnection between ancient texts, social history and pop culture in American cinema.  This course is more than an excuse to watch fun films and gain academic credit.  It will engage the primary texts that are the foundation for these cinematic creations while investigating the social and cultural influences that shaped the making of these movies.  Ultimately, this course will provide a clearer view of our own world through the lens of moviemakers mimicking the Greco-Roman world.  We will read primary texts in translation, modern analyses of these movies and you are responsible to watch an entire film between class sessions.  All films are on reserve in the Media Center of the O'Leary Library.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3900": {
+        "name": "HIST.3900 Topics in History (Formerly 43.390)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3900/",
+        "id": "035708",
+        "description": "An advanced course of study and examination of a variety of issues and topics in history.  Students without a sufficient background in history courses should not attempt this course.  Subject matter to be announced in advance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3901": {
+        "name": "HIST.3901 Topics in History of the Portuguese World",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3901/",
+        "id": "041255",
+        "description": "An advanced course that will cover various topics in the history of the Portuguese-speaking world, including medieval, early modern, and contemporary history in Portugal, Brazil, and other areas of the Lusophone world. The specific focus of each iteration will be announced in advance. Offered irregularly.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3910": {
+        "name": "HIST.3910 America and the World (Formerly 43.391)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3910/",
+        "id": "035559",
+        "description": "In an age of increasing globalization, historians realize the need for putting the American national narrative in a wider historical context.  This course will help students locate the study of the United States in a global, comparative and transnational perspective.  This course will be used as one of the courses needed by History majors in the global, comparative and under-represented areas of the major.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3920": {
+        "name": "HIST.3920 Immigration History (Formerly 43.392)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3920/",
+        "id": "039116",
+        "description": "The course focuses on the experiences of women, men, and children who came to the U.S. from the colonial era through the 21st century. Their emigrations will be examined in a global context. Irish migration, the mass European migrations during the mid and late 19th /early 20th centuries, and post-Second World War immigration particularly  from Asian and African countries are discussed.  The Lawrence, Lowell, and Boston immigration stories are also considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3930": {
+        "name": "HIST.3930 History of the Middle East and Islamic World (Formerly 43.393)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3930/",
+        "id": "005331",
+        "description": "This course examines the history of the Middle East and the Islamic World from the time of Muhammad to the present. It provides an introduction to the history of this often turbulent region. It exposes students to the processes and patterns that have shaped the history of the Islamic World. The course examines the historical roots of the many challenges that the region faces today.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3931": {
+        "name": "HIST.3931 Empire and Resistance in the Modern Middle East",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3931/",
+        "id": "040674",
+        "description": "This course explores the role of empires in the Middle East from the 18th through the first half of the 20th century. During this period various forms of imperial rule defined the region's governance-from Ottoman rule to the British occupation of Egypt in the late 19th century to British and French mandate states in much of the region post World War I. The course will emphasize comparative approaches to understanding how these empires shaped the region. We will examine how these various forms of empire were engaged by local populations, from elites to peasants, and how their histories impacted the independent nation-states that succeeded them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3932": {
+        "name": "HIST.3932 Environmental History of Middle East & North Africa",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3932/",
+        "id": "041304",
+        "description": "This course examines the history of the Middle East and North Africa from an environmental angle. We will think about how a focus on environmental factors enables alternative perspectives on colonialism, nationalism, capitalism, gender and sexuality, empire, race, and class. What are some of the benefits of these interpretations? Are there also drawbacks? We will also consider what it means to talk about the impacts of climate change in the region when thinking historically.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.3940": {
+        "name": "HIST.3940 Immigration and Assimilation in Contemporary Europe",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3940/",
+        "id": "039589",
+        "description": "This course examines contemporary European dilemmas of immigration, assimilation and multiculturalism, within the context of the larger history of European imperial decline after 1945. It will aim at providing fuller historical understanding of Europe's ongoing crises of integration, while also exploring the textures of individual and community life among those of immigrant descent within contemporary Europe. For purposes of focus and continuity, greatest attention will be dedicated to South Asian, Turkish, and North African communities in Britain, Germany and France, respectively.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.3960": {
+        "name": "HIST.3960 Alcohol In American History (Formerly 43.396)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/3960/",
+        "id": "039555",
+        "description": "This course uses the production, distribution, consumption, and prohibition of alcoholic drinks as a lens for studying cultural, political, and economic change in American life from the colonial era to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.4010": {
+        "name": "HIST.4010 History Writing and Community (Formerly 43.401)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/4010/",
+        "id": "034894",
+        "description": "Restricted to upper-level students and available only with permission of the instructor, this course offers a select number of students the opportunity to work for non-profit and governmental organizations within Lowell.  Such organizations might include the National Park Service; Community Teamwork Inc.; Girls Club of Lowell; St. Athanasius Church; American Textile History Museum, and so forth.  The course is primarily intended for History majors.  Students will utilize their skills in research, writing, and analysis to assist an organization with its documented needs (e.g., conduct research on history of the organization; write a pamphlet or short article; organize oral history interviews; analyze the urban context in which the organization has developed).  Students receive academic credit, along with invaluable work-related experience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.4100": {
+        "name": "HIST.4100 Olympic Games and World's Fairs (Formerly 43.410)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/4100/",
+        "id": "037042",
+        "description": "The course studies Olympic Games and World's Fairs from the mid-nineteenth century to the present.  We examine how these international festivals participate in and contribute to six themes in the history of that period:  nationalism and internationalism, mechanization of industry, modern architecture and urban planning, consumer culture, racial politics, and the Cold War.  Students write brief papers connection these themes and one or more game or fair and a research paper on a relevant topic.  Special attention is given to certain icons, like the Crystal Palace, the Eiffel Tower, the Nazi Olympics, and the Mexico City games.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 43.106 The Modern World or the permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.4320": {
+        "name": "HIST.4320 Research Seminar (Formerly 43.432)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/4320/",
+        "id": "005337",
+        "description": "Systematic research in primary and secondary sources culminating in the writing of an original research paper using proper methodological and stylistic techniques. Weekly meetings and written and oral progress reports. Students must be acquainted with word-processing techniques. Required of all History majors.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL), Critical Thinking & Problem Solving (CTPS), and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.4430": {
+        "name": "HIST.4430 'Foreigners' of the Middle East (Formerly 43.443)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/4430/",
+        "id": "038524",
+        "description": "This class focuses on how societies organize difference, looking at the relationships between national, ethnic, religious, racial, gender and /or socio-economic affiliations in creating and concretizing foreignness and minorities in the Arab Middle East and today's Turkey and Iran during the late Ottoman and colonial eras. This class includes engagement with historical sources, movies, memoirs and more, and requires several short papers and one longer term paper and presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HIST 1060 The Modern World, or HIST 1080 World Civilization II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HIST.1060",
+                    "HIST.1080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.4910": {
+        "name": "HIST.4910 Directed Study (Formerly 43.491/591)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/4910/",
+        "id": "005339",
+        "description": "Directed study offers the student the opportunity to engage in an independent study or research project under the supervision of a department member. Working closely with the instructor, students define and investigate a research topic in an area of special interest and present the results of their investigation in a significant paper. Juniors and seniors only.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.4960": {
+        "name": "HIST.4960 Practicum (Formerly 43.496)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/4960/",
+        "id": "005343",
+        "description": "A program of on-campus and off-campus experiences for history majors only. Specific requirements vary depending upon the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a community, social, cultural, or artistic area and for applying techniques of problem solving and/or skills that are appropriate to the student's major discipline. May be repeated for a maximum of nine credits. Students are graded 'satisfactory' or 'unsatisfactory.' The practicum experience may not be substituted for a required course in the major.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.4970": {
+        "name": "HIST.4970 Tsongas Center Field Practice (Formerly 43.497)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/4970/",
+        "id": "035077",
+        "description": "This 3-credit hour course will be an addition to the History Department's other 400-level courses.  Currently, students enrolled in the \"Research Seminar\" conduct primary original research and present that research in one or another format.  \nThose in the \"Directed Study\" work with assigned faculty on the historiographic breadth of a particular topic, reading selected books, writing response papers, and meeting for weekly discussions.  Additionally, the existing \"Practicum\" allows students to earn course credit for hands-on classroom and history museum projects.  The \"Tsongas Center Practicum\" will combine elements of all three, and make it possible to identify the specific Tsongas Center focus as such on student transcripts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 43.298 Intro to Historical Methods.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5010": {
+        "name": "HIST.5010 The Practice of History (Formerly 43.501)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5010/",
+        "id": "039282",
+        "description": "This course surveys the range of methodology and philosophy associated with various approaches to historical study. It includes a general introduction to the discipline as well as topical sections dealing with Historical Materialism, the Annales School, Postmodernism, Gender History, Post-Colonial Studies, and Public History, wrapping up with a focused reflection on the material as a whole.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5020": {
+        "name": "HIST.5020 Introduction to Archives (Formerly 43.502)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5020/",
+        "id": "039315",
+        "description": "Ho should we remember and document the past? This course introduces students to the goals and operation of archives, which play a crucial role in the preservation of historical sources. The course considers archival administration, funding, management, record-keeping (both paper and digital), and security. Field trips to university, municipal, and national archives are expected, as well as occasional guest speakers from the world of archives. Students will complete a variety of different writing assignments as well as brief oral presentations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5100": {
+        "name": "HIST.5100 Modern Revolutions in a Global Context (Formerly 43.510)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5100/",
+        "id": "037585",
+        "description": "Course is an introduction to the historical study of revolutions and revolutionary movements. We will define revolution and examine competing theories about its causes, outcomes, and processes through the study of several revolutions, upheavals, coups, and rebellions from around the world. We will read about and discuss the origins of the modern idea of revolution and a few leading theorists and theories along with our historical analyses. Over the course of the semester, we will identify the elements of a revolution and the specific historical, social, and political contexts that create them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 43.106 The Modern World or the permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5110": {
+        "name": "HIST.5110 History of College, 1100-1900 (Formerly 43.511)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5110/",
+        "id": "037584",
+        "description": "The foundation of universities in late medieval Europe  also ushered in the earliest colleges, intended primarily to house students but also to provide tutoring, social support, and financial assistance.  The earliest colleges arose in Paris but soon spread to Bologna, Oxford, and other university towns.  This course traces the history of colleges from late medieval Europe to nineteenth-century America.  It considers the various models of colleges that developed in northern and southern Europe, and how those models were transferred across the Atlantic.  Some colleges remained primarily residences, while others expanded to offer a full graduate and undergraduate curriculum.  We will also consider topics like student life, financial arrangements, admissions, alumni, and academic requirements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5120": {
+        "name": "HIST.5120 Athenian Democracy and Political Culture (Formerly 43.512)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5120/",
+        "id": "039314",
+        "description": "The Athenian democracy serves as a key reference point in the history of democratic governance and is one of the best documented periods and institutions in ancient Greek history. We will undertake a detailed examination of the ways in which the workings of the Athenian democracy and state evolved throughout antiquity and the ways in which the workings of the Athenian democracy and state evolved throughout antiquity and the ways in which this form of radical democracy was viewed and critiqued during the period itself. The course will provide both an overview of Athenian institutional and social histories as well as a methodological survey of the variety of source material used by historians of ancient Athens. We will also look at broader issues including the connection between democracy and empire in the fifth century, social class, and the critique of democracy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5130": {
+        "name": "HIST.5130 World History: Theory and Practice (Formerly 43.513)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5130/",
+        "id": "039317",
+        "description": "In an increasingly globalized and diverse age, world history has become a growing teaching field at the secondary and the college level in the United States. The overarching purpose of this class is to prepare students as teachers and practitioners of world history;. This course will introduce the field and concepts of world history. It will familiarize students with available materials such as textbooks, readers, primary documents, academic books and articles, websites, and podcasts. This course also exposes students tot he global processes that have shaped our world since roughly the year 1400. Taking a global comparative perspective, this course will help students to develop a topical, chronological, and geographical understanding of global history and cultures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5150": {
+        "name": "HIST.5150 Contemporary Global Issues in Historical Perspective",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5150/",
+        "id": "040174",
+        "description": "In a period of intensifying globalization a basic understanding of our world is increasingly important. By looking at various contemporary issues, such as the revolutions in the Muslim world, atrocious war, gender, corruption, religion vs. secularism, immigration, and global economic issues, this course will provide historically grounded perspectives of contemporary issues around the world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5170": {
+        "name": "HIST.5170 Post-Colonial Europe, 1945 to the Present",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5170/",
+        "id": "039880",
+        "description": "This course considers recent European history through a postcolonial optic, with particular focus on ongoing European dilemmas of immigration, assimilation and multiculturalism. Its approach will be interdisciplinary, beginning a critical reflection upon salient examples of postcolonial theory, and then moving through three different thematic units. The first will be immigration and immigration politics, as those came to the very fore of European concern from the 1960s forward. The final unit adopts a cultural approach, using film, fiction, memoir, music and other sources to explore the textures of individual and community life among those of immigrant decent within contemporary Europe.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5350": {
+        "name": "HIST.5350 Immigration History (Formerly 43.535)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5350/",
+        "id": "039285",
+        "description": "The course focuses on the experiences of women, men, and children who came to the U.S. from the colonial era through the 21st century. Their emigrations will be examined in a global context. Irish migration, the mass European migrations during the did late 19th / early 20th centuries, and post-Second World War immigration particularly from Asian and African  countries are discussed. The Lawrence, Lowell, and Boston immigration stories are extensively considered. Students will acquire an understanding of U.S. Immigration History - Both the experiences of immigrants and reactions to that immigration over time, including the frequent passage of federal legislation to block or impede immigration. Students will utilize area immigration archives to produce original research on the topic.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5360": {
+        "name": "HIST.5360 Readings on the Great Depression and the New Deal (Formerly 43.536)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5360/",
+        "id": "039318",
+        "description": "This course examines a turbulent period in American history: the era of the great economic boom and cultural revolution of the 1920s, the Great Depression and the New Deal, and World War ll. This course critically examines the growth of a consumer economy in the 1920s, the cause of the Depression, and how the New Deal response affected the lives of ordinary Americans. We take a close look at the Great Migration of African Americans out of the South and how it affected race relations and the impact of the Great Depression and the New Deal on women. Finally, we consider how the country shook off its isolationism and emerged at the end of the Second World War as the world's hegemonic superpower. Throughout, we consider the period's larger lessons for other disjunctures in history.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5370": {
+        "name": "HIST.5370 Alcohol in American History",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5370/",
+        "id": "041798",
+        "description": "This course uses the production, distribution, consumption, and prohibition of alcoholic drinks as a lens for studying cultural, political, and economic change in American life from the colonial era to the present. Students will develop a related original project involving immersive use of archival materials to write an article-length research paper.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "HIST.5400": {
+        "name": "HIST.5400 Law, Politics and Society in Early America (Formerly 43.540)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5400/",
+        "id": "039283",
+        "description": "This class closely examines the colonies of Virginia, Maryland, Massachusetts, Maine, New Netherland/New York, Rhode Island and the Carolinas from the early seventeenth century through the mid-eighteenth century. The class focuses particularly on the wide range of legal, political and social systems present in British North America which made it possible for certain colonies to survive and thrive, while other colonies foundered and failed. Students will master a wide range of primary and secondary sources during the semester and will finish by conducting their own research on one of these seven colonies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5410": {
+        "name": "HIST.5410 The American Revolution in the World",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5410/",
+        "id": "039820",
+        "description": "The American Revolution began as a North American conflict between the newly formed United States and Great Britain over the question of whether the thirteen colonies could become an independent nation. The entrance of France, the Netherlands and Spain into the war in the late 1770s made the Revolution a conflict which could be fought anywhere these five countries shared borders, whether in North America, Europe or Asia. The class will also examine the experiences of both Native Americans and African Americans in the Atlantic World as they experienced the war in far ranging ways. The class will use both primary and secondary sources and culminate in a research paper of topics chosen by individual students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5430": {
+        "name": "HIST.5430 The North During the Civil War",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5430/",
+        "id": "040112",
+        "description": "Many classes about the Civil War era (1848-1877) focus on the changes brought about in southern society, especially the overthrow of slavery and the transformation of race relations. This course will analyze the dramatic changes that northern society experienced during this period. The North saw important transformations in its economy, government, and society. This course will explore changes in the North's economy, work cultures, politics, gender system, and race relations, as well as how those developments both brought about the war and were accelerated by the Civil War. By the end of the semester, we will have a fuller understanding of the inter-relationships between the Industrial Revolution, capitalism, and U.S. victory in 1865.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5450": {
+        "name": "HIST.5450 Native Peoples of the Northern Eastern Woodlands (Formerly 43.545)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5450/",
+        "id": "039388",
+        "description": "Students will analyze and research the history of the Native peoples of the northern Eastern Woodlands - an area encompassing the northeastern U. S., southeastern Canada, and the North American Great Lakes region. The course provides coverage from pre-contact to the present. It emphasizes contributions of the first peoples to the broader course of the history of the northern Eastern Woodland region. The course offers a framework for understanding indigenous Americans and their historical experiences by exploring the forces of continuity and change that have shaped Native Americans' lives through time and space. This view will stress the ongoing presence of American Indian peoples and their efforts to preserve the integrity and viability of their dynamic and self-directed societies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5460": {
+        "name": "HIST.5460 Topics in African-American History (Formerly 43.546)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5460/",
+        "id": "039542",
+        "description": "This graduate-level course examines important ideas and events in African-American history as well as debates among historians about how to interpret these ideas and events. We will examine slavery and its demise, the labor system that emerged after slavery, violence against and intimidation of blacks, the relocation of millions of African Americans from the rural South to the urban North, and the struggle for civil rights, among other topics. A theme that runs through the course is how African Americans were able to build a rich and vibrant culture as well as strong networks of kinship even as masters, landlords, and others sought to control their labor and deny then political and other rights.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5510": {
+        "name": "HIST.5510 Reading Seminar on Modern China (Formerly 43.551)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5510/",
+        "id": "039384",
+        "description": "The course explores the intersection of tradition and revolution in modern Chinese history. It is a seminar where students do assigned readings and come to class prepared to discuss the readings. The objective of the course is to gain a critical understanding of China's modernization process - the traditional and radical forces that shaped the process, the impact of the process on everyday life, and the blending of what is traditionally Chinese and what is modern or borrowed from the outside.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5511": {
+        "name": "HIST.5511 Transformation of Rural China",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5511/",
+        "id": "039873",
+        "description": "A reading seminar exploring political, economic, and cultural changes in rural China since the 1920s. Special emphases are given to the Western impact on traditional China, the Land Reform, the collective period, and the post-1978 economic reforms. Students will read investigative reports, anthropological field work, scholarly analysis, and memoirs on China's rural transformation, engage in seminar-style discussions, write analytical and critical papers of assigned topics, and produce a final research paper on a topic of his/her own choice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5515": {
+        "name": "HIST.5515 Topics in Middle East History: Environmental History of the Middle East and North Africa",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5515/",
+        "id": "040829",
+        "description": "This course is designed to introduce students to the intensive study of a particular aspect of Middle East History. In this course, with a focus on environmental factors, we will consider various historical perspectives on colonialism, nationalism, capitalism, gender and sexuality, empire, race, and class. What are some of the benefits of these interpretations? Are there also drawbacks? Students will explore this history through reading both primary and secondary sources. They will also pursue their own research project on a topic of their choosing in Middle East environmental history.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5520": {
+        "name": "HIST.5520 Enterprise in Latin America (Formerly 43.552)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5520/",
+        "id": "037169",
+        "description": "This M.A.-level course introduces students to the history of enterprise in Latin America through four case studies and a research project.  No prior knowledge of Latin American history is required or expected.  Each of the case studies, including the students' own research projects on an enterprise in Latin America, will consider the wide range of factors that impact a business.  These include infrastructure, government regulations and policy, labor, markets, and environmental concerns, among others.  The case studies and readings may change from semester to semester, but will be representative of different time periods and regions within Latin America.. Throughout the semester, the class will also consider the historical legacies of each enterprise and how it continues to affect the region's economic and political development today.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5590": {
+        "name": "HIST.5590 Reconstructing America: Upheaval, Immigration, and Reform (Formerly 43.559)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5590/",
+        "id": "036838",
+        "description": "The second year of the Teaching  American History Project, involving UMass Lowell and eight school districts in the Greater Boston Area, will include a week-long Summer Institute, title \"reconstructing America: Upheaval, Immigration, and Reform\".  The institute's seminars, readings, and field trip will focus on several topics tied to immigration, internal migration, social and economic struggle, and reform.  This encompasses a history of the major immigrant groups in late 19th and early 20th century America; settlement, acculturation and resistance; Jim Crow and the Great Migration in the early 20th  century; and post World War II immigration and refugee settlement.  The Summer Institute will offer a blend of U.S. history and local history, namely Lowell and Lawrence, Massachusetts, with readings tied to recent scholarship in African-American, Latino, and Euro-American immigrant history.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5900": {
+        "name": "HIST.5900 Topics in History",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5900/",
+        "id": "041611",
+        "description": "An advanced course of study and examination of a variety of issues and topics in history, intended for graduate students. Instructor permission required. Subject matter to be announced in advance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5910": {
+        "name": "HIST.5910 Directed Study (Formerly 43.491/591)",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5910/",
+        "id": "005339",
+        "description": "Directed study offers the student the opportunity to engage in an independent study or research project under the supervision of a department member. Working closely with the instructor, students define and investigate a research topic in an area of special interest and present the results of their investigation in a significant paper. Juniors and seniors only.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HIST.5990": {
+        "name": "HIST.5990 Thesis in History",
+        "url": "https://www.uml.edu/catalog/courses/HIST/5990/",
+        "id": "040836",
+        "description": "For History graduate students actively engaged in research leading toward the submission of a written thesis for completion of their degree. A program of supervised study will be arranged between the student and a faculty supervisor.",
+        "credits": {
+            "min": "3",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

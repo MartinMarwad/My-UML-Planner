@@ -1,0 +1,2178 @@
+{
+    "total": 119,
+    "time": 83.86356401443481,
+    "MATH.1020": {
+        "name": "MATH.1020 Freshman Seminar in Mathematics (Formerly 92.102)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1020/",
+        "id": "038330",
+        "description": "This course is designed to orient undergraduate math majors to the university and to their chosen field. Students will learn about the mathematics program, the mathematics faculty and their research interests, careers in math-related areas, internship opportunities, and university resources.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Math Majors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1070": {
+        "name": "MATH.1070 Elementary Math for Teaching: Numbers and Operations (Formerly 92.107)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1070/",
+        "id": "037557",
+        "description": "The Number and Operations course for elementary and middle school teachers examines the three main categories in the Number and Operations strand of Principles and Standards of School Mathematics (NCTM) -- Understanding numbers, representations, relationships, and number systems; the meanings of operations and relationships among those operations; and reasonable estimation and fluent computation. No credit in Science or Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BA-ED Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1080": {
+        "name": "MATH.1080 Elementary Math for Teaching: Algebra and Data Analysis",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1080/",
+        "id": "040518",
+        "description": "This course seeks to support students in furthering their understanding of elementary mathematics concepts. The goal is for students to not only pass the MTEL for elementary mathematics, but to lay the groundwork for graduate work in elementary mathematics education. Specifically, we use an integrated approach to algebra that draws on real-world data to the extent possible. To this end, learners will gain experience in selecting and developing a number of data representations, organizing data, looking for patterns in the data and, finally, using words, symbolic notation, graphs and tables to generalize those patterns. No credit in Science or Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1070 Elementary Math for Teaching: Numbers and Operations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1110": {
+        "name": "MATH.1110 Quantitative Reasoning (Formerly 92.111)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1110/",
+        "id": "008242",
+        "description": "An introduction to the mathematics concepts and skills important in modern society, even for non-technical pursuits. The course will emphasize conceptual understanding as well as a facility in performing elementary computations. Topics to be examined will include types of reasoning, problem-solving methods, techniques of estimation, algebraic essentials, and the nature of probability and statistics. No credit in Science or Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1110SI": {
+        "name": "MATH.1110SI SI for Quantitative Reasoning & Introduction to Statistics (Formerly 92.111SI/92.2830SI)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1110SI/",
+        "id": "008240",
+        "description": "This course provides supplemental instruction in mathematics to students whose Elementary Algebra Accuplacer exam scores indicate the  need for such instruction.  The credits in this course can not be used  to satisfy the credits required for graduation, but may be used to satisfy the credits required for full time student status.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: 92.111 Quantitative Reasoning.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1115": {
+        "name": "MATH.1115 Fundamentals of Algebra (Formerly 90.111)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1115/",
+        "id": "007935",
+        "description": "Intended for students with little or no background in basic algebra or whose background is not current. Topics covered include: the real number system, factoring fractions, linear equations, functions, graphs, systems of equations, and the quadratic equation. Students will not receive credit for this course toward any degree program at the University of Massachusetts Lowell.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1200": {
+        "name": "MATH.1200 Precalculus Mathematics I (Formerly 92.120)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1200/",
+        "id": "032168",
+        "description": "Intended for students whose background in basic algebra is current. Topics covered include: linear equations, slope of a line, quadratic equations, functions, transformations, inequalities, curve sketching, and systems of equations. Note: Students who score 45 or lower on the ALEKS math assessment should consider enrolling in MATH.1115 first. Credit is given for only one of the following courses; MATH.1200,  or MATH.1210.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1210": {
+        "name": "MATH.1210 Management Precalculus (Formerly 92.121)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1210/",
+        "id": "008245",
+        "description": "Review of algebra. The Real Numbers, inequalities and intervals on the number line, factoring, radical notation, properties of exponents, scientific notation, and operations on rational expressions.  Function definition and graph of linear/nonlinear functions such as quadratic, cubic, absolute value, piecewise-defined, rational, and power function.  Additional topics with functions included such as transformations of graphs and symmetry, composite functions, one-to-one and inverse functions. Solving linear and quadratic equations algebraically and graphically.  Solving systems of equations in two variables algebraically and graphically.  Modeling systems of equations in three variables and solving them analytically and with matrices using TI-84 implementation.  Modeling with linear as well as quadratic and power functions with the aid of a graphing calculator and Excel spread sheets.  Business applications are included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1210SI": {
+        "name": "MATH.1210SI Management Pre-Calculus Supplemental Instruction (Formerly 92.121SI)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1210SI/",
+        "id": "036826",
+        "description": "Taken simultaneously with MATH.1210, this 1-credit course offers students taking MATH.1210 supplemental instructions to foster a greater opportunity for successful completion of Management Precalculus. The course credit cannot be used to satisfy the credits required for graduation, but may be used to satisfy credits required for full time student status.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: MATH.1210 Management Pre-Calculus",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.1210"
+                ]
+            ]
+        }
+    },
+    "MATH.1220": {
+        "name": "MATH.1220 Management Calculus (Formerly 92.122)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1220/",
+        "id": "008246",
+        "description": "Review of difference quotient, least squares modeling, limit of difference quotient, differential calculus: derivatives, differentials, higher-order derivatives, implicit differentiation, relative and absolute maxima and minima of functions, and applications of derivatives to business and economics. Integrals and applications to business. No credit in Science or Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1200 Precalculus Mathematics I, or MATH.1210 Management Precalculus, or MATH.1270 Preparation for Calculus, or MATH.1280 Calculus IA, or MATH.1290 Calculus IB,or ALEKS score of 65 or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1200",
+                    "MATH.1210",
+                    "MATH.1270",
+                    "MATH.1280",
+                    "MATH.1290"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1220SI": {
+        "name": "MATH.1220SI Management Calculus Supplemental Instruction (Formerly 92.122SI)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1220SI/",
+        "id": "036827",
+        "description": "Taken simultaneously with MATH.1220, this 1-credit course offers students taking MATH.1220 supplemental instructions to foster a greater opportunity for successful completion of Management Calculus. The course credit cannot be used to satisfy the credits required for graduation, but may be used to satisfy credits required for full time student status.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: MATH.1220 Management Calculus.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.1220"
+                ]
+            ]
+        }
+    },
+    "MATH.1230": {
+        "name": "MATH.1230 Precalculus Mathematics II (Formerly 92.123)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1230/",
+        "id": "008247",
+        "description": "A continuation of Math 1200. Covers exponential and logarithmic functions, trigonometric and inverse trigonometric functions, and trigonometric identities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ALEKS Math Placement 55 or higher, or a B- or higher in either MATH.1200 Precalculus Mathematics I or MATH.1210 Management Precalculus.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1200",
+                    "MATH.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1250": {
+        "name": "MATH.1250 Calculus A (Formerly 92.125)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1250/",
+        "id": "008249",
+        "description": "Serves as a first course in calculus and provides a brief review of analytic geometry and trigonometric functions. The course progresses to the study of inverse functions, limits, continuity, derivatives, rules for differentiation of algebraic and transcendental functions, chain rule, implicit differentiation, linear approximation, differentials, and maximum and minimum values.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ALEKS math placement 76-100, or MATH.1230 Precalculus II with a grade of 'C-' or higher, or MATH.1270 Preparation for Calculus with a grade of 'B-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1230",
+                    "MATH.1270"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1260": {
+        "name": "MATH.1260 Calculus B (Formerly 92.126)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1260/",
+        "id": "008250",
+        "description": "Serves as a continuation of MATH.1250. The course covers L'Hopital's Rule, optimization problems, Newton's method, sigma notation, integration, area between curves, volume, arc length, surface area, integration by parts, trigonometric substitution, partial fraction decomposition, and improper integrals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1250 Calculus A or MATH.1310 Calculus I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1250",
+                    "MATH.1310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1270": {
+        "name": "MATH.1270 Preparation for Calculus (Formerly 92.127)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1270/",
+        "id": "008251",
+        "description": "A review of precalculus (algebra and trigonometry) together with development of problem solving skills.  No credit in Science or Engineering.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1280": {
+        "name": "MATH.1280 Calculus IA (Formerly 92.128)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1280/",
+        "id": "008252",
+        "description": "Provides a review of pre-calculus algebra and trigonometry integrated with the first half of Calculus I: limits, continuity, derivatives, basic derivative formulas, chain rule, implicit differentiation. Students are expected to have taken pre-calculus and trigonometry in order to be successful in this course.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1280SI": {
+        "name": "MATH.1280SI Calculus IA Supplemental Instruction (Formerly 92.128SI)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1280SI/",
+        "id": "038061",
+        "description": "Taken simultaneously with MATH.1280, this 1-credit course offers students retaking MATH.1280 supplemental instructions to foster a greater opportunity for successful completion of Calculus IA.  The course credit cannot be used to satisfy the credits required for graduation, but may be used to satisfy credits required for full time student status.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1290": {
+        "name": "MATH.1290 Calculus IB (Formerly 92.129)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1290/",
+        "id": "035267",
+        "description": "Provides a review of pre-calculus, algebra and trigonometry integrated with the second half of Calculus I. Inverse trig functions and their derivative, logarithmic functions and their derivative, related rates,  L'Hospital's Rule, optimization problems, curve sketching, linearization, Newton's Method, hyperbolic functions and their derivative,  antiderivatives. Completion of this course is equivalent to MATH.131 0 Calculus I.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "MATH.1280 Calculus IA.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1280"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1290SI": {
+        "name": "MATH.1290SI Calculus IB Supplemental Instruction (Formerly 92.129SI)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1290SI/",
+        "id": "038196",
+        "description": "Taken simultaneously with MATH.1290, this 1-credit course offers students retaking MATH.1290 supplemental instructions to foster a greater opportunity for successful completion of Calculus IA. The course credit cannot be used to satisfy the credits required for graduation, but may be used to satisfy credits required for full time student status.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1310": {
+        "name": "MATH.1310 Calculus I (Formerly 92.131)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1310/",
+        "id": "008254",
+        "description": "Serves as a first course in calculus. Functions, limits, continuity, derivatives, rules for differentiation of algebraic and transcendental function; chain rule, implicit differentiation, related rate problems, linearization, applied optimization, and curve sketching. Introduction to area and integration. Students are expected to have taken pre-calculus and trigonometry in order to be successful in this course.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "ALEKS math placement 76-100, or MATH.1230 Precalculus II with a grade of 'C-' or higher, or MATH.1270 Preparation for Calculus with a grade of 'B-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1230",
+                    "MATH.1270"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1320": {
+        "name": "MATH.1320 Calculus II (Formerly 92.132)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1320/",
+        "id": "008255",
+        "description": "Serves as a continuation of Calculus I. Integration and techniques of integration including the substitution method, integration by parts, trigonometric integrals, trigonometric substitution, integration of rational functions by partial fractions, numerical integration, and improper integrals. Volumes using cross-sections, the disk method, the washer method and the shell method. Arc length and surface area. Infinite series, power series, Maclaurin and Taylor series. Polar coordinates and areas and lengths in polar coordinates.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Req: MATH 1290 Calculus IB, MATH 1310 Calculus I, or a grade of CR in NONC CALC1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1290"
+                ],
+                [
+                    "MATH.1310",
+                    "NONC.CALC1"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1380": {
+        "name": "MATH.1380 Calculus for the Life Sciences I (Formerly 92.138)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1380/",
+        "id": "038099",
+        "description": "This is a single variable calculus course with applications to the life sciences. Review of basic algebra, trigonometry,  functions and graphs. Limits and derivatives, including differentiation rules, curve sketching and optimization problems. Implicit differentiation. Study of exponential and logarithmic functions motivated by growth, decay and logistic modes. Introduction to integration, techniques, applications and the fundamental theorem.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Biology, and Pre-Med, and Pre-Dental Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1390": {
+        "name": "MATH.1390 Calculus for the Life Sciences II (Formerly 92.139)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1390/",
+        "id": "038100",
+        "description": "This course is a continuation of MATH.1380. Review of integration and methods. Solving systems of linear equations. Use and application of matrices including inverses, determinants, eigenvalues and eigenvectors. Solving difference equations. Differential and integral calculus for functions of several variables, including maximum-minimum problems, partial derivatives. Method of least squares. First-order differential equations. Higher-order and systems of linear differential equations. Stability and trajectories using matrices. Population models and approximation techniques. Biology majors only.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "MATH.1380 Calculus for the Life Sciences I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1380"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1410": {
+        "name": "MATH.1410 Honors Calculus I (Formerly 92.141)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1410/",
+        "id": "008260",
+        "description": "This course covers the same topics as MATH.1310 Calculus I, but in an enriched environment.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.1420": {
+        "name": "MATH.1420 Honors Calculus II (Formerly 92.142)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1420/",
+        "id": "008261",
+        "description": "This course covers the same topics as MATH.1320 Calculus II, but in an enriched environment.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "MATH.1410 Honors Calculus I, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.1510": {
+        "name": "MATH.1510 Explorations in Mathematics (Formerly 92.151)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/1510/",
+        "id": "008263",
+        "description": "This course is not so much about the mathematics of formulas, equations, rules and errors, as about mathematics that can be experienced: counted, drawn, seen, created; quite simply: played with.  Officially, we will encounter concepts of combinatorics, geometry, number theory and Boolean logic.  Unofficially, we will experiment with puzzles and patterns and develop as much mathematics from them as we can. Prerequisites: high school mathematics and willingness to explore.  No credit in science or engineering.  This course satisfies the Quantitative Reasoning requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.2100": {
+        "name": "MATH.2100 Functions and Modeling (Formerly 92.210)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2100/",
+        "id": "037657",
+        "description": "Engage in lab-based activities designed to strengthen their problem-solving skills and expand knowledge of the topics in secondary mathematics, focusing especially on topics from precalculus and the transition to calculus.  Explore a variety of contexts that can be modeled using families of functions.  Topics include conic sections, parametric equations and polar equations.  Multiple representations, transformations, data analysis techniques and interconnections among geometry, probability and algebra.  Quantitative approaches and building relationships between discrete and continuous reasoning will be recurrent themes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: MATH 1320",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ]
+        }
+    },
+    "MATH.2190": {
+        "name": "MATH.2190 Discrete Structures I (Formerly 92.321 and MATH.3210)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2190/",
+        "id": "008321",
+        "description": "Presents propositional logic, combinatorics, methods of proof, mathematical systems, algebra of sets, matrix algebra, relations and functions, recursion and generating functions, applications to computer science, and graph theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 1290 Calculus IB, or MATH 1310 Calculus I, or MATH 1380 Calc. for the Life Sciences I. or Permission of Instructor/Coordinator or Chair.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1290",
+                    "MATH.1310",
+                    "MATH.1380"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2195": {
+        "name": "MATH.2195 Discrete Math for IT",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2195/",
+        "id": "042279",
+        "description": "Discrete Mathematics plays an important role in explaining key concepts in Information Technology and Computer Science, This course explores topics in logic, relationships between data, number theory and cryptography, recurrence and recursive programming, and how graphs relate to efficient algorithms. No credit for Math or CS majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1200 Precalculus I, and Anti-req: MATH.2190 Discrete Structures I. No credit for Math and CS majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2210": {
+        "name": "MATH.2210 Linear Algebra I (Formerly 92.221)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2210/",
+        "id": "008281",
+        "description": "Elementary set theory and solution sets of systems of linear equations. An introduction to proofs and the axiomatic methods through a study of the vector space axioms. Linear analytic geometry. Linear dependence and independence, subspaces, basis. Inner products. Matrix algebra. Applications of the above will also be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1250 Calculus A, or MATH1290 Calculus IB, or MATH.1310 Calculus I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1250",
+                    "MATH.1310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2220": {
+        "name": "MATH.2220 Linear Algebra II (Formerly 92.222)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2220/",
+        "id": "008282",
+        "description": "Linear  transformations. Linear operators, change of basis, inner product and the diagonalization problem. Quadratic forms. Convex sets and geometric programming, input/output models for an economy, Markov chains, other applications of linear algebra.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH.2210 Linear Algebra I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2250": {
+        "name": "MATH.2250 Calculus C (Formerly 92.225)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2250/",
+        "id": "008285",
+        "description": "Serves as a continuation of MATH.1260. This course covers integration by parts, integration of trigonometric integrals, trigonometric substitution, partial fraction, numeric integration, improper integrals, L'Hopital's Rule, indeterminate forms, sequences, infinite series, integral tests, comparison tests, alternating series tests, power series, Taylor series, polar coordinates, graphs and areas in polar coordinates, and parametric equations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.2260": {
+        "name": "MATH.2260 Calculus D (Formerly 92.226)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2260/",
+        "id": "008286",
+        "description": "Serves as a continuation of MATH.2250. This course covers curvature, cylindrical surfaces, dot and cross products, curves and planes in three space, cylindrical and spherical coordinates, functions of two variables, chain rule, directional derivatives and gradient, tangent planes, and double and triple integrals in rectangular, polar, cylindrical and spherical coordinate systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2250 Calculus C",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2250"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2270": {
+        "name": "MATH.2270 Elementary Math for Teaching: Geometry and Measurement (Formerly 92.227)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2270/",
+        "id": "037459",
+        "description": "This is a mathematics content course which covers the geometry/measurement strands of the Massachusetts Curriculum Frameworks in Mathematics at a collegiate level.  The goal is not only to prepare students for the elementary mathematics MTEL, but to lay the groundwork for graduate work in elementary mathematics education.  The course centers around \"Big Ideas\" such as Equivalence, Proportionality, Transformations; and Shapes & Solids. No credit in Science or Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1080 Elementary Math for Teaching: Algebra and Data Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2310": {
+        "name": "MATH.2310 Calculus III (Formerly 92.231)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2310/",
+        "id": "008287",
+        "description": "Extends the concepts of Calculus I and II that deal with functions of a single variable to multi-variable functions, vector-valued functions and vector fields. Vectors and vector-valued functions, the dot and cross products, curves in space and the calculus of vector-valued functions. Multi-variable functions, limits, continuity, and differentiation. Partial derivatives, directional derivatives, the gradient, Lagrange multipliers and optimization. Double and triple integrals in Cartesian, polar and spherical coordinates. Vector fields and the fundamental theorems of vector calculus developed, line and surface integrals, Green's theorem, Stokes's theorem, and the divergence theorem.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "MATH.1320 Calculus II, or MATH.2250 Calculus C.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320",
+                    "MATH.2250"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2320L": {
+        "name": "MATH.2320L Math Lab I (Formerly 92.232)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2320L/",
+        "id": "031891",
+        "description": "An introduction to mathematics related software.  Topics from Calculus & Differential Equations will be explored using a symbolic package like Maple.  the course will also introduce LaTeX, the standard for typesetting mathematics.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2340": {
+        "name": "MATH.2340 Differential Equations (Formerly 92.234)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2340/",
+        "id": "008289",
+        "description": "Topics include methods of solutions for linear and non-linear first order differential equations, linear second order differential equations, higher order linear differential equations, systems of first-order differential equations. Laplace transforms. Numerical methods. Applications to physical systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, or MATH.1260 Calculus B.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320",
+                    "MATH.1260"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2360": {
+        "name": "MATH.2360 Engineering Differential Equations (Formerly 92.236)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2360/",
+        "id": "008290",
+        "description": "Introduction to differential equations with an emphasis on engineering applications. Topics include first-order equations, higher-order linear equations with constant coefficients, and systems of first-order equations. Applications of each topic are introduced and qualitative, analytical, and numerical solution techniques are studied. Laplace transform methods are discussed. The software package MATLAB is used throughout the course for both analytical and numerical calculations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2410": {
+        "name": "MATH.2410 Honors Calculus III (Formerly 92.241)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2410/",
+        "id": "008291",
+        "description": "Covers the same topics as MATH.2310 Calculus II, but in an enriched environment.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Req: MATH.1420 Honors Calculus II or permission of instructor",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1420"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2440": {
+        "name": "MATH.2440 Honors Differential Equations (Formerly 92.244)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2440/",
+        "id": "008293",
+        "description": "Introduction to differential equations.  Topics include first-order equations, second-order and higher-order linear equations, systems of first-order linear equations with constant coefficients, and Laplace transforms.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2720": {
+        "name": "MATH.2720 Introduction to Programming with MATLAB (Formerly 92.272)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2720/",
+        "id": "038929",
+        "description": "This course will introduce basic programming concepts using MATLAB as the programming environment. Topics include an introduction to MATLAB, array manipulation, graphics, script files, data input and output, relational and logical operators, conditional statements, loops, and iterative procedures. Additional topics will be discussed as time permits. Additional topics will be chosen from the following: finding roots of nonlinear equations, random number generation, Markov processes, simple statistics, interpolation, and the basics of Fourier analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1310 Calculus I or MATH 1380 Calculus for Life Sciences, or Permission of Instructor/Coordinator or Chair.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1310",
+                    "MATH.1380"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.2830": {
+        "name": "MATH.2830 Introduction to Statistics (Formerly 92.283)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2830/",
+        "id": "008302",
+        "description": "An introduction to descriptive statistics, graphing and data analysis, probability laws, discrete and continuous probability distributions, correlation and regression, inferential statistics. No credit in Sciences (except Biology and EEAS)  or Engineering. Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.2830SI": {
+        "name": "MATH.2830SI SI for Quantitative Reasoning & Introduction to Statistics (Formerly 92.111SI/92.2830SI)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/2830SI/",
+        "id": "008240",
+        "description": "This course provides supplemental instruction in mathematics to students whose Elementary Algebra Accuplacer exam scores indicate the  need for such instruction.  The credits in this course can not be used  to satisfy the credits required for graduation, but may be used to satisfy the credits required for full time student status.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.3010": {
+        "name": "MATH.3010 Introduction to Applied Mathematics I (Formerly 92.301)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3010/",
+        "id": "008303",
+        "description": "Discusses vector analysis, Green's Theorem, Divergence Theorem, Stokes' Theorem, Fourier series, integrals, and partial differential equations of physics and engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III  & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3020": {
+        "name": "MATH.3020 Introduction to Applied Mathematics II (Formerly 92.302)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3020/",
+        "id": "008304",
+        "description": "Introduces students to matrix algebra, solution of systems of linear equations, eigenvalues and eigenvectors, solution of differential equations by matrix methods, series solution of differential equations, Bessel and Legendre functions, and Sturm-Liouville problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III  & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3220": {
+        "name": "MATH.3220 Discrete Structures II (Formerly 92.322)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3220/",
+        "id": "008322",
+        "description": "Examines graph theory, trees, algebraic systems, Boolean algebra, groups, monoids, automata, machines, rings and fields, applications to coding theory, logic design, and sorting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2190 Discrete Structures I (Formerly MATH.3210), or MATH.3600 Mathematic Structure for Computer Engineers.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2190",
+                    "MATH.3600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3230": {
+        "name": "MATH.3230 Introduction to Proofs",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3230/",
+        "id": "041851",
+        "description": "This course will focus on reading and writing mathematics. Students will learn how to analyze and interpret mathematical statements and understand the reasoning behind these statements. They will also learn how to convey mathematical ideas and write proofs using precise language, correct logic, and other important elements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3300": {
+        "name": "MATH.3300 Symbolic Logic (Formerly 92.330)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3300/",
+        "id": "008323",
+        "description": "An introduction to symbolic logic.  Symbolic logic provides a framework of formal reasoning with applications in mathematics, cognitive science, computer science and philosophy.  Topics include propositional logic, boolean algebras and rings, first-order logic and systems of deduction.  Time permitting, we will touch on Tarski's notion of model, and the completeness and incompleteness theorems of Godel.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1310 Calculus I, and MATH.2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1310"
+                ],
+                [
+                    "MATH.2190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3600": {
+        "name": "MATH.3600 Mathematic Structure for Computer Engineers (Formerly 92.360)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3600/",
+        "id": "008327",
+        "description": "Basic concepts of data. Linear lists, strings, arrays, and orthogonal lists. Trees and graphs.  Storage systems and structures. Storage allocation and collection. Multilinked structures. Symbol tables, searching and sorting (ordering) techniques. Not for math majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2310 Calculus III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3620": {
+        "name": "MATH.3620 Numerical Analysis I (Formerly 92.362)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3620/",
+        "id": "008328",
+        "description": "Focuses on the theory and application of numerical techniques including error analysis. Also discusses solution of linear, nonlinear and differential equations, interpolation, numerical integration, and curve fitting. Computer solutions are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3630": {
+        "name": "MATH.3630 Intro to Data Analysis (Formerly 92.363)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3630/",
+        "id": "008329",
+        "description": "Computer analysis of data derived from research conducted in physical, social, and life sciences. Data preparation. Data modification, file manipulation, and descriptive statistics using SPSS. Programming ability is not required. No credit in Science or Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.3750": {
+        "name": "MATH.3750 Senior Seminar I (Formerly 92.375)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3750/",
+        "id": "030392",
+        "description": "Student works with an advisor to develop a proposal for a senior project that will be carried out as part of MATH.4750 Senior Seminar II.  Generally taken during the spring of the junior year.  Prerequisite: Permission of instructor.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.3810": {
+        "name": "MATH.3810 Mathematical Physics (Formerly 92.381)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3810/",
+        "id": "008337",
+        "description": "Intended for students having completed 2 full years of physics and math, this course is designed to develop competency in the applied mathematical skills required of junior and senior level physics majors. Covering topics involving infinite series, power series, complex numbers, and linear algebra along with vector and Fourier analysis, students will be trained with the rigor required to solve a wide range of applications in the physical sciences. Physics majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calculus III, and MATH.2340 Differential Equations, or MATH.2360 Engineering Differential Equations, and PHYS.1440 Physics II, or PHYS.1640 Honors Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ],
+                [
+                    "PHYS.1440",
+                    "PHYS.1640"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3850": {
+        "name": "MATH.3850 Applied Statistics (Formerly 92.385)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3850/",
+        "id": "008340",
+        "description": "Introduction to experimental design, data analysis and formal statistical procedures from an applied point of view.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.3860": {
+        "name": "MATH.3860 Probability and Statistics I (Formerly 92.386)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/3860/",
+        "id": "008341",
+        "description": "Provides a one-semester course in probability and statistics with applications in the engineering sciences. Probability of events, discrete and continuous random variables cumulative distribution, moment generatory functions, chi-square distribution, density functions, distributions. Introduction to estimation, hypothesis testing, regression and correlation. No credit for both MATH.3860 and MATH.4070, Math majors should take MATH.4070.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, or MATH.1260 Calculus B.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320",
+                    "MATH.1260"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4030": {
+        "name": "MATH.4030 Mathematical Analysis (Formerly 92.403)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4030/",
+        "id": "008344",
+        "description": "The real numbers, completeness, sequences of real numbers, functions, continuity, uniform continuity, differentiability, the Riemann integral, series or real numbers, sequences and series of functions, uniform convergence, power series.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 1320 Calculus II and MATH 3210/2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4070": {
+        "name": "MATH.4070 Probability and Mathematical Statistics I (Formerly 92.407)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4070/",
+        "id": "008346",
+        "description": "Addresses the topics of probability, random variables, discrete and continuous densities, expectation and variance, special distributions (binomial, Poisson, normal, etc.), moment generating functions, joint and conditional distributions, transformations of variables, sampling, and the central limit theorem.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 2310 Calculus III, or MATH 2260 Calculus D, and MATH 3210/2190 Discrete Structures I. NOTE: No credit for both MATH.3860 and MATH.4070.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2260"
+                ],
+                [
+                    "MATH.3860"
+                ],
+                [
+                    "MATH.4070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4100": {
+        "name": "MATH.4100 Computers and Calculators in the Classroom (Formerly 92.410)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4100/",
+        "id": "008349",
+        "description": "This course explores the roles of mainframes, PC's and hand calculators in instruction, examine some of the available software and consider their use in a variety of areas of secondary mathematics, such as algebra, geometry (Euclidean and analytic), probability and statistics and introductory calculus.\nNo credit in Science or Engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4110": {
+        "name": "MATH.4110 Complex Variables I (Formerly 92.411/511)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4110/",
+        "id": "001227",
+        "description": "A first course in theory of analytic functions of one complex variable: complex differentiability and the Cauchy-Riemann equations, Cauchy Integral Theorem and Cauchy Integral Formula, Taylor and Laurent series, zeroes of analytic functions and uniqueness, the maximum modulus principle, isolated singularities and residues. Applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2310 Calculus III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4130": {
+        "name": "MATH.4130 Number Theory (Formerly 92.413)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4130/",
+        "id": "008351",
+        "description": "Studies congruencies and the Chinese Remainder Theorem, Primitive roots, quadratic reciprocity, approximation properties of continued fractions, Pell's equation. Recent application of number theory such as primality testing, cryptology, and random number generation will also be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2210 Linear Algebra I, and MATH.2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2210"
+                ],
+                [
+                    "MATH.2190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4190": {
+        "name": "MATH.4190 Mathematica",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4190/",
+        "id": "008356",
+        "description": "A project -based course starting with an introduction to the basic features of Mathematica.  A project that allows the student to focus on certain features in more detail is required and occupies the second half of the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4200": {
+        "name": "MATH.4200 Mathematical Problem Solving (Formerly 92.420/520)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4200/",
+        "id": "001226",
+        "description": "Focuses on: mathematical resources, ability to use heuristics, the student's beliefs about the use of mathematics to solve problems, and the student's self-confidence as a problem solver. Effective strategies for incorporating problem solving in the curriculum will also be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4210": {
+        "name": "MATH.4210 Abstract Algebra I (Formerly 92.421/521)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4210/",
+        "id": "001225",
+        "description": "Elementary group theory, groups, cosets, normal subgroups, quotient groups, isomorphisms, homomorphisms, applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4260": {
+        "name": "MATH.4260 Topology (Formerly 92.426/526)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4260/",
+        "id": "033480",
+        "description": "Metric spaces, topological spaces, connectedness, compactness, the fundamental group, classifications of surfaces, Brouwer's fixed point theorem.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 4030 Mathematical Analysis or MATH 5010 Real Analysis",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.4030",
+                    "MATH.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4270": {
+        "name": "MATH.4270 Geometry (Formerly 92.427/527)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4270/",
+        "id": "001224",
+        "description": "This course is designed for current and prospective geometry teachers. In addition to the development of Euclidean geometry, students will become familiar with geometry applications in Geometer's Sketchpad software, and to a lesser degree with other geometry software applications including Geogebra, and Cabri.  There will be an introduction to spherical and hyperbolic geometry and triangle measurements will be computed for each. Calculus based derivations of area and volume for surfaces and solids will be generated and related to Euclidean geometry topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4350": {
+        "name": "MATH.4350 History of Mathematics (Formerly 92.435/535)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4350/",
+        "id": "001223",
+        "description": "Examines ancient numeral systems, Babylonian and Egyptian mathematics, Pythagorean mathematics, duplication, trisection, and quadrature, Euclid's elements and Greek mathematics after Euclid, Hindu and Arabian mathematics, European mathematics from 500 to 1600, origins of modern mathematics, analytic geometry, the history of calculus.  Also covers the transition to the twentieth century and contemporary perspectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4450": {
+        "name": "MATH.4450 Partial Differential Equations (Formerly 92.445)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4450/",
+        "id": "008325",
+        "description": "Linear and quasilinear first order PDE. The method of characteristics. Conservation laws and propagation of shocks. Basic theory for three classical equations of mathematical physics (in all spatial dimensions): the wave equation, the heat/diffusion equation, the Laplace/Poisson equation. Initial value problems - solution formulas. Fundamental solutions. Green's functions. Eigenfunction expansion method for initial-boundary and boundary value problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4480": {
+        "name": "MATH.4480 Mathematics of Signal Processing (Formerly 92.448)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4480/",
+        "id": "008365",
+        "description": "Representation of Signals: Fourier analysis, fast Fourier transforms, orthogonal expansions.  Transformation of signals: linear filters, modulation.  Band-limited signals.  Sampling. Uncertainty principle.  Windows and extrapolation.  Applications to medical imaging and array processing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4500": {
+        "name": "MATH.4500 Mathematical Modeling (Formerly 92.450)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4500/",
+        "id": "008366",
+        "description": "Applications of mathematics to real life problems.  Topics include dimensional analysis, population dynamics wave and heat propagation, traffic flow.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4540": {
+        "name": "MATH.4540 Computational Mathematics (Last Term 2009 Spring)(Formerly 92.454)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4540/",
+        "id": "008369",
+        "description": "This course serves as an introduction to the theory and applications of numerical techniques. The course emphasizes an understanding of why numerical methods work and their limitations. Topics include Taylor series, interpolation, curve fitting, numerical differentiation and integration, numerical solution of systems of equations, and numerical solution of boundary value problems. Scientific programming languages are used to illustrate numerical computations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calulus III, and MATH.2340 Differential Equations, or MATH.2360 Differential Equations, and MATH.2210 Linear Algebra I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ],
+                [
+                    "MATH.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4660": {
+        "name": "MATH.4660 Stat Program Using SAS (Formerly 92.466)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4660/",
+        "id": "031925",
+        "description": "An introduction to creation and manipulation of databases and statistical analysis using SAS software. SAS is widely used in the pharmaceutical industry, medical research and other areas. Cannot be used as a Math Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4750": {
+        "name": "MATH.4750 Senior Seminar II (Formerly 92.475)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4750/",
+        "id": "008385",
+        "description": "Undergraduate seminar on advanced mathematical topics.  Students are required to develop an understanding of an advanced subject beyond the scope of an existing course or synthesize two or more different areas form their curriculum.  Students are required to participate in the seminar, present their results to the Department and write a substantial thesis in their topic area.  Essential course elements include library research, original research, and both verbal and written exposition.  The first semester is a graduation requirement for majors in mathematics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH.3750 or MATH.4740 Senior Seminar I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3750",
+                    "MATH.4740"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4760": {
+        "name": "MATH.4760 Senior Seminar III (Formerly 92.476)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4760/",
+        "id": "008386",
+        "description": "An optional second semester seminar to allow for continuation of study initiated in Senior Seminar I.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH.4750 Senior Seminar II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.4750"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4860": {
+        "name": "MATH.4860 Probability and Math Statistics II (Formerly 92.486)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4860/",
+        "id": "008394",
+        "description": "Point estimation, confidence intervals, hypothesis testing.  Two-sample t-test.  Correlation and linear regression. The bivariate normal distribution.  Analysis of variance for one-and two-way designs.  F tests.  Nonparametric methods.  Chi-squared tests for contingency tables.  Generalized likelihood ratio.  C.R. bound.  Consistency.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.4070 Probability and Mathematical Statistics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.4070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.4900": {
+        "name": "MATH.4900 Selected Topics (Formerly 92.490)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4900/",
+        "id": "008396",
+        "description": "Individual study for the student desiring more advanced or more specialized work. Course may not be substituted for scheduled offerings. Prerequisite: Permission of Department Chair.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4910": {
+        "name": "MATH.4910 Directed Study in Algebra (Formerly 92.491)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4910/",
+        "id": "008397",
+        "description": "Individual study for the student desiring more advanced or more specialized work in algebra. May be repeated for a total of six semester credits. Course may not be substituted for scheduled offerings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4940": {
+        "name": "MATH.4940 Directed Study in Statistics (Formerly 92.494)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4940/",
+        "id": "008400",
+        "description": "Individual study for the student desiring more advanced or more specialized work in Statistics.  May be repeated for a total of six semester credits.  Course may not be substituted for scheduled offerings.  Prerequisite: Permission of Department Chair.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.4960": {
+        "name": "MATH.4960 Mathematics Practicum (Formerly 92.496)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/4960/",
+        "id": "038533",
+        "description": "Unpaid internship in the Department of Mathematical Sciences. This allows students to receive up to 3 (free elective) credits while working on an approved project. Students who have a position and who wish to take advantage of this Practicum should see the department Internship Coordinator.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5000": {
+        "name": "MATH.5000 Discrete Structures (Formerly 92.500)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5000/",
+        "id": "008402",
+        "description": "An introduction to discrete mathematics, including combinatorics and graph theory. The necessary background tools in set theory, logic, recursion, relations, and functions are also included. Masters degree credit for Teacher Option Only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MS Teacher Option only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5010": {
+        "name": "MATH.5010 Real Analysis (Formerly 92.501)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5010/",
+        "id": "008403",
+        "description": "The class is aimed to give rigorous foundations to the basic concepts of Calculus such as limits of sequences and functions, continuity, Riemann integration. The main focus is given to rigorous proofs rather than computations. Tentative topics are: Real numbers (algebraic, order and distance structures); Archimedean property; Sequences and their limits. Bolzano-Weierstrass theorem; Cauchy sequences and completeness; Limit of a function; Continuity of a function at a point and on a set; Uniform continuity; Open and closed sets, idea of compactness, compactness of a closed interval; Sequences of functions, uniform convergence; Riemann integration. Prerequisites: Calculus I-III or equivalent, Discrete Structures or equivalent.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, and MATH.2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "MATH.2190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5070": {
+        "name": "MATH.5070 Applied Functional Analysis I (Formerly 92.507)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5070/",
+        "id": "008408",
+        "description": "Metric spaces, completeness, contractions, compactness, the Arzela-Ascoli theorem, Picard's theorem, Weierstrass's theorem. Banach spaces, dual spaces, weak v's strong convergence. Hilbert spaces, orthogonal sequences, weak sequential compactness, compact self-adjoint operators and their spectra, application to Sturm-Liouville theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.4030 Mathematical Analysis, or MATH.5010 Real Analysis, and MATH.2220 Linear Algebra II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.4030",
+                    "MATH.5010"
+                ],
+                [
+                    "MATH.2220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5090": {
+        "name": "MATH.5090 Probability and Mathematical Statistics (Formerly 92.509)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5090/",
+        "id": "008409",
+        "description": "This course provides a solid basis for further study in statistics and data analysis or in pattern recognition and operations research. It is especially appropriate for students with an undergraduate science or engineering major who have not had a rigorous calculus-based probability and statistics course.  The course covers the topics in probability models, random variables, expected values, important discrete and continuous distributions, limit theorems, and basic problems of statistical inference: estimation and testing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calculus III, or Mathematics MS Students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5100": {
+        "name": "MATH.5100 Computers and Calculators in Classroom (Formerly 92.510)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5100/",
+        "id": "008410",
+        "description": "Explores the roles of computers and calculators in instruction, examines some of the available software, and considers their use in a variety of areas of school mathematics, such as algebra, geometry (Euclidean and analytic) probability and statistics, and introductory calculus.  Mathematics Masters degree credit for Teacher Option Only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MS Teacher Option only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5110": {
+        "name": "MATH.5110 Complex Variables I (Formerly 92.411/511)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5110/",
+        "id": "001227",
+        "description": "A first course in theory of analytic functions of one complex variable: complex differentiability and the Cauchy-Riemann equations, Cauchy Integral Theorem and Cauchy Integral Formula, Taylor and Laurent series, zeroes of analytic functions and uniqueness, the maximum modulus principle, isolated singularities and residues. Applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5130": {
+        "name": "MATH.5130 Number Theory (Formerly 92.513)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5130/",
+        "id": "008412",
+        "description": "Study of primes, congruences, number-theoretic functions, Diophantine approximation, quadratic forms and quadratic number fields. Additional topics as time permits.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2210 Linear Algebra I, and MATH.2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2210"
+                ],
+                [
+                    "MATH.2190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5200": {
+        "name": "MATH.5200 Mathematical Problem Solving (Formerly 92.420/520)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5200/",
+        "id": "001226",
+        "description": "Focuses on: mathematical resources, ability to use heuristics, the student's beliefs about the use of mathematics to solve problems, and the student's self-confidence as a problem solver. Effective strategies for incorporating problem solving in the curriculum will also be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MS Teacher Option only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5210": {
+        "name": "MATH.5210 Abstract Algebra I (Formerly 92.421/521)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5210/",
+        "id": "001225",
+        "description": "Elementary group theory, groups, cosets, normal subgroups, quotient groups, isomorphisms, homomorphisms, applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2190 Discrete Structures I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2190"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5230": {
+        "name": "MATH.5230 Linear Algebra (Formerly 92.523)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5230/",
+        "id": "008418",
+        "description": "Sets and maps; vector spaces and linear maps, matrix of linear maps, solving systems of equations, scalar products and orthogonality, eigenvalues and applications. Masters degree credit for Teachers Option Only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MS Teacher Option only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5260": {
+        "name": "MATH.5260 Topology (Formerly 92.426/526)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5260/",
+        "id": "033480",
+        "description": "Metric spaces, topological spaces, connectedness, compactness, the fundamental group, classifications of surfaces, Brouwer's fixed point theorem.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 4030 Mathematical Analysis or MATH 5010 Real Analysis",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.4030",
+                    "MATH.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5270": {
+        "name": "MATH.5270 Geometry (Formerly 92.427/527)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5270/",
+        "id": "001224",
+        "description": "This course is designed for current and prospective geometry teachers. In addition to the development of Euclidean geometry, students will become familiar with geometry applications in Geometer's Sketchpad software, and to a lesser degree with other geometry software applications including Geogebra, and Cabri.  There will be an introduction to spherical and hyperbolic geometry and triangle measurements will be computed for each. Calculus based derivations of area and volume for surfaces and solids will be generated and related to Euclidean geometry topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, and  Master of Science in Mathematics- Teacher Option only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5300": {
+        "name": "MATH.5300 Applied Mathematics I (Formerly 92.530)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5300/",
+        "id": "008422",
+        "description": "Infinite Series, Complex Algebra, Ordinary Differential Equations, Special Functions, Fourier Series, Vector Spaces, Operators and Matrices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5310": {
+        "name": "MATH.5310 Applied Mathematics II (Formerly 92.531)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5310/",
+        "id": "008423",
+        "description": "Multivariable Calculus, Vector Calculus, Partial Differential Equations Complex Variables, Fourier Analysis, Calculus of Variations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5350": {
+        "name": "MATH.5350 History of Mathematics (Formerly 92.435/535)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5350/",
+        "id": "001223",
+        "description": "Examines ancient numeral systems, Babylonian and Egyptian mathematics, Pythagorean mathematics, duplication, trisection, and quadrature, Euclid's elements and Greek mathematics after Euclid, Hindu and Arabian mathematics, European mathematics from 500 to 1600, origins of modern mathematics, analytic geometry, the history of calculus.  Also covers the transition to the twentieth century and contemporary perspectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MS Teacher Option only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5430": {
+        "name": "MATH.5430 Ordinary Differential Equations (Formerly 92.543)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5430/",
+        "id": "008427",
+        "description": "Existence, uniqueness, and smoothness of solutions. The Poincar\u00e9-Bendixson theory. The neighborhoods of critical points and closed orbits. Liapunov stability. Linear and perturbed linear systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5450": {
+        "name": "MATH.5450 Partial Diff Equations (Formerly 92.545)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5450/",
+        "id": "036705",
+        "description": "Linear and quasilinear first order PDE. The method of characteristics. Conservation laws and propagation of shocks. Basic theory for three classical equations of mathematical physics (in all spatial dimensions): the wave equation, the heat/diffusion equation, the Laplace/Poisson equation. Initial value problems - solution formulas. Fundamental solutions. Green's functions. Eigenfunction expansion method for initial-boundary and boundary value problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5480": {
+        "name": "MATH.5480 Mathematics Of Signal Processing (Formerly 92.548)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5480/",
+        "id": "008430",
+        "description": "Representation of signals: Fourier analysis, fast Fourier transforms, orthogonal expansions.  Transformation of signals: linear filters, modulation; band-limited signals; sampling; uncertainty principle; Windows and extrapolation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5500": {
+        "name": "MATH.5500 Mathematical Modeling (Formerly 92.550)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5500/",
+        "id": "008431",
+        "description": "Applications of mathematics to real life problems.  Topics include dimensional analysis, population dynamics wave and heat propagation, traffic flow. Pre-requisite: 92.132 Calculus II.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5510": {
+        "name": "MATH.5510 Calculus of Variations (Formerly 92.551)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5510/",
+        "id": "008432",
+        "description": "The first variational problem, necessary conditions. Euler's equation. Generalization to dependent and independent variables. Constraints and Lagrange multipliers. Application to dynamics and elasticity. Direct methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MATH 2310 Calculus III & MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5550": {
+        "name": "MATH.5550 Applied Math for Life Scientists (Formerly 92.555)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5550/",
+        "id": "008436",
+        "description": "The objective of this course is to give students an opportunity to learn how to use a computer algebra system in the context of reviewing some of the key mathematical topics that are used in the life sciences.  The first  half of the course includes a review of mathematical topics ranging from trigonometry through differential equations.  A parallel introduction to a computer algebra system is also included in the  first half.  In the second half, students will study a mathematical topic such as pattern recognition or models for growth and complete a  project using the computer algebra system. (UMassOnline).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calulus III, and MATH.2340 Differential Equations, or MATH.2360 Differential Equations, and MATH.2210 Linear Algebra I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ],
+                [
+                    "MATH.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5630": {
+        "name": "MATH.5630 Computational Mathematics (Formerly 92.563)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5630/",
+        "id": "008439",
+        "description": "Introduction and review of Taylor series.  Finding roots of F(x)=0.  Numerical interpolation and extrapolation.  Curve fitting and nonlinear best fits.  Numerical differentiation and integration.  Differential equations, initial and boundary value problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5640": {
+        "name": "MATH.5640 Applied Linear Algebra (Formerly 92.564)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5640/",
+        "id": "008440",
+        "description": "Use of iterative algorithms to find exact or approximate constrained solutions to large, and often spares, systems of linear equations, and on applications, such as medical imaging, in which such problems arise.  Maximization of likelihood and entropy.  Emphasis on exploiting sparseness, accelerating convergence, and stabilizing calculations in the presence of noise.  Block-iterative methods and bounds for singular values will be included.  Basic results in matrix theory presented as needed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5650": {
+        "name": "MATH.5650 Special Functions (Formerly 92.565)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5650/",
+        "id": "008441",
+        "description": "Introduction to functions beyond those studied in calculus and which arise in applied mathematics, including gamma, beta, elliptic, Bessel, orthogonal polynomials ... Asymptotic approximation will be introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5680": {
+        "name": "MATH.5680 Approximation Theory (Formerly 92.568)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5680/",
+        "id": "031893",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5720": {
+        "name": "MATH.5720 Optimization (Formerly 92.572)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5720/",
+        "id": "008446",
+        "description": "Optimization without calculus; geometric programming; convex sets and convex functions; review of linear algebra; linear programming and the simplex method; convex programming; iterative barrier-function methods; iterative penalty-function methods; iterative least-squares algorithms; iterative methods with positivity constraints; calculus of variations; applications to signal processing, medical imaging, game theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2310 Calculus III, and MATH.2210 Linear Algebra I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "MATH.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5750": {
+        "name": "MATH.5750 Applied Statistics with R (Formerly 92.575)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5750/",
+        "id": "008448",
+        "description": "This is a methods course focusing on the applications of statistics using R programming language. Topics include: Study designs, review of inference and regression, categorical data, logistic regression, rates and proportions, and nonparametric methods. Additional topics may be considered if time permits. Only on of 92.575(R) and 92.576(SAS) may be applied toward a Masters degree in Mathematics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.5910 Linear Statistical Modeling & Regression.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.5910"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5760": {
+        "name": "MATH.5760 Statistical Programming using SAS (Formerly 92.576)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5760/",
+        "id": "008449",
+        "description": "An introduction to creation and manipulation of databases and statistical analysis using SAS software. SAS is widely used in the pharmaceutical industry, medical research and other areas. Cannot be used as a Math Elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5780": {
+        "name": "MATH.5780 Statistical Inference and Data Mining (Formerly 92.578)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5780/",
+        "id": "031943",
+        "description": "Topics in nonasymptotic direct computational methods for statistical inference in data mining.  Background in probability and statistics required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5840": {
+        "name": "MATH.5840 Stochastic Process (Formerly 92.584)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5840/",
+        "id": "008456",
+        "description": "Markov chains and processes, random walks, stationary, independent increments, and Poisson processes. Ergodicity. Examples (e.g., diffusion, queuing theory, etc.).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.5870": {
+        "name": "MATH.5870 Measure and Probability Theory (Formerly 92.587)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5870/",
+        "id": "008459",
+        "description": "This course presents the mathematical foundations of Probability Theory, including the concepts of Probability Space and random variable. Various types of convergence of sequences and measurable functions will be introduced, and precise statements and proofs of the probability limit theorems (Law of Large Numbers, Central Limit Theorems, etc.) will be given. Theory of measure and Lebesgue integration will be introduced. If time permits, conditional probabilities will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 4030 Mathematical Analysis or MATH 5010 Real Analysis",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.4030",
+                    "MATH.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5880": {
+        "name": "MATH.5880 Mathematical Statistics (Formerly 92.588)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5880/",
+        "id": "008460",
+        "description": "Random variables, densities, joint and conditional distributions, expectations, variance, estimation, sufficiency and completeness, hypothesis testing, limiting distributions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.5090 Probability and Mathematical Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.5090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5900": {
+        "name": "MATH.5900 Statistical Quality Control (Formerly 92.590)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5900/",
+        "id": "008462",
+        "description": "Overview of quality and managing quality, Define Measure Analyze Improve Control (DMAIC), the six sigma approach to quality, visual representation of data, Pareto charts, histograms, process capability vs specification (process) limits, t-tests, ANOVA, and other statistical hypothesis testing in quality, normal probability plots, control charts, measurement system analysis, application of regression analysis to manufacturing and/or design, Minitab.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.3850 Applied Statistics, or MATH.4860 Probability and Mathematical Statistics, or MATH.5880 Mathematical Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3850",
+                    "MATH.4860"
+                ],
+                [
+                    "MATH.5880"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5910": {
+        "name": "MATH.5910 Linear Statistics Modeling and Regression (Formerly 92.591)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5910/",
+        "id": "008463",
+        "description": "Model building via linear regression models. Method of least squares, theory and practice.  Checking for adequacy of a model, examination of residuals, checking outliers. Practical hand on experience in linear model building on real data sets. Prerequisite: recommended: Linear Algebra.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.3850 Applied Statistics, or MATH.4860 Probability and Mathematical Statistics, or MATH.5880 Mathematical Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3850",
+                    "MATH.4860"
+                ],
+                [
+                    "MATH.5880"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5920": {
+        "name": "MATH.5920 Multivariate Statistics (Formerly 92.592)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5920/",
+        "id": "008464",
+        "description": "Nonlinear model building via the method of least squares. Discriminant and factor analysis, principal components, profile analysis, canonical correlation, cluster analysis. Experience on real data sets.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.4860 Probability & Math Statistics II, or MATH.5090 Probability and Mathematical Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.4860",
+                    "MATH.5090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.5930": {
+        "name": "MATH.5930 Experimental Design (Formerly 92.593)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/5930/",
+        "id": "008465",
+        "description": "How to design, carry out, and analyze experiments. Randomized block designs, randomization, blocking, matching, analysis of variance and covariance, control of extraneous variables.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.3850 Applied Statistics, or MATH.4860 Probability and Mathematical Statistics, or MATH.5880 Mathematical Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.3850",
+                    "MATH.4860"
+                ],
+                [
+                    "MATH.5880"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MATH.6510": {
+        "name": "MATH.6510 Selected Topics in Mathematics (Formerly 92.651)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/6510/",
+        "id": "008467",
+        "description": "Intended to satisfy individual student needs. Topics include various fields of mathematics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.6530": {
+        "name": "MATH.6530 Selected Topics (Formerly 92.653)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/6530/",
+        "id": "008469",
+        "description": "Advanced topics in various fields of mathematics and related fields. Since topical coverage varies from term to term, a student may be allowed to receive credit more than once for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.7060": {
+        "name": "MATH.7060 Directed Research",
+        "url": "https://www.uml.edu/catalog/courses/MATH/7060/",
+        "id": "041566",
+        "description": "Direct supervision with a dissertation advisor.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.7420": {
+        "name": "MATH.7420 Thesis Review (Formerly 92.472)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/7420/",
+        "id": "035257",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MATH.7430": {
+        "name": "MATH.7430 Master's Thesis in Mathematical Sciences (Formerly 92.743)",
+        "url": "https://www.uml.edu/catalog/courses/MATH/7430/",
+        "id": "008489",
+        "description": "Master's Thesis Research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

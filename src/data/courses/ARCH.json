@@ -1,0 +1,220 @@
+{
+    "total": 12,
+    "time": 9.365370988845825,
+    "ARCH.2060": {
+        "name": "ARCH.2060 History of Architecture (Formerly 58.206)(Formerly ARHI.2060)",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/2060/",
+        "id": "006224",
+        "description": "A survey of the major technical and stylistic developments in ecclesiastical and secular architecture from Prehistory to the present day studied with an emphasis on the major monuments (Parthenon, Pantheon, Gothic Cathedrals, St. Peter's, Versailles Palace, Eiffel Tower, Guggenheim Museum). Spring, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARCH.2090": {
+        "name": "ARCH.2090 Special Topics in Architectural Studies",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/2090/",
+        "id": "042198",
+        "description": "Special Topics in Architectural Studies",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARCH.2300L": {
+        "name": "ARCH.2300L Introduction to Interior Design",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/2300L/",
+        "id": "042262",
+        "description": "This class introduces students to the power of shaping interior spaces through a focus on design principles and the design process. Humans are creatures of habit, and we find comfort in spaces designed to function within our own cultural norms; by exploring color theory and diverse media, students will learn to design spaces that respond to, protect, and address human needs in different societies. The course strengthens skills in both freehand drawing and computer assisted design through 2D and 3D projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARCH.2500L": {
+        "name": "ARCH.2500L Introduction to the Built Environment",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/2500L/",
+        "id": "042263",
+        "description": "This studio-based course introduces students to the ways the discipline of architecture shapes our built environment. Students will not only learn how to make architectural drawings but also consider the social responsibility to design buildings and public spaces that address community needs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARCH.3140": {
+        "name": "ARCH.3140 American Architecture (Formerly 58.314)(Formerly ARHI.3140)",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/3140/",
+        "id": "032950",
+        "description": "This course begins with a discussion of native American building traditions and proceeds chonologically from the 17th through the 20th centuries.  Students will gain a familiarity with the major movements in American architecture (such as Colonial, Greek Revival, Victorian, Arts and Crafts, City Beautiful, International Style, Postmodern) as well as the leading archiects such as Frank Lloyd Wright and Frank Gehry.  The architecture is discussed in its historical context with attention to the inventions, materials and aesthetic assumptions that made it possible.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARCH.3150": {
+        "name": "ARCH.3150 Modern Architecture (Formerly 58.315)(Formerly ARHI.3150)",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/3150/",
+        "id": "037141",
+        "description": "This course will examine global architecture from the 19th century to the present.  It addresses the major movements, \"-isms\", architects, publications, schools, and technological innovations that contributed to varied (and often conflicting) notions of \"Modern architecture.\"  Growing nationalism and politics, travel and colonial occupation, the effects of war, and changing conceptions of nature and science, all transformed the built environment.  This course will provide a better understanding not only of individual works but also of the ways architecture manifests important themes such as nationalism, regionalism, functionalism, rationalism, and the most current theme, happiness.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARCH.3160": {
+        "name": "ARCH.3160 Architectural Utopias (Formerly ARHI.3160)",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/3160/",
+        "id": "041569",
+        "description": "can we build a better world? Many people from various eras and geographical locations have argued we can. The idea of utopia -- a place of harmony free from want and strife -- has shaped both imagined and real places. So has its opposite: dystopia. This course will focus on architectural visions and solutions for utopias from the ancient world to the present: from myths of long-lost cities to projected colonies on the moon and Mars.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, and ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARCH.3170": {
+        "name": "ARCH.3170 Zen and the Arts of Japan",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/3170/",
+        "id": "042235",
+        "description": "This course examines how the religious and philosophical traditions of Zen, originally a Buddhist practice of meditation, have become intertwined with Japanese aesthetic principles. It will focus on the design of architecture and gardens that embodied Zen teachings, and the activities that take place in those spaces, such as chanoyu (tea ceremony), as well as works of art such as calligraphy and ceramics. Covering the period from the 13th through the 20th centuries, the course traces the changing philosophical concepts of enlightenment and their aesthetic expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARCH.3340": {
+        "name": "ARCH.3340 China's Forbidden City (Formerly ARHI.3340)",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/3340/",
+        "id": "042130",
+        "description": "Beijing has served as the political and cultural capital in China since the 15th century. At its core lies the Forbidden City, the largest preserved ancient wooden palatial compound in the world. This course centers first on examining the formal features of the City's layout, spatial planning, decorative schemes, and technical innovations, as well as the integration of the arts within the City. It then investigates how these features supported the profound socio-political symbolism of the empire and its cultural significance both historically and in the 20th century after the establishment of Communist China in 1949. A careful study of the Forbidden City allows us to engage with critical questions about the past and our own position as recipients of such a rare legacy of world civilization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARCH.3550": {
+        "name": "ARCH.3550 The City and the Environment (Formerly ARHI.3550)",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/3550/",
+        "id": "040400",
+        "description": "This course examines the many ways that communities, architects, and developers have responded (or not responded) to the American landscape and environment. It will begin with the earliest settlements established by the colonists, such as Havana, Cuba, and New York City and progress to the present with a special emphasis on Lowell and Boston. The course will not only examine specific cities but also architectural utopias, city planning, the national park system, sustainable design, and contemporary efforts to merge the needs of the city with environmental awareness.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, or ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARCH.4940": {
+        "name": "ARCH.4940 Directed Study in Architectural Studies",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/4940/",
+        "id": "042196",
+        "description": "Supervised individual research on a topic related to the built environment.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ]
+        }
+    },
+    "ARCH.4960": {
+        "name": "ARCH.4960 Practicum in Architectural Studies",
+        "url": "https://www.uml.edu/catalog/courses/ARCH/4960/",
+        "id": "042197",
+        "description": "A program of on-campus or off-campus experiences for Architectural Studies minors. The practicum provides an\u00a0opportunity for students to work with university or local organizations to gain hands-on experience with projects related to the built environment.\u00a0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ]
+        }
+    }
+}

@@ -1,0 +1,1503 @@
+{
+    "total": 98,
+    "time": 63.783507347106934,
+    "POLI.1010": {
+        "name": "POLI.1010 Introduction to American Politics (Formerly 46.101)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1010/",
+        "id": "001243",
+        "description": "An introduction to the politics, structure, and behavior of the American National Political Community.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.1010SI": {
+        "name": "POLI.1010SI Supplemental Instruction for Political Science - Navitas Only (Formerly 46.101SI)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1010SI/",
+        "id": "039121",
+        "description": "Supplemental Instruction for Political Science - Navitas Only.  Credits do not count toward degree requirements.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.1050": {
+        "name": "POLI.1050 Introduction to Public Policy (Formerly 46.105)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1050/",
+        "id": "005570",
+        "description": "An introductory survey of the major forces and processes involved in the development of public policy; contemporary issues in public policy will also be considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.1100": {
+        "name": "POLI.1100 Introduction to Politics (Formerly 46.110)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1100/",
+        "id": "005571",
+        "description": "An introductory exploration of basic political concepts, ideologies, and themes. Stresses the importance of understanding politics for everyday life.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.1110": {
+        "name": "POLI.1110 Election of 2012 (Formerly 46.111)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1110/",
+        "id": "030408",
+        "description": "An examination of the American election process in this presidential election year.  Attention especially is given to candidates, political issues, political parties, and financing, among other factors, within the process and their influence in the election outcome.  Strengths and weaknesses of the election process and reform proposals and prospects will also be addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.1120": {
+        "name": "POLI.1120 Introduction to Comparative Politics (Formerly 46.112)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1120/",
+        "id": "005572",
+        "description": "What is democracy? What factors explain the demise of some authoritarian regimes? How can we explain the persistent underdevelopment of certain countries? What factors explain why civil war emerges in some weak states but not in others? These are the kinds of questions that Comparative Politics seeks to answer and this class will introduce central topics and theories in comparative politics. It will also analyze variations in similarities across regions of the world using in-depth analysis and systematic comparison across and within countries. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.1210": {
+        "name": "POLI.1210 Introduction to International Relations (Formerly 46.121)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1210/",
+        "id": "005573",
+        "description": "Surveys some recent methods and approaches used in the study of international politics and provides an introduction to current problems of foreign policies of major world powers.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.1750": {
+        "name": "POLI.1750 Introduction to Environmental Politics (Formerly 46.175)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/1750/",
+        "id": "031964",
+        "description": "This course introduces major concepts in environmental politics to provide a comprehensive understanding of the formation of environmental policy in the United States. Throughout the course, particular attention is paid to the role of government and markets in creating environmental crises and shaping policy responses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2001": {
+        "name": "POLI.2001 Comparative Environmental Politics",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2001/",
+        "id": "042030",
+        "description": "This course focuses on how differences in political institutions, culture, regulatory style, and economic structure play in shaping environmental policies; the impact these differences have on the ability of states to achieve cooperative solutions to common environmental problems; and how international environmental interactions shape domestic environmental policy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POLI.1750 Introduction to Environmental Politics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POLI.1750"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POLI.2010": {
+        "name": "POLI.2010 Research Methods in Political Science (Formerly 46.201)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2010/",
+        "id": "005576",
+        "description": "Introduces the Political Science major to the scope of politics as a discipline. Highlights value questions through analysis of the political, socio-demographic and constitutional background of selected contemporary public issues and policies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BLA w/ Poli Sci Concentration.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2110": {
+        "name": "POLI.2110 Media and Politics Around the World (Formerly 46.211)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2110/",
+        "id": "005584",
+        "description": "For centuries, politicians have depended on media to reach and persuade citizens, yet the role of media in politics remains much debated. This course introduces students to the theories on the relationship between media and politics using a case study approach Because much of what we know about the media comes from studying media in the United States, we will start with cases in the U.S., but because much of what we need to know about media and politics involves media in other countries, we will spend much of the course looking at media and politics in developing and democratizing countries.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2120": {
+        "name": "POLI.2120 American Media and Politics (Formerly 46.212)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2120/",
+        "id": "039117",
+        "description": "This course explores the role of the media in American politics and the role of politics in the American media. We focus first on the historical evolution of newspapers, radio, television, and the internet as vehicles of political news reporting. Next, we look at instances of journalistic bias and distortion in order to explore how corporate consolidation and commercial competition have affected the news industry. Finally, by studying a selection of major stories in depth, we will gain a better  understanding of the factors involved in the conversion of political events and developments into seemingly significant news.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2150": {
+        "name": "POLI.2150 African Politics (Formerly 46/57.225)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2150/",
+        "id": "034556",
+        "description": "The images of Africa most commonly seen in the US flood our minds with inconsistent messages.  Africa is portrayed and discussed as a locus of ancient tribal conflicts, disease, famine, and suffering.  While struggles do occur - just as they do in all places - understanding the diverse experiences of the peoples of Africa requires engagement with the cultures, politics, religions,  and perspectives of people in more than fifty countries across a vast continent.  While such engagement can hardly be accomplished in a semester, we will attempt to scratch at the surface in different ways that reveal ideas, experiences, and thoughts that reflect political life and culture in Africa south of the Sahara in a more reflective manner. Throughout this course, I challenge you to remember that politics as we usually conceive them - the policies, programs, and posturing of government and public organizations - are a backdrop to the way real people live their lives every day.  Policies and political systems are less important for the fact that they exist than for the ways in which they affect the lives of those they govern.  With this approach, I hope we will be able to pick apart government structures, political organizations, and policy issues in ways that will shed light on the construction and culture of African politics.  This requires a focus on  power - who has it, how they use it, and to what ends.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2180": {
+        "name": "POLI.2180 Introduction to Politics and Sports (Formerly 46.218)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2180/",
+        "id": "005586",
+        "description": "Analyzes the growing importance of sports in American life. Examines the psychological, political and social impact of sports on society. Discusses how sports have been shaped by such monumental events as war, the civil rights movement, and the changing economy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2210": {
+        "name": "POLI.2210 Introduction to Global Security",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2210/",
+        "id": "041526",
+        "description": "This course offers a solid grounding in the various theoretical approaches to international security and explores a variety of international security issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2220": {
+        "name": "POLI.2220 Politics of the Internet (Formerly 46.222)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2220/",
+        "id": "005588",
+        "description": "This course will examine the influence social media and web connectivity have had on political campaigns, campaign fundraising, political mobilization, and the recent proliferation of democratic movements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2300": {
+        "name": "POLI.2300 Law and the Legal System(Formerly 46.230)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2300/",
+        "id": "005590",
+        "description": "Presents an introduction to the nature of the legal process and the operation of the American legal system. Also discusses considerations of its political and social functions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2310": {
+        "name": "POLI.2310 Introduction Political Thought (Formerly 46.231)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2310/",
+        "id": "005591",
+        "description": "A critical survey of the history of Western political thought from Plato to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2400": {
+        "name": "POLI.2400 Contemporary Political Theory",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2400/",
+        "id": "005595",
+        "description": "Examines major ideological currents in the contemporary world. Topics include communism, fascism, anarchism, socialism, nationalism, liberalism, and utilitarianism.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2510": {
+        "name": "POLI.2510 Politics of Identity (Formerly 46.251)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2510/",
+        "id": "030848",
+        "description": "This interdisciplinary course considers the way we construct self-identity through our affiliation with various cultural and political groups- from the\"Red Sox nation\" to linguistic, economic, nationalistic and ethnic groups. It examines the central role of nationalism; its symbols, traditions and expectations; the role of the media; and the benefits and risks of our allegiance to these groups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2530": {
+        "name": "POLI.2530 Introduction to Public Administration and Policy (Formerly 46.253)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2530/",
+        "id": "005597",
+        "description": "An examination of the little studied fourth branch of government. Bureaucratic power in the American political system is reconsidered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.2650": {
+        "name": "POLI.2650 State and Local Politics (Formerly 46.265)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/2650/",
+        "id": "005600",
+        "description": "Examination and study of politics and government at the state and local levels, with emphasis on Massachusetts and New England. Practitioners from state and local government will meet with the class.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3001": {
+        "name": "POLI.3001 Environmental Security",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3001/",
+        "id": "042029",
+        "description": "The central goals of this course are  (1) to give students a solid grounding in various analytical approaches to environmental security, and (2) to explore a variety of environmental security issues. This is a heavily analytical course; critical thinking is required equipment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POLI.1750 Introduction to Environmental Politics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POLI.1750"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POLI.3002": {
+        "name": "POLI.3002 Climate Change Communication",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3002/",
+        "id": "042054",
+        "description": "This course examines climate change communication and its role in achieving climate change policy goals. Together we will study the ethical issues that shape and stem form science communication, climate change communication more specifically, and community engagement strategies. Among the ethical issues we will discuss are how best to achieve an informed citizenry, the role of informed consent, what it means for government to protect citizens, and the role of precaution in government risk management. The course also examines the practical aspects of how climate change is communicated, the theories behind current practices, and the scientific evidence regarding the effects of different practices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "POLI.1750 Intro to Environment Politics, and Political Sciences Majors and Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POLI.1750"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POLI.3010": {
+        "name": "POLI.3010 Quantitative Methods in Political Science (Formerly 46.301)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3010/",
+        "id": "005605",
+        "description": "This is a course in designing Quantitative Research and applying statistics for Political Scientific.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS) and Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:POLI.2010 Research Methods in Pol. Sci.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3020": {
+        "name": "POLI.3020 Research and Writing for Political Science (Formerly 46.302)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3020/",
+        "id": "038655",
+        "description": "This course provides political science majors with opportunities to hone their research and writing skills. Students analyze representative scholarly and popular sources, explore writing for various venues; and practice editing and revising their work. With prior arrangements students may use this course to complete an honors thesis, pursue an independent research project, or revise and expand an especially promising research paper submitted in a previous course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3021": {
+        "name": "POLI.3021 The Age of Nixon",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3021/",
+        "id": "041936",
+        "description": "Explores the political impact, cultural legacy, and historical placement of politician Richard M. Nixon (1913-19940).  Using the methodologies of history and political science, this course considers Nixon's political and personal trajectory, his domestic and foreign policies, and his impact on the world during his lifetime and posthumously.  Attention and debate will also focus on the revised view and legacy of Nixon's reputation and his actions both reviled (Watergate, Invasion of Cambodia) and championed (Creation of the EPA, Opening of diplomacy with Communist China).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POLI.3040": {
+        "name": "POLI.3040 Politics of Development (Formerly 46.304)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3040/",
+        "id": "005580",
+        "description": "This course considers the politics of the global development process, the actors involved and the contexts within which development occurs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3070": {
+        "name": "POLI.3070 American Political Thought (Formerly 46.307)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3070/",
+        "id": "005608",
+        "description": "America, wrote George Santayana, is a young country with an old mentality. European political thought has deeply shaped American political values and institutions, but at the same time, America is not Europe. America is a young country, with a comparatively short history, that has been shaped by strange things; the \"empty\" freedom of the frontier, Indigenous occupants, unfathomable natural resources, intense religious fervor, and unprecedented human suffering. In short, America has its own distinctive tradition of political thought. In this course, we will explore the sources and threads of political thought in the American experience, drawing on both canonical political thinkers as well as popular and critical sources. We will begin with the Puritan colonial founding and continue through the present. This course highlights the relationship between learning the history of political theory in America and coming to our own contemporary political understandings. To that end, course work emphasizes reflective and contemplative practices, including a field trip to nearby Walden Pond.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3090": {
+        "name": "POLI.3090 Political Psychology (Formerly 46.309)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3090/",
+        "id": "005610",
+        "description": "An in-depth examination of the acquisition and role of political attitudes, values, belief systems, and other psychological mechanisms in shaping political behavior and conflict.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3100": {
+        "name": "POLI.3100 'Isms' in American Politics (Formerly 46.310)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3100/",
+        "id": "005611",
+        "description": "An examination of major ideological, philosophical and social currents.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POLI.3110": {
+        "name": "POLI.3110 Foundations of Law: Process & Skills (Formerly 46.311)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3110/",
+        "id": "005612",
+        "description": "Foundations of Law, Process & Skills\" presents a comprehensive introduction to the skills, process, expectations, and substantive law presented in the first year of law school. Many students in the social sciences consider the idea of pursuing law school, but have no meaningful avenue to explore the true flavor of the experience, or the commitment they would be taking on. Law School can be immensely rewarding, yet requires a substantial investment of time, personal dedication and financial obligation. The course will provide everything students need to know about the law school experience, while gaining invaluable academic skills in the process, whether or not they choose the law school path.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3120": {
+        "name": "POLI.3120 Campaign and Election law (Formerly 46.312)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3120/",
+        "id": "005613",
+        "description": "This course instructs students on campaign and election law; including all relevant cases, statutes and regulations. Students will gain knowledge and skills useful for both future political campaign activity and postgraduate study.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3130": {
+        "name": "POLI.3130 Electoral Politics (Formerly 46.313)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3130/",
+        "id": "037643",
+        "description": "This course will examine voting behavior in American elections: how voters make decisions, the changing nature of campaigns, the influence of money, media, and polling, and related matters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3140": {
+        "name": "POLI.3140 Parties and Interest Groups (Formerly 46.314)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3140/",
+        "id": "037644",
+        "description": "An examination of party systems and coalitions in the US, their changing nature over time, the history of realignment, and the relationship of parties to interest groups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3160": {
+        "name": "POLI.3160 Politics and Film (Formerly 46.316)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3160/",
+        "id": "005615",
+        "description": "Analysis of the role of film in creating, expressing, revealing, and responding to social and political ideas and values. Examines a variety of film and film styles and introduces students to elements of film theory, the theory of popular culture and the role of film in forming our ideas about the world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3200": {
+        "name": "POLI.3200 Gender Law and Politics (Formerly 46.320)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3200/",
+        "id": "005617",
+        "description": "Explores legal constructions of gender by examining Supreme Court cases, federal legislation, historical documents, news stories, and scholarly essays on sexual inequality in the United States. Topics include the evolution of the family as a legal (and illegal) reality; political regulation of reproduction and sexual activity; feminist critiques of economic inequality; the rise and fall of affirmative action; the changing role of gender in class consolidation; and ongoing debates about the relationships between public and private life.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3210": {
+        "name": "POLI.3210 Soccer and Politics (Formerly 46.321)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3210/",
+        "id": "036431",
+        "description": "This course analyzes the social, political and business aspects of the World Cup, the most popular sporting event in the world.  The course will study the evolution of the World Cup, from the 1930's when fascist regimes used the Cup to buttress their doctrines to the emergence of new soccer powers like the U.S.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3230": {
+        "name": "POLI.3230 Politics and Baseball (Formerly 46.323)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3230/",
+        "id": "036432",
+        "description": "Introductory look at the interaction between the world of baseball and the social and political structures which influence the sport.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3240": {
+        "name": "POLI.3240 Politics of Football (Formerly 46.324)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3240/",
+        "id": "036433",
+        "description": "How the rise of pro football's popularity reflects changes in American society during the 20th century.  An examination of how politics, economics and television created a sport that has become an American obsession, and some argue, a new religion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3290": {
+        "name": "POLI.3290 Politics of College Sports (Formerly 46.329)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3290/",
+        "id": "036434",
+        "description": "Current controversies over the role of college sports within an academic environment with particular attention to Title IX, the pivotal law that altered gender in college sports.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3310": {
+        "name": "POLI.3310 Animal Rights and Animal Welfare (Formerly 46.331)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3310/",
+        "id": "035839",
+        "description": "This course examines how the structure of the human/non-human animal relationship affects of determines the nature of public policy formation on issues with impacts on non-human animals, both nationally and internationally.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3320": {
+        "name": "POLI.3320 The Politics of Food (Formerly 46.332)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3320/",
+        "id": "037038",
+        "description": "The course will examine current debates in food politics over: regulatory politics and the appropriate reach of the state in food labeling, safety, and oversight; genetically modified food, organic and sustainable agriculture, the effects of economic globalization of the food supply chain and the future of the world food system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3340": {
+        "name": "POLI.3340 Islam and Politics (Formerly 46.334)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3340/",
+        "id": "036670",
+        "description": "The course will explain the nature of the relationship between Islam and Politics by examining the rise of the first modern Islamic movement, and by examining other Islamic movements that spread throughout the Muslim world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3350": {
+        "name": "POLI.3350 Constitutional Law: Powers & Principles  (Formerly 46.335)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3350/",
+        "id": "005624",
+        "description": "A study of constitutional law focused on the powers and principles of American government. We will discuss the Declaration of Independence and Revolution, separation of powers, federalism, natural rights, and ordered liberty, emphasizing the case law on the origins of judicial review, the Commerce Clause, war powers, executive privilege, elections, criminal procedure, and search under the Fourth Amendment. Political Science offers two courses in constitutional law for students from any major who are preparing for law school or seeking a background in how constitutional law influences American politics and culture. POLI.3350 or POLI.3370 can be taken alone or both courses in either sequence. On campus and online versions are identical, so student can take each course in either format.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3370": {
+        "name": "POLI.3370 Constitutional Law: Rights & Liberties (Formerly 46.337)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3370/",
+        "id": "005626",
+        "description": "A study of constitutional law focused on rights and liberties. We will discuss the balance of liberty and authority under the Constitution, the Bill of Rights, the Fourteenth Amendment, due process, and equal protection, emphasizing the case law on freedom of religion, speech, press, gun rights, LBGT rights, race, abortion, gender, and the death penalty. Political Science offers two courses in constitutional law for students form any major who are preparing for law school or seeking a background in how constitutional law influences American politics and culture. POLI.3350 or POLI.3370 can be taken alone or both courses in either sequence. On campus and online versions are identical, so students can take each course in either format.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3380": {
+        "name": "POLI.3380 Political Participation (Formerly 46.338)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3380/",
+        "id": "005627",
+        "description": "Political movements; voting and elections, parties and interest groups; civil disobedience in American politics. Consideration of causes, fluctuations and trends.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3390": {
+        "name": "POLI.3390 Judicial Review Seminar (Formerly 46.339)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3390/",
+        "id": "005672",
+        "description": "An advanced examination of the contemporary controversy over judicial activism and constitutional interpretation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3400": {
+        "name": "POLI.3400 American Politics And Law (Formerly 46.340)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3400/",
+        "id": "005628",
+        "description": "Perspectives on American Politics and Law. Advanced study  involving extensive reading, writing and discussion seeking understanding of the major transformations impacting contemporary American Society, Politics, Law, Economics and Culture; consideration of different interpretations of these changes, and the ways in which they are manifested in shifting political attitudes and coalitions, and new problems and conflicts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3430": {
+        "name": "POLI.3430 Congress (Formerly 46.343)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3430/",
+        "id": "005631",
+        "description": "Legislative Politics. An advanced study of representation, campaigns and elections, and the functioning of the American national congress within the American political system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3440": {
+        "name": "POLI.3440 American Presidency (Formerly 46.344)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3440/",
+        "id": "005632",
+        "description": "An examination of the nature of the American presidency and its functioning within the American political system. Specific attention is given to the problems and evolution of the presidency since World War I.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3490": {
+        "name": "POLI.3490 Politics of Race and Ethnicity (Formerly 46.349)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3490/",
+        "id": "005636",
+        "description": "A study of the politics of race and ethnicity, focusing primarily on American society, and the racial and ethnic groups of the region.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3500": {
+        "name": "POLI.3500 Urban Politics and  Policy (Formerly 46.350)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3500/",
+        "id": "005637",
+        "description": "A study of political power in, and the political structures of urban areas and the major issues and conflicts currently confronting them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3510": {
+        "name": "POLI.3510 Irish Politics (Formerly 46.351)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3510/",
+        "id": "035710",
+        "description": "For students of Politics, Ireland is perhaps one of the most fascinating examples of a territory that has undergone, and continues to undergo dramatic transformations in its governing structures, its passionate struggles for freedom, civil wars, colonial resistance and modern nationalism.  This class will study the political history of Ireland before and during its time as a part of the United Kingdom, through the partition of the island into two states, and up to the modern politics of both the Republic of Ireland and the British state of Northern Ireland. We will examine the results of the 1998 \"Good Friday Agreement\".  Then we will dissect and evaluate modern Irish institutions of government, in the Republic and in the North. Students will research the competing ideologies and present arguments supporting the parties and organizations that propound these ideologies, like Sinn Fein, the IRA, the Uster Unionist Party and Unionist paramilitaries in the North; the Fine Gael and Fianna Fail in the South.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3530": {
+        "name": "POLI.3530 Public Policy and Administration (Formerly 46.353)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3530/",
+        "id": "005639",
+        "description": "An examination of the little studied fourth branch of government. Bureaucratic power in the American political system is reconsidered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3550": {
+        "name": "POLI.3550 Government Fiscal Policy (Formerly 46.355)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3550/",
+        "id": "005641",
+        "description": "An examination of government's budgetary, taxation and expenditure decisions and activities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3560": {
+        "name": "POLI.3560 Public Policy Analysis (Formerly 46.356)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3560/",
+        "id": "005642",
+        "description": "This course examine issues in and techniques utilized in public policy analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3570": {
+        "name": "POLI.3570 Thoreau in Our Time (Formerly 46.357)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3570/",
+        "id": "005643",
+        "description": "This course traces Henry David Thoreau's influence on major social and political transformations in American history from the abolitionist movement to the present day.  We will focus first on Thoreau's writings on slavery, commercial development, environmental history, and individual liberty.  Then we will study his formative role in the civil rights and environmental movements of the twentieth century.  Finally, through a mix of outside speakers and student presentations, we will explore how his writings continue to shape ongoing struggles to contend with climate change, advance social justice, and promote a greater sense of fairness in American life.  The course will involve at least one trip to Walden Pond and a tour of Thoreau's birthplace in Concord, Massachusetts. Course page: http://faculty.uml.edu/sgallagher/Thoreau_in_Our_Time.html.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3580": {
+        "name": "POLI.3580 Global Environmental Policy (Formerly 46.358)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3580/",
+        "id": "005644",
+        "description": "This course explores contemporary international environmental issues from both theoretical and policy perspectives; consideration too of broader forces impacting international environmental politics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3590": {
+        "name": "POLI.3590 British Politics (Formerly 46.359)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3590/",
+        "id": "005645",
+        "description": "The context, background and forces shaping the contemporary politics of Great Britain.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3600": {
+        "name": "POLI.3600 European Politics (Formerly 46.360)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3600/",
+        "id": "005646",
+        "description": "An analytical examination of selected modern European political systems, emphasizing similarities and differences in political culture, behavior, institutions, and performance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3610": {
+        "name": "POLI.3610 Southeast Asian Politics (Formerly 46.361)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3610/",
+        "id": "005647",
+        "description": "A study of Southeast Asian countries, their anti-colonial struggles and their patterns of political development. Attention is also given to the recent struggle among the former Indochinese states and the broader international involvement in the region.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3630": {
+        "name": "POLI.3630 Politics of China (Formerly 46.363)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3630/",
+        "id": "005649",
+        "description": "A study of the recent development of governmental institutions, parties, and ideology in China.  Emphasis is placed on the processes of nation-building in the post World War II period.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3660": {
+        "name": "POLI.3660 Russian Politics (Formerly 46.366)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3660/",
+        "id": "005652",
+        "description": "Conflict and Change in the former Soviet Union. An examination of the relationship of politics to the functioning of post-Soviet societies. The influence of politics on economy, education, family life, religion, etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3680": {
+        "name": "POLI.3680 Middle East Politics (Formerly 46.368)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3680/",
+        "id": "005654",
+        "description": "The region will be analyzed using a comparativist lens, whereby the historical context of creating nation states in the region and the effect of colonialism will be applied to contemporary politics. Women, religious/ethnic minorities  and  the dynamics of the Arab Spring will also be addressed comparatively.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3700": {
+        "name": "POLI.3700 Latin American Politics (Formerly 46.370)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3700/",
+        "id": "005656",
+        "description": "The context, background and forces shaping the contemporary politics of the Latin American region.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3740": {
+        "name": "POLI.3740 Democracy and Development (Formerly 46.374)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3740/",
+        "id": "005660",
+        "description": "Explores the theories and experiences of countries newly converting to democracy in Asia, Africa, Latin America and the former Eastern Bloc. Also examines the strategies and prospects for development among the same countries.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3750": {
+        "name": "POLI.3750 Politics of Pacific Rim (Formerly 46.375)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3750/",
+        "id": "005661",
+        "description": "An examination of the politics, policies and institutions of Japan, the \"four tigers\" and other countries of the Pacific rim area.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3780": {
+        "name": "POLI.3780 International Political Economy (Formerly 46.378)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3780/",
+        "id": "005662",
+        "description": "An examination of the politics of global economic relations stressing the role of international institutions, multinational corporations and other international actors on the policies of the nation-state.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3800": {
+        "name": "POLI.3800 American Foreign Policy (Formerly 46.380)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3800/",
+        "id": "005663",
+        "description": "A study of the processes of American foreign policy in the contemporary world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3840": {
+        "name": "POLI.3840 International Politics of Human Rights (Formerly 46.384)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3840/",
+        "id": "005666",
+        "description": "This course will address the history, content, structure, law, and politics of international human rights.  Using interactive participatory class format students will learn analytical and critical thinking skills as well as written and oral communication skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3870": {
+        "name": "POLI.3870 Politics of International Organizations (Formerly 46.387)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3870/",
+        "id": "033791",
+        "description": "This course will address the history, functioning, structure and politics of international organizations in world politics.  International Governmental Organizations as well as Non-Governmental Organizations on the global and regional level will be analyzed and discussed.  In a participatory and interactive class format students will develop analytical and critical thinking skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3900": {
+        "name": "POLI.3900 Defense and Disarmament (Last Term 1994 Spring)(Formerly 45.390)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3900/",
+        "id": "005668",
+        "description": "An advanced study of the international security policies currently pursued by the United States, its allies and its adversaries; evaluation and analysis of the criticism of these policies and of the possibilities of achieving disarmament.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.3980": {
+        "name": "POLI.3980 The War on Drugs (Formerly 46.398)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/3980/",
+        "id": "005671",
+        "description": "The war against drugs stands as both a major foreign policy priority for the US and the International community in general, and as a constant source of debate and contention. The aim of this course is to provide students with analytical tools, concepts, and information, which will enable them to critically evaluate the war on drugs beyond the common myths and misconceptions that often surround this highly controversial topic. By analyzing a wide range of countries around the world, students would gain an in depth and nuanced perspective of the relation between drug trade, violence, corruption, development, and democracy. Students will also gauge arguments and possible impacts on different drug policy options.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4001": {
+        "name": "POLI.4001 Environment, Racism, and Justice",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4001/",
+        "id": "042031",
+        "description": "Environment, Racism, and Justice",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: POLI.1750 Introduction to Environmental Politics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POLI.1750"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POLI.4010": {
+        "name": "POLI.4010 Research Seminar (Formerly 46.401)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4010/",
+        "id": "005673",
+        "description": "Requires the writing of a substantial paper (or production of an equivalent project.) Typically, students should select a 300 level seminar course from among Departmental offerings that are of interest, all of which involve the writing of one or several papers, and select one paper or topic to expand upon. The student should then register in the Research Seminar section for the appropriate supervising instructor and expand the paper into a more substantial form.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:POLI.2010 Research Methods in Pol. Sci.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4020": {
+        "name": "POLI.4020 Women in Islam (Formerly 46.402)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4020/",
+        "id": "005674",
+        "description": "Focusing upon one of the most important topics in Islam, this course will go beyond conventional stereotypes and explore woman's many and varied roles within Islamic cultures and societies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4060": {
+        "name": "POLI.4060 The Politics of Identity in the Middle East (Formerly 46.406)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4060/",
+        "id": "005676",
+        "description": "The course will examine the ethnic, political, religious and social changes in the modern Middle East.  The course will start with an introduction to the diverse identities all over the Middle East and then it will comparatively examine a number of those identities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4110": {
+        "name": "POLI.4110 The Concept of Power (Formerly 46.411/57.511)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4110/",
+        "id": "006189",
+        "description": "If much of western liberal political thought has been preoccupied with limiting and structuring the power of the state, then the flip side of that preoccupation has been a corresponding commitment to the idea of individual autonomy. In other words, we limit the power of the state in order to protect the autonomy of the individual, and the state's power is justified only as far as it enhances rather than erodes our autonomy. This framework - that state power and autonomy operate in direct tension with one another - is a central paradigm of the western liberal political tradition in which we live. We begin the course within this framework, and then move to trouble, complicate, and critique both the concept of individual autonomy and the concept of political power.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4190": {
+        "name": "POLI.4190 Public Opinion and Political Polling (Formerly 46.319 and POLI.3190)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4190/",
+        "id": "038119",
+        "description": "In this course, we will go on a tour-de-force to understand the science of polling, including the purpose and design of surveys, their history, and their import in contemporary society. Students will take a hands on approach and learn to write and design their own questions, work in teams to design a survey instrument of their own.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4200": {
+        "name": "POLI.4200 Reading and Simulation Experience International Organization (Formerly 46.420)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4200/",
+        "id": "005684",
+        "description": "Students take part in a simulation of the proceedings of a regional or international organization, e.g., U.N., O.A.S., O.A.U., or the Arab League. They study all aspects of the selected institution but concentrate on key economic, social and security issues discussed in the body's debates. The course aims to give the student a clearer understanding of the forces and constraints which shape the foreign policies of individual states.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4220": {
+        "name": "POLI.4220 SMR: Political communication and Media Studies (Formerly 46.422)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4220/",
+        "id": "031968",
+        "description": "Advanced study in contemporary issues in Political Communication and Media Studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4390": {
+        "name": "POLI.4390 Justice and Trade in the Global Economy (Formerly 46.439)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4390/",
+        "id": "037372",
+        "description": "We know that we are part of a global economy and that many of the things we buy and consume are produced in other countries.  But what do we know of how they are made?  Do we understand that there may be hidden costs in the price we pay for goods at the supermarket, in a department store?  Understanding the nature of global trade is critical for us to be effective citizens in the world.  Perhaps more important is that we understand how goods are produced and traded - what many think of as \"fair\" trade.  The subject of Fair Trade isn't simply limited to the production and sale of coffee and chocolate.  Fair Trade principles encompass environmental issues, human rights, and politics.  Once aware of the ramifications of consumerism on all parts of the world, including the United States, people can make informed choices about the products they buy, the companies that employ them, and the political views they support.  By the end of this course students should understand the major ideas and tools used to comprehend complex international and global trade relations.  Students will understand the way in which goods are produced for global markets and the possible human and environmental costs such production entails.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4400": {
+        "name": "POLI.4400 Comparative National Security",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4400/",
+        "id": "040717",
+        "description": "The central goals of this course are two fold. The first is to explore the national security concerns and perspectives for the major countries and regions of the world. The second is to understand the connection between alternative constructions of national security and the security policies of nation-states. This is a heavily analytical course; critical thinking is required equipment. Students are expected to take the concepts and theories discuss in class and use them to analyze issues confronting societies and the policy responses mounted by political leaders.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "POLI.1210 International Relations, or POLI.1120 Introduction to Comparative Political Systems, and Sophomore level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "POLI.1210",
+                    "POLI.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "POLI.4440": {
+        "name": "POLI.4440 Advanced Research Methods (Formerly 46.444)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4440/",
+        "id": "036723",
+        "description": "Both quantitative and qualitative methods will be examined with a focus on locating and utilizing available data to study social questions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4450": {
+        "name": "POLI.4450 Politics of Repression and Dissent (Formerly 46.445)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4450/",
+        "id": "036722",
+        "description": "A focus on the dark side of politics - political repression, including politically motivated imprisonment, torture, murder, and disappearance- and the struggle of critics to bring about change through non-violent and violent demonstrations, general strikes and armed resistance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4460": {
+        "name": "POLI.4460 The Politics of Discord between the Arab East and The West (Formerly 46.446)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4460/",
+        "id": "035836",
+        "description": "The course examines the roots of political discord in the Arab East starting with colonialism and progressing to the contemporary state of dissension.  Throughout the course the stress on the effect of this discord on comparative domestic politics and international relations in the region will be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4470": {
+        "name": "POLI.4470 Theories of Political and Criminal Violence (Formerly 46.447)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4470/",
+        "id": "038759",
+        "description": "The study of violence has been a central piece of debates in comparative politics that range from the causes of revolution to the analysis of civil wars. This course aims to provide a broad overview of different bodies of research on violence. The class will also revisit crucial debates in the study of violence, such as the problems of separating criminal and political violence (such as interstate wars). By the end of the class, students will be able to identify major theoretical and methodological approaches to violence, major debates and concepts, as well as key cases across the world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4900": {
+        "name": "POLI.4900 War and Peace in the Sovereign State System (Formerly 46.490)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4900/",
+        "id": "005687",
+        "description": "Despite much effort to limit the occurrence of interstate and intrastate war, such violence is still prevalent in the sovereign state system. This course will focus on the causes, dynamics, and outcomes of interstate and intrastate conflict and ways to sustain peace. We will examine the foundational works in the area of conflict before moving quickly into more recent research. The class will emphasize student participation and the application of concepts we learn in class. Students are asked to write a final paper exploring a concept of war and peace in the sovereign state system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "46.121 Intro to International Relations, and Junior or Senior status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4910": {
+        "name": "POLI.4910 Directed Study (Formerly 46.491)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4910/",
+        "id": "005688",
+        "description": "Directed study offers the opportunity to engage in an independent study or research project under the supervision of a department member. Working closely with the instructor, students define and investigate a research problem in an area of special interest and present the results of their investigation through a combination of readings and papers and/or a significant research paper.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4920": {
+        "name": "POLI.4920 Directed Study In International Organizations (Formerly 46.492)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4920/",
+        "id": "005689",
+        "description": "Advanced and intensive reading and other activity in connection with the study of selected international organizations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4960": {
+        "name": "POLI.4960 Experiential Learning in Political Science (Formerly 46.496)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4960/",
+        "id": "005693",
+        "description": "This course provides students with a practical appreciation for the work of politics emphasizing a universal skill set for polycentric, experiential learning. The course is designed to help ease the transition from a political science degree to a variety of academic and professional paths.",
+        "credits": {
+            "min": "3",
+            "max": "9"
+        },
+        "requirements-text": "Pre-Req: Political Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4970": {
+        "name": "POLI.4970 Practicum in the Law Requirement. (Formerly 46.497)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4970/",
+        "id": "005694",
+        "description": "A program of study and research which includes involvement in and first-hand knowledge and observation of the legal system and legal practice. Open only to political science majors and, with certain restrictions, legal studies minors. The course will be graded S (satisfactory) or U (unsatisfactory).  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Political Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.4980": {
+        "name": "POLI.4980 Research and Internship/Service Experience Politics/Law (Formerly 46.498)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/4980/",
+        "id": "005695",
+        "description": "Extensive Research/Writing undertaken in conjunction with an Internship/Service Experience in Politics and/or Law, by special arrangement and with permission of the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.5001": {
+        "name": "POLI.5001 Islam and Politics",
+        "url": "https://www.uml.edu/catalog/courses/POLI/5001/",
+        "id": "040478",
+        "description": "The relationship between Islam and Politics changed little since the rise of Islam. The surge in academic and public interest in the topic started in 1979 with the Iranian Revolution. This course will explain the role that Islam plays in everyday life, and will distinguish myth from fact about Islam and politics. Initially, the course will focus on the Muslim Brotherhood of Egypt as the prototype and first Islamic organization that was heavily involved in politics, will continue on to examine a range of issues including Jihad, woman's rights, and related topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.5002": {
+        "name": "POLI.5002 Islamic Activists and Their Political Ideologies",
+        "url": "https://www.uml.edu/catalog/courses/POLI/5002/",
+        "id": "040515",
+        "description": "Islamic Activists have championed certain ideologies since the beginning of the twentieth century, the groups as well as their leading ideologues have changed over time. This course will explain the changes in political ideology, the causes of change and the group's ability to appeal to a wide audience. Groups discussed in the class will include, the Muslim Brotherhood, the Jihad group in the 1980s, ISIS and other groups. The class will analyze the texts that the groups utilize to attract an audience as well as develop an understanding of the legitimization process of the group itself.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.5110": {
+        "name": "POLI.5110 The Concept of Power (Formerly 46.411/57.511)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/5110/",
+        "id": "006189",
+        "description": "If much of western liberal political thought has been preoccupied with limiting and structuring the power of the state, then the flip side of that preoccupation has been a corresponding commitment to the idea of individual autonomy. In other words, we limit the power of the state in order to protect the autonomy of the individual, and the state's power is justified only as far as it enhances rather than erodes our autonomy. This framework - that state power and autonomy operate in direct tension with one another - is a central paradigm of the western liberal political tradition in which we live. We begin the course within this framework, and then move to trouble, complicate, and critique both the concept of individual autonomy and the concept of political power.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLI.5440": {
+        "name": "POLI.5440 Advanced Research Methods (Formerly 46.544)",
+        "url": "https://www.uml.edu/catalog/courses/POLI/5440/",
+        "id": "037360",
+        "description": "The purpose of this course is to introduce students to the fundamentals of research while also conveying the need for skepticism as the foundation of scientific inquiry.  Both quantitative and qualitative methods will be examined. Students will gain first-hand knowledge of the research process by formulating their own research questions, locating current literature to frame their topic, developing causal theories and then empirically testing these theories. With that in mind, the first goal of this course is for students to become critical consumers of research in general and peace and conflict research in particular. The second goal is for students to develop theories about peace and conflict and research designs to test those theories. Students are encouraged to use this course to develop their thesis or projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

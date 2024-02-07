@@ -1,0 +1,1180 @@
+{
+    "total": 75,
+    "time": 49.13160157203674,
+    "PHIL.2010": {
+        "name": "PHIL.2010 Introduction to Philosophy (Formerly 45.201)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2010/",
+        "id": "005497",
+        "description": "Examines some of the typical approaches to philosophical questioning and the issues raised in such inquiry: what is true knowledge, what is reality, what is the good, what is the right political order, what is the nature of religious faith?  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.2020": {
+        "name": "PHIL.2020 Introduction to Logic and Critical Reasoning (Formerly 45.202)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2020/",
+        "id": "005498",
+        "description": "Studies the methods used to distinguish correct from incorrect reasoning. This course will aim at developing (1) an ability to express one's ideas clearly and concisely; (2) an increased skill in defining one's terms; and(3) a capacity to formulate arguments vigorously and to scrutinize them critically.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS) and Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.2030": {
+        "name": "PHIL.2030 Introduction to Ethics (Formerly 45.203)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2030/",
+        "id": "005499",
+        "description": "Examines the basic issues and problems of ethics and values and a survey of some important alternative answers to the questions raised, on both an individual and a social level, by our necessity to act and to live in a rational and human way.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.2060": {
+        "name": "PHIL.2060 Introduction to Political Philosophy (Formerly 45.206)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2060/",
+        "id": "005500",
+        "description": "Political philosohy is concerned with basic questions about community, public life, and social organization.  This course will address issues such as the rights of the individual in relation to the power of the state and society; the nature and legitimacy of political authority and democracy; the significance of power, economics, justice and equality in social life; and the duties and responsibilities of citizens.  We will also consider the philosophical meaning of communitarianism, liberalism, and republicanism, individualism, capitalism, and socialism, as well as the role of class, race, and gender in politics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.2080": {
+        "name": "PHIL.2080 Introduction to Philosophy of Science",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2080/",
+        "id": "041938",
+        "description": "This course is designed to introduce students to fundamental questions in philosophy of science.  We will cover both descriptive issues such as how scientific theories become \"facts,\" and normative questions that ask how we ought to structure scientific inquiry.  We will cover a range of scientific disciplines including physics, chemistry, biology, geology, and even paleontology.  We'll also cover disciplines that are more or less controversial as \"sciences,\" such as economics, mathematics, medicine, and engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.2200": {
+        "name": "PHIL.2200 Philosophy and Christianity (Formerly 45.220)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2200/",
+        "id": "005504",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.2250": {
+        "name": "PHIL.2250 Introduction to Islam",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2250/",
+        "id": "039590",
+        "description": "The goal of this course is to provide a basic understanding of Islam, the religion of some one-fifth of humankind, in its theological, historical, political, social and human dimensions. The course provides a general introduction to Islam, including the historical dimension, the theological, and the social/political. We will also address issues regarding the relevance of Islam to contemporary political events.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.2960": {
+        "name": "PHIL.2960 Introduction to World Religions (Formerly 45.296)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/2960/",
+        "id": "033190",
+        "description": "A study of religious knowledge and the phenomena of religion from a philosophical standpoint.  The course considers explanations for religious behavior, some central issues in religious belief, and the values and goals of religious systems.  Various world religions provide specific data for these topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3010": {
+        "name": "PHIL.3010 Ways of Knowing (Formerly 45.301)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3010/",
+        "id": "005510",
+        "description": "Studies and analyzes various forms and expressions of human knowledge (perception, concept-formation and symbolic functioning, myth, aesthetic creation and interpretation, scientific discovery and understanding) and the individual, social, and historical conditions to which they are subject. The goal of the course is a comprehensive view of the structure of the human mind and its operations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Requisite:  Sophomore level or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3040": {
+        "name": "PHIL.3040 God and Philosophy (Formerly 45.304)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3040/",
+        "id": "005513",
+        "description": "Studies, historically and systematically, the following topics: a) the origin and content of the idea of God, b) the possibility of affirming God, philosophically and religiously, c) the complex nature of religious language and imagery, and d) God's relation to the world, history, and the individual.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3050": {
+        "name": "PHIL.3050 Language Signs and Symbols (Formerly 45.305)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3050/",
+        "id": "005514",
+        "description": "An examination of the various grammars of human expressions from the point of view of a general theory of signs. Among the topics to be treated are: a) the nature of signs, symbols, and meaning; b) the structures and functions of language; c) the relations between language, thought, and reality, especially as manifested in metaphor; d) the social dimensions of signification and symbolization; and e) the relations between the different linguistic, sign, and symbol systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Requisite:  Sophomore level or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3060": {
+        "name": "PHIL.3060 Feminist Theory Politics (Formerly 45.306)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3060/",
+        "id": "005515",
+        "description": "What is sexist oppression?  Is our culture still sexist, or is the need for feminism over?  How should we respond to sexism in other cultures?  Do men and women have different natures?  Are our culture's sexual representations of women necessarily degrading, and if so, why?   We'll consider these questions, and  others, by examining the arguments and methodology of analytic feminism.  We'll start by tracing the  historical development of feminism in the 18th, 19th, and 20th centuries, and then turn to several contemporary feminist analyses of sexist oppression.  We'll then use these feminist frameworks to examine more specific issues.  Possible topics include: feminist analyses of sexual objectification in pornography, feminist arguments in ethics and social theory, feminist analyses of science,and feminist criticisms of gendered labour.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3070": {
+        "name": "PHIL.3070 Medicine & Philosophy",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3070/",
+        "id": "042272",
+        "description": "Philosophy of medicine explores epistemological, metaphysical, and policy-oriented topics in biomedical research, theory, and practice. Possible topics include the nature of health and disease, normality and dysfunction, historical representations of clinical practice, the role of evidence, the nature and history of psychopathy and psychiatric disorders, policies and public trust, the meaning of medical expertise, and more.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020, and Students in humanities disc, PHIL 2080 or another upper div (e.g. 3000-level) PHIL course is highly rec. Students in STEM fields, PHIL 2080 or another upper div (e.g. 3000-level) bio-related or health sci courses are highly rec.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "PHIL.2080"
+                ],
+                [
+                    "PHIL.2080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3080": {
+        "name": "PHIL.3080 Philosophy of Race and Gender (Formerly 45.308)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3080/",
+        "id": "031900",
+        "description": "This course will focus on issues of identity and difference. We will discuss the ways in which group identities are formed and break down. We will discuss how differences are constituted and reconstituted. These issues are central to theories of race and gender, racism and sexism. Some of the questions which we will raise are these: What motivates forming group identities? How are they formed? How is identity used within oppressive social structures? How can it be used to transform society? Why do some differences make a difference and others don't? Can we choose our group identities?  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3090": {
+        "name": "PHIL.3090 Biology & Philosophy",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3090/",
+        "id": "042273",
+        "description": "Philosophy of biology analyzes the knowledge produced across the biological sciences and considers how biologists arrive at their findings in addition to their societal contexts. Possible topics include the nature of evolution, intelligent design, determinism, contingency, adaptationism, sociobiology, as well as gender, sexuality, and race in biology, human genome editing and eugenics, and modelling, reductionism, explanation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020, and Students in humanities disc, PHIL 2080 or another upper div (e.g. 3000-level) PHIL course is highly rec. Students in STEM fields, PHIL 2080 and/or another 2000-level biology-related course is highly recommended.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "PHIL.2080"
+                ],
+                [
+                    "PHIL.2080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3100": {
+        "name": "PHIL.3100 Philosophy of Creative Imagination (Formerly 45.310)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3100/",
+        "id": "005518",
+        "description": "Focuses first on imagination as a function of mind, placing it in relation to other functions such as perception, emotion, and conceptualization. Attention is then given to the difference between the reproductive and the creative imagination, with special emphasis on the psychological and social/political dimensions of creativity. Topics to be considered include poetical metaphor, theatrical performance, painting, architecture, or photography.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3101": {
+        "name": "PHIL.3101 Philosophy of Humor and Comedy",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3101/",
+        "id": "040170",
+        "description": "This course examines the phenomenon of humor, laughter, and comedy, inquiring into its nature and function in human life. We explore the leading theories of humor, in attempting to explain what makes something \"funny\" and why we enjoy humor so much. We also attempt to relate the idea of humor to the related ideas of laughter and comedy. The course will include analysis of the various forms of humor, including the joke, the dramatic comedy, and stand-up comedy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3105": {
+        "name": "PHIL.3105 Philosophy of Disability",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3105/",
+        "id": "041124",
+        "description": "Examines the basic issues and problems in the philosophical study of disability, including engagement with the interdisciplinary field of disability studies. Provides a survey of issues relating to the lived experience of disability, disability and well-being, theories of disability, and the concepts of normality, fitness and ableism as they relate to the practice and institutions of medicine, politics, religion, and society more generally.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3106": {
+        "name": "PHIL.3106 Public Health Ethics",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3106/",
+        "id": "041937",
+        "description": "In this course we examine contemporary issues in public health ethics.  Utilizing historical and recent cases we unpack the core conceptual issues and emerging trends in bioethics.  In doing so, we'll discuss issues such as quarantine, surveillance, isolation, behavioral interventions, and criminalization of health.  We discuss the ethical and public health implications of nutrition, vaccinations, occupational health, pandemics, and bioterrorism, among many other cases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3107": {
+        "name": "PHIL.3107 Animal Ethics",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3107/",
+        "id": "042086",
+        "description": "This course examines the moral status and ethical treatment of non-human animals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3108": {
+        "name": "PHIL.3108 Neuroethics",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3108/",
+        "id": "042274",
+        "description": "This course examines moral questions about neuroscience. Topics include neurological interventions for criminals, free will and the brain, moral and cognitive enhancements, consent and identity change, and ethical human research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3110": {
+        "name": "PHIL.3110 Philosophy and Literature (Formerly 45.311)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3110/",
+        "id": "005519",
+        "description": "This course examines the intersection between philosophy and literature. Course content includes detailed study of philosophical works of literature and works of philosophy about Literature. Featured Topics include competing definitions of Literature, silent and performative reading, models for acquiring literary status, Literature and morality, censorship, the role of truth in literary experience, and the relationship between authors, works, fictional characters, readers, and critics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3130": {
+        "name": "PHIL.3130 American Philosophy (Formerly 45.313)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3130/",
+        "id": "005521",
+        "description": "American philosophy provides a historical approach to American intellectual history from 1830 to the present. American Transcendentalism and Pragmatism will be the two focal points in the course and students will be acquainted with authors such as Ralph Waldo Emerson, Margaret Fuller, Henry David Thoreau, C.S. Peirce, William James, Jane Addams and John Dewey. The ideas of freedom, self-reliance, community, and moral life are the abiding threads in this tradition and will be explored in the course of the term.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3140": {
+        "name": "PHIL.3140 Philosophy of the Gothic Imagination (Formerly 45.314)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3140/",
+        "id": "005522",
+        "description": "A philosophical inquiry into science fiction, fantasy, and horror, with special emphasis on film.  This course will attept to provide interpretations of some classic examples from these genres, as well as to inquire into the philosophical significance of these literary categories and their relation to mythology and religion. Questions to be addressed will include the problem of knowledge and rationality and its limits, the nature of the human being, and the moral problem of the role of violence in the social order.  The class will attempt to identify a continuous tradition between these modern genres and ancient Greek tragedy and mythology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3141": {
+        "name": "PHIL.3141 Dante's Way from Fear to Peace",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3141/",
+        "id": "039722",
+        "description": "The course will involve close reading of central cantos from all three books of Dante's Divine Comedy, the Inferno, Purgatorio, and Paradiso. Through we will consider Dante's place in the history of European literature, in particular, his relationship to Virgil and the epic tradition, our primary focus will be on three philosophical concerns, existential/ethical, metaphysical/ontological, and epistemological/Linguistic.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3150": {
+        "name": "PHIL.3150 Philosophical Topics (Formerly 45.315)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3150/",
+        "id": "005523",
+        "description": "A close study of some of the great texts of philosophical literature. In general, one or two major works are selected and subjected to a thorough reading.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3160": {
+        "name": "PHIL.3160 Philosophy and Film (Formerly 45.316)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3160/",
+        "id": "005524",
+        "description": "This course examines the political and philosophical values and ideas which constitute cinema. It analyzes film as an historical, cultural, commercial, and artistic endeavor. Students will develop the skills to watch film actively and critically.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3210": {
+        "name": "PHIL.3210 Theories of Ethics (Formerly 45.321)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3210/",
+        "id": "005529",
+        "description": "This course examines theories of Philosophical ethics. Possible topics include metaethics (which asks questions such as \"What do we mean when we call things 'right' or 'wrong'?\", \"Are there universal ethical truths or is morality fundamentally relative?\", and \"What is the relationship between morality and religion?\"), normative ethics (which asks whether the right thing to do is determined by considerations such as rights, duties, intentions, consequences, character, or something else) and applied ethics (which applies normative ethical theories to particular concrete problems).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3230": {
+        "name": "PHIL.3230 PhilosophyClassics: Nietzsche (Formerly 45.323)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3230/",
+        "id": "005531",
+        "description": "A detailed introduction to Nietzsche's thought and its reception.  This course will examine Nietzsche's most important works and central concepts such as the Dionysian and Apollonian, the last man, overman, eternal recurrence, genealogy, and will to power.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3270": {
+        "name": "PHIL.3270 Environmental Philosophy (Formerly 45.327)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3270/",
+        "id": "005535",
+        "description": "An examination of the philosophical foundations of environmentalism. Addresses both the question of ethical duties we owe to animals and to nature, and also the question of man's relation to the natural world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3300": {
+        "name": "PHIL.3300 Philosophy of Symbolic Logic (Formerly 45.330)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3300/",
+        "id": "005537",
+        "description": "The first half of this course examines various axiomatic systems, and the student develops both intrasystematic and metasystematic techniques of proof. During the second half of the course, attention is given to certain important philosophical problems which arise from reflection on logical systems, e.g., the cognitive processes of abstraction and instantiation, the general notion of form, and questions of consistency and interpretation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3310": {
+        "name": "PHIL.3310 Philosophy of the Mind (Formerly 45.331)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3310/",
+        "id": "005538",
+        "description": "The status of consciousness is the central concern of a philosophy of mind. The course takes as its point of departure a reflection upon the nature and significance of consciousness from the perspective of its advocates (Husserl, Sartre) and its adversaries (Ryle, Skinner). The results of this preliminary inquiry is to provide a foundation for the exploration of other issues: the possibility of an unconscious; the temptation of bad faith; the dynamics of concept formation; and the nature\nof emotion, imagination, and dreams.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3340": {
+        "name": "PHIL.3340 Engineering and Ethics (Formerly 45.334)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3340/",
+        "id": "005541",
+        "description": "A philosophical analysis of the ethical dimensions and responsibilities of the engineering profession. Specific case studies and ethical issues are analyzed through the application of some of the basic concepts and principles of traditional and contemporary ethical theories.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3350": {
+        "name": "PHIL.3350 Digital Ethics (Formerly 45.335)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3350/",
+        "id": "005542",
+        "description": "This course will examine important ethical issues and value conflicts emerging in computer science, information technology, and artificial intelligence. Through readings and class discussions students will not only have an opportunity to explore the manner in which ethical and technical problems are related, but to develop insight into areas of ethical philosophy and modes of reasoning essential to an intelligent understanding of such issues. Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3360": {
+        "name": "PHIL.3360 Early Modern Philosophy",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3360/",
+        "id": "005543",
+        "description": "Examines Early Modern European Philosophy and its religious and scientific context, including movements such as the Mechanical Philosophy, Rationalism, Empiricism, and Transcendental Philosophy.  Topics include knowledge and scientific understanding, the human mind and personal identity, and the debate between faith and reason.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3390": {
+        "name": "PHIL.3390 Poetry and Philosophy After Plato (Formerly 45.339)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3390/",
+        "id": "030406",
+        "description": "After defining \"Neoplatonism\" with reference to Plato's Phaedo, Symposium, and Phaedrus, the course will consider the relationships among Homer's Odyssey, Plotinus's Enneads, Virgil's Aeneid, Augustine's Confessions, and Dante's Divine Comedy. The focus will be on coming home to the \"source and origin\" after having been away and, as the philosopher Plotinus puts it, having been \"a stranger in something strange\".  Students will be invited to work on other literary and philosophical treatments of this theme in English, Irish or American poetry and writing. A principal concern of the course is language \"sung, spoken, and written\". Accordingly, the course will applicable to, and count for the Philosophy and Communications track.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3400": {
+        "name": "PHIL.3400 Mysticism: East and West (Formerly 45.340)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3400/",
+        "id": "005546",
+        "description": "This course explores the religious and psychological phenomenon known as the mystical experience, both within the context of organized religion and outside it.  We will approach this subject from a comparative standpoint, considering examples from Christianity, Judaism, and Islam and also from Eastern religions such as Buddhism and Taoism.  We will make use of philosophy, psychology, theology and literature in order to try to understand mysticism and its relation to religion.  Readings include The Upanishads, the Tao Te Ching, the Bible, and Plato.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3410": {
+        "name": "PHIL.3410 German Philosophy",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3410/",
+        "id": "041125",
+        "description": "In this course, students will be exposed to the rich tradition of German philosophy. Beginning with the emergence of philosophical works written in German in the 14th century, the course follows the historical progression of German philosophy up until the mid-20th century. Along the way, students will be introduced to major and minor figures in the German philosophical tradition. Through this course, students will understand the contributions of German philosophy to German culture and shaping German's national identity. Additionally, students will recognize connections between German philosophy and the wider Western philosophical tradition.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3420": {
+        "name": "PHIL.3420 Critical Theory  & Society (Formerly 45.342)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3420/",
+        "id": "005548",
+        "description": "The nature and methods of a critique of society that focuses on the conflicts between the various modes of rationality and rationalization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3470": {
+        "name": "PHIL.3470 Greek Tragedy & Philosophy (Formerly 45.347)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3470/",
+        "id": "031937",
+        "description": "Philosophers such as Plato, Aristotle, Hegel, and Nietzsche have drawn inspiration from, and challenged critically, the great Greek tragedians Aeschylus, Sophocles and Euripides. This course will play off philosophical commentaries against the specific tragedies they have targeted in order to examine the often tense relationship between philosophical discourse and tragic poetry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3480": {
+        "name": "PHIL.3480 Eastern Philosophy and Religion (Formerly 45.348)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3480/",
+        "id": "032558",
+        "description": "A comparative study of the major strand and themes of Eastern thought and philosophies, encompassing principally the Japanese, Chinese, and Indian traditions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3500": {
+        "name": "PHIL.3500 World Philosophies (Formerly 45.350)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3500/",
+        "id": "005552",
+        "description": "This course will fuse the historical and the thematic approaches in order to undertake a comparative examination of the relations of the great philosophical traditions (Chinese, Indian, Western, Islamic, and Japanese) to the perennial issues of philosophy. The main focus will be the continuing vitality and heuristic fertility of these traditions and their ability to define how human\nMeets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3510": {
+        "name": "PHIL.3510 Problem of Evil (Formerly 45.351)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3510/",
+        "id": "030851",
+        "description": "Why is there evil and suffering in the world? This course looks at the explanations that have been given in the various religions of the world and considers the strengths and weaknesses of each approach.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3520": {
+        "name": "PHIL.3520 Existence & Anxiety (Formerly 45.352)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3520/",
+        "id": "031936",
+        "description": "Explores basic questions of human existence in 19th and 20th Century philosophy and literature. Topics include anxiety and alienation; freedom and responsibility; authenticity and bad faith; individuality and mass society; rationality and the absurd; values and nihilism; and God and meaninglessness.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3530": {
+        "name": "PHIL.3530 Gender and Religion (Formerly 45.353)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3530/",
+        "id": "033500",
+        "description": "This course examines gender in philosophy of religion and philosophy of theology. Issues addressed include the nature of gender, the divine gender, religious oppression and liberation of women, and LGBTQIA+ issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3570": {
+        "name": "PHIL.3570 Science and  Religion (Formerly 45.357)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3570/",
+        "id": "005556",
+        "description": "A study of the multiple relations between science and religion focusing on the theme of creativity. The problem of the various truth claims of the two systems will be subjected to a close analysis and principles developed to understand how conflicts between the them can be understood and resolved.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3610": {
+        "name": "PHIL.3610 Equality, Justice and the Law (Formerly 45.361)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3610/",
+        "id": "005559",
+        "description": "This class investigates the American fascination with the \"rule of law.\"   Questions to be considered include the following:  What do we mean by the rule of law?  What is the relation between law and morality?  How does the rule of law promote justice, and what is its connection with the ideal of equality?  What is the role of a written Constitution in protecting the rule of law?  Special emphasis will be given to the Equal Protection clause of the Constitution and its role in prohibiting discrimination against disadvantaged groups, including racial minorities, women, and the handicapped.  We will also consider in detail some theories of constitutional interpretation, including the Original Intent theory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3620": {
+        "name": "PHIL.3620 Democracy and Its Critics (Formerly 45.362)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3620/",
+        "id": "033499",
+        "description": "Explores the diverse roots of the democratic ideal and the opportunities and dangers associated with democratic politics.  The arguments for and against democracy will be analyzed.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3650": {
+        "name": "PHIL.3650 Capitalism and Its Critics (Formerly 45.365)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3650/",
+        "id": "034779",
+        "description": "This course explores the historical evolution of capitalism, from its early beginnings in the Enlightenment to the most recent debates about the free market and globalization.  The focus will be on the debate over the vitues and vices of capitalism as distinct from other modes of economic and political organization.  Concepts to be discussed will include freedom, equality and the distribution of wealth.  Readings include Adam Smith, Karl Marx, Max Weber, Joseph S, and others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3660": {
+        "name": "PHIL.3660 Globalization and Its Critics (Formerly 45.366)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3660/",
+        "id": "035076",
+        "description": "The course explores globalization as the process of transformation of regional and national phenomena into global ones, analyzing its social, economic, political, and cultural aspects.  Supporters view it as the progress of liberalization and democratization that develop peaceful international cooperation; critics see globalization as the expansion of the profit-seeking global corporations that abuse the less developed and vulnerable regions.  The course readings include the works of Amartya Sen, Samuel Huntington, Joseph Stiglitz, and other leading economists, sociologists, and philosophers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3670": {
+        "name": "PHIL.3670 Feminism and Liberalism (Formerly 45.367)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3670/",
+        "id": "035286",
+        "description": "Liberalism stresses the importance of protecting individual people's right to live their lives however they see fit.  Feminism strives to show that women are subject to a variety of injustices that prevent them from being able to live lives that are as good as men's.  The aim of this course will be to consider whether liberalism and feminism are compatible, or whether the central ideals of liberalism--ideals like equality, automomy, and individual rights--actually function to entrench not just sexism but also racism, classism, and other kinds of oppression.  Readings will include both historical and contemporary writers such as Isaiah Berlin, Thomas Hobbes, John Locke, Catherine MacKinnon, John Stuart Mill, Martha Nussbaum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3680": {
+        "name": "PHIL.3680 The Politics of Food (Formerly 45.368)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3680/",
+        "id": "035834",
+        "description": "This class will examine the moral and political implications of the food we eat.  Topics we'll cover include genetically modified organisms, factory farming, animal rights and welfare, agricultural pollution, agricultural subsidies, third world hunger, the obesity epidemic, and the industrial food system and its alternatives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3690": {
+        "name": "PHIL.3690 History of Moral Philosophy (Formerly 45.369)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3690/",
+        "id": "035841",
+        "description": "This course explores the history of moral philosophy by examining the writings of key thinkers in the Western philosophical canon, including Leibniz, Hume, Kant and Hegal.  We will focus on four basic types of moral reasoning: perfectionism, utilitarianism, intuitionism, and Kantian constructivism.  Our goal will be to understand how these thinkers from the modern period of  moral philosophy have influenced the way contemporary philosophers think about morality.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3700": {
+        "name": "PHIL.3700 Metaphysics (Formerly 45.370)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3700/",
+        "id": "037719",
+        "description": "This course examines fundamental issues and topics in contemporary metaphysics.  Broadly construed, metaphysics refers to the nature of existence and reality, or more basically, being.  Topics in the course include: persistence, personal identity, human ontology, free will, possible worlds and modality, causation and paradoxes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3710": {
+        "name": "PHIL.3710 Buddhist and Zen Philosophy (Formerly 45.371)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3710/",
+        "id": "033509",
+        "description": "Explores Buddhist and Zen philosophy and practice from ancient India through its developments in China and Japan to contemporary America.  Attention is given to significant philosophical movements such as Abhidharmika, Madhyamika, Yogacara, Huayen, and Chan (Zen).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3720": {
+        "name": "PHIL.3720 Chinese Philosophy (Formerly 45.372)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3720/",
+        "id": "035287",
+        "description": "An introduction to the Chinese philosophical tradition in translation, especially the classical schools of Confucianism, Daoism, Mohism, and Legalism.   Later developments in Buddhist and Neo-Confucian thought will also be explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3730": {
+        "name": "PHIL.3730 Arabic and Islamic Philosophy (Formerly 45.373)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3730/",
+        "id": "036790",
+        "description": "An introductory survey of selected philosophical topics and figures in the Arabic-speaking world, focusing on the development of classical Arabic philosophy (falsafa) through its proponents and critics from al-Kindi (9th century) to Averroes (12th century).  The course can also include speculative theology (kalam), mystical philosophy (Sufism), later developments, and contemporary issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3740": {
+        "name": "PHIL.3740 Myth, Ritual and Festival (Formerly 45.374)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3740/",
+        "id": "036908",
+        "description": "This course aims to analyze the social, cultural, and religious phenomena of the festival or holiday in its connection with myth and ritual.  We focus in particular on the groundbreaking work of the Russian literary theorist Mikhail Bakhtin and his analysis of the cross-cultural features of the idea of the festival, for example the Roman Saturnalia, the British May Day festival, and our modern thanksgiving, Christmas, and New Year festivals.  We will also consider other important contributions to the study of ritual and festival, including those of James Frazer, mircea Eliade, and Joseph Campbell.   A substantial part of the class will be focused on the sociological and historical aspects of the role of festival in modern society.  We will also attempt to place the festival and holiday tradition within a larger framework of the role of myth and ritual in religion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3750": {
+        "name": "PHIL.3750 Philosophy of Sex and Love (Formerly 45.375)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3750/",
+        "id": "005509",
+        "description": "The aim of this course is to introduce students to both historical and contemporary discussions surrounding the topics of sex and love.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3760": {
+        "name": "PHIL.3760 The Ethics of War and Peace (Formerly 45.376)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3760/",
+        "id": "037648",
+        "description": "This course examines theories about why human beings engage in mass killing, the history of moral deliberation about war in major religious traditions, and modern philosophical analyses of the diverse moral principles that those traditions have bequeathed to us.  The course comprises three broad ethical questions.  First when, if ever, is recourse to arms legitimate (jus ad bellum)?  Second, what constraints should apply to military conduct (jus in bellos)?  And third, how should wars end (jus post bellum)?  These three questions will be systematically discussed by critically examining a selection of writings by historical and modern secular and religious thinkers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3780": {
+        "name": "PHIL.3780 Philosophy of Peace and Nonviolence (Formerly 45.378)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3780/",
+        "id": "038161",
+        "description": "This course examines philosophical theories of peace, pacifism, and nonviolence.  We will study ancient and modern accounts, secular and religious traditions, as well as feminist perspectives in the philosophy of peace and nonviolence.  We will explore philosophical applications of nonviolence toward nonhuman animals and the natural environment, along with specific cases of nonviolent resistance in contemporary global conflicts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3830": {
+        "name": "PHIL.3830 Philosophy of Death and Dying (Formerly 45.383)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3830/",
+        "id": "037720",
+        "description": "This course is a philosophical and interdisciplinary examination of prominent issues concerning the meaning of life and death and the ethical concerns involved with life, death and end of life issues.  Topics in the course include: definitions of death, metaphysics and death, cultural meanings of death, the ethics of killing vs. letting die, euthanasia and suicide, and rights of the dying.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3840": {
+        "name": "PHIL.3840 Philosophies of Art and Beauty (Formerly 45.384)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3840/",
+        "id": "005560",
+        "description": "Examines the views of major philosophers on the beautiful and the nature of artistic creativity. An attempt is made to correlate the views of the thinkers with the works of poets, artists, and composers and the statements the latter have made about their work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3850": {
+        "name": "PHIL.3850 Philosophy of Popular Culture (Formerly 45.385)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3850/",
+        "id": "038726",
+        "description": "This course analyzes those forms of art/entertainment commonly referred to under the umbrella term \"popular culture\" through a variety of philosophical lenses. After seeking to establish a categorization of \"popular culture,\" students will examine the mediums of music, film, television, advertisements and sports. Throughout the course, students will read/listen/watch various examples of the mediums listed above and attempt to answer various questions about them such as: what societal values make these examples popular at a current moment? What cultural assumptions do these examples reflect? What is the artistic/aesthetic merit of these examples?",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3860": {
+        "name": "PHIL.3860 Ancient Philosophy (Formerly 45.386)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3860/",
+        "id": "005506",
+        "description": "A survey of the beginnings of philosophy, mainly western, from the Presocratics to Augustine. Studies the emergence of philosophy out of mythical forms of thinking and the development of rational thought in the work of Plato, Aristotle, the Stoics, the Epicureans, and the Neoplatonists.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3870": {
+        "name": "PHIL.3870 Plato and  Beginning of Philosophy (Formerly 45.387)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3870/",
+        "id": "005503",
+        "description": "It is Plato who first uses the words 'philosopher\" and \"philosophy\", and who, in his dialogs or dramatic discussions, establishes for all subsequent Western thought just was the enterprise of philosophy will be.  In our study of these dialogs we will trace the origins in Plato of philosophy's primary questions concerning what is real and true as  opposed to mere appearance (ontology, metaphysics), what is knowledge as opposed to mere opinion (epistemology), what is valid argument (logic), what is beautiful (aesthetics), and what is good, just and fair (ethics, politics).  Plato foregrounds speech and language in all these considerations.  Hence language, as the medium of thought and communication, will be a fundamental concern throughout our study.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3880": {
+        "name": "PHIL.3880 Latin American Philosophy",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3880/",
+        "id": "039591",
+        "description": "Students in this course will be introduced to current and longstanding debates within Latin American Philosophy. They will also be exposed to many of the principle texts and thinkers within this burgeoning tradition. The class includes a survey of Latin American philosophy ranging from pre-colonial Aztec thought to the debates over the struggle for Latin American independence, and also the question of identity: what constitutes Latin American philosophy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3890": {
+        "name": "PHIL.3890 Immigration and Global Justice",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3890/",
+        "id": "039592",
+        "description": "This course addresses the question of justice in regards to immigration policy. We consider a variety of views including Communitarianism, Liberalism, Nationalism, Cosmopolitanism, and Democratic Theory. We will look at how these different positions have answered the following sorts of questions: Do we have duties to strangers of foreigners that are of equal weight to the duties we owe to members of our family, our circle of friends or our nation? Does part of the definition of \"self-determined state\" include the right to unilaterally reject petitions of inclusion from non-citizens? Does a commitment to equality demand that borders be open?",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.3900": {
+        "name": "PHIL.3900 Philosophy of Sport",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3900/",
+        "id": "042053",
+        "description": "This course is an introduction to and survey of the philosophy of sport. In this course, students will consider the nature and existence of sports, as well as the relationship of sports to various games and social practices. Additionally, the ethical implications of various aspects of sports will be presented, with an application of these ethical issues to various real-life problems and examples. Overall, sports will be analyzed as a reflection of human nature and social realities, and its examination will provide important insight to our existence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3910": {
+        "name": "PHIL.3910 Philosophy of Prisons and Mass Incarceration",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3910/",
+        "id": "042241",
+        "description": "Students in this course will be introduced to philosophical writings on punishment and prisons and will analyze these social phenomena in the context of mass incarceration in contemporary U.S. society. Prisons and mass incarceration will be philosophically analyzed with special consideration to race, ethnicity, class, and gender. Students will consider a variety of philosophical responses to issues of incarceration in the U.S., including prison reform and prison abolition movements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.3950": {
+        "name": "PHIL.3950 Philosophy of Persons and Persistence",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/3950/",
+        "id": "042240",
+        "description": "This course will introduce students to concepts of ontology and persistence in the context of personhood and personal identity. Throughout the course, students will learn about philosophical problems concerning the nature of change, properties, the status of persons, and sameness of a person over time. Major views on personal identity, including dualism, psychological views, material views, and nihilism will be presented, with careful consideration given to each theory's strength and weaknesses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, and ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PHIL.4010": {
+        "name": "PHIL.4010 Bioethics and Genetics Research (Formerly 45.401)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/4010/",
+        "id": "005561",
+        "description": "This course addresses ethical issues that arise in biomedical research and practice including autonomy in the doctor-patient relationship, the duty of confidentiality, the right to refuse treatment, the right to death with dignity, the ethics of experimentation with human subjects, the ethics of genetic enhancement, and justice in health care distribution. The course will combine theoretical perspectives and concrete case studies that illustrate actual dilemmas that the health care profession has in fact encountered over the years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.4910": {
+        "name": "PHIL.4910 Directed Studies (Formerly 45.491)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/4910/",
+        "id": "005564",
+        "description": "The student, through regular and frequent consultation with an instructor, pursues a special problem in philosophy, the results of which are presented in a 25-30 page paper.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.4951": {
+        "name": "PHIL.4951 Senior Capstone",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/4951/",
+        "id": "039956",
+        "description": "This course is designed to provide philosophy majors with a capstone project involving integration of their coursework in philosophy in the form of an independent research project under the supervision of a faculty member. The capstone will be taken during the senior year (students in the Communications program may take the Practicum instead of the Capstone). The class is designed to meet the Essential Learning Outcomes of Written and Oral Communication, Applied and Integrative Learning, and Information Literacy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or higher standing and permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PHIL.4960": {
+        "name": "PHIL.4960 Practicum (Formerly 45.496)",
+        "url": "https://www.uml.edu/catalog/courses/PHIL/4960/",
+        "id": "005566",
+        "description": "The practicum is a 3-credit internship at a professional site relevant to the student's course of study. Students are required to write a term paper at the end of their internship.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

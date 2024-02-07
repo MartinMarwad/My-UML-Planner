@@ -1,0 +1,1876 @@
+{
+    "total": 105,
+    "time": 72.09838318824768,
+    "CHEM.1010": {
+        "name": "CHEM.1010 Applied Chemistry for Non-Scientists (Formerly 84.101)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1010/",
+        "id": "007633",
+        "description": "Provides an understanding of basic chemical principles -- atomic structure, bonding and interparticle forces, physical and chemical properties of matter through hands-on examination of matter and the application of principles to understanding the chemistry of current issues (e.g., environmental chemistry, biochemistry, food and drug chemistry) and the analysis of problems dealing with these issues. This course is not available for credit for Science or Engineering majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Not for Science and Math Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.1020": {
+        "name": "CHEM.1020 Forensic Science for the Non-Scientist (Formerly 84.102)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1020/",
+        "id": "035546",
+        "description": "This course presents the inherently fascinating topics of crime and criminal investigations as a pathway for teaching the fundamental chemical concepts most often covered in an introductory non-majors course.  This course capitalizes on the surge of interest in the scientific investigation of crime (as sparked by CSI and other television shows) and will collate the theme of forensic science with the fundamentals of chemistry.  The course material will be continually updated with each offering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Not for Science and Math Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.1040": {
+        "name": "CHEM.1040 Consumer Science 4-1-1: An Essential Guide",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1040/",
+        "id": "041595",
+        "description": "This course introduces chemical principles through the context of examining current and topical consumer items such as drugs, food, dietary supplements and personal care products. Information presented will enhance awareness and confidence in understanding the products, scientific reports, news articles and making decisions about the utilization of available products. Chemistry 1040 is a combined lecture and lab demonstration course for non-science majors designed to fulfill the science with lab perspective (SCL) breadth of knowledge degree requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.1050": {
+        "name": "CHEM.1050 Intro to the Discipline of Chemistry (Formerly 84.105)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1050/",
+        "id": "036857",
+        "description": "This course provides an introduction to chemistry as a career.  Required of chemistry majors, it discusses historical aspects of the field and modern career paths, including academic and industrial chemistry.  Students are presented with information regarding career opportunities in chemistry, including: analytical/environmental, forensics, inorganic, organic, materials, pharmaceutical/biochemistry, polymer, and theoretical/physical.  They are also given an introduction to graduate school and teaching opportunities often pursued following the B.S. degree.  In addition to lectures by the instructor, guests from industry and government laboratories are invited to discuss \"what it means to be a chemist\".",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Students must be declared Chemistry majors",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.1110": {
+        "name": "CHEM.1110 General Chemistry I (Formerly 84.111)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1110/",
+        "id": "007634",
+        "description": "Provides a one-semester survey of inorganic chemistry: the structure and properties of matter, chemical reactions, stoichiometry, gas laws, solution chemistry, kinetics, equilibrium, and acid-base chemistry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: 84.113 General Chemistry Lab I and Anti-Req: CHEM.1210 and CHEM.1350.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.1120": {
+        "name": "CHEM.1120 General Chemistry II (Formerly 84.112)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1120/",
+        "id": "007635",
+        "description": "Surveys the basic principles of organic chemistry and biochemistry with emphasis on biochemical aspects of carbohydrates, lipids, proteins and nucleic acids. Various metabolic pathways are also emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 1110 General Chemistry I;  Co-Req: CHEM 1140L General Chemistry Lab II and Anti-Req: CHEM.1220 and CHEM.1360.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1110"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.1140L"
+                ]
+            ]
+        }
+    },
+    "CHEM.1130L": {
+        "name": "CHEM.1130L General Chemistry Laboratory I (Formerly 84.113)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1130L/",
+        "id": "007636",
+        "description": "Lab experiments designed to illustrate the principles covered in 84.111.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CHEM.1110 General Chemistry I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.1110"
+                ]
+            ]
+        }
+    },
+    "CHEM.1140L": {
+        "name": "CHEM.1140L General Chemistry Laboratory II (Formerly 84.114)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1140L/",
+        "id": "007637",
+        "description": "Uses laboratory experiments designed to illustrate the principles discussed in 84.112.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: CHEM 1130L General Chemistry Lab I;  Co-Req: CHEM 1120 General Chemistry II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1130L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.1120"
+                ]
+            ]
+        }
+    },
+    "CHEM.1150": {
+        "name": "CHEM.1150 Principles of Chemistry (Formerly 84.115)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1150/",
+        "id": "007638",
+        "description": "The course provides an introduction to the basic concepts of Chemistry with an emphasis on critical thinking, problem-solving, and computational skills required for more advanced Chemistry courses. Topics include measurement, chemical calculations, problem solving logic, units analysis, chemical reactions, the periodic table, basic bonding theory and solutions. No previous Chemistry experience is assumed. There is no lab component to this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.1210": {
+        "name": "CHEM.1210 Chemistry I (Formerly 84.121)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1210/",
+        "id": "007639",
+        "description": "Provides an introduction to the basic concepts of chemistry through classroom discussions and demonstrations. Topics include chemical calculations, atomic structures, the periodic table, basic bonding theory, solutions, liquids, and gases. Restricted to science, engineering, and engineering technology majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: CHEM.1230L Chemistry I Lab and Anti-Req: CHEM.1110 and CHEM.1350; Anti-Req: Students only can receive credit for one of the following freshmen-level chemistry I lecture/lab courses: CHEM.1110/1130L, CHEM.1210/1230L; or CHEM.1350/1230L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.1230L"
+                ]
+            ]
+        }
+    },
+    "CHEM.1220": {
+        "name": "CHEM.1220 Chemistry II (Formerly 84.122)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1220/",
+        "id": "007640",
+        "description": "Serves as a continuation of CHEM.1210. Topics include thermodynamics; kinetics, acids and bases; an introduction to organic chemistry; chemical equilibrium; precipitation reactions; and electrochemistry. Restricted to science, engineering, and engineering technology majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 1210 Chemistry I or CHEM 1170 Selected Topics in Chemistry;  Co-Req: CHEM 1240L Chemistry II Lab and Anti-Req: CHEM.1120 and CHEM.1360.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210",
+                    "CHEM.1170"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.1240L"
+                ]
+            ]
+        }
+    },
+    "CHEM.1230L": {
+        "name": "CHEM.1230L Chemistry I Laboratory (Formerly 84.123)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1230L/",
+        "id": "007641",
+        "description": "Studies experimental chemical principles and chemical transformation that is coordinated with topics considered in 84.121. Some of the more important reactions of elements, oxides, acids, bases, and salts are examined. Other topics include chemical separation, purification, preparation of inorganic salts, quantitative determinations dealing with the formula of a compound, gas laws, and colligative properties. Careful techniques and precise measurements are stressed.  Restricted to science, engineering, and engineering technology majors",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CHEM 1210 Chemistry I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.1210"
+                ]
+            ]
+        }
+    },
+    "CHEM.1240L": {
+        "name": "CHEM.1240L Chemistry II Laboratory (Formerly 84.124)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1240L/",
+        "id": "007642",
+        "description": "Serves as a continuation of the laboratory study begun in CHEM.1230L that is coordinated with topics of CHEM.1220. Topics include: thermochemistry, kinetics, spectroscopy, titration, pH, equilibrium reaction and constants. Some aqueous solution reactions and organic reactions are examined. Accurate measurements and precise instrumental and apparatus operation are expected. Restricted to science, engineering, and engineering technology majors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CHEM 1220 Chemistry II or 84.119 Selected Topics/Chemistry Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.1220"
+                ]
+            ]
+        }
+    },
+    "CHEM.1350": {
+        "name": "CHEM.1350 Honors Chemistry I (Formerly 84.135)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1350/",
+        "id": "007643",
+        "description": "A more in-depth view of the topics covered in Chemistry I, (84.121). Topics include chemical reactions and calculations, atomic history and structures, the behavior of gases and bonding theory. Open to students enrolled in the Honors Program, and may be taken instead of 84.121.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: CHEM.1230L Chemistry I Lab and Anti-Req: CHEM.1110 and CHEM.1350; Anti-Req: Students only can receive credit for one of the following freshmen-level chemistry I lecture/lab courses: CHEM.1110/1130L, CHEM.1210/1230L; or CHEM.1350/1230L.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.1230L"
+                ]
+            ]
+        }
+    },
+    "CHEM.1360": {
+        "name": "CHEM.1360 Honors Chemistry II (Formerly 84.136)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/1360/",
+        "id": "007644",
+        "description": "A continuation of 84.135. A more in-depth view of the topics covered in Chemistry II (84.122). Topics include solutions, kinetics, thermodynamics, acids and bases, chemical equilibrium, electrochemistry and solubility. Open to students enrolled in the Honors Program, and may be taken instead of 84.122.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 1210 Chemistry I; or CHEM 1350 Honors Chemistry I; and Co-Req: CHEM 1240L Chemistry II Lab and Anti-Req: CHEM.1120 and CHEM.1220.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210",
+                    "CHEM.1350"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.1240L"
+                ]
+            ]
+        }
+    },
+    "CHEM.2040": {
+        "name": "CHEM.2040 Introduction to Organic and Polymer Chemistry (Formerly 84.204)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2040/",
+        "id": "007650",
+        "description": "This course is a one-semester overview of organic chemistry for plastics engineering majors.  Organic chemistry and its associated principles underscore a broad component of the plastics engineering curriculum.  It is desirable therefore for such students to develop a basic appreciation of the fundamental reactions in organic chemistry, as well as an understanding of the interaction of organic compounds with their environment.  Students will therefore be expected to secure a basic undersanding of, e.g., chemical bonding, the chemistry of alkanes, alkenes, alkynes, aromatic compounds, substitution and elimination reactions, reactions of organic alcohols, ethers, epoxides, aldehydes and ketones, carboxylic acids, and amine compounds.  When appropriate, examples will be provided that relate to those typical polymerization reactions (e.g. free-radical or ionic) employed to manufacture commercial polymer materials.  Coverage will include synthesis of organic chemicals and polymers from natural and sustainable materials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  CHEM 1210 Chemistry I;  Plastics Engineering majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.2050L": {
+        "name": "CHEM.2050L Principles Of Organic Chemistry Laboratory (Formerly 84.205)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2050L/",
+        "id": "007651",
+        "description": "Introduction to the basic skills and techniques used in the synthesis, purification, and characterization of representative organic compounds. Open to Chemical Engineering students only.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: CHEM.2220 Organic Chemistry IIA and Chemical Engineering Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.2220"
+                ]
+            ]
+        }
+    },
+    "CHEM.2210": {
+        "name": "CHEM.2210 Organic Chemistry I (Formerly 84.221)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2210/",
+        "id": "007655",
+        "description": "CHEM.2210 is the first course of a two-semester sequence of organic chemistry for students majoring in Chemistry, Chemical Engineering, Biological Sciences as well as pre-medical, pre-dental, pre-pharmaceutical and pre-veterinary students. The course focuses on acid-base properties, functional group labels, conformational analyses, sterochemistry, substitution, elimination and addition reactions of organic molecules. Curved arrow mechanisms and the relationship between organic structure and reactivity are emphasized. Aspects of organic spectroscopy are also introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1220 Chemistry II, and CHEM.1240L Chemistry II Lab, and Co-req: CHEM.2270L Organic Chemistry IA Lab, or CHEM.2290L Organic Chemistry IB Lab, and Biology, or Chemistry, or Chemical Engineer, or Biomedical Engineer Majors, or PMED, or PDEN.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "CHEM.1240L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.2270L",
+                    "CHEM.2290L"
+                ]
+            ]
+        }
+    },
+    "CHEM.2220": {
+        "name": "CHEM.2220 Organic Chemistry IIA (Formerly 84.222)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2220/",
+        "id": "007656",
+        "description": "A continuation of CHEM.2210 including an introduction to infrared and NMR spectroscopy and biochemistry. The application of organic reactions in multi-step synthesis is stressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 2210 Org Chemistry I with grade of D or better; or Spring 2020 grade of \"P\".  Co-Req: CHEM 2280L (Chemistry majors only)  or CHEM 2300L Org Chemistry Lab II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.2280L",
+                    "CHEM.2300L"
+                ]
+            ]
+        }
+    },
+    "CHEM.2230": {
+        "name": "CHEM.2230 Organic Chemistry IIB (Formerly 84.223)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2230/",
+        "id": "007657",
+        "description": "The course covers the chemical and mechanistic principles of organic reactions utilized in biological systems. Spectroscopy, organic reactions and related mechanisms of bio-molecules or small molecules in biological systems will be discussed from a functional group perspective. Multiple examples from medicinal chemistry, chemical biology and biochemistry will be used to illustrate the concepts. Knowledge of organic mechanistic arrow-pushing formalism is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 2210 Org Chemistry I, and CHEM 2290L Organic Chemistry Laboratory IB ; Co-Req: CHEM 2300L Organic Chemistry Lab IIB, and Biology Majors Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2210"
+                ],
+                [
+                    "CHEM.2290L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.2300L"
+                ]
+            ]
+        }
+    },
+    "CHEM.2270L": {
+        "name": "CHEM.2270L Organic Chemistry Laboratory IA (Formerly 84.227)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2270L/",
+        "id": "007661",
+        "description": "Laboratory work designed to emphasize the techniques of organic synthesis and the use of instrumentation for identification and characterization of organic compounds. Required for chemistry majors.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: CHEM.2210 Organic Chemistry IA and Chemistry Majors Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.2210"
+                ]
+            ]
+        }
+    },
+    "CHEM.2280L": {
+        "name": "CHEM.2280L Organic Chemistry Laboratory IIA (Formerly 84.228)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2280L/",
+        "id": "007662",
+        "description": "A continuation of 84.227 including an introduction to semimicro organic techniques. Planning and successfully carrying out reactions published in the chemical literature are emphasized. Required for chemistry majors.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-reqs: CHEM 2210 Organic Chemistry IA, CHEM 2270L Organic Chemistry Lab II; Co-reqs: CHEM 2220 Organic Chemistry IIA, CHEM 2600 Info Retrieval. For Chemistry Majors Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2210"
+                ],
+                [
+                    "CHEM.2270L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.2220"
+                ],
+                [
+                    "CHEM.2600"
+                ]
+            ]
+        }
+    },
+    "CHEM.2290L": {
+        "name": "CHEM.2290L Organic Chemistry Laboratory IB (Formerly 84.229)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2290L/",
+        "id": "007663",
+        "description": "Reviews techniques, skills, and heuristic approaches in the synthesis, purification, and identification of organic compounds. IR, GC, and NMR instrumental methods are included. For Biology and Health Science majors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CHEM.2210 Organic Chemistry I for Biology and Health Science and Biomedical Engineering majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.2210"
+                ]
+            ]
+        }
+    },
+    "CHEM.2300L": {
+        "name": "CHEM.2300L Organic Chemistry Lab IIB  (Formerly 84.230)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2300L/",
+        "id": "007664",
+        "description": "A continuation of 84.229/CHEM 2290L. Biology and Health Science Majors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CHEM 2220 or CHEM 2230 Organic Chemistry II for Biology and Health Science Majors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.2220",
+                    "CHEM.2230"
+                ]
+            ]
+        }
+    },
+    "CHEM.2600": {
+        "name": "CHEM.2600 Information Retrieval (Formerly 84.260)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2600/",
+        "id": "007665",
+        "description": "An introduction to the important chemical and chemical-related reference sources including journals, patents, technical publications, and compiled reference works, and instructions in their use. Assignments require the use of each source discussed. On-line searching using computerized chemical and chemical related databases is also introduced.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL).",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: CHEM.2280L  Organic Chemistry Lab II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.2280L"
+                ]
+            ]
+        }
+    },
+    "CHEM.2800L": {
+        "name": "CHEM.2800L Undergraduate Independent Study",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/2800L/",
+        "id": "041905",
+        "description": "This is a guided study course for students who are working in a research lab or another types of chemistry-based research. Students will work with a faculty mentor to design and conduct a research project during the semester and they will prepare a report of their findings at the end of the semester. Credits earned in this course cannot be used to fulfill the advanced Chemistry elective courses or requirements for the Chemistry minor. This course can only be used for up to 3 hours of free elective credit.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.3010": {
+        "name": "CHEM.3010 Special Topics: Chemistry (Formerly 84.301)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3010/",
+        "id": "007667",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.3030": {
+        "name": "CHEM.3030 Forensic Science I (Formerly 84.303)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3030/",
+        "id": "035812",
+        "description": "Introduction to Forensic Science, Fundamental statistics, Data Sampling & Quality Multivariate statistics, calibration and quality, Partitioning, thin-layer chromatography, Immunoassay, Instruments, Introduction to drug and pharmacology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: CHEM 3050L Forensic Science I Lab; Pre-Reqs: CHEM 2220 Org Chem IIA, PHYS 1440 Physics II, and MATH 2310 Calculus III.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.3050L",
+                    "CHEM.2220"
+                ],
+                [
+                    "PHYS.1440"
+                ],
+                [
+                    "MATH.2310"
+                ]
+            ]
+        }
+    },
+    "CHEM.3040": {
+        "name": "CHEM.3040 Forensic Science II (Formerly 84.304)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3040/",
+        "id": "035813",
+        "description": "Drug Analysis I, Drug Analysis II, Chemistry of combustion and Arson, Chemistry of\ncolor and colorants, Analysis of ink and paints, Chemistry of polymers, Analysis of fibers and papers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: CHEM 3060L Forensic Science II Lab; and Pre-Reqs: CHEM 3030/305 Forensic Science I/Forensic Science I Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.3060L"
+                ]
+            ]
+        }
+    },
+    "CHEM.3050L": {
+        "name": "CHEM.3050L Forensic Science I Laboratory (Formerly 84.305)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3050L/",
+        "id": "035814",
+        "description": "Locard's exchange principle, Reagent preparation, crime scene investigation, a case of deductive reasoning, crime scene sketching, Forensic glass analysis, Fingerprint, Introduction to Microscopy, Color perception.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CHEM 3030 Forensic Science I; Pre-Reqs: CHEM 2220 Org Chem IIA, PHYS 1440 Physics II, and MATH 2310 Calculus III.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.3030",
+                    "CHEM.2220"
+                ],
+                [
+                    "PHYS.1440"
+                ],
+                [
+                    "MATH.2310"
+                ]
+            ]
+        }
+    },
+    "CHEM.3060L": {
+        "name": "CHEM.3060L Forensic Science II Laboratory (Formerly 84.306)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3060L/",
+        "id": "035815",
+        "description": "Forensic hair analysis, Handwriting comparison, Fluorescence detection of drug, Introduction to Immunoassay and enzyme catalysis, Fluorescence microscopy Analysis of gunshot residues, Analysis of metal, Analysis of flammable.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CHEM 3040 Forensic Science II; and Pre-Reqs: CHEM 3030/305 Forensic Science I and Forensic Science I Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.3040"
+                ]
+            ]
+        }
+    },
+    "CHEM.3130": {
+        "name": "CHEM.3130 Analytical Chemistry I (Formerly 84.313)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3130/",
+        "id": "007668",
+        "description": "Focuses on the evaluation of analytical data, aqueous and non-aqueous acid-base systems, oxidation reduction and complexation equilibria, solubility and precipitation, solvent extraction, ion-exchange and chromatographic methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: 84.315 Analytical Chem Lab I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.3140": {
+        "name": "CHEM.3140 Analytical Chemistry II (Formerly 84.314)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3140/",
+        "id": "007669",
+        "description": "Introduces modern instrumental methods of chemical analysis. Topics to be discussed include ultraviolet, infrared nuclear magnetic resonance, emission and atomic absorption spectroscopy. Mass spectrometry, chromatography, thermal and electrochemical methods of analysis will also be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 3130 Analytical Chem I, PHYS 1440 Physics II;  Co-Reqs: CHEM 3160L Analytical Chem II Lab, CHEM 3450 Physical Chemistry II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.3130"
+                ],
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.3160L"
+                ],
+                [
+                    "CHEM.3450"
+                ]
+            ]
+        }
+    },
+    "CHEM.3150L": {
+        "name": "CHEM.3150L Analytical Chemistry Laboratory I (Formerly 84.315)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3150L/",
+        "id": "007670",
+        "description": "Experiments emphasizing the topics presented in 84.313 are conducted.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: 84.313 Analytical Chem I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.3160L": {
+        "name": "CHEM.3160L Analytical Chemistry Laboratory II (Formerly 84.316)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3160L/",
+        "id": "007671",
+        "description": "Presents laboratory experiments designed to complement the coverage of topics in 84.314.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 3130 Analytical Chem I, CHEM 3150L Analytical Chem Lab I;  Co-Req: CHEM 3140 Analytical Chemistry II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.3130"
+                ],
+                [
+                    "CHEM.3150L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.3140"
+                ]
+            ]
+        }
+    },
+    "CHEM.3390": {
+        "name": "CHEM.3390 Physical Chemistry Principles (Formerly 84.339)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3390/",
+        "id": "007676",
+        "description": "A one-semester course designed for plastics engineering majors. Physical chemical concepts of importance to plastics and polymeric materials are emphasized and include kinetics, spectroscopy, phase rule, and statistical thermodynamics.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 1220 Chemistry II and PLAS 2470 Thermodynamics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "PLAS.2470"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.3440": {
+        "name": "CHEM.3440 Physical Chemistry I (Formerly 84.344)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3440/",
+        "id": "007678",
+        "description": "Covers basic physical chemical topics: laws of thermodynamics, solutions, chemical and phase equilibria, electrochemistry, kinetics, atomic, and molecular structure. Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2310 Calculus III, CHEM 1220 Chemistry II, PHYS 1410 Physics I; Co-Req CHEM 3460L Physical Chem Lab I or Chemical Engineering (BS) or Chemistry (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.3460L"
+                ]
+            ]
+        }
+    },
+    "CHEM.3450": {
+        "name": "CHEM.3450 Physical Chemistry II (Formerly 84.345)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3450/",
+        "id": "007679",
+        "description": "CHEM.3450 serves as a continuation of CHEM.3440. Topics covered include the failures of classical physics that led to the rise of quantum mechanics, the postulates of quantum mechanics, the particle-in-a-box, the harmonic oscillator, the rigid rotator, the hydrogen atom and multi-electron atoms. Applications of these quantum mechanical models to chemistry and spectroscopy are discussed, along with aspects of chemical bonding.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM.3440 Physical Chemistry I and (MATH.2340 Differential Equations or MATH.2360 Eng. Differential Equations).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.3440"
+                ],
+                [
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.3460L": {
+        "name": "CHEM.3460L Physical Chemistry Laboratory I (Formerly 84.346)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3460L/",
+        "id": "007680",
+        "description": "Laboratory work designed to exemplify principles covered in 84.344. Required for chemistry majors.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: CHEM 1240L Chemistry II Lab;  Co-Req: CHEM 3440 Physical Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1240L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.3440"
+                ]
+            ]
+        }
+    },
+    "CHEM.3470L": {
+        "name": "CHEM.3470L Physical Chemistry Laboratory II (Formerly 84.347)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3470L/",
+        "id": "007681",
+        "description": "Provides laboratory work designed to exemplify the principles of chemical kinetics, equilibrium, and spectroscopy.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-req or Co-req: CHEM.3440 Physical Chemistry I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CHEM.3440"
+                ]
+            ]
+        }
+    },
+    "CHEM.3500L": {
+        "name": "CHEM.3500L Physical Bioinorganic Laboratory (Formerly 84.350)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3500L/",
+        "id": "007682",
+        "description": "Coordination compounds are utilized in a core of experiments to illustrate basic physiochemical techniques and analysis of experimental data in electrochemistry and kinetics. A project lab is carried out to apply and extend techniques learned.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 3440 Physical Chemistry I and  CHEM 3460L Physical Chemistry Lab I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.3440"
+                ],
+                [
+                    "CHEM.3460L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.3600": {
+        "name": "CHEM.3600 The Responsible Chemist (Formerly 84.360)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/3600/",
+        "id": "007684",
+        "description": "This course is required of chemistry majors and addresses ethical, regulatory, and environmental aspects of their profession. Students are exposed to a wide range of research integrity issues that include TSCA (Toxic Substance Control Act), SOPs (Standard Operating Procedures) and quality management. Compliance issues include an overview of OSHA (Occupational Safety and Health Administration) and EPA (Environmental Protection Agency), as well as an introduction to patent law. The importance of maintaining integrity in their discipline is emphasized, and case studies are presented for study and discussion.  Meets Core Curriculum Essential Learning Outcome for Social Responsibility & Ethics (SRE) and Essential Learning Outcome for Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Chemistry Majors Only",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.4020L": {
+        "name": "CHEM.4020L Organic Synthesis and Characterization Lab",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4020L/",
+        "id": "041178",
+        "description": "An advanced project-based organic chemistry laboratory course. Students will separate mixtures of compounds by chromatographic methods, elucidate structures using spectroscopic techniques and consult the chemical literature to design and execute a multi-step synthesis. Emphasis on laboratory work with discussion of theoretical background.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.2220 Organic Chem IIA, or CHEM.2230 Organic Chem IIB, and CHEM.2280L Organic Chem Lab IIA, or CHEM.2300L Organic Chem Lab IIB, or CHEM.2050L Principles of Organic Chem Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2220",
+                    "CHEM.IIAOR",
+                    "CHEM.2230"
+                ],
+                [
+                    "CHEM.2280L",
+                    "CHEM.2300L",
+                    "CHEM.2050L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.4030": {
+        "name": "CHEM.4030 Polymer Science I (Formerly 84.403)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4030/",
+        "id": "007685",
+        "description": "Coverage of step and chain growth polymerizations, kinetics and mechanism, copolymerization, ionic and free radical polymerizations, and industrially important polymers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 84.222 Organic Chemistry IIA or 84.203 Princ of Organic Chem or 84.345 Physical Chemistry II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.4070": {
+        "name": "CHEM.4070 Undergraduate Thesis (Formerly 84.407)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4070/",
+        "id": "007689",
+        "description": "Research in biochemistry, electrochemistry or analytical, organic, inorganic, physical or polymer chemistry. Progress report required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.4080": {
+        "name": "CHEM.4080 Undergraduate Thesis II (Formerly 84.408)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4080/",
+        "id": "007690",
+        "description": "A continuation of 84.407. Both semesters must be taken and not more than six credits may be used in meeting degree requirements. A written thesis and seminar are required. The written thesis is to follow the conventional form of introduction, literature survey, data, results, and conclusions. One copy of the thesis must be filed in the Department office.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.4430": {
+        "name": "CHEM.4430 Advanced Inorganic Chemistry (Formerly 84.443)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4430/",
+        "id": "030385",
+        "description": "The chemical behavior, structure and methods of preparation and nomenclature of the more common elements and their compounds.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: 84.345 Physical Chemistry II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.4450L": {
+        "name": "CHEM.4450L Advanced Inorganic Lab (Formerly 84.445)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4450L/",
+        "id": "030386",
+        "description": "Laboratory to study the reactions of ions in aqueous solutions and to carry out inorganic syntheses and characterizations.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: 84.443 Advanced Inorganic Chemistry.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.4500": {
+        "name": "CHEM.4500 Introduction To Biochemistry (Formerly 84.450)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4500/",
+        "id": "007692",
+        "description": "An introductory study of the fundamental principles of biochemistry including the chemistry of proteins, carbohydrates, nucleic acids and lipids, thermodynamics, kinetics and mechanisms of enzyme action, intermediary metabolism and selected topics in molecular biology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 2220 Organic Chemistry IIA and Co-Req: CHEM 3440 Physical Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2220"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEM.3440"
+                ]
+            ]
+        }
+    },
+    "CHEM.4510": {
+        "name": "CHEM.4510 Biochemistry II",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4510/",
+        "id": "041470",
+        "description": "A continuation of CHEM.4500 with emphasis on metabolic pathways of amino acids and nucleic acid, biosynthesis of proteins and selected topics in molecular biology and various areas of biochemistry. This course will be co-convened with CHEM.5510, the graduate version of Biochemistry II.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.4500 Intro to Biochemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.4500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.4550L": {
+        "name": "CHEM.4550L Laboratory in Modern Biochemistry and Biophysics",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4550L/",
+        "id": "041147",
+        "description": "This is a laboratory course designed to teach basic biochemistry techniques using a series of well-characterized proteins in a research-like setting. The course will meet twice a week throughout the semester. The first half of the semester will be focused on teaching specific biochemical techniques. In the second half of the semester, students will develop an independent research question using protein(s) from a list using the techniques that were learned in the first half of the semester. Students will produce a report using an ACS journal style based on their results and they will also present their results to the class at the end of the semester.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "CHEM.4500 Intro to Biochemistry, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.4500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.4750": {
+        "name": "CHEM.4750 Machine Learning and AI in Energy Applications",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4750/",
+        "id": "042296",
+        "description": "Recent developments in Machine Learning (ML) and Artificial Intelligence (AI) have revolutionized how we approach science and engineering. ML and AI have accelerated the discovery of new materials for catalysis and applications in solar or nuclear energy. They have enabled the high-throughput screening of nonporous materials for sustainable energy solutions. This course will provide a practical introduction to the machine learning concepts, methods, and tools to STEM students, including regression models, neural networks, modern deep learning, ensemble models, and reinforcement learning. Examples will be drawn form the entire spectrum of energy applications to illustrate the applications of ML approaches. The hands-on use of Python notebooks will be a key aspect of the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1210 Chemistry I, or CHEM.1350 Honors Chemistry I, and Restricted to Science, Math, and Engineering Majors or Instructor Permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210",
+                    "CHEM.1350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.4850": {
+        "name": "CHEM.4850 Advanced Organic Chemistry",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4850/",
+        "id": "041007",
+        "description": "This course aims to provide deepened and widened knowledge of concepts, reactivity, and synthesis in organic chemistry. It encompasses: carbonyl/enol/enolate chemistry, frontier molecular orbital theory, pericyclic reactions, rearrangements, fragmentations, reactive intermediates, main group elements (boron, silicon, phosphorous, sulfur, etc.), heterocyclic compounds, organometallic chemistry, stereochemistry, selectivity, catalysis, asymmetric synthesis, and multi-step synthesis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM.2210 Organic Chemistry I, CHEM.2220 Organic Chemistry IIA.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2210"
+                ],
+                [
+                    "CHEM.2220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.4880": {
+        "name": "CHEM.4880 Computational Chemistry",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/4880/",
+        "id": "040793",
+        "description": "The field of computational chemistry involves the quantitative treatment of the quantum and classical depiction of atoms and molecules. The first part of the class will involve the quantum chemistry approach which will include semi-empirical theory, the Hartree-Fock model, post-Hartree-Fock models, and Density Functional Theory. Quantum chemistry calculations will be performed using the Gaussian software package. The second part will include classical dynamics of molecules using Molecular Mechanics concepts and empirical force-fields. Students will be introduced to numerical algorithms for the calculation of atomic forces and numerical schemes for the integration of Newton's equations of motion. Students will learn how to set up, initialize, and run Molecular Dynamics simulations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM.3440 Physical Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.3440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.5130": {
+        "name": "CHEM.5130 Spectroscopy (Formerly 84.513)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5130/",
+        "id": "007700",
+        "description": "This course covers both basic theory and practical applications of modern photon, electron, and X-ray spectroscopies. The techniques covered will include infrared, Raman, visible, circular dichroism, UV, X-ray photoelectron, and X-ray absorption spectroscopies. Qualitative and quantitative applications of these methods to chemistry (organic and inorganic), materials, catalysis, and biochemistry will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5140": {
+        "name": "CHEM.5140 Advanced Analytical Chemistry (Formerly 84.514)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5140/",
+        "id": "007701",
+        "description": "Designed to provide graduate students and senior undergraduate students with an understandingof the principles and the theory of analytical measurements and instrumentation. The course isdivided into three sections consisting of a) analytical measurements including potentiometry andvoltammetry, b) spectrophotometric measurements (i.e. molecular spectrometry), and c) ionicequilibria and statistics. This course is required for graduate programs in Analytical Chemistryand Environmental Studies (Ph.D.) and is recommended for students in other graduate programssuch as Biology, Biochemistry and Environmental Studies (MS) and other areas of chemistry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5190": {
+        "name": "CHEM.5190 Environmental Chemistry (Formerly 84.519)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5190/",
+        "id": "007705",
+        "description": "Covers chemical processes and measurements in marine and estuarine systems. Emphasis isplaced on water column processes; however, air-water and sediment-water interface phenomenaare covered as well. Topics include but are not limited to: ionic equilibria, trace metalcomplexation, redox processes, mathematical modeling applied to chemical systems, and oceanographic sampling.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5220L": {
+        "name": "CHEM.5220L Organic Synthesis and Characterization Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5220L/",
+        "id": "041227",
+        "description": "An advanced project-based organic chemistry laboratory course. Students will separate mixtures of compounds by chromatographic methods, elucidate structures using spectroscopic techniques and consult the chemical literature to design and execute a multi-step synthesis. Students will also propose a multi-step synthesis of a compound of interest. Emphasis on laboratory work with a discussion of theoretical background.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.2220 Organic Chem IIA, or CHEM.2230 Organic Chem IIB, and CHEM.2280L Organic Chem Lab IIA, or CHEM.2300L Organic Chem Lab IIB, or CHEM.2050L Principles of Organic Chem Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2220",
+                    "CHEM.IIAOR",
+                    "CHEM.2230"
+                ],
+                [
+                    "CHEM.2280L",
+                    "CHEM.2300L",
+                    "CHEM.2050L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.5221": {
+        "name": "CHEM.5221 Solid-State Materials Chemistry",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5221/",
+        "id": "041745",
+        "description": "This course is an introductory course to materials and solid-state chemistry for graduate students. Topics covered include the electronic and optical properties of solids, the properties of metals and semiconductors, optical properties of materials and their physical origins, and special topics in nanomaterials and materials science, Qualitative and quantitative applications of these materials will be included for energy, electronics, batteries, lighting, catalysis, and coatings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5230": {
+        "name": "CHEM.5230 Organic Reaction Mechanisms (Formerly 84.523)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5230/",
+        "id": "007708",
+        "description": "The course is designed to provide an advanced understanding of the principles controlling structure/reactivity and the experimental techniques used to elucidate the mechanisms of modern organic reactions. The material covered includes;  molecular orbital theory applied to bonding and reactivity, stereoelectronic and conformational effects, intermolecular interactions, potential energy surfaces, reaction kinetics, reaction mechanisms, catalytic methods, pericyclic reactions, and protochemistry. Introductory applications of computational chemistry is covered. The course is open to undergraduate students (with permission) interested in a stronger foundation in organic reactions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5240": {
+        "name": "CHEM.5240 Organic Synthesis (Formerly 84.524)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5240/",
+        "id": "007709",
+        "description": "Mechanism, scope and limitations of important selected types of reactions and design of synthetic sequences. Emphasis is placed on methodology of synthesis and current literature.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5260": {
+        "name": "CHEM.5260 Chromatography (Formerly 84.526)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5260/",
+        "id": "007711",
+        "description": "Coverage includes the components, theory and performance of chromatographic separations including packed and capillary gas chromatography (GC) and high performance liquid chromatography (HPLC). Modern injectors, detectors, pumping systems, and other hardware used in chromatography are also discussed in detail.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5320": {
+        "name": "CHEM.5320 Advanced Physical Chemistry (Formerly 84.532)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5320/",
+        "id": "007715",
+        "description": "Extension of introductory physical chemistry. Open to undergraduates and graduate\nstudents in chemistry and related fields. Emphasis is placed on classical and statistical thermodynamics; surface and colloid chemistry; and electronic and vibration-rotation spectra.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5340": {
+        "name": "CHEM.5340 Quantum Chemistry",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5340/",
+        "id": "040284",
+        "description": "This course will start with the basics of Quantum Mechanics and Quantum Chemistry followed by use of the molecular modeling software GAUSSIAN. Topics to be covered include: Schrodinger equation and wave functions; Particle in a box; Particle in a ring; Heisenberg uncertainty principle; QM operators, Eigenvalue problem; Eigenvectors & eigenvalues; Hermitian operators and commutators; Harmonic oscillator & IR spectroscopy; Rigid Rotator & Rotational Spectroscopy; H-atom, H2+ion; using Mathematics to solve QM problems (e.g. atomic/molecular orbitals visualization), He-atom and variational method; Electron spin and Pauli exclusion principle; EPR/NMR; Semiempirical methods; Many-electron systems; Slater Determinants, Hartree and Hartree-Fock methods; Diatomic molecules; Born-Oppenheimer approx.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5360": {
+        "name": "CHEM.5360 Advanced Materials Chemistry I",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5360/",
+        "id": "041205",
+        "description": "This course covers the concepts, principles, and applications of physical properties of organics- and polymer-based materials. In a broad sense, organic electronics and photonics, as a modern research and technology field, encompass both molecular organics and polymers in design, synthesis, and fabrication processes in the light of device application. For the practical purpose, this course discusses a collection of technologies that include conducting organics and polymers, organic light emitting diodes (OLED), organic photovoltaics (OP), dye sensitized solar cells (DSSC), nonlinear optical (NLO) two-photon absorption (2PA) chromophores, electro-optical (EO) polymers, and photodynamic therapeutic (PDT) and antibacterial inactivation (aPDI) drugs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5380": {
+        "name": "CHEM.5380 Biochemical Mechanisms (Formerly 84.538)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5380/",
+        "id": "007720",
+        "description": "Discussion of various biochemical reactions from the point of view of organic reaction mechanisms. Kinetics, coenzymes and methods of the study of enzyme and catalysis and mechanisms are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5430": {
+        "name": "CHEM.5430 Modern Inorganic Chemistry (Formerly 84.543)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5430/",
+        "id": "007722",
+        "description": "A theoretical treatment of atomic structure and chemical bonds, included are such topics as Russell Saunders'  coupling, molecular orbital theory, ligand field theory, and descriptive coordination chemistry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5500": {
+        "name": "CHEM.5500 Biochemistry I (Formerly 84.550)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5500/",
+        "id": "007726",
+        "description": "An advanced study of the structure and properties of proteins, nucleic acids, carbohydrates and lipids, including kinetics and mechanisms of enzyme action and detailed description of metabolic pathways of carbohydrates and lipids.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5510": {
+        "name": "CHEM.5510 Biochemistry II (Formerly 84.551)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5510/",
+        "id": "007727",
+        "description": "A continuation of 84.550 with emphasis on metabolic pathways of amino acids and nucleic acid, biosynthesis of proteins and selected topics in molecular biology and various areas of biochemistry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5550L": {
+        "name": "CHEM.5550L Laboratory in Modern Biochemistry and Biophysics",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5550L/",
+        "id": "041144",
+        "description": "This is a laboratory course designed to teach basic biochemistry techniques using a series of well-characterized proteins in a research-like setting.  The course will meet twice a week throughout the semester.  The first half of the semester will be focused on teaching specific biochemical techniques.  In the second half of the semester, students will develop an independent research question using protein(s) from a list using the techniques that were learned in the first half of the semester.  Students will produce a report using an ACS Journal style based on their results and they will also present their results to the class at the end of the semester.  Students will also prepare a review on the protein that they are using for their independent project.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "CHEM.5500 Biochemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.5500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.5600": {
+        "name": "CHEM.5600 Advanced Physical Biochemistry (Formerly 84.560)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5600/",
+        "id": "007732",
+        "description": "Physical chemistry encompasses a group of principles and methods helpful in solving many different types of problems. This course will present selected principles of thermodynamics,kinetics, statistical thermodynamics and quantum mechanics as they are applied to biochemicalsystems. Various experimental techniques will be strongly emphasized in view of their importancein biochemical research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5620": {
+        "name": "CHEM.5620 Biopharmaceutical Development (Formerly 84.562)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5620/",
+        "id": "036766",
+        "description": "Pharmaceutical Biochemistry examines the biochemical and molecular mechanisms of drug interaction.  Topics include basic aspects of  molecular complementarity  (molecular recognition), specificity and stability of ligand binding (energetic), as well as crystallographic and computational approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM.5500 Biochemistry I",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.5500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.5630": {
+        "name": "CHEM.5630 Chemistry Of Natural Products (Formerly 84.563)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5630/",
+        "id": "007733",
+        "description": "Covers the proof of structure of various types of natural products, approaches to the total synthesis of these products and the biosynthetic pathways.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5660": {
+        "name": "CHEM.5660 Nanomaterials and Nanostructures (Formerly 84.566)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5660/",
+        "id": "037645",
+        "description": "Nanoscience and nanotechnology focus on the understanding and control of matter at the dimension of 1-100 nanometers, i.e., the nanoscale.  Nanoscale structures, materials and devices have unique properties and functions solely because of their sizes.  Research and technology development in nanoscience and nanotechnology aim at understanding the fundamental nanoscale phenomena, synthesizing, fabricating and imaging nanomaterials and nanostructures, and constructing nanoscale systems that offer unprecedented properties and functions.  In this course, we will discuss the fundamental nanoscale phenomena.  We will learn variety of nanomaterial characterization techniques including scanning probe, electron probe, absorption and particle spectroscopies.  Fabrication processes of top-down and bottom-up approaches will be discussed, including molecular and material self-assembly.  We will study surface phenomena and surface energy that are of critical importance for nanomaterials and nanostructures.  We will also learn various ways to control the structures and properties of nanomaterials and surfaces.  A variety of nanomaterials and nanostructures will be discussed, including metal, semiconductor, organic and inorganic nanoparticles, carbon nanomaterials, and various natural and synthetic nanostructured surfaces.  Applications of these nanomaterials in nanomedicine and theranostics will also be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 84.222 Organic Chemistry IIA.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5670": {
+        "name": "CHEM.5670 Computational Biochemistry (Formerly 84.567)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5670/",
+        "id": "007735",
+        "description": "This course will provide and introductory survey of the basis of theory/simulations of biomolecules.  It is accessible to anyone who has completed two semesters of undergraduate chemistry and who has some background in physical chemistry.  Topics/examples will be borrowed from modern biological chemistry and biophysics of single biomolecules.  The course will be useful for senior undergraduates and beginning graduate students.  Chem/Bioinformatics 84.567 will attempt to cultivate computational skills, which on needs to tackle current scientific problems of biology and biophysics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5680": {
+        "name": "CHEM.5680 Structural Analysis (Formerly 84.568)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5680/",
+        "id": "007736",
+        "description": "Practical applications of instrumental data in the determination of the structure of organic compounds and polymers. Includes mass spectrometry, ultra-violet spectroscopy, infrared spectroscopy and nuclear magnetic resonance spectroscopy. Open to undergraduate students with permission.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5690": {
+        "name": "CHEM.5690 Machine Learning and AI in Living Organisms",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5690/",
+        "id": "042291",
+        "description": "Recent developments in Machine Learning (ML) and Artificial Intelligence (AI) have revolutionized how we approach science, engineering, and the life sciences. In this course, we focus on how AI and ML approaches shed light on the biochemical mechanisms underlying cellular processes. The course starts with an introduction to the basics of widely used ML methods, with practical examples of how ML models can be set up using Python notebooks. We then explore how ML and AI can further our understanding of cellular biochemistry, help elucidate multicellular processes, and guide the design of artificial biomimetic systems. Students will work on a semester-long project, that will provide first-hand experience in building a ML model on the topic.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5700": {
+        "name": "CHEM.5700 Protein Chemistry (Formerly 84.570)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5700/",
+        "id": "007737",
+        "description": "This course outlines the assembly process, structural and functional attributes of protein.  Special attention will be given to three-dimensional structures, folding, post translational modifications, misfolding and degradations, as well as biochemical and biophysical techniques used to elucidate protein structure and function.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5750": {
+        "name": "CHEM.5750 Machine Learning and AI in Energy Applications",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5750/",
+        "id": "042150",
+        "description": "Recent developments in Machine Learning (ML) and Artificial Intelligence (AI) have revolutionized how we approach science and engineering. ML and AI have accelerated the discovery of new materials for catalysis and applications in solar or nuclear energy. They have enabled the high-throughput screening of nanoporous materials for sustainable energy solutions. This course will provide a practical introduction to the machine learning concepts, methods, and tools to STEM students, including regression models, neural networks, modern deep learning, ensemble models, and reinforcement learning. Examples will be drawn form the entire spectrum of energy applications to illustrate the applications of ML approaches, the hands-on use of Python notebooks will be a key aspect of the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5800": {
+        "name": "CHEM.5800 Bioanalytical Chemistry (Formerly 84.580)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5800/",
+        "id": "007739",
+        "description": "Analytical biochemistry involves the separation, detection, and analysis of biological molecules. This course addresses advanced theory and applications of contempory biochemical techniques and instrumentation. Topics covered include chromatographic and electrophoretic separation techniques, detection of biomolecules by spectroscopy and radiochemical methods, biological preparations, and structural analysis of proteins, nucleic acids, polysaccharides and lipids.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre or Co-Req: 84.550 Biochemistry I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5850": {
+        "name": "CHEM.5850 Modern Organic Chemistry",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5850/",
+        "id": "040970",
+        "description": "This course aims to provide deepened and widened knowledge of concepts, reactivity, and synthesis in modern organic chemistry. It encompasses: main group chemistry, carbonyl/enol/enolate chemistry, heterocyclic compounds, fragmentations, rearrangements, frontier molecular orbital theory, pericyclic reactions, reactive intermediates, organometallic chemistry, selective synthesis, stereochemistry, catalysis, asymmetric synthesis, and multi-step synthesis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.5950": {
+        "name": "CHEM.5950 Supramolecular Chemistry",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5950/",
+        "id": "040681",
+        "description": "Supramolecular Chemistry is a rapidly growing area at the interfaces between chemistry, biology, physics, and engineering. It can be described as Chemistry Beyond the Molecule and the chemistry of molecular assemblies. Inspired by Nature, it involves the study of complex structures held together by reversible, mostly non-covalent interactions, and encompasses the design and development of functional systems based on multiple chemical components.\n\nThis course will provide detailed understanding of the general principles and concepts of the field, including host-guest chemistry, molecular recognition, and self-assembly, as well as highlight a wide variety of examples and applications of supramolecular systems in chemistry, biology, nanotechnology, and materials science.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM.1220 Chemistry II OR equivalent course.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.5CO-OP": {
+        "name": "CHEM.5CO-OP Curricular Practical Training (Formerly 84.5CO-OP)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/5CO-OP/",
+        "id": "038042",
+        "description": "Curricular Practical Training. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6010": {
+        "name": "CHEM.6010 Chemistry Seminar (Formerly 84.601)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6010/",
+        "id": "007741",
+        "description": "Required of all graduate students. Presentation of current topics by graduate students. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6020": {
+        "name": "CHEM.6020 Chemistry Seminar (Formerly 84.602)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6020/",
+        "id": "007742",
+        "description": "Required of all graduate students. Presentation of current topics by graduate students. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6030": {
+        "name": "CHEM.6030 Chemistry Colloquium (Formerly 84.603)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6030/",
+        "id": "007743",
+        "description": "Required of all graduate students. Presentation of current topics by visiting scientists and staff. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6040": {
+        "name": "CHEM.6040 Chemistry Colloquium (Formerly 84.604)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6040/",
+        "id": "007744",
+        "description": "Required of all graduate students. Presentation of current topics by visiting scientists and staff.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6310": {
+        "name": "CHEM.6310 Principles of Medicinal Chemistry l (Formerly 84.631)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6310/",
+        "id": "039345",
+        "description": "This course teaches fundamental principles of drug development, including small organic compounds and biologics. Key aspects of their synthesis, physical characteristics, and pharmaceutical properties are discussed. Topics covered include discovery strategies, statistic-based modeling (e.g.,QSAR), structure-based and mechanism-based design methods, and combinatorial techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.5500 Biochemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.5500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CHEM.6410": {
+        "name": "CHEM.6410 Co-Op Internship (Formerly 84.641)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6410/",
+        "id": "035199",
+        "description": "Practical training for International Students in a Co-operative agreement with Industry or a Government Laboratory for 1 semester. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6510": {
+        "name": "CHEM.6510 Selected Topics:  Chemistry (Formerly 84.651)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6510/",
+        "id": "007746",
+        "description": "Advanced topics in various fields of chemistry. Content may vary from year to year so that students may, by repeated enrollment, acquire a broad knowledge of contemporary chemistry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6530": {
+        "name": "CHEM.6530 Chemical Oceanography (Formerly 84.653)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6530/",
+        "id": "007748",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.6720": {
+        "name": "CHEM.6720 Surface and Colloid Chemistry (Formerly 84.672)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/6720/",
+        "id": "033615",
+        "description": "Surface and colloid chemistry describes the nanoscopic and mesoscopic regimes that connect molecular and macroscopic length scales.  The course focuses on how phenomena at macroscopic surfaces and interfaces arise from molecular interactions.  Intermolecular and surface forces discussed in detail include van der Waals and electrostatic forces, and how these together with steric interactions give rise to different molecular aggregates (self-assembled structures of surface active molecules and polymers) in bulk solution and in the vicinity of solid surfaces.  Examples of modern experimental techniques for measurements of surface forces and for characterization of surfaces and aggregates are discussed and demonstrated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7050": {
+        "name": "CHEM.7050 Supervised Teaching Ch & Ps (Formerly 84.705)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7050/",
+        "id": "007750",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7310": {
+        "name": "CHEM.7310 Graduate Project in Chemistry (Formerly 84.731)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7310/",
+        "id": "035693",
+        "description": "Continued research project supplementing the research credits for a doctoral student.  This course will require special permission from the Graduate Coordinator.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7330L": {
+        "name": "CHEM.7330L Graduate Project - Chemistry (Formerly 84.733)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7330L/",
+        "id": "007751",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7410": {
+        "name": "CHEM.7410 Master's Thesis - Chemistry (Formerly 84.741)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7410/",
+        "id": "036421",
+        "description": "Master's Thesis - Chemistry",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7430": {
+        "name": "CHEM.7430 Master's Thesis - Chemistry (Formerly 84.743)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7430/",
+        "id": "007754",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7460": {
+        "name": "CHEM.7460 Master's Thesis - Chemistry (Formerly 84.746)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7460/",
+        "id": "007755",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7490": {
+        "name": "CHEM.7490 Master's Thesis - Chemistry (Formerly 84.749)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7490/",
+        "id": "007756",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7510": {
+        "name": "CHEM.7510 Graduate Doctoral Research Credit (Formerly 84.751)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7510/",
+        "id": "035659",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7530": {
+        "name": "CHEM.7530 Doctoral Dissertation/Chemistry (Formerly 84.753)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7530/",
+        "id": "007757",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7560": {
+        "name": "CHEM.7560 Doctoral Dissertation/Chemistry (Formerly 84.756)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7560/",
+        "id": "007758",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7590": {
+        "name": "CHEM.7590 Doctoral Dissertation /Chemistry (Formerly 84.759)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7590/",
+        "id": "007759",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7630": {
+        "name": "CHEM.7630 Continued Graduate Research (Formerly 84.763)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7630/",
+        "id": "007760",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CHEM.7690": {
+        "name": "CHEM.7690 Continued Graduate Research (Formerly 84.769)",
+        "url": "https://www.uml.edu/catalog/courses/CHEM/7690/",
+        "id": "007762",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

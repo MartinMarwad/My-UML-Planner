@@ -1,0 +1,1114 @@
+{
+    "total": 71,
+    "time": 47.78122019767761,
+    "INFO.1600": {
+        "name": "INFO.1600 Introduction to Information Systems (Formerly 90.160)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/1600/",
+        "id": "007944",
+        "description": "This course presents the most -up-to-date technology in an ever-changing discipline. It provides an in-depth understanding of the components of the computer systems and mobile devices, application software, mobile apps, system software (including operation systems), digital storage, and communications and networks. The course also teaches the fundamentals of the Internet, digital safety, security, and privacy, as well as Information and Data Management and Information Systems and Program Development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.1710": {
+        "name": "INFO.1710 Applications Software: Microsoft Access (Formerly 90.171)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/1710/",
+        "id": "007947",
+        "description": "This introductory course is intended to teach students how to create and manipulate database files using Microsoft Access. Students will learn about database management, relational databases, and the issues that must be considered before creating a database. They will learn how to create a database file with tables, queries, forms and reports. Topics include entering and editing data; sorting, filtering and printing records; extracting information with different types of queries; designing and customizing forms and reports; creating charts and pivot tables; and customizing Access. In addition, they will learn how to use macros to automate a database, and how to exchange Access data with other applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.1730": {
+        "name": "INFO.1730 Applications Software: Windows NT (Formerly 90.173)(Never Offered)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/1730/",
+        "id": "032072",
+        "description": "Provides hands-on experience in applications development programming using Windows NT.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.1800": {
+        "name": "INFO.1800 Applications Software: Microsoft Excel (Formerly 90.180)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/1800/",
+        "id": "030390",
+        "description": "This course will look at all the features of Excel that make it the powerful business tool that it is. The following topics will be discussed: the basics of workbooks and worksheets, including worksheet concepts and terminology; creating a workbook file with arithmetic and function formulas; editing and formatting features that are available for manipulating the data in a worksheet; printing and page setup issues; creating charts to graphically represent worksheet data; and exploring the ways in which Excel can be used for list management purposes. In addition, students will learn the tips, tricks and shortcuts that are available in Excel for doing things efficiently; for example, advanced formulas, including links and What If? analysis; Excel\u00bfs statistical, lookup, time and date, and IF functions. Students will explore a number of the powerful ways in which they can summarize worksheet data in Excel: those include outlining, consolidation, and pivot tables; creating macros in Excel using Visual Basic for Applications, to automate reports and eliminate redundancy in worksheet creation and manipulation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2020": {
+        "name": "INFO.2020 Microsoft Office (Formerly 90.202)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2020/",
+        "id": "007949",
+        "description": "This is an intensive hands-on course intended to teach the student basic personal computer skills in a lecture/lab format using MS Office. The student will learn the fundamental concepts of word processing, spreadsheets, and presentation development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2030": {
+        "name": "INFO.2030 Introduction to Programming with Python",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2030/",
+        "id": "041590",
+        "description": "This course examines the fundamentals of computer programming while using the Python programming language. Python is a popular scripting language that is commonly used for a myriad of applications including machine learning, scientific computing, scripting, web applications, and data processing. Course topics will include programming fundamentals, such as Boolean logic, program organization, input and output, and loops. We'll cover the syntax of Python (the rules that govern the language) as well as industry standards best practices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2110": {
+        "name": "INFO.2110 Introduction to Programming W/C I (Formerly 90.211)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2110/",
+        "id": "007950",
+        "description": "Offers an introduction to the processing of information by computer. Computer logic, memory, input/output processing, and programming in the 'C' language.\nStudents may not receive credit for both the INFO.2110/INFO.2120 sequence and INFO.2670. 3 credit(s).\nPrerequisite: No previous programming experience\nrequired.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2120": {
+        "name": "INFO.2120 Introduction to Programming with C - Part II (Formerly 90.212)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2120/",
+        "id": "007951",
+        "description": "Serves as a continuation of INFO.2110. Additional topics will include pointers, dynamic memory allocation, file handling techniques and libraries. Students may not receive credit for both the INFO.2110/INFO.2120 sequence and INFO.2670.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2200": {
+        "name": "INFO.2200 Visual Basic (Formerly 90.220)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2200/",
+        "id": "007954",
+        "description": "This course will focus on developing Windows-based programs using the Visual Basic programming environment. Topics covered will include the use of text boxes, labels, scroll bars, menus, buttons, and the Windows applications. Students should be familiar with the Windows environment and with at least one programming language prior to taking this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2250": {
+        "name": "INFO.2250 Survey of Programming Languages (Formerly 90.225)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2250/",
+        "id": "036272",
+        "description": "Introduces students to various topics in Information Technology to provide an overview of what is available and used in the technology world today.  Topics include Functional, Object Oriented, and Scripting languages (C, C++/Java, C#, Perl/Python, Shell), Database Management Technologies, (SQL, Oracle, MySQL), Web Server deployment options (UNIX, LINUX, Apache, ASP.net) and Web Site Design and Development (JavaScript, AJAX, XML, HTML).  Students should have a working knowledge of at least one high-level programming language.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2260": {
+        "name": "INFO.2260 Intro to Blockchain Technology and Applications",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2260/",
+        "id": "041589",
+        "description": "Blockchain is an emerging technology that can radically improve security in banking, supply chain, and other transaction networks. This course explores the fundamentals and applications of blockchain technology. Students will learn about the decentralized peer-to -peer network, distributed ledger, and trust model that define blockchain technology. We will examine the basic components of blockchain, its operations, underlying algorithms, and the essentials of trust. By the end of the course, students will understand the inner workings and applications of this disruptive technology and its potential impact on all aspects of the business world and society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "INFO.1600 Intro to Information Systems, or equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.1600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.2300": {
+        "name": "INFO.2300 Introduction to Multimedia (Formerly 90.230)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2300/",
+        "id": "007956",
+        "description": "Provides participants with an overview of multimedia and its professional applications in training, education, marketing, and entertainment. Scanning images, digitizing video and audio, and exploring the design and production of interactive multimedia are the focus of this class. Includes technical/hardware considerations and production procedures pertinent to interactive multimedia.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2310": {
+        "name": "INFO.2310 Graphics for Multimedia and the World Wide Web (Formerly 90.231)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2310/",
+        "id": "007957",
+        "description": "The focus of this class is on the basic components of shape, color, texture, typography, and images as they are applied to multimedia and web interface design. Other topics covered include scanning, image editing, resolution and color palettes. Students will work on projects that integrate elements such as buttons, navigation bars, and background images to communicate creative visual information. Photoshop will be used.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2320L": {
+        "name": "INFO.2320L Desktop Video Production (Formerly 90.232)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2320L/",
+        "id": "007958",
+        "description": "This course will focus on introductory desktop video production techniques.  Using desktop editing software, students will complete projects including photo montages, interview sequences, storyboarding, pre-production planning and a five minute final project.  Some experience with PhotoShop or similar software and access to a digital still camera or scanner is helpful for success in this course.\nPrerequisite: 90.230",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2380": {
+        "name": "INFO.2380 Website Development (Formerly 90.238)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2380/",
+        "id": "007963",
+        "description": "This course focuses on the design, development, and implementation of websites using available visual development tools. Each participant will design, build, and maintain their own websites. Topics covered include: basic navigational structure; page layout incorporating tables and frames; graphical design and placement; image maps; streaming audio and video; and basic website administration.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2460L": {
+        "name": "INFO.2460L Active Server Pages . NET (Formerly 90.246)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2460L/",
+        "id": "007968",
+        "description": "With more data online, the web interface is becoming the primary tool for serving up databases in the enterprise and on the Internet. Topics covered include: what is ASP.NET; server-side scripting; Web Forms; validation, file I/O; database access components; basic SQL commands; and debugging techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2470": {
+        "name": "INFO.2470 Web Authoring (Formerly 90.247)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2470/",
+        "id": "007969",
+        "description": "This course will demonstrate how to use web authoring applications to create cutting-edge interface, navigation, and streaming animation.  Using open standard vector formatting, you can create interactive capabilities on the web similar to CD-ROM screens.  Learn how to use drawing tools to create websites that include sound, clickable buttons, interactivity, and exciting animations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2480": {
+        "name": "INFO.2480 Website Database Implementation (Formerly 90.248)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2480/",
+        "id": "033120",
+        "description": "It is almost impossible to think about creating any sort of modern web site or application without the use of databases and at least a cursory knowledge of how they work. Almost everything online uses a database at some level whether it is an ultra-complex system such as Facebook or Amazon.com, a prepackaged tool such as Drupal or Wordpress, or a relatively simple site which requires a log on to gain access to some content. This course is designed to provide a straightforward but comprehensive overview of what these systems are, how they work, and how they can be incorporated into your projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2500": {
+        "name": "INFO.2500 E-Commerce (Formerly 90.250)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2500/",
+        "id": "007971",
+        "description": "Today, e-commerce has become the platform for media and new, unique services and capabilities driven by Internet technology, including developments in security and payment systems, marketing strategies and advertising, financial applications, media distribution, business-to-business trade, and retail e-commerce. This course provides an in-depth overview of the challenges and realities behind the planning, creation and maintenance of online businesses. While this curriculum doesn't include creating an online business directly, each student will learn what options are available to entrepreneurs looking to start a business online and what challenges and pitfalls may await. Students will learn about the mobile digital platform, the emergence of cloud computing, new open source software tools.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2670": {
+        "name": "INFO.2670 C Programming (Formerly 90.267)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2670/",
+        "id": "007974",
+        "description": "Introduces students to the techniques of programming in C. The language syntax, semantics, its applications, and the portable library are covered. This course is an introductory course in programming. It does not assume previous programming experience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2680": {
+        "name": "INFO.2680 C++ Programming (Formerly 90.268)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2680/",
+        "id": "007975",
+        "description": "This course will cover the C++ language and show the student how to use the language. We will cover class construction, operator overloading, virtual functions, templates, and introduce the student to the IO streams. Inheritance and its use in creating extendible libraries will be presented. Object-oriented concepts will be presented in the context of the C++ language and its support for object-oriented programming.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2700": {
+        "name": "INFO.2700 Visual C++.NET(Formerly 90.270)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2700/",
+        "id": "007977",
+        "description": "This course introduces students  to Windows programming.  Students learn how to create a Windows application using both native and managed code.  Native programing which allows us to create fast applications and managed code which is core of the .NET is compared and contrasted throughout the course.\n\nCourse topics and hands-on exercises will cover: creating variety of windows, internet programming, creating Web services, using and creating databases and database programming and database connectivity, multithreaded programming, dynamic link libraries (dlls).  Course will discuss interoperability with other languages (C# and VB) and with other software.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2710": {
+        "name": "INFO.2710 C# Programming (Formerly 90.271)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2710/",
+        "id": "007978",
+        "description": "In this course, we will explore the C# language paradigm. Our goal will be to understand the basic language syntax from its type system to its class structure. We will begin with topics on Classes, interfaces, methods, enumeration's, and access modifiers. Once we have mastered the fundamentals, we will extend our knowledge in areas such as the use of delegates, events, lambda expressions and exception handling.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2750": {
+        "name": "INFO.2750 Introduction to Networking",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2750/",
+        "id": "042295",
+        "description": "This course will provide a general understanding of the theoretical and practical aspects of data and computer communications. It will introduce principles of computer networks, with a special focus on the Internet architecture and protocols. Topics include layered network architectures, network topologies, addressing, naming, forwarding, routing, etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2785": {
+        "name": "INFO.2785 Introduction to Operating Systems",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2785/",
+        "id": "042270",
+        "description": "This course introduces and develops the major components of operating systems, including the process and thread abstractions, concurrency and synchronization mechanisms, deadlock management strategies, processor allocation, memory management, I/O device and file management, and system virtualization. The course also presents techniques for operating system design, implementation, and evaluation. The principal demonstration system will be Linux, and several system utilities will be introduced to highlight the functional deployment of the core OS issues discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "INFO.1600 Introduction to Information Systems, and INFO.2670 C Programming.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.1600"
+                ],
+                [
+                    "INFO.2670"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.2810": {
+        "name": "INFO.2810 Introduction to the Internet of Things",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2810/",
+        "id": "041177",
+        "description": "This course explores many aspects of The Internet of Things (IoT), including foundations, architectures, components, applications, and challenges. Students will learn about the advantages of IoT, Fog Computing, and the use of Al and Blockchain Technologies in IoT. The future of IoT will be examined. Real-world examples and cases, such as smart homes, smart cars, and smart cities will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2820": {
+        "name": "INFO.2820 Python Programming",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2820/",
+        "id": "041472",
+        "description": "This course introduces the fundamentals of Python including data types, expressions, control structures, file input and output, lists, dictionaries, functions, object oriented program design, simple graphics development, and the development of Graphical User Interfaces (GUIs) in Python. Students will problem solve, explore real-world software development challenges, and create practical and contemporary applications. This course assumes previous programming experience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "INFO.2030 Introduction to Programming with Python, or INFO.2110 Introduction to Programming with C, or INFO.2670 C Programming.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.2030",
+                    "INFO.2110",
+                    "INFO.2670"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.2910": {
+        "name": "INFO.2910 Introduction to HTML (Formerly 90.291)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2910/",
+        "id": "007980",
+        "description": "This course is designed to teach you how to code cutting-edge web pages using the new HTML5 tags; We will introduce you to HTML5 web forms, and explain how to use them; We'll discover how to add multimedia content and how to use the Canvas element to draw shapes complete with fills, color strokes, gradients, and more; You'll learn how to combine the powerful styling and animation capabilities of CCS3 to enhance your web pages, and work with the technologies of HTML5 to make building web applications easier than ever.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2920": {
+        "name": "INFO.2920 Advanced DHTML (Formerly 90.292)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2920/",
+        "id": "007981",
+        "description": "A continuation of the introductory course, this course focuses on properties of Cascading Style Sheets and using them with JavaScript to create Dynamic HTML. The student is required to know basic HTML before enrolling in this class. The Document Object Model (DOM) for IE is covered in depth.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2950": {
+        "name": "INFO.2950 Principles of Information Security (Formerly 90.385 & INFO.3850)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2950/",
+        "id": "008009",
+        "description": "This course will present an overview of the issues related to information security from a computer and computer network perspective. We will cover the threats to the information security infrastructure with a focus on the detection and prevention of them. We will discuss protection of PCs, servers, associated computer services (e.g. network, browsers) and data (e.g. file systems, email) through a \"defense in depth\" or \"layered\" and most recent \"Zero Trust\" approach. Topics will include security management and risk assessment; software security; operating systems security; database security; cryptography algorithms and protocols; network authentication and secure network applications; malicious malware. This course will also help understanding legal, ethical issues and privacy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.2970": {
+        "name": "INFO.2970 Introduction to Java Programming (Formerly 90.297)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/2970/",
+        "id": "007982",
+        "description": "This course introduces students to object oriented programming with Java(TM). Basic concepts are introduced early, with a strong focus on classes. Additional topics include event driven (Windows) programming and object-oriented design. Note that this is not an introductory course to programming - Students are expected to have a working knowledge of a least one high-level programming and/or scripting language (or equivalent experience) and basic familiarity with programming (using a text editor, etc). However, it will teach some basic programming concepts during the first few weeks. Previous programming experience required. Requires the Sun Java(TM) Development Kit.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3010": {
+        "name": "INFO.3010 JAVA Programming (Formerly 90.301)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3010/",
+        "id": "007984",
+        "description": "The JAVA (TM) programming language is now being used to write distributed Internet applications. Unlike traditional languages, the JAVA (TM) language was designed to be used on a network. Thus, it contains features needed to build efficient distributed applications that employ Internet resources. Those who intend to design World Wide Web information systems that fully utilize the Internet must have a working knowledge of this vital technology. This course allows students to explore features that set JAVA (TM) apart from traditional programming languages; obtain an overview of object-oriented design as it applies to JAVA (TM); learn about the fundamental constructs of the JAVA (TM) programming language; and write, compile, and include simple JAVA (TM) Applets within the content of HTML documents.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3020": {
+        "name": "INFO.3020 JavaScript (Formerly 90.302)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3020/",
+        "id": "007985",
+        "description": "An introductory course designed for the student who has mastered HTML and would like to add interactivity to his or her web sites. Topics covered include basic JavaScript programming, creating interactive forms, using frames and cookies, working with graphics and multimedia. Students will incorporate various JavaScript programs to their existing website.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3030": {
+        "name": "INFO.3030 Advanced Java Programming (Formerly 90.303)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3030/",
+        "id": "007986",
+        "description": "Java is one of the mostly widely used languages for all kinds of software development. It continues to play a dominant role in Internet application development. It is well suited for developing applications for the enterprise, and in particular, client server solutions such as web applications. This course will cover the advanced aspects of the Java programming language which are required for successful development of sophisticated applications. Topics covered in this class include: effective use of the Java language, annotations, database connectivity (JDBC) and relational mapping, XML processing (JAXB), generics, multithreading, network programming, Java Server Pages (JSP) and servlets, Design Pattern, and building and testing Java programs. Java 8 features will be introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "INFO.3010 Java Programming, Previous Java Experience with consent of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.3040": {
+        "name": "INFO.3040 Introduction to Java Web Development (Formerly 90.304)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3040/",
+        "id": "035771",
+        "description": "This course will introduce Java/Java Script, Java Server Face (JSF), Java Serverlet Page (JSP) Web development. Students will utilize a Windows-based development platform configured with java JDK, JBoss Application Server and Eclipse IDE. Fundamentals of Java and object-oriented programming using the Model View Controller (MVC) web application and application server architectures, Enterprise Java Beans (EJB) and Asynchronous Java Script and XML (AJAX) programming technologies will be examined. Students will also learn core skills in personalizing websites using sessions, leveraging reusable components, use of JSP tags and development of embedded Java/Java script code into HTML to build interactive web pages. Prerequisite: INFO.2970.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3050": {
+        "name": "INFO.3050 Survey of Perl/Python/PHP (Formerly 90.305)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3050/",
+        "id": "007987",
+        "description": "The goal of this course is to provide an in-depth introduction to the Python programming language followed by an introduction to both the Perl and PHP.  All of these languages share common functionality and are tools commonly used to solve similar problems, but each embodies a different philosophy and approach to solving those problems.  After a thorough grounding in the language's basics, we'll explore their similarities, and, more importantly, their differences.  By the end of the course, its' hoped, you'll have a good idea which of these tools is right for you and the kind of applications you wish to develop with them.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3060": {
+        "name": "INFO.3060 Introduction to XML (Formerly 90.306)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3060/",
+        "id": "007988",
+        "description": "XML (eXtensible Markup Language) picks up where HTML leaves off. If you've studied HTML, you've learned the Web's formatting language. To structure content on the Web, you will need to learn XML. In this introductory course, you will learn basics of XML and the DTD (Document Type Definition), XSL (the style sheet for XML), and CDF (Channel Definition Format) commonly used in push technology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3070": {
+        "name": "INFO.3070 Introduction to Cloud Computing",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3070/",
+        "id": "041469",
+        "description": "This course explores the services offered by major cloud services providers: Amazon, Google, and Microsoft. It introduces the core concepts of Cloud Computing with an overview of services these platforms offer. The course gives a cost-benefit analysis in comparison to more traditional models along with a detailed comparison of the providers. Event Driven Serverless Architecture and FAAS (Function As A Service) is presented with a hands-on coding exercises of creating students' own RESTful endpoints that cal non-trivial functions (AWS Lambdas/Cloud Functions) that communicate with an RDS (relational database systems). The role and importance \"DevOps\" is made apparent with the introduction of such tools as Ansible, Terraform and CloudFormation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3080": {
+        "name": "INFO.3080 Agile Software Development with Java (Formerly 90.308)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3080/",
+        "id": "037837",
+        "description": "In this advanced programming course students will use Java to take a \"deep dive\" into the trickier and more subtle aspects of computer programming. This course builds upon the principles and concepts learned in previous computer programming courses allowing students to hone their programming skills while being introduced to professional software development best practices and current trends in software development methodologies, such as Agile. Using a test driven approach some topics to be explored include unit testing, object oriented software design patterns, testing design patterns, iterative development and how to write robust error handling code. The class focus will be on learning the lessons in what is considered to be the most important Java book written - Effective Java Programming by Joshua Bloch. Aspects of Agile including XP programming, as described in Extreme programming explained by Kent Beck, will be explored and the class will draw on lessons form Kent Beck's book: Test Driven Development as well as additional reading material Students will reinforce the skills learned through a series of short programming assignments with the goal of each being the illumination of a particular concept or best practice, combined with selected readings. A robust online discussion and debate about these topics will be encouraged. After successful completion of this course the student will know how to better design and structure code so that it works better, is easier to maintain, and can be more easily understood by others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "90.301 Java Programming/Windows.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3110": {
+        "name": "INFO.3110 Introduction to the Linux/Unix Operating System (Formerly 90.311)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3110/",
+        "id": "007990",
+        "description": "Addresses manipulating and maintaining files within the UNIX file system; creating and editing text files using the vi and ed editors; using pipes, redirection, and filters; using advanced text processing utilities; using electronic mail; writing and debugging shell scripts; submitting and executing processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3120": {
+        "name": "INFO.3120 Shell Scripting (Formerly 90.312)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3120/",
+        "id": "007991",
+        "description": "Teaches the students the techniques of programming in the high-level programming language of the Bourne, Korn, and BASH Shells.   The course covers the building blocks necessary to create portable shell scripts that can be used as new utilities for computers running either UNIX, Linux, or the Cygwin environment on Windows.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3130": {
+        "name": "INFO.3130 Linux/Unix Internals Overview (Formerly 90.313)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3130/",
+        "id": "007992",
+        "description": "Focuses on the fundamentals of UNIX kernel architectures. Topics covered in this course are: the file system, process creation, signals, process scheduling, context switching, memory management, virtual memory device driver basics and the I/O subsystem, system boot, the init process.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3160": {
+        "name": "INFO.3160 UNIX System Administration (Formerly 90.316)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3160/",
+        "id": "007993",
+        "description": "Addresses the fundamentals necessary to set up/adjust a UNIX system to produce an efficient and secure operating system environment. System starting and shutdown, file system partitioning and maintenance, user and group administration, backup and recovery, setting up terminals, printers and communications devices are topics which will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3180": {
+        "name": "INFO.3180 Advanced UNIX Internals/Tuning (Formerly 90.318)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3180/",
+        "id": "033341",
+        "description": "This course provides an overview of performance and tuning principles and tools in the UNIX operating system.  The course covers principles of performance analysis and usage of performance measurement tools, such as sar, iostat, and nfsstat.  Coverage is given on how to identify memory, I/O, and CPU bottlenecks, and it tives recommended solutions.  Since knowledge of several of the major OS kernal subsystems is required to understand the information provided by the performance monitoring tools, the course provides an in-depth view of the operating system's major kernel subsystems.  These include virtual memory system, process lifetime cycles and scheduling and the UNIX file system.  The course will describe the kernel subsystems of a typical UNIX operating system and as needed, add the differences between the different flavors of UNIX, such as BSD and SYSTEM V.  The course will also include some simple rules of thumb to guide the tuning process.\nPre-requisite: 90.313",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3190": {
+        "name": "INFO.3190 Introduction to Linux (Formerly 90.319)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3190/",
+        "id": "007994",
+        "description": "Course addresses management of the Linux file system and utilities; file editing; file permissions; pipes, redirection, and filters; text handling utilities; mail facility; BASH shell, variables, and basic scripts; process management; and shell programming basics. Course content mirrors 90.311 but focuses on usage of Linux as an alternative UNIX-based operating system. Students will be exposed to Linux principles through hands-on labwork utilizing a Linux server.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3210": {
+        "name": "INFO.3210 Linux/Unix System Administration (Formerly 90.321)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3210/",
+        "id": "007996",
+        "description": "The course will start by exploring the booting and setting up stand-alone system. Students will learn how to set up and manage user accounts, how to manage other resources such as disk space, CPU usage and user access to shared resources with maximization of security in mind.  Since virtually all systems are networked today we will proceed to learn about e-mail (POP and SMTP protocols), Web servers and networking services.  The course will present the following Internet services: DNS, FTP, telnet, HTTP (Apache Web Server), SSH.  The intranet topics will be discussed including Network File System (NFS), Network Information Services (NIS) and interoperability with Windows system via Samba. At the conclusion of the course students will explore topics in networking: network configuration, security and interoperability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3460": {
+        "name": "INFO.3460 Digital Media Delivery (Formerly 90.346)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3460/",
+        "id": "035587",
+        "description": "Focused on the delivery of digital media, this course will explore digital media formats, file types, hardware and transmission methods.  Students will gain an understanding of current delivery systems, the growth of the industry, and emerging technology and trends.  Each student will examine the theory behind digital content, how it is delivered via the internet and in local environments, and what are the inhibiting factors to integrating digital content within web pages.  Students will be responsible for several digital media projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.3600": {
+        "name": "INFO.3600 Intro. to Data Structures with C (Formerly 90.360)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3600/",
+        "id": "008003",
+        "description": "This course introduces students to the fundamental concepts of data structures such as stacks, queues, linear and linked lists, trees, graphs, hashing, etc., using the C programming language. Algorithms for manipulating these structures, such as sorting and searching techniques, will also be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "INFO 2670 C Programming or INFO 2120 Intro to Programming with C- part II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.2670",
+                    "INFO.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.3640": {
+        "name": "INFO.3640 Problem Solving with C (Formerly 90.364)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/3640/",
+        "id": "008004",
+        "description": "Intended as a practical problem-solving course, to give students further exposure to the topics covered in 90.267 and to provide the tools needed for software development. The course emphasizes these aspects of the programming problem-solving process: problem specification and organization; algorithms, coding, debugging; the elements of good programming style; and the means of producing a high-quality finished product. Programming examples are chosen to span a wide range of both numeric and nonnumeric applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4430": {
+        "name": "INFO.4430 Introduction to Client/Server Computing (Formerly 90.443)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4430/",
+        "id": "008015",
+        "description": "An overview of what Client/Server is all about. The course will introduce the six leading technologies for developing Client/Server applications: database servers, TP (Transaction Processing) Monitors, middleware, groupware, distributed objects, and the Internet.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4490": {
+        "name": "INFO.4490 Oracle 11g Forms and Reports (Formerly 90.449)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4490/",
+        "id": "008020",
+        "description": "Oracle 11g forms/reports skills are essential for Oracle developers and are in high demand in today's competitive market.  Usng Oracle 11g development technology, students are provided a visual development environment to enable creation of sophisticated and user-friendly forms utilizing our state-of-the-art Oracle laboratory facility.  The course is designed to instruct students to learn development of professional forms, reports, and graphs to address today's complex user requirements.  The course further prepares students through the building of forms/reports templates, reusable components, form triggers, procedures, and integration, application debugging techniques and an introduction to the use of libraries.    Students will also create tabular, master-detail, matrix and summary reports using the lab's Oracle 11g database.  Exposure to the use of oracle 10g Forms/Reports server data block and layout wizards in addition to traditional use of PL/SQL for report and forms generation will also be introduced.\nPrerequisite: 90.459 or related experience.\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4500": {
+        "name": "INFO.4500 Database Administration I: Introduction to Oracle 11g (Formerly 90.450)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4500/",
+        "id": "008021",
+        "description": "This course is designed to give the student an in-depth review of the Oracle DBMS architecture and physical components. The student is also introduced to common DBA skills to set up, maintain, and troubleshoot an Oracle 11g database. Students learn to leverage the 11g architecture to build and  configure databases, manage database objects and logical/phsical storage, configuration of Oracle processes and memory, manage user accounts, privileges and roles, and backup recovery strategy.  Students also learn database organization  including a comprehensive examination of Oracle's data dictionary, space management, table and index segments, undo and rollback segments, logical and physical block sizing, and key dynamic and static parameter files.  Progessive hands-on labs utilizing the  latest release of Oracle 11g Enterprise Server reinforces key concepts learned.  Successful comletion of this course prepares students for the Oracle Database Administration I certification exam and also qualifies as an oracle 10g DBA OCP Hands-On Approved Course.\nPrerequisite: None.\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4530": {
+        "name": "INFO.4530 Database Administration II:  Advanced Oracle 11g (Formerly 90.453)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4530/",
+        "id": "008024",
+        "description": "Building upon the skills students learned in Database Administration I, this course focuses on advanced concepts of managing enterprise-scale Oracle 11g databases. Students are introduced to advanced concepts used to analyze, troubleshoot, and resolve performance, backup and recovery, and configuration-related problems.  Students closely examine Oracle 11g diagnostic, resource and data protection methodologies including interrogating dynamic and static system views, alert log, thresholds and traces, 11g flashback of critical/non-critical data, 11g automatic storage management, 11g automatic shared memory tuning, and 11g data pump import and export utilities.  Students will also utilize the 11g Enterprise Manager Database and Grid Control web-based interface to perform advanced database maintenance and configuration  Successful completion of this course prepares students for the Oracle Database Administration II certification exam and also qualifies as an oracle 11g DBA OCP Hands-On Approved Course.\nPrerequisite: 90.450 or related experience.\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4540": {
+        "name": "INFO.4540 Oracle 11g SQL Development (Formerly 90.454)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4540/",
+        "id": "008025",
+        "description": "This course provides students a practical, hands-on approach to working with the SQL language.  Students will learn how to create and maintain database objects such as tables and indexes as well as to store, retrieve, and manipulate data on a host server.  Students are introduced to simple and complex queries using standard SQL.  Instructor-led hands-on labs utilizing Oracle's 11g Enterprise Database server will reinforce concepts learned throughout the course.  This course will aid students in preparation for the Oracle Database Administration I certification exam and also qualifies as an Oracle's 11g DBA OCP Hands-On Approved Course.\nPrerequisite: None\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4550": {
+        "name": "INFO.4550 Database Administration III: Oracle 11g Projects (Formerly 90.455)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4550/",
+        "id": "008026",
+        "description": "Designed as a capstone course, students will build upon concepts learned in both Oracle Database Administration I and II.  This course focuses on extensive\nhands- on skills building to enable students to gain practical Oracle Database Administration experience.  Utilizing the latest release of Oracle 11g Enterprise Server, students hone their Oracle skills through problem analysis, troubleshooting, and performance and configuration resolutions in a variety of common 'real world' scenarios.  Delivered completely via lab-based projects, primary focus is on identification and resolution of common problems involving server and database configuration, database performance, backup/recovery, and networking.   This course documents student skills in preparation for employment as an Oracle Database Administrator as well as prepares students to sit for Oracle's Certified Master (OCM) hands-on lab.\nPrerequisite: 90.450 and 90.453, or instructor permission.\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4570": {
+        "name": "INFO.4570 Network Security (Formerly 90.457)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4570/",
+        "id": "008028",
+        "description": "This course explores the theory, mechanisms, and implementation of security in computer networks. Our goal is to provide an introduction to mathematical encryption and security protocols, and how these are applied to the infrastructure of IP (Internet Protocol) Networks. We will cover classical ciphers and cryptographic methods such as DES, 3DES, Feistel, AES, RC5, and Modern Public Key cryptography (e.g.RSA, Diffie-Hellman, ECC) and PKI ( Public Key Infrastructure). The second half of the course will introduce the principles and implementation of Kerberos, SSL/TLS (Secured Socket Layer, Transport Layer Security) IPSEC (IP Security) and Access Control. The mathematics required will be introduced in class.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Prerequisite 1: INFO 4620 TCP/IP & Network Architecture or related exp., and Prerequisite 2: INFO 3190 Intro to Linux, or INFO 3110 Intro to the Linux/Unix Operating System, or related experience. Check prerequisites in all prerequisite courses.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.4620"
+                ],
+                [
+                    "INFO.3190",
+                    "INFO.3110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.4590": {
+        "name": "INFO.4590 PL/SQL I: Introduction to Oracle 11g PL/SQL (Formerly 90.459)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4590/",
+        "id": "008030",
+        "description": "This course will introduce students to the basics of PL/SQL subprograms. Students will learn how to write and invoke PL/SQL procedures, functions and packages. Using Oracle's 11g Enterprise  Database Server, students will engage in hands-on lab work in both Oracle's Procedure Builder and SQL*Plus environments. Students will learn how to create and manage PL/SQL program units, database triggers, and common Oracle-supplied packages.  This course will aid students in preparation for certification as an Oracle PL/SQL Developer Certified Associate and also qualifies as an Oracle's 11g DBA OCP Hands-On Approved Course.\nPrerequisite: None\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4600": {
+        "name": "INFO.4600 Computer Ethics (Formerly 90.460)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4600/",
+        "id": "008031",
+        "description": "This course is an introduction to the major issues surrounding the use of computers in our society,  with a special focus on fields related to computer science and information technology management. The course will cover an analysis of major trends in emerging computer technology and their potential effects on work, leisure, government, and human relations. Students will examine the assumptions which underlie our culture's relation to technology and the relation between their own ethics and the values and ethics implicit in our uses of technology and information.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4610": {
+        "name": "INFO.4610 LAN/WAN Technologies (Formerly 90.461)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4610/",
+        "id": "008032",
+        "description": "This course discusses basic data communication concepts; digital and analog signaling; media and cabling systems; the OSI reference model; Physical and Data Link layer; LAN standards; Ethernet, Token Ring, FDDI, Switched technologies, emerging LAN standards; Bridges and Routers; and Network operating systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4620": {
+        "name": "INFO.4620 TCP/IP and Network Architecture (Formerly 90.462)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4620/",
+        "id": "008033",
+        "description": "This course is study of the TCP/IP and Network Architecture. We will focus on the concepts and fundamental principles that have contributed to the modern networks design and implementation using TCP/IP. Topics to be addressed in this course are IP, ARP, RARP, and ICMP protocols; IP routing; TCP protocol; Telenet, FTP, SMTP; TCP/IP next-generation; OSI network protocols and standards; Client/Server networking and applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4640": {
+        "name": "INFO.4640 Network Management (Formerly 90.464)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4640/",
+        "id": "008035",
+        "description": "This course will provide you with a general understanding of the theoretical and practical aspects of network management. We will be covering the basics of network management and associated standards while also taking a look at some of the more recent technologies. We'll also augment the textbook readings with recent articles and papers that will pull real-world examples of how network management is used to help manage the ever increasing complexity of networks that we are so reliant on.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4660": {
+        "name": "INFO.4660 Oracle 11g Data Warehousing (Formerly 90.466)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4660/",
+        "id": "032007",
+        "description": "This course introduces students to the fundamentals of Data Warehousing.  Upon completion, students should be able to guide a Data Warehousing project and avoid common pitfalls of implementation.  The  course provides an overview of the topic, comparing and contrasting it to other data management techniques to define how it is implemented and used.  The course then drills into the topics that make up a  data warehouse:  Dimensions, Hierarchies, Facts/Cues, Data Marks and Summary (OLAP) techniques, and ETL.  Throughout the course, attention will be given to life-cycle concerns.   Case studies of several functional areas will be covered to illustrate particular patterns or techniques.  Students will build models utilizing the Oracle 10g database platform.\nPrerequisite: None\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4670": {
+        "name": "INFO.4670 PL/SQL II: Advanced Oracle 11g PL/SQL (Formerly 90.467)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4670/",
+        "id": "032008",
+        "description": "This course introduces students to advanced features of PL/SQL used to design and interface with the Oracle 11g database.  Students learn the benefits of Oracle 11g powerful extended PL/SQL functionality by exploring and utilizing advanced Oracle-supplied packages, procedures, REF cursors, extended interface methods, PL/SQL block debugging, case statement flows, bulk binds, code tuning considerations, and advanced object types.  Students will engage in hands-on lab work using advanced techniques learned throughout the course to design PL/SQL applications that solve today's most complex business problems.  This course will aid students in preparation for certification as an Oracle PL/SQL Developer Certified Associate.\nPrerequisite: 90.459\nCredits: 3.0",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4690": {
+        "name": "INFO.4690 Oracle 11gR2 High Performance and Internals (Formerly 90.469)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4690/",
+        "id": "037549",
+        "description": "In this course, students will learn how to use Oracle Database 11g automatic tuning features such as SQL Tuning Advisor, SQL Access Advisor, SQL Monitor, Automatic Workload Repository, Automatic Database, Diagnostic Monitor, Health Monitor, and practice these tuning methods utilizing and Oracle 11gR2 Enterprise database.  The course focuses on the tuning tasks expected of a DBA: reactive tuning of SQL statements, maintaining SQL statement performance, and tuning the Oracle Database Instance components.  Various Oracle memory internals will be examined including the discovery and usage of key high performance DBMS packages and views, use of the Automatic Diagnostics Repository (ADR) interface, Cost-based optimizer statistics, and memory management, Throughout the course, students practice the art of tuning and internals using an Oracle 11gR2 Enterprise RDBMS through a series of weekly lectures, group discussions and hands-on lab workshops.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: INFO 4500 Database Admin I: Oracle 10g and INFO 4530 Dtbase Admn II: Adv Oracle 10g.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.4500"
+                ],
+                [
+                    "INFO.4530"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.4740": {
+        "name": "INFO.4740 Relational Database Concepts (Formerly 90.474)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4740/",
+        "id": "008037",
+        "description": "Introduces database directives, design elements of databases, architectures, and commercial databases. Students will participate in design of a large-scale database application and administration of this database.\nPrerequisite; 90.267",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4770": {
+        "name": "INFO.4770 Project Based Information Systems - Part I (Formerly 90.477)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4770/",
+        "id": "008039",
+        "description": "This course serves as an introduction to Management Information Systems (MIS), emphasizing information needs at various management levels, including problem finding as well as problem solving. The course highlights the use of real time, distributed data processing, decision support and expert systems in the decision-making process of today's business. The student will understand how the use of different hardware and software can answer a wide range of 'what if' questions, crucial in today's planning function.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4780": {
+        "name": "INFO.4780 Project Based Information Systems - Part II (Formerly 90.478)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4780/",
+        "id": "008040",
+        "description": "Serves as a continuation of INFO.4770, stressing the systems approach of MIS, focusing on methodologies used and the control over MIS as it relates to other business areas. Case studies are used to unify preceding topics as they relate to corporate planning, marketing, manufacturing, accounting, finance and personnel subsystems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "INFO.4770 Information Systems l.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "INFO.4770"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "INFO.4790": {
+        "name": "INFO.4790 Oracle 12i Applications DBA (Formerly 90.479)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4790/",
+        "id": "008041",
+        "description": "Building on the fundamentals of database technology learned in 90.450 and 90.453, this course focuses on Oracle DBA roles and responsibilities in an Oracle 12i applications environment.  The course closely examines the oracle I2i database architecture focusing on Oracle I2i database software installation,  capacity planning, database configuration, database tuning, and upgrade and patching maintenance.  Students are exposed to I2i-specific tools such as the Concurrent Manager and Enterprise Manager Console.   The course also reviews Oracle I2i application modules used in typical implementations to meet today's business requirements.  \nPrerequisites: 90.450, 90.453",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4800": {
+        "name": "INFO.4800 Project-Based Information Systems (Formerly 90.480)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4800/",
+        "id": "008042",
+        "description": "This course looks at information systems from the perspective of corporate management, rather than at a technical or programming level. It emphasizes how managers can successfully understand and use information systems in order to better realize company objectives, such as the revenue maximization, cost reduction, customer satisfaction, etc.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "Level Junior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4910": {
+        "name": "INFO.4910 Directed Study in Information Technology (Formerly 90.491)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4910/",
+        "id": "036422",
+        "description": "The student; through regular and frequent consultation with an instructor, develops a course of  directed reading in information technology and defines a problem or individual research.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "INFO.4960": {
+        "name": "INFO.4960 Practicum Experience in Information Technology (Formerly 90.496)",
+        "url": "https://www.uml.edu/catalog/courses/INFO/4960/",
+        "id": "008051",
+        "description": "Specific requirements may vary but this course enables its majors to work and study in a variety of areas related to information technology.  Students have regular contact with the designated instructor to discuss/present their experiences and to enhance their learning in the IT field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

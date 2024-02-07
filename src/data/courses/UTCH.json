@@ -1,0 +1,221 @@
+{
+    "total": 11,
+    "time": 10.678547382354736,
+    "UTCH.1010": {
+        "name": "UTCH.1010 STEP 1: Inquiry Approaches to Teaching (Formerly UTL.101)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/1010/",
+        "id": "037449",
+        "description": "This course provides students with an introduction to teaching in order for them to explore a career as a middle or high school math or science teacher. During the courses, students pairs teach math and/or science lessons in a local elementary school classroom and receive feedback from a mentor teacher. Additionally, students are introduced to the theory and practice that is necessary to design and deliver excellent instruction. This course is the first step for those students interested in exploring the STEM TEACHING MINOR with UTeach UMass Lowell.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Math, Science & Engineering Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UTCH.1020": {
+        "name": "UTCH.1020 STEP 2: Inquiry Based Lesson Design (Formerly UTL.102)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/1020/",
+        "id": "037450",
+        "description": "Students who are exploring teaching as a career become familiar with the middle school setting by observing and discussing the middle school environment, and by teaching several lessons in a middle school classroom. They build upon and practice lesson design skills that were developed in Step 1 and also become familiar with excellent science and mathematics curricula for the middle school setting.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-req UTCH.1010 Step1: Inquiry Approach Teach., Math, Science and Engineering Majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "UTCH.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "UTCH.1030": {
+        "name": "UTCH.1030 Exploring Teaching and Learning in STEM",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/1030/",
+        "id": "039812",
+        "description": "This is an experiential learning course that also allows students to explore teaching and learning in a STEM content area. Students plan and teach inquiry-based science, math, technology, or engineering lessons, collect data on students' learning, and determine how they could make adjustments to improve the learning gains of students in a middle school classroom.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Math, Science & Engineering Majors only. This course is a prerequisite to the STEM Teaching minor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UTCH.2010": {
+        "name": "UTCH.2010 Knowing and Learning in Math and Science (Formerly UTL.201)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/2010/",
+        "id": "037642",
+        "description": "The course starts by imparting the understanding that there is a science to learning and by having students examine ideas of what it means for an individual to know or understand something. This course focuses on several essential questions which enable students to explore how knowing and learning are structured with specific emphasis on mathematics and science. Students will come to understand what it means to know something, how we can understand student thinking and how theories of learning inform instructional decisions; in particular students will explore the idea that learning is a social activity. Students are prompted to reflect on their own ways of looking at various ideas and concepts and to consider alternative perspectives. Students will conduct an analysis of reasoning processes through a clinical interview process, one-on-one with learners engaging in problem solving. This course is required for the STEM TEACHING MINOR.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UTCH.2020": {
+        "name": "UTCH.2020 Interactions and Equity (Formerly UTL.202)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/2020/",
+        "id": "037652",
+        "description": "This course examines the organization of instructional settings that maximize learning for all. Students will examine gender issues, cultural issues, bilingual education and learning disabilities as they impact learner success. A major portion of the course is a field experience in which students interview high school teachers, observe a high school classroom, then teach three lessons. The purpose of these experiences is to ensure that students recognize the diversity of students and their specific learning needs. This course is required for STEM TEACHING MINOR.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "UTCH.1020 Inquiry-based Lesson Design, or UTCH.1030 Introduction to STEM Teaching, and  UTCH.2010 Knowing and Learning in Math and Science, and UTCH.3020 Research Methods. For Math, Science and Engineering majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "UTCH.1020",
+                    "UTCH.1030"
+                ],
+                [
+                    "UTCH.2010"
+                ],
+                [
+                    "UTCH.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "UTCH.2040": {
+        "name": "UTCH.2040 Perspectives on Mathematics and Science (Formerly UTL.204)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/2040/",
+        "id": "037649",
+        "description": "This course examines the history and philosophy of mathematics and science.  Students will explore a selection of topics and episodes in the history of science and mathematics recognizing that many gains in knowledge have emerged through struggle, and in spite of resistance from cultural, religious and social structures.  Students will learn that ideas in science and mathematics are dynamic and that disagreement can often lead to major breakthroughs.  Students must think critically about how K-12 STEM education texts portray the history and philosophy of science and mathematics. This course is required for the STEM TEACHING MINOR.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Math, Science & Engineering Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UTCH.3010": {
+        "name": "UTCH.3010 Project-Based Instruction (Formerly UTL.301)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/3010/",
+        "id": "037650",
+        "description": "This is a key component of the Minor as it engages students in designing, implementing and employing a project-based curriculum.  Students will observe project-based learning in high schools, before creating and leading their own field-based unit.  The unit must incorporate major components of project-based learning, namely collaboration, formulating questions, making predictions, designing investigations, collecting and analyzing data, making products and sharing ideas. This course is required for the STEM TEACHING MINOR.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "UTCH.2020 Interactions and Equity, and UTCH.3020 Research Methods, and UTCH.4410 Teaching English Learners-Secondary. For Math, Science and Engineering students in the STEM Teaching Minor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "UTCH.2020"
+                ],
+                [
+                    "UTCH.3020"
+                ],
+                [
+                    "UTCH.4410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "UTCH.3020": {
+        "name": "UTCH.3020 Research Methods (Formerly UTL.302)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/3020/",
+        "id": "037651",
+        "description": "The goal of this course is to provide students with an understanding of and the ability to use tools that scientists use to solve problems.  Students will also learn how scientists communicate their findings and engage in peer-review.  Students design and carry out four independent inquiries, which they write up and present in the manner that is common in the scientific community.  Students will work in multidisciplinary teams.. The course is divided between class and lab sessions, but is primarily lab-based.  The topics of the class sessions are: Curiosity and Scientific Inquiry, Experimental Design and Analysis, Statistics, Modeling, Presenting Scientific Information.  Students conduct their inquiries, incorporate statistics to interpret their results and present their scientific work orally. This course is required for the STEM TEACHING MINOR.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "UTCH.1020 Inquiry-based Lesson Design, or UTCH.1030 Introduction to STEM Teaching. For Math, Science and Engineering majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "UTCH.1020",
+                    "UTCH.1030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "UTCH.4010": {
+        "name": "UTCH.4010 Practicum (Formerly UTL.401)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/4010/",
+        "id": "037653",
+        "description": "This is the culminating experience to the STEM Teaching Minor and must be taken for initial teacher licensure. Students are required to spend a minimum of 12 weeks (full time) teaching a STEM subject in a middle or high school classroom and attend a weekly practicum seminar. Candidates are required to have (I) completed the STEM Teaching minor, (II) passed both of the required MTEL examinations and (III) maintained a minimum overall GPA of 2.7.For MATH, Science and Engineering student in the STEM Teaching minor.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "UTCH.3010, and  UTCH.2010, and UTCH.2040, and UTCH.3020, and UTCH.4410, (Math and Computer Science Majors: must also have MATH.2100 and MATH.4270).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "UTCH.3010"
+                ],
+                [
+                    "UTCH.2010"
+                ],
+                [
+                    "UTCH.2040"
+                ],
+                [
+                    "UTCH.3020"
+                ],
+                [
+                    "UTCH.4410"
+                ],
+                [
+                    "MATH.2100"
+                ],
+                [
+                    "MATH.4270)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "UTCH.4410": {
+        "name": "UTCH.4410 Teaching Emergent Bilingual Students (Formerly 02.541 & UTL.441)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/4410/",
+        "id": "033080",
+        "description": "The purpose of this course is to prepare new secondary teacher candidates with the knowledge and skills to effectively shelter their content instruction, so that the growing population of English learners (ELs) in PK-12 schools can achieve academic success, and contribute their multilingual and multicultural resources. The course will provide aspiring teachers with practical research-based methods, strategies, and protocols to integrate subject area content, language, and literacy. Successful completion of this course provides SEI (Sheltered English Immersion) endorsement, which is required for teaching in the Commonwealth of Massachusetts. This is a service learning course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Math, Science and Engineering majors in the STEM Teaching Minor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "UTCH.4910": {
+        "name": "UTCH.4910 Directed Study (Formerly UTL.491)",
+        "url": "https://www.uml.edu/catalog/courses/UTCH/4910/",
+        "id": "039080",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

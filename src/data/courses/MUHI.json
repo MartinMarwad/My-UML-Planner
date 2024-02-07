@@ -1,0 +1,307 @@
+{
+    "total": 19,
+    "time": 14.558955192565918,
+    "MUHI.1010": {
+        "name": "MUHI.1010 European Art Music (Formerly 74.101)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/1010/",
+        "id": "007194",
+        "description": "An aural introduction to the various types of European concert music from the 18th through the 20th century. This course emphasizes aural acquaintance with literature and genre and consists of in-class listening and discussion designed to enhance the aural experience. Required of all first year music majors as a prerequisite to Music History 1 and 2.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.1020": {
+        "name": "MUHI.1020 Introduction To Non European Musics (Formerly 74.102)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/1020/",
+        "id": "007195",
+        "description": "An introduction to selected world musics from a contextual perspective which explores music as an integral part of both society and culture and its function in labor, ritual and celebration. Aspects of instrumental classification, spontaneity and improvisation, as well as elements of music as both organized sound and silence in all cultures will be considered. This includes timbre, melody, rhythm, harmony, form, and texture. Required of all first year music majors as a prerequisite to Music History 1 and 2.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.1040": {
+        "name": "MUHI.1040 Musical Practices I (Formerly 74.104)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/1040/",
+        "id": "037724",
+        "description": "Musical Practices I includes the basic study of musical elements, vocabularies, and concepts in Western musical traditions, supplemented with global perspectives.  Students will develop critical inquiry skills to study how music is experienced throughout Western culture, broadening the student's understanding of different musical structures, diverse arenas of production, while exploring professional, creative outlets for this knowledge.  At the same time common conventions of musical style will be examined which tie the Western tradition together regardless of when or where the music originated.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.1050": {
+        "name": "MUHI.1050 Musical Practices 2 (Formerly 74.105)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/1050/",
+        "id": "037725",
+        "description": "Musical Practices 2 builds upon the basic study of musical elements, vocabularies, and concepts established in Musical Practices 1, extending the exploration of these principles in more depth, with a primary focus on non-western musical traditions and cultural practices.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.2161": {
+        "name": "MUHI.2161 Music of Western Civilization: Antiquity-Mid 18th Century (Formerly 74.161/MUHI.1610)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/2161/",
+        "id": "007198",
+        "description": "Students will listen to and learn to understand Western European Art music from the earliest times through the Middle Ages, Renaissance, Baroque, and 18th-century Classical era. We will examine significant composers, forms, and styles, and explore such things as the kinds of music people sang and played, the instruments they played, how music has been used in worship and in the theater, how the historical context influenced composers' procedures and decisions, how music from several hundred years ago has influenced music of today, and why music has been on of the most enduring forms of community and culture in Europe and America. Open to non-music majors only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.2162": {
+        "name": "MUHI.2162 Music of Western Civ.: Classical Era\u00bf21st Century",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/2162/",
+        "id": "042032",
+        "description": "Overview of basic elements common to all music of Western Culture, such as melody, harmony, rhythm, timbre, and texture, followed by a survey of music from the late eighteenth-century Classical era into the 21st century. Significant forms, styles, composers, and aesthetic concepts are examined, including the music of such composers as Beethoven, Tchaikovsky, Debussy, and Stravinsky. Open to non-music majors only. Prerequisite: none.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.2610": {
+        "name": "MUHI.2610 Music History 1 (Formerly 74.261)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/2610/",
+        "id": "007203",
+        "description": "Studies sacred and secular musical forms from pre-Christianity to 1750.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Music Majors, and Minors, and Medieval & Renaissance Studies Minors.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.2620": {
+        "name": "MUHI.2620 Music History 2 (Formerly 74.262)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/2620/",
+        "id": "007204",
+        "description": "Analyzes musical forms and styles from 1750 to present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUHI 1010 European Art Music, and MUHI 1020 Intro to Non Euro Musics, or MUHI 1040 Musical Practices 1 and MUHI 1050 Musical Practices 2 and MUHI 2610 Music History I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUHI.1010"
+                ],
+                [
+                    "MUHI.1020",
+                    "MUHI.1040"
+                ],
+                [
+                    "MUHI.1050"
+                ],
+                [
+                    "MUHI.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUHI.3010": {
+        "name": "MUHI.3010 American Music (Formerly 74.301)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/3010/",
+        "id": "007206",
+        "description": "An historical, cultural and contextual survey of diverse styles of concert and vernacular music in the United States from the colonial era to the present. Open to music and non-music majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.3110": {
+        "name": "MUHI.3110 American Musical Theatre (Formerly 74.311)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/3110/",
+        "id": "007209",
+        "description": "An intensive study of the position of the American musical theater, this course examines contributions to musical thought, and traces the development of the musical style from its origins to the present through musical study and analysis, historical research, and critical interpretation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.3550": {
+        "name": "MUHI.3550 Jazz (Formerly 74.355)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/3550/",
+        "id": "007212",
+        "description": "An intense study of the history of jazz from its origins to the present, covering a wide selection of styles and schools of jazz in various ensemble configurations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.3610": {
+        "name": "MUHI.3610 History Of Opera",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/3610/",
+        "id": "007215",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.3860": {
+        "name": "MUHI.3860 History of Rock Music (Formerly 74.386)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/3860/",
+        "id": "007223",
+        "description": "Traces the roots of American popular music from its origins and influences from the earliest European song forms to American folk songs, Gospel, Country, Rhythm and Blues, Jazz, and other popular forms up through current trends as related to the development of the music industry and other socio-musical influences of the commercial song from the 1500s to the present.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.4001": {
+        "name": "MUHI.4001 Introduction to Ethnomusicology",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/4001/",
+        "id": "040222",
+        "description": "This course is designed to introduce students to the basic principles of ethnomusicology beginning with a survey of the historical development of ethnomusicological thought form the late 19th century to the present Fieldwork methodology will be examined in depth, and a final project incorporating interviews, field observation, and musical transcription will allow student to put theory into practice. Permission of Instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.4040": {
+        "name": "MUHI.4040 History of Record Production",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/4040/",
+        "id": "041181",
+        "description": "This course surveys the emergent technologies and processes of sound recording from the late 19th century to the present, specifically focusing on the techniques and styles record producers and recording engineering utilize in shaping the conception of musical sound and performance for musicians and their audiences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUHI.4560": {
+        "name": "MUHI.4560 Film Music (Formerly 74.456)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/4560/",
+        "id": "035562",
+        "description": "A study of music in sound cinema from the 1920s to the present.  The course focuses on the expressive, formal, and semiotic function that film music serves, either as sound experienced by the characters, as another layer of commentary to be heard only by the viewer, and/or some mixture of the two.  Composers to be studied include Max Steiner, Bernard Hermann, Jerry Goldsmith, John Williams, Danny Elfman, and others, as well as film scores that rely upon a range of musical styles, including classical, popular, and non-Western.\nThe singularly most important goal of the course will be to study how music functions in a given film, regardless of its musical style.  In the process, ancillary ideas will emerge including discovering how music establishes psychological moods, guides emotions, and reveals aspects of the narrative structure of the film.  By the end of the course, the student will have gained a greater understanding of both music and film and it is likely that students will never watch or listen  another movie in quite the same way.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.4950": {
+        "name": "MUHI.4950 Directed Study: Music History (Formerly 74.495)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/4950/",
+        "id": "007239",
+        "description": "Individual work under the supervision of a member of the music history faculty. May be repeated with permission of the chairperson.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.5940": {
+        "name": "MUHI.5940 Graduate Directed Study in Musicology (Formerly 74.594)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/5940/",
+        "id": "007249",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUHI.5950": {
+        "name": "MUHI.5950 Graduate Directed Study In Musicology (Formerly 74.595)",
+        "url": "https://www.uml.edu/catalog/courses/MUHI/5950/",
+        "id": "007250",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,822 @@
+{
+    "total": 46,
+    "time": 32.63605308532715,
+    "ENGN.0010": {
+        "name": "ENGN.0010 Undeclared Engineering Seminar (Formerly 25.001)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/0010/",
+        "id": "039477",
+        "description": "The seminar course is designed to introduce undeclared engineering students to the various engineering disciplines so that undeclared engineering students can make a more informed decision when declaring their engineering major.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.1030": {
+        "name": "ENGN.1030 Environmental Biotechnology (Formerly 25.103)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/1030/",
+        "id": "034562",
+        "description": "This UML TEAMS Academy course will investigate the chemical and biological impact of human activity on aquatic environments.  A specific focus of this course will be to observe the behavior of microorganisms impacted by pollutants introduced into the environment by humans.  Students will explore possible engineering solutions to alleviate the problems caused by pollutants.  This course can be described as \"inquiry based discovery\" and will rely heavily on laboratory investigations and laboratory based projects analyzing environmental samples collected in the field.\nThis course is open only to high school students accepted to the UML-TEAMS Academy.\nInstructor permission required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.1070": {
+        "name": "ENGN.1070 Introduction To Engineering I (Formerly 25.107)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/1070/",
+        "id": "004112",
+        "description": "This course provides a hands-on introduction to engineering and the engineering design process. Through assignments and projects, students learn how to: identify a problem, develop alternative solutions, select the best alternative, make critical decisions, and work as a team.  The course is intended for freshmen in all engineering majors and provides an overview of the different engineering disciplines.  Lecture and lab component.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.1080": {
+        "name": "ENGN.1080 Introduction To Engineering II (Formerly 25.108)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/1080/",
+        "id": "004113",
+        "description": "This course is intended for first-year engineering students and provides an introduction to technical communications, teamwork and other skills. Topics vary depending on the department and include data analysis, computer-aided drafting/design/modeling program usage, report-writing and/or oral presentation. Depending on the department, software introduced may include Excel, PowerPoint, AutoCad, Matlab and/or MathCad.  Team-based labs and projects may be employed.  Students should enroll in the sections corresponding to their major or intended department to develop relevant skills.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.1300": {
+        "name": "ENGN.1300 Introduction to Nano-Engineering (Formerly 25.130)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/1300/",
+        "id": "030335",
+        "description": "The multi-billion dollar investment in nanoscience and nanotechnology is beginning to yield new products, including better sunscreens and wear-resistance materials.  \"Introduction to Nano-Engineering\" is as overview of engineering at the nanoscale, including measurement  techniques, nanoelectronics, nanomaterials, design of nanodevices, nanomanufacturing, and the societal impact of nanotechnology. \"Lecture\" material is accompanied by open-ended questions for chat-room discussion and five virtual laboratories.  Targeted for the general public. This is an interdisciplinary course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.1510": {
+        "name": "ENGN.1510 Assistive Technology & Electronics (Formerly 25.151)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/1510/",
+        "id": "034563",
+        "description": "UML-TEAMS Academy students will explore basic electronics physics in a hands-on laboratory environment.  Students will apply their knowledge as they learn how to breadboard, test, and troubleshoot a series of lab projects.  Students will use CAD tools as they learn how to fabricate printed circuit boards.  The course culminates with groups projects that apply the engineering design process and electronics to design and build a product for disabled clients in our community.\nThis course is open only to high school students accepted to the UML-TEAMS Academy.\nInstructor permission required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.2000": {
+        "name": "ENGN.2000 Community-based Engineering Project I (Formerly 25.200)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/2000/",
+        "id": "032562",
+        "description": "Students work on multi-disciplinary teams and apply their engineering problem-solving skills on community-based design projects.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Level: minimum Sophomore standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.2050": {
+        "name": "ENGN.2050 Statics (Formerly 14.203/22.211/26.211/25.205)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/2050/",
+        "id": "003798",
+        "description": "The application of Newton's Laws to engineering problems in statics. The free-body diagram method is emphasized. Topics include vector algebra, force, moment of force, couples, static equilibrium of rigid bodies, trusses, friction, properties of areas, shear and moment diagrams, flexible cables, screws, bearings, and belts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 1410 Physics I; Co-Req: MATH 1320 Calculus II",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ]
+        }
+    },
+    "ENGN.2060": {
+        "name": "ENGN.2060 Strength of Materials (Formerly 14.204/22.212/25.206)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/2060/",
+        "id": "003799",
+        "description": "Stress and deformation analysis of bodies subjected to uniaxial loading, thermal strain, torsion of circular cross-sections, shear flow in thin-walled sections, bending of beams, and combined loading.   Application of equilibrium, compatibility and load-deformation relations to solve statically determinate and indeterminate systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGN.2050 Statics and MATH.1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2050"
+                ],
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.2070": {
+        "name": "ENGN.2070 Dynamics (Formerly 14.205/22.213/25.207)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/2070/",
+        "id": "003800",
+        "description": "Calculus based vector development of the dynamics of points, particles, systems of particles, and rigid bodies in planar motion; kinematics of points in rotating and non-rotating frames of reference in one, two, and three dimensions; conservation of momentum, and angular momentum; principle of work and energy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: ENGN.2050 Statics and MATH.1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2050"
+                ],
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.2100": {
+        "name": "ENGN.2100 Professional Development Seminar (Formerly 25.210)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/2100/",
+        "id": "036962",
+        "description": "The Professional Development Seminar is designed to provide students with the necessary structure, resources, and support to successfully secure and engage in their first cooperative education experience.  Through a variety of teaching methodologies and assignments, students will prepare to engage in the job search process through resume writing, strategic interviewing, professional networking and through learning professional behavior and presentation skills.  Course open to undergraduates who have previously applied and been accepted to participate in the Professional Co-op Program.  Enrollment is by Instructor permission only.  For more information on applying to the Professional Co-op Program, see https://www.uml.edu/student-services/Career-Services/Cooperative-Education/Forms-Handbooks.aspx.  Pre-Req:  Permission of Instructor.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "CO-OP - PDS CHEN/EECE/MECH/CIVI Student Groups are permission of instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.2180": {
+        "name": "ENGN.2180 Introduction to Aerospace (Formerly MECH.2080)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/2180/",
+        "id": "040873",
+        "description": "This survey course introduces and discusses: basic lightweight structures, aerospace materials, aerodynamics, air-breathing/rocket propulsion, space environment, energy systems, thermal analysis, aerospace systems design, and the aerospace industry (economics, jobs, opportunities, etc.). The hands-on laboratory component of this course reqires students perform an aerospace system design in one of the following disciplinary areas (1) Aircraft design, manufacture and testing (2) Space system design, modeling and testing. The course has 2hours of lecture and 2 hours of laboratory per week.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MATH.1320 Calculus II  and PHYS.1410 Physics I, and Co-req: ENGN.2180L Introduction to Aerospace Lab, Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "ENGN.2180L"
+                ]
+            ]
+        }
+    },
+    "ENGN.2180L": {
+        "name": "ENGN.2180L Introduction to Aerospace Lab (Formerly MECH.2080L)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/2180L/",
+        "id": "041026",
+        "description": "The introduction to Aerospace Laboratory is a hands-on exploration of the topics covered in the Introduction to Aerospace course. This laboratory course examines topics in: basic lightweight structures, aerospace materials, aerodynamics, air-breathing/rocket propulsion, space environment, energy systems, thermal analysis, aircraft design and space mission analysis and design. The laboratory course culminates in a required aerospace system design in one of the following disciplinary areas (1) Aircraft design, manufacture and testing (2) Space system design, modeling and testing.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: MATH.1320 Calculus II  and PHYS.1410 Physics I, and Co-req: ENGN.2180 Introduction to Aerospace.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "ENGN.2180"
+                ]
+            ]
+        }
+    },
+    "ENGN.3000": {
+        "name": "ENGN.3000 Community-based Engineering Project II (Formerly 25.300)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/3000/",
+        "id": "032563",
+        "description": "Students work on multi-disciplinary teams and apply their engineering problem-solving skills on community-based design projects.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: 25.200 Community-based Eng Project l.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.3100": {
+        "name": "ENGN.3100 Co-op assessment 1 (Formerly 25.310)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/3100/",
+        "id": "036964",
+        "description": "The primary goal of this seminar is to assist students in the overall assessment of their overall cooperative education experience.  Through facilitated small group discussion, individual consultation and hands on practice, students will have an opportunity to identify and articulate their technical and professional skills, and explore how these skills and their co-op employment might be translated and leveraged into future work environments and their academic program at UML.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: ENGN.2100  Prof Development Seminar.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.3200": {
+        "name": "ENGN.3200 Co-op Assessment I (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/3200/",
+        "id": "039898",
+        "description": "This seminar is designed to support and assist students in the assessment of their 6 month cooperative education experience. Students will reflect of their extended time in a work environment, the impact of their experience on their planning, and how organizational culture, personal interests and values can inform their subsequent decisions for career development. Through facilitated small group discussions, individual consultation and hands on practice, students will have the opportunity to identify and articulate their technical and professional skills.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "ENGN.3CE Co-op Experience and ENGN.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.4000": {
+        "name": "ENGN.4000 Community-based Engineering Project III (Formerly 25.400)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4000/",
+        "id": "032564",
+        "description": "Students work on multi-disciplinary teams and apply their engineering problem-solving skills on community based design projects.  Completion of 25.400, 25.300, and 25.200 can count as a mechanical engineering technical elective (academic petition required).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: 25.300 Community-based Eng Project II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.4010": {
+        "name": "ENGN.4010 Engineering Capstone Design Project (Formerly 25.401)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4010/",
+        "id": "032565",
+        "description": "Integrative design experience in engineering.  Students work on multi-disciplinary teams and apply their  engineering problem-solving skills on open-ended, real-world projects  Projects may be service-oriented in concept and teams may include members from other Departments and Colleges.   Emphasis on communication, team-work, report-writing, oral presentations,  This course may be used as a Technical elective for all Engineering Departments.  Alternatively, this course may be used as a substitute for the culminating Capstone course in Electrical and Computer Engineering (16.499), Mechanical Engineering (22.423) and Plastics Engineering (26.416).  Prerequisite: senior status & permission of instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Level Senior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.4017": {
+        "name": "ENGN.4017 Entrepreneurship Engineering Capstone Proposal",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4017/",
+        "id": "040937",
+        "description": "Students will develop a new engineering product concept from both integrative design and new venture creation standpoints. Projects may include members form other departments and colleges. This course has an emphasis on entrepreneurship, team work, communication, report writing, oral presentations, project definition and project planning. This course may be used as a technical elective for all engineering departments. Alternatively, this course may be used as a substitute for the first capstone course in Electrical and Computer Engineering (EECE.3991) and Plastics Engineering (PLAS.4150). Students will then take their department's culminating capstone course to complete their capstone course requirements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Senior Status and Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.4019": {
+        "name": "ENGN.4019 Engineering Capstone Design Proposal",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4019/",
+        "id": "040783",
+        "description": "This is the first of a to course capstone sequence. It provides an integrative design experience in engineering. Students work on multi-disciplinary teams and apply their engineering problem solving skills on open-ended, real-world projects. Projects may include members form other departments and colleges. This course has an emphasis n team work, communication, report writing, oral presentations, project definition and project planning. This course may be used as a technical elective for all engineering departments. Alternatively, this course may be used as a substitute for the first capstone course in Electrical and Computer Engineering (EECE.3991) and Plastics Engineering (PLAS.4150).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: MECH.4410 Thermo-fluid Applications, and MECH.4250 Design of Machine Elements, and MECH.4730 Design Theory and Constraints, and Mechanical Engineering Majors only, and Senior status and Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MECH.4410"
+                ],
+                [
+                    "MECH.4250"
+                ],
+                [
+                    "MECH.4730"
+                ]
+            ]
+        }
+    },
+    "ENGN.4020": {
+        "name": "ENGN.4020 Engineering Capstone Design Project",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4020/",
+        "id": "040782",
+        "description": "This is the second of a two course capstone sequence. This course provides an integrative design experience in engineering. Students work of multi-disciplinary teams and apply their engineering problem solving skills on open-ended, real-world projects. Projects may include members form other departments and colleges. This course has an emphasis on team work, Communication, report writing, oral presentations, design, analysis, test and fabrication. This course may be used as a substitute for the culminating capstone course in Electrical and Computer Engineering (EECE.4491), Plastics Engineering (PLAS.4160) and Mechanical Engineering (MECH.4230).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGN.4019 Engineering Capstone Design Proposal, and MECH.4410 Thermo-fluid Applications, and MECH.4250 Design of Machine Elements, and MECH.4730 Design Theory and Constraints, and ME Majors only, and Senior Status, and of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.4019"
+                ],
+                [
+                    "MECH.4410"
+                ],
+                [
+                    "MECH.4250"
+                ],
+                [
+                    "MECH.4730"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.4030": {
+        "name": "ENGN.4030 American Culture, Ethics and Communications in Engineering",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4030/",
+        "id": "041844",
+        "description": "Overview of American culture and how it has been shaped by immigrants from the colonial era to the present and cultural influences from immigrants and their role in contributing to accomplishments in engineering, technology, science and the arts will be explored. Students will learn about the history of Lowell, MA in the context of key events. The concepts and practice of engineering ethics and the ethical principles and responsibilities that students should exercise in academia and professional careers will be introduced. The impact of engineering on society and the environment will be discussed through case studies. The course will promote communication skills through reading, listening and viewing assignments and responding with written reports and presentations to the class.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.4100": {
+        "name": "ENGN.4100 Co-op Assessment 2 (Formerly 25.410)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4100/",
+        "id": "036967",
+        "description": "This seminar is designed to support and assist students in the continued assessment of their cooperative education experience.  Through a deepening of their work in Co-op Assessment 1, students will review their overall performance in the cooperative education program, while continuing to demonstrate their technical and professional skills through written work and public presentations to multiple audiences.  It is expected that students will clearly define their future academic and career goals, enhance their professional networks, and develop a future plan to support aspirations related to their major.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "ENGN 2100 Prof. Development Seminar, and ENGN 3100 Co-op Assessment l, or PLAS 2100 Prof. Development Seminar, and PLAS 3100 Co-op Assessment l, and ENGN 3CE or ENGN 4CE Cooperative Education.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2100"
+                ],
+                [
+                    "ENGN.3100",
+                    "PLAS.2100"
+                ],
+                [
+                    "PLAS.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.4200": {
+        "name": "ENGN.4200 Co-op Assessment 2 (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4200/",
+        "id": "039902",
+        "description": "This seminar is designed to support and assist students int he assessment of their second cooperative education work experience that was for a 6 month cycle. Students will reflect on their extended time in this second work environment, and how their two different co-op work experiences impacts their subsequent decisions for career development. Students will review their overall performance in the cooperative education program, and demonstrate their technical and professional skills through written work and public presentations to multiple audiences.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "ENGN.4CE Co-op Experience ll, and ENGN.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.4500": {
+        "name": "ENGN.4500 Gas Turbine Engine Theory and Design",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4500/",
+        "id": "042017",
+        "description": "This introductory course discusses the basics of open Brayton cycles for Gas Turbine Engines (GTEs) followed by a comprehensive review of the various GTE architectures (e.g., turbojet, turbofan, turboshaft, turboprop, ramjets, etc.) for applications in both civil and military platforms. Detailed analyses of individual engine components (fan, LP/IP/HP compressors combustors, HP/IP/LP turbines, nozzles, etc.) as well as overall engine system interaction and integration. GTE design conceptualization, testing, validation & verification, performance, emissions, and other parameters are examined with respect to overall design goal and intended operability and durability. Concluded by a broad review of popular airframe-engine models and their brief history of conceptualization and development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.2420 Thermodynamics, and MECH.3810 Fluid Mechanics, and MECH.3820 Heat Transfer, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.2420"
+                ],
+                [
+                    "MECH.3810"
+                ],
+                [
+                    "MECH.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.4900": {
+        "name": "ENGN.4900 Industrial Experience (Formerly 25.490)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4900/",
+        "id": "035536",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.4910": {
+        "name": "ENGN.4910 Industrial Experience I (Formerly 25.491)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/4910/",
+        "id": "004128",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "12"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5010": {
+        "name": "ENGN.5010 Engineering for Teachers (Formerly 25.501)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5010/",
+        "id": "004132",
+        "description": "The course will focus on increasing teachers' understanding of the Engineering Design Process.  The linkage between science, engineering and technology will be discovered as teachers engage in a variety of home-based projects requiring them to apply design principles to the building, testing and evaluating of prototypes.  Teachers will also gain knowledge of the various fields of engineering.  Through their participation in the course, teachers will discuss how they might integrate engineering-technology concepts with other areas of their curriculum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5030": {
+        "name": "ENGN.5030 American Culture, Ethics and Communications in Engineering",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5030/",
+        "id": "041839",
+        "description": "Overview of American culture and how it has been shaped by immigrants from the colonial era to the present and cultural influences from immigrants and their role in contributing to accomplishments in engineering, technology, science and the arts will be explored. Students will learn about the history of Lowell, MA in the context of key events. The concepts and practice of engineering ethics and the ethical principles and responsibilities that students should exercise in academia and professional careers will be introduced. The impact of engineering on society and the environment will be discussed through case studies. The course will promote communication skills through reading, listening and viewing assignments and responding with written reports and presentations to the class.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5200": {
+        "name": "ENGN.5200 Aerospace Systems Design and Integration",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5200/",
+        "id": "042004",
+        "description": "This introductory course discusses the basics of Aerospace Systems design and integration as they apply to modern advanced aircraft platforms (both military and civilian). Detailed analyses of individual aircraft engine systems- and sub-systems will be studied as well as their intended interaction with other aircraft-based systems (e.g., hydraulic, lubrication, fuel, pneumatic, electronic, electrical, etc.). Emphasis will be given on modern advanced controls through study of EEC (Electronic Engine Controls) and FADEC (Full-Authority Digital Engine Controls), and their performance as part of the overall aircraft avionics systems. A brief review of appropriate requirements and protocols for systems- and sub-systems design, testing, validation & verification, performance is examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.2420 Thermodynamics, and MECH.3810 Fluid Mechanics, and MECH.3820 Heat Transfer, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.2420"
+                ],
+                [
+                    "MECH.3810"
+                ],
+                [
+                    "MECH.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.5300": {
+        "name": "ENGN.5300 Gas Turbine Engine Theory and Design",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5300/",
+        "id": "042005",
+        "description": "This introductory course discusses the basics of open Brayton cycles for Gas Turbine Engines (GTEs) followed by a comprehensive review of the various GTE architectures (e.g., turbojet, turbofan, turboshaft, turboprop, ramjets, etc.) for applications in both civil and military platforms. Detailed analyses of individual engine components (fan, LP/IP/HP compressors combustors, HP/IP/LP turbines, nozzles, etc.) as well as overall engine system interaction and integration. GTE design conceptualization, testing, validation & verification, performance, emissions, and other parameters are examined with respect to overall design goal and intended operability and durability. Concluded by a broad review of popular airframe-engine models and their brief history of conceptualization and development.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MECH.2420 Thermodynamics, and MECH.3810 Fluid Mechanics, and MECH.3820 Heat Transfer, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.2420"
+                ],
+                [
+                    "MECH.3810"
+                ],
+                [
+                    "MECH.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.5400": {
+        "name": "ENGN.5400 Designing Sustainable Products",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5400/",
+        "id": "040124",
+        "description": "The course introduces students to the sustainability aspects of product design. Sustainable products are designed to conserve materials and energy, select low-impact materials, eliminate toxic substances, extend product life, re-use materials, and reduce the generation of wastes. The entire product life cycle will be considered including: material extraction, material processing, manufacturing, transportation, product use, and disposal. Students will learn the impact of design solutions in a global, economic, environmental, and societal context. The students will learn strategies to identify the sustainability impacts throughout the product life cycle, as well as the application of sustainable product design principles and strategies to address these impacts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5500": {
+        "name": "ENGN.5500 Introduction to Nanotechnology (Formerly 25.550)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5500/",
+        "id": "030852",
+        "description": "This course is designed to provide you with a broad overview to the multi-disciplinary field of nanotechnology.  The course is team-taught by researchers from science, engineering, health and environment, management, and humanities disciplines.  The topics include an introduction to nanoscale phenomena; fundamental theoretical concepts and experimental techniques in nanotechnology; nanoscale manufacturing and processing; innovative nanomaterials for various applications; applications of the technology; and environmental and health impacts of nanotechnology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5700": {
+        "name": "ENGN.5700 Selected Issues in Nanomanfacturing (Formerly 25.570)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5700/",
+        "id": "030850",
+        "description": "A seminar course that examines the issues associated with high rate template-based nanomanufacturing, including: technologies for nanoscale templates, high rate assembly of nanoelements and polymer systems, registration at the nanoscale, interfacing with biological systems, measurement of nanoelements, and molecular modeling.  Environmental, regulatory, and ethical issues associated with new technologies are also addressed.  The course is co-taught by faculty from Northeastern University, the University of Massachusetts Lowell, and the University of New Hampshire.  Meeting dates: January 27, February 10, February 24, March 10, March 24, and April 7.  Time: 12:00 to 3:30, including lunch.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5800": {
+        "name": "ENGN.5800 Thesis Review (Formerly 25.580)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5800/",
+        "id": "035537",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5810": {
+        "name": "ENGN.5810 Project Review (Formerly 25.581)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5810/",
+        "id": "035538",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5900": {
+        "name": "ENGN.5900 Graduate Industrial Cooperative Educational Experience I (Formerly 25.590)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5900/",
+        "id": "035539",
+        "description": "Industrial experience credit for co-op and internships with industry. Students must register with department co-op coordinator.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5910": {
+        "name": "ENGN.5910 Graduate Industrial Cooperative Educational Experience II (Formerly 25.591)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5910/",
+        "id": "035540",
+        "description": "Industrial experience credit for co-op and internships with industry. Students must register with department co-op coordinator.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5920": {
+        "name": "ENGN.5920 Graduate Industrial Cooperative Educational Experience III (Formerly 25.592)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5920/",
+        "id": "035541",
+        "description": "Industrial experience credit for co-op and internships with industry. Students must register with department co-op coordinator.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5930": {
+        "name": "ENGN.5930 Graduate Industrial Cooperative Educational Experience (Formerly 25.593)",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5930/",
+        "id": "035542",
+        "description": "Industrial experience credit for co-op and internships with industry. Students must register with department co-op coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.5980": {
+        "name": "ENGN.5980 Seminar for Teaching Assistants in Engineering",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/5980/",
+        "id": "040101",
+        "description": "Prepare graduate students for their role as teaching assistants in labs and lectures. Topics include: (1) classroom management, (2) grading strategies, (3) how to prepare for lecture and lab, (4) understanding the cultural differences that come with the diverse campus population, (5) balancing teaching and research responsibilities, (6) how to do graduate-level research. This course is mandatory for all new teaching assistants in the College of Engineering.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.6010": {
+        "name": "ENGN.6010 Academic and Technical Writing for Research in Engineering",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/6010/",
+        "id": "039733",
+        "description": "This course addresses the complex nature of academic language and academic writing by focusing on sentence, paragraph and text structures, purposeful and appropriate word choices, and the writing process. Through attention to details and critical reading of various materials, students will enhance their writing skills by applying effective planning, drafting, rewriting and editing strategies. Students will further become adept at critically and creatively evaluating, analyzing, constructing and presenting their ideas and arguments. As a workshop class, the final product of the class will be one or more of (1) a journal paper that is ready for submission, (2) a conference paper, and (3) one or more chapters of a dissertation or thesis. Please Note: Advanced English language proficiency required.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.6020": {
+        "name": "ENGN.6020 Graduate Professional Development for Engineers",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/6020/",
+        "id": "040805",
+        "description": "This course is designed to provide master's students with the requisite preparation in understanding the expectations of the workplace and tools needed to engage in an effective job search process. The course will facilitate the transition and preparation to meet the increased expectations of a graduate student while on a graduate cooperative experience. The course will be comprised of a series of workshops and offer resources intended to provide students a good understanding of the US work environment, work culture and expectations. Topics include: workplace culture and expectations, professional communication skills, job search strategies, resume writing, mock interviews, technical writing.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGN.6030": {
+        "name": "ENGN.6030 Graduate Cooperative Experience",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/6030/",
+        "id": "040806",
+        "description": "This one-credit course is for co-op internship experience. There will be one credit whether the co-op experience is for three or six months. Learning objectives a s mutually agreed upon by the student and co-op supervisor will be required to be submitted at the beginning of the experience. A final evaluation by supervisor will be due before final grading. Full-time co-op is typically expected to be at a minimum of 30 hours per week. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "ENGN.6020 Grad Prof Development for Engineers. Full-time MS-level student in Engineering having successfully completed at least 18 graduate credits in their major that count toward the completion of the associated master's degree program.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.6020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.6040": {
+        "name": "ENGN.6040 Workforce Development",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/6040/",
+        "id": "040804",
+        "description": "Optional seminar series which will be comprised of weekly speakers from industry, government, academia and non-profit sectors with a focus on workforce development talks.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "ENGN.6020 Grad Prof Development for Engineers. Full-time MS-level student in Engineering having successfully completed at least 18 graduate credits in their major that count toward the completion of the associated master's degree program.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.6020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGN.7CPT": {
+        "name": "ENGN.7CPT Curricular Practical Training for Grad Engr Stud",
+        "url": "https://www.uml.edu/catalog/courses/ENGN/7CPT/",
+        "id": "042246",
+        "description": "Required for thesis/dissertation completion: (Graduate students only) An off-campus placement is necessary to pursue graduate thesis or dissertation research that cannot be accomplished of campus. Enrollment in this class requires completion of CPT form. Enrollment in this class requires completion of CPT form which should be submitted with an attached letter which includes the following: (1) Topic of thesis and expected defense date. (Note: Student cannot work beyond defense date), (2) Explanation of the research objectives of the placement as they relate to the student's thesis or dissertation and why they cannot be accomplished using University facilities, including name of professor who will monitor the process of the off-campus research, and (3) Two signatures: signature of thesis/dissertation advisor and department chair, or a dean. A specific mentor at the offsite facility should be identified. A report or publication which points to the data collected during the offsite work should be retained by the student and the primary advisor as evidence of successful completion of the course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

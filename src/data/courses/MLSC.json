@@ -1,0 +1,945 @@
+{
+    "total": 53,
+    "time": 37.31989288330078,
+    "MLSC.2410": {
+        "name": "MLSC.2410 Clinical Laboratory Theory (Formerly 36.241)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/2410/",
+        "id": "004777",
+        "description": "This course is designed to introduce the theoretical principles and applications of diagnostic techniques and the procedures of  the clinical laboratory including phlebotomy.  It will define and describe both qualitative and quantitative, manual and automated laboratory techniques, particularly in hematology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.1010 Anatomy & Physiology I, and Applied Biomedical (ABS), or Clinical Lab Sciences (CLS) BS only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.2430": {
+        "name": "MLSC.2430 Clinical Laboratory Theory Lab (Formerly 36.243)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/2430/",
+        "id": "004778",
+        "description": "A laboratory course designed to expose prospective clinical scientists to many of the essentialskills, methods, and procedures basic to professional performance in the clinical laboratory; to explain and demonstrate to students and have them perform these methods; to develop an understanding of these techniques and to provide a technical background, an approach to testing that the student can build upon and use in future courses.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "HSCI.1010 Human Anatomy & Physiology I, and Co-req: MLSC.2410 Clinical Laboratory Theory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MLSC.2410"
+                ]
+            ]
+        }
+    },
+    "MLSC.3110": {
+        "name": "MLSC.3110 Medical Bacteriology I (Formerly 36.311/512)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3110/",
+        "id": "004783",
+        "description": "A study of the cultural, biochemical, genetic, serological and pathogenic characteristics of disease producing microorganisms. Emphasis will be placed on the pathophysiology of the infectious diseases and their relationship to isolation and identification of the pathogenic microorganisms.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.2110 Basic Clinical Micro & Pathology, and HSCI.2130 Basic Clinical Micro & Pathology Lab, or BIOL.2010 General Microbiology, and BIOL.2030L General Microbiology Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2110"
+                ],
+                [
+                    "HSCI.2130",
+                    "BIOL.2010"
+                ],
+                [
+                    "BIOL.2030L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.3130": {
+        "name": "MLSC.3130 Medical Bacteriology Laboratory I (Formerly 36.313)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3130/",
+        "id": "004784",
+        "description": "This course is designed to introduce the student to pathogenic microorganisms, media and techniques used in the identification of these organisms. Emphasis will be based upon the isolation, identification and differentiation of pathogenic microorganisms common to man. In addition, quality control and antimicrobial susceptibility testing will be covered.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "HSCI.2110 Basic Lin Micro & Path, and HSCI.2130 Basic Clin Micro & Path Lab, or BIOL.2010 Gen Microbiology, and BIOL.2030L Gen Microbiology Lab, and Co-req: MLSC.3110 Medical Bacteriology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2110"
+                ],
+                [
+                    "HSCI.2130",
+                    "BIOL.2010"
+                ],
+                [
+                    "BIOL.2030L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MLSC.3110"
+                ]
+            ]
+        }
+    },
+    "MLSC.3200": {
+        "name": "MLSC.3200 Clinical Hematology Practicum (Formerly 36.420 and MLSC.4200)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3200/",
+        "id": "004808",
+        "description": "Supervised clinical training in an affiliated clinical laboratory. Designed to reinforce knowledge and skills gained in lecture and laboratory and at the same time introduce the student to the daily activities of a clinical hematology laboratory. Emphasis will be placed on quality control, methodology, and clinical interpretation and correlation.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MLSC.3210 Clinical Hematology, and MLSC.3230 Clinical Hematology Lab, and Applied Biomedical Sciences (ABS), and MLS option only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.3210"
+                ],
+                [
+                    "MLSC.3230"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.3210": {
+        "name": "MLSC.3210 Clinical Hematology (Formerly 36.321)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3210/",
+        "id": "004786",
+        "description": "A study of the human hematopoietic system and its relationship to other organ systems.  Discussions will include morphological and biochemical relationships of erythropoiesis and leukopoiesis in health and disease states. A study of the mechanics of blood coagulation as it relates to health and disease states will also be included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MLSC.2410 Clinical Lab Theory, and MLSC.2430 Clinical Lab Theory Lab, and Applied Biomedical Sciences (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.2410"
+                ],
+                [
+                    "MLSC.2430"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.3230": {
+        "name": "MLSC.3230 Clinical Hematology Laboratory (Formerly 36.323)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3230/",
+        "id": "004787",
+        "description": "This course is designed to emphasize current hematological and coagulation procedures used in today's clinical laboratory. The implications of these tests to diagnose, monitor and evaluate the various hematological disorders are also discussed.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: MLSC.3210 Clinical Hematology, and Applied Biomedical Sciences (BS), and Medical Lab Science option.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MLSC.3210"
+                ]
+            ]
+        }
+    },
+    "MLSC.3340": {
+        "name": "MLSC.3340 Advanced Topics in Hemostasis (Formerly 36.434 and MLSC.4340)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3340/",
+        "id": "004812",
+        "description": "This course will constitute an in depth study of the hemostatic mechanism. Current research and case studies on the roles of vessel endothelium, platelet function, clotting procoagulants and fibrinolysis will be presented. Students will diagnose pathologic hemostatic states, such as hemorrhage or thrombophilia, due to deficiencies and impairments of these roles, including the impact of natural and acquired anticoagulants/inhibitors and anticoagulant therapy.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MLSC.2410 Clinical Laboratory Theory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.2410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.3510": {
+        "name": "MLSC.3510 Clinical Chemistry I (Formerly 36.351)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3510/",
+        "id": "004792",
+        "description": "This course is designed to provide students with knowledge and theory of techniques used in the Clinical Chemistry laboratory for measurement of aminoacids, proteins, carbohydrates, and lipids in body fluids.  Students will learn to use, interpret and evaluate the performance of these laboratory methods and develop the ability to recognize levels of these biochemical components in both normal and pathophysiological states.  Examination and comparison of laboratory results will be used to diagnose or rule out disease.  Techniques reviewed range from general to specific assays and from the classical to state-of-the-art methodologies.  In addition, students will be able to assess the quality of laboratory generated values determine when values are invalid and suggest ideas to troubleshoot clinical laboratory methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMSC.2420, or CHEM.2210, and HSCI.3500, or CHEM.4500, or BIOL.4190, and MLSC.3630, and Applied Biomedical Sciences (BS), or Clinical Lab Sciences (BS), or Nutritional Sciences (BS), or Pharmaceutical Sciences (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2210"
+                ],
+                [
+                    "BIOL.4190"
+                ],
+                [
+                    "MLSC.3630"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.3530": {
+        "name": "MLSC.3530 Clinical Chemistry Laboratory  I (Formerly 36.353)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3530/",
+        "id": "004793",
+        "description": "This course is designed to introduce the clinical techniques of biochemical measurement in body fluids. These techniques range from general to specific assays and from the classical to the upto- date state of the art methodologies. Biochemical measurements of the following in the normal state and alterations due to pathophysiology are discussed: amino acids, proteins, carbohydrates and lipids. Quality control of assay procedures is emphasized.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: MLSC.3510 Clinical Chemistry, and Applied Biomedical Sciences (BS), or Clinical Lab Sciences (BS).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MLSC.3510"
+                ]
+            ]
+        }
+    },
+    "MLSC.3610": {
+        "name": "MLSC.3610 Clinical  Laboratory  Instrumentation (Formerly 36.361)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3610/",
+        "id": "004794",
+        "description": "This course is designed to provide an in-depth knowledge of clinical chemistry laboratory instrumentation. Emphasis is placed on theoretical concepts, instrument components and design, calibration and troubleshooting of modern instrumentation, and analytical methodologies in the clinical laboratory. Additionally, qualitative and quantitative applications of instrumental techniques are covered. Computer applications are included where appropriate. The following spectroscopic instruments are studied: ultraviolet, visible and infra red absorption, fluorescence, turbidimetry and nephelometry, reflectance, flame emission and atomic absorption spectroscopy. Electrochemical methods of analysis are reviewed, including potentiometric techniques, voltammetry and coulometry. Chromatographic instrumentation and methods are discussed, such as column and thin layer chromatography, high pressure liquid chromatography, gas chromatography, and ion exchange chromatography.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.2520 Physiological Chemistry II, or CHEM.1220 Chemistry II, or CHEM.1120 General Chemistry II, and Academic Plan Clinical Lab Sciences(BS) or Nutritional Sciences (BS) only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2520",
+                    "CHEM.1220",
+                    "CHEM.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.3730": {
+        "name": "MLSC.3730 Clinical Laboratory Sciences Seminar (Formerly 36.373)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3730/",
+        "id": "004798",
+        "description": "This course is designed to familiarize the student with different interview skills and approaches to resume writing, the process of implementing a laboratory information system, good education practices and team building skills.  Students will evaluate current research designs and work in a team to create a presentation to express their opinions as educated consumers.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Academic Plan Clinical Lab Sciences (BS)  or Nutritional Sciences (BS) only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.3810": {
+        "name": "MLSC.3810 Molecular Diagnostics Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/3810/",
+        "id": "040944",
+        "description": "The Molecular Diagnostics course is designed to instruct students in the principles and laboratory techniques used in Molecular Diagnostics in the clinical laboratory setting. An overview of nucleic acid structure, gene expression, and genetic diseases will be provided. Students will be given both lecture and laboratory instruction in basic molecular testing methodologies.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "HSCI.3500 Human Biochemistry, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4100": {
+        "name": "MLSC.4100 Clinical Microbiology Practicum (Formerly 36.410)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4100/",
+        "id": "004801",
+        "description": "Supervised clinical training in an affiliated clinical laboratory, designed to reinforce knowledge and skills gained in lecture and laboratory and at the same time introduce the student to the daily activities of the clinical microbiology laboratory. Emphasis will be placed on quality control, methodology and clinical interpretation.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MLSC.3110 Medical Bacteriology, or MLSC.5120 Medical Bacteriology, and MLSC.3130 Medical Bacteriology Lab, and Applied Biomedical Sciences (BS), and MLS option, or Clinical Laboratory Sciences (BS), and MLS Option.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.3110",
+                    "MLSC.5120"
+                ],
+                [
+                    "MLSC.3130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4110": {
+        "name": "MLSC.4110 Medical Mycology & Parasitology (Formerly 36.411)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4110/",
+        "id": "004802",
+        "description": "Intensive study of classification, morphology, physiology, genetics and ecology of medically important fungi and parasites. Emphasis on epidemiology, pathogenicity and diagnosis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MLSC.3110 Medical Bacteriology, or MLSC.5120 Medical Bacteriology, and MLSC.3130 Medical Bacteriology Lab, and Applied Biomedical Sciences (BS), or Clinical Laboratory Sciences (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.3110",
+                    "MLSC.5120"
+                ],
+                [
+                    "MLSC.3130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4130": {
+        "name": "MLSC.4130 Medical  Mycology & Parasitology Laboratory (Formerly 36.413)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4130/",
+        "id": "004804",
+        "description": "The laboratory is designed to emphasize principles and procedures used in the isolation, cultivation, and identification of medically important fungi and parasites.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: MLCS.4110 Medical Mycology & Parasitology, or MLSC.6150 Medical Mycology & Parasitology, and Applied Biomedical Sciences (BS), and MLS Option, or Clinical Lab Sciences (BS), and MLS Option.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MLSC.6150"
+                ]
+            ]
+        }
+    },
+    "MLSC.4150": {
+        "name": "MLSC.4150 Clinical Virology/Serology Lab (Formerly 36.415)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4150/",
+        "id": "004806",
+        "description": "This course is designed to survey pathogenic viruses emphasizing diagnosis of disease. Evaluation of new technology and diagnostic tests with reference to diagnosis and prognosis of disease are examined. In addition, this course is designed to instruct students in the principles and techniques used in the clinical immunology/serology setting. Students will become proficient in laboratory techniques such as immunodiffusion, ELISA, hemagglutination, and neutralization techniques used for immunodiagnosis.. \"",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MLSC.3310 Clinical Immunology;  Clinical Lab Sciences (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4160": {
+        "name": "MLSC.4160 Molecular Diagnostics Lab (Formerly 36.416)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4160/",
+        "id": "004807",
+        "description": "This course is designed to instruct students in the principles and techniques used in Molecular Diagnostics in the clinical laboratory setting.  Students will be given both lecture and laboratory instruction in basic molecular testing methodologies.  At the completion of this course, the student will have a basic understanding of molecular diagnostic principles and will be proficient in molecular diagnostic laboratory techniques including DNA extraction, PCR using SINEs and STRs, restriction enzyme digestion, ELISA, bacterial transformation, DNA sequencing and microarrays.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Academic Plan Clinical Lab Sciences (BS) Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.4180": {
+        "name": "MLSC.4180 Medical Laboratory Science Senior Seminar",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4180/",
+        "id": "040948",
+        "description": "This course is designed to familiarize the student with educational methodologies, teambuilding skills, and the principles and practices of research study design. Students will evaluate current research designs, and work in a team to create a presentation to express their opinions as educated laboratory consumers. In addition, this course will provide a review of the theoretical and practical knowledge required to successfully pass the ASCP Board of Certification Exam in Medical Laboratory Science. Case studies and different types of questions integrating all areas of the clinical laboratory will be utilized to review the important topics in each discipline.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Applied Biomedical Sciences (BS), and MLS Option, or Clinical Lab Sciences (BS), and MLS Option.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.4300": {
+        "name": "MLSC.4300 Clinical  Immunohematology  Practicum (Formerly 36.430)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4300/",
+        "id": "004809",
+        "description": "Supervised clinical training in an affiliated clinical laboratory is designed to reinforce knowledgeand skills gained in lecture and laboratory and, at the same time, introduce the student to thedaily activities of the clinical immunohematology laboratory. Emphasis will be placed on quality control, methodology and clinical interpretation and correlation.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MLSC.4310 or MLSC.4310 Clinical Immunohematology, and MLSC.4330 Clinical Immunohematology Lab, and Applied Biomedical Sciences (BS).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.4310",
+                    "MLSC.4310"
+                ],
+                [
+                    "MLSC.4330"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4310": {
+        "name": "MLSC.4310 Clinical Immunohematology (Formerly 36.431)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4310/",
+        "id": "004810",
+        "description": "Lecture and case study discussions look at the major red cell antigen/antibody systems that are of importance in understanding transfusion therapies, blood antigen and antiody testing, compatibility testing, and pathological diseases. Emphasis is on differentiation and clinical significance of each system. Donor selection regulations, component preparation, adverse transfusion reactions, and hematherapy will also be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MLSC.3210 Clinical Hematology, and BMSC.3310 Clinical Immunology, and Applied Biomedical Sciences (ABS) majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.3210"
+                ],
+                [
+                    "BMSC.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4330": {
+        "name": "MLSC.4330 Clinical Immunohematology Laboratory (Formerly 36.433)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4330/",
+        "id": "004811",
+        "description": "Practical laboratory experience in blood banking, illustrating the concepts stressed in the lecture including ABO and Rh typing,identification of other red cell antigens,  antibody screening and identification, direct antiglobulin testing, crossmatching, and other techniques performed in the Clinical Immunohematology laboratory.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: MLSC.4310 Clinical Immunohematology, or MLSC.5310 Clinical Immunohematology, and Applied Biomedical Sciences (ABS) majors and MLS option only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MLSC.4310",
+                    "MLSC.5310"
+                ]
+            ]
+        }
+    },
+    "MLSC.4500": {
+        "name": "MLSC.4500 Clinical Chemistry Practicum (Formerly 36.450)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4500/",
+        "id": "004814",
+        "description": "Supervised clinical training in an affiliated hospital clinical laboratory. Designed to reinforce knowledge and skills gained in lecture and laboratory and at the same time introduce the student to the daily activities of the clinical laboratory. Emphasis will be placed on quality control,methodology and clinical interpretation and correlation.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MLSC.4520 Clinical Chemistry II, and MLSC.4540 Clinical Chemistry II Lab, and Applied Biomedical Sciences (BS): Medical Lab Science option.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MLSC.4520"
+                ],
+                [
+                    "MLSC.4540"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4510": {
+        "name": "MLSC.4510 Urinalysis Practicum (Formerly 36.451)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4510/",
+        "id": "004815",
+        "description": "A one-week clinical rotation in an affiliated laboratory designed to give the student experience in microscopic examination and evaluation of urine sediments. Emphasis is on correlating physical and chemical characteristics with sediment evaluation and diagnoses as well as on quality control, methodology, and clinical interpretation and correlation. Additional routine tests of a physical and chemical nature will be performed and demonstrated.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Co-req: MLSC.4520 Clinical Chemistry II, and MLSC.4540 Clinical Chemistry II Lab, and Applied Biomedical Sciences (BS).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MLSC.4520"
+                ],
+                [
+                    "MLSC.4540"
+                ]
+            ]
+        }
+    },
+    "MLSC.4520": {
+        "name": "MLSC.4520 Clinical Chemistry II (Formerly 36.452)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4520/",
+        "id": "004816",
+        "description": "This course will provide students with knowledge and theory of techniques associated with determinants of acid-base balance, blood gases, electrolytes, osmolality,  hemoglobin, toxicology, therapeutic drug monitoring and endocrinology.  Students learn to interpret and evaluate the performance of these laboratory methods and develop the ability to recognize levels of these biochemical components in both normal and pathophysiological states.  Laboratory techniques range from general to specific assays and from the classical to state-of-the-art methodologies.  In addition, students will be able to assess the quality and validity of laboratory generated values, determine when values are invalid and suggest ideas to troubleshoot methodologies.  Students will also be able to produce and analyze statistical data for use in correlation, comparison and evaluation of laboratory techniques.  \nPrerequisite: 35.351",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 36.351 Clinical Chemistry I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.4530": {
+        "name": "MLSC.4530 Laboratory Management and Ethics (Formerly 36.453)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4530/",
+        "id": "004817",
+        "description": "This course will acquaint the student with the many managerial, educational, technical, and administrative theories and practices, as well as moral and ethical issues that may confront the health care professional functioning within a clinical or research laboratory setting. In addition, it will present the varied career opportunities that are available for graduates.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Applied Biomedical Sciences (ABS) major, CS and MLS options, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.4540": {
+        "name": "MLSC.4540 Clinical Chemistry Laboratory II (Formerly 36.454)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4540/",
+        "id": "004818",
+        "description": "This course, a continuation of MLSC.3530, is designed to instruct the student in the analytical procedures and methods currently used in the clinical laboratory. Manual and automated methods utilized in the assessment of such topics as acid-base balance, porphyrins, toxicology and vitamins will be introduced. In addition, methods associated with the routine examinations of urine and other body fluids will be introduced. Quality control, laboratory safety and professional performance are emphasized.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: MLSC.4520 Clinical Chemistry II, and Applied Biomedical Sciences (BS) majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MLSC.4520"
+                ]
+            ]
+        }
+    },
+    "MLSC.4610": {
+        "name": "MLSC.4610 Clinical Virology",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4610/",
+        "id": "040951",
+        "description": "This course is designed to introduce the student to the field of Clinical Virology. Viral structures, physiology,and pathogenesis will be discussed. Emphasis will be placed on viral diseases and the laboratory techniques used to identify them.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "HSCI.3500 Human Biochemistry, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.4740": {
+        "name": "MLSC.4740 Senior Seminar (Formerly 36.474)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/4740/",
+        "id": "004823",
+        "description": "This course is designed to familiarize the student with different types of questions used in the national certification exams and to give the student the opportunity to practice taking mock certification examinations.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Clinical Lab Sciences (BS) or Medical Lab Science Option only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5120": {
+        "name": "MLSC.5120 Medical Bacteriology I (Formerly 36.311/512)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5120/",
+        "id": "004783",
+        "description": "A study of the cultural, biochemical, genetic, serological and pathogenic characteristics of disease producing microorganisms. Emphasis will be placed on the pathophysiology of the infectious diseases and their relationship to isolation and identification of the pathogenic microorganisms.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.2110 Basic Clinical Micro & Pathology, and HSCI.2130 Basic Clinical Micro & Pathology Lab, or BIOL.2010 General Microbiology, and BIOL.2030L General Microbiology Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.2110"
+                ],
+                [
+                    "HSCI.2130",
+                    "BIOL.2010"
+                ],
+                [
+                    "BIOL.2030L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MLSC.5310": {
+        "name": "MLSC.5310 Clinical Immunohematology (Formerly 36.531)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5310/",
+        "id": "004834",
+        "description": "Lecture and case study discussions look at the major red cell antigen/antibody systems that are of importance in understanding transfusion therapies, compatibility testing, and pathological diseases. Emphasis is on differentiation and clinical significance of each system. Donor selection regulations, component preparation, and hematherapy will also be discussed.  Students will be required to do a presentation, poster, and paper on an advanced topic in Clinical Immunohematology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Clin Lab Sci (MS); or Grad Certs in Clinical Pathology, Nutritional Sci, or Public Health Lab Sci;  or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5410": {
+        "name": "MLSC.5410 Introduction to Public Health and the Public Health Laboratory (Formerly 36.541)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5410/",
+        "id": "033182",
+        "description": "This course is designed to provide an overview of public health and the public heath laborabory covering topics such as the legal basis and history of public health, public health structure, communications and interactions, and epidemiology.  Emphasis will be  placed on the role of the public health laboratory and its core functions, its role in policy development, infectious disease, environmental issues, emergency preparedness, newborn screening, global issues, and public health research.  Public health laboratory methodology,  regulation and improvement, and quality assurance will also be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Clin Lab Sci (MS); or Grad Certs in Clinical Pathology, Nutritional Sci, or Public Health Lab Sci;  or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5500": {
+        "name": "MLSC.5500 Foundations of Biomedical Research",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5500/",
+        "id": "041143",
+        "description": "This course prepares graduate students in the MS in Clinical Laboratory Science for biomedical research. Students will learn clinical and basic research design and experimental aspects through applying critical thinking skills and engaging in outcome evaluation of research studies and quantitative data analysis and interpretation. Students will develop an understanding of the key differences between clinical, translational and basic research and their implications and relation to diagnostic, treatment and health management. The course will introduce students to literature review, identifying basic and key gaps and formulating key questions for scientific experimental pursuit. The course also reviews basic statistics research methods, including statistical significance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MS in CLS, Clinical Pathology certificate, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5510": {
+        "name": "MLSC.5510 Advanced Pathophysiology (Formerly 36.551)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5510/",
+        "id": "004837",
+        "description": "Disease processes as appropriate and inappropriate as variants of normal physiological functions. A detailed examination of certain important and illustrative diseases rather than a survey of diseases in general.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Clin Lab Sci (MS); or Grad Certs in Clinical Pathology, Nutritional Sci, or Public Health Lab Sci;  or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5530": {
+        "name": "MLSC.5530 Emerging Topics in Clinical Chemistry (Formerly 36.553)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5530/",
+        "id": "004838",
+        "description": "This course is designed to give an in-depth understanding in clinical chemistry. Topics include: analytical techniques and the selection of methodologies. The course allows for a detailed examination and discussion of selected articles from the Journal of Clinical Chemistry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Clin Lab Sci (MS); or Grad Certs in Clinical Pathology, Nutritional Sci, or Public Health Lab Sci;  or Coordinator permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5600": {
+        "name": "MLSC.5600 Molecular Pathology (Formerly 36.560)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5600/",
+        "id": "036721",
+        "description": "This graduate course is designed to study the molecular aspects of disease.  Applications and techniques utilized in the field of molecular pathology are emphasized.  This course is intended to provide students with information required to understand the increasing role of molecular pathology in the daily practice and management of chronic disease in medicine.  Major emphasis on strength and limitations of clinical diagnostics technologies and their utilization in these applications are presented.  This course will also provide a review of current molecular pathology literature and principles as they relate to specific organ systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5750": {
+        "name": "MLSC.5750 Topics in Clinical Laboratory Science I (Formerly 36.575)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5750/",
+        "id": "004846",
+        "description": "This course provides students with the knowledge that is fundamentally necessary to understand the routine operations of the clinical diagnostic laboratory. The course will familiarize students with the diagnostic application of the most current testing methodologies and also provide a forum to discuss and critically review primary literature pertinent to current clinical laboratory issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Clin Lab Sci (MS); or Grad Certs in Clinical Pathology, Nutritional Sci, or Public Health Lab Sci;  or Coordinator permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.5800": {
+        "name": "MLSC.5800 Clinical Applications of Molecular Genetics (Formerly 36.580)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/5800/",
+        "id": "004848",
+        "description": "The course starts with tissue sampling methods and basic DNA dynamics. Genetic technologies such as RFLP analysis, PCR, gene profiling and expression analysis, gene chips, FISH, and epigenetic analysis are covered. More advanced genetic techniques include Next Generation Sequencing of genomes and exomes, as well as metabolomics, and transcriptome analysis. CRISPR-cas9 is described in fine detail, and its potential use in all areas of gene editing is presented. Somatic vs. germline gene therapy techniques are compared in efficacy to CRISPR. In utero treatments by CRISPR and SLENDR are analyzed. Other topics include chromosome analysis, cancer genetics and cytogenetics, stem cells, cloning, and optogenetics. The genomic level of analysis is pervasive in the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.6000": {
+        "name": "MLSC.6000 Biomarker Discovery & Applications",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/6000/",
+        "id": "041027",
+        "description": "This course will cover the burgeoning field of biomarkers research, with a special focus on biomedical and clinical applications. The course is organized in three main sections: (I) Biomarker discovery and validation, including types of biomarkers and platforms for discovery (proteomics, metabolomics, multiplex technologies); (II) biomarker applications in clinical and health research; and (III) new frontiers in biomarkers research. Examples of biomarker applications will include organ systems, disciplines (clinical lab sciences and clinical trials, environmental health, toxic tort and forensic litigation), and regulatory perspectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MS in CLS, Clinical Pathology certificate, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.6001": {
+        "name": "MLSC.6001 Biomarkers Discovery and Application Lab",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/6001/",
+        "id": "041142",
+        "description": "This course provides hands-on laboratory experience that will illustrate and enhance critical concepts related to biomarker discovery and validation. Techniques will include LC-ESI-MS/MS and multiplexing technologies for biomarker analysis in human biological samples, including urine, and blood.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MS in CLS, Clinical Pathology certificate, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.6100": {
+        "name": "MLSC.6100 Clinical Toxicology",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/6100/",
+        "id": "041139",
+        "description": "Clinical toxicology traditionally studied the toxic effects of therapeutic agents - substances intended to treat orameliorate disease. Modern clinical toxicology has a broader scope: to examine complex toxicological events that result from the interaction of toxins with normal physiology, including therapeutics, drugs, natural poisons and inadvertent chemical exposures, as well as the clinical management of toxicity. The course places special emphasis on the temporality of events, from the developments of signs, to symptoms, to pathology. Analytical tools, such as mass spectrometry, needed to measure toxins and their metabolic byproducts in biological fluids of living organisms are discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MS in CLS, Clinical Pathology certificate, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.6101": {
+        "name": "MLSC.6101 Clinical Toxicology Lab",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/6101/",
+        "id": "041140",
+        "description": "This course provides hands-on laboratory experience that will illustrate and enhance critical concepts related to clinical toxicology. Techniques will include immunoassay, advanced spectroscopy techniques and emerging technologies for toxicology analysis in human biological samples, including urine, and blood.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MS in CLS, Clinical Pathology certificate, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.6130": {
+        "name": "MLSC.6130 Infectious Disease (Formerly 36.613)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/6130/",
+        "id": "004851",
+        "description": "This course is designed for graduate students in the health sciences focusing on the pathophysiology of infectious disease. Major infectious organisms will be discussed as biological models and presented in the way they affect major systems of the body. Emphasis will be placed on journal readings describing significant episodes of emerging infections and current technology in diagnosis and treatment of infectious diseases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MS in CLS, Clinical Pathology certificate, or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.6150": {
+        "name": "MLSC.6150 Medical Mycology and Parasitology (Formerly 36.615)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/6150/",
+        "id": "004852",
+        "description": "This course is designed to instruct students in diagnostic medical mycology and parasitology. Diseases, specimen collection and handling, laboratory identification and treatment of medically significant fungi and parasites will be studied. Discussion of AIDS related infections and prophylactic treatment will be evaluated. Life cycles of parasites, prevention and environmental protection plans will be analyzed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Clin Lab Sci (MS); or Grad Certs in Clinical Pathology, Nutritional Sci, or Public Health Lab Sci;  or permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.6400": {
+        "name": "MLSC.6400 Quality Assurance, Control and Improvement in the Clinical and Public Health Lab (Formerly 36.640)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/6400/",
+        "id": "034606",
+        "description": "This course is designed to provide an overview of total quality management issues in the Clinical and Public Health laboratory.  Topics presented will include CLIA and quality control in the laboratory, clinical and public health laboratory QC calculations, charts and graphs, regulations involving new control lots, out-of-control QC situations, method comparison, instrument validation, and quality assurance. Emphasis will be placed on meeting all federal regulations including the FDA, state regulations, as well as meeting professional agency regulations such as JCAHO, CAP, and APHL.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students in Clin Lab Sci (MS); or Grad Certs in Clinical Pathology, Nutritional Sci, or Public Health Lab Sci;  or Coordinator permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.7330": {
+        "name": "MLSC.7330 Graduate Project - Clinical Laboratory Sciences (Formerly 36.733)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/7330/",
+        "id": "004860",
+        "description": "An independent study or laboratory project which has been approved and is under the direction of the project advisor. Projects are approved by the graduate coordinator in conjunction with the project advisor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.7340": {
+        "name": "MLSC.7340 Graduate Project - Clinical Laboratory Sciences (Formerly 36.734)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/7340/",
+        "id": "004861",
+        "description": "An independent study or laboratory project which has been approved and is under the direction of the project advisor. Projects are approved by the graduate coordinator in conjunction with the project advisor.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.7430": {
+        "name": "MLSC.7430 Master's Thesis - Clinical Lab Sciences (Formerly 36.743)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/7430/",
+        "id": "004865",
+        "description": "Analytical and/or experimental work conducted under the direction of a thesis advisor and in accordance to the Graduate School Guidelines. Students are required to submit a written proposal for approval by a thesis committee and to present an oral defense at a college seminar.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.7440": {
+        "name": "MLSC.7440 Master's Thesis - Clinical Laboratory Science (Formerly 36.744)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/7440/",
+        "id": "004866",
+        "description": "Research Design and Methodology. Analytical and/or experimental work conducted under the direction of a thesis advisor and in accordance to the Graduate School Guidelines. Students are required to submit a written proposal for approval by a thesis committee and to present an oral defense at a college seminar.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.7530": {
+        "name": "MLSC.7530 Doctoral Research (Formerly 36.753)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/7530/",
+        "id": "004867",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.7560": {
+        "name": "MLSC.7560 Doctoral Research (Formerly 36.756)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/7560/",
+        "id": "004868",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MLSC.7590": {
+        "name": "MLSC.7590 Doctoral Research (Formerly 36.759)",
+        "url": "https://www.uml.edu/catalog/courses/MLSC/7590/",
+        "id": "004869",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

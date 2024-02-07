@@ -1,0 +1,2868 @@
+{
+    "total": 144,
+    "time": 95.635751247406,
+    "PSYC.1010": {
+        "name": "PSYC.1010 Introduction to Psychological Science (Formerly 47.101)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/1010/",
+        "id": "005697",
+        "description": "An introduction course that focuses on application of the scientific method to major areas of psychology: biological, cognitive, developmental, social and personality, and mental and physical health. The course addresses the importance of social and cultural diversity, ethics, variations in human functioning, and applications to life and social action both within these areas and integrated across them. The research basis for knowledge in the field is emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.2010": {
+        "name": "PSYC.2010 Professional Development in Psychology (Formerly 47.201)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2010/",
+        "id": "039174",
+        "description": "This course in intended for psychology majors to explore pathways to success as an undergraduate in psychology, especially including information about psychology as an empirical science, and careers and graduate school in psychology. Opportunities for research and service learning will be discussed. The course is required for all students who are planning to apply to one of the Concentrations in Psychology. (Prerequisite: 9 credits of coursework in Psychology)",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.2090": {
+        "name": "PSYC.2090 Social Psychology (Formerly 47.209)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2090/",
+        "id": "005701",
+        "description": "Presents an introduction to the study of social behavior in interpersonal relationships, groups, organizations, and the community: Diversity in regard to groups of peoples, cultures, and views is emphasized. Topics include non-verbal communication, social attraction, attitudes and attitude change, group dynamics, prejudice, labeling, stereotyping, interpersonal influence, and applications to social problems.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req or Co-Req: PSYC.1010 Introduction to Psychological Science.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ]
+        }
+    },
+    "PSYC.2320": {
+        "name": "PSYC.2320 Psychology of Personality (Formerly 47.232)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2320/",
+        "id": "005703",
+        "description": "An introduction to the study of human personality. This course uses both theory and contemporary empirical evidence to examine approaches to understanding individual differences. Theoretical approaches include psychoanalytic, humanistic, cognitive, trait, type, and behavioral. Applications to topics such as self-concept, anxiety, adjustment, and achievement motivation will be considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2550": {
+        "name": "PSYC.2550 Community Psychology (Formerly 47.255)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2550/",
+        "id": "005705",
+        "description": "Surveys the field of community psychology, including principles of social justice, diversity, and social change. The course reviews historical antecedents, paradigms, conceptual models, strategies and tactics of social and community change and action; examples from selected contexts and social systems, including education, mental health, community organizations, the workplace, health care, justice system, and social services will be employed. Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2600": {
+        "name": "PSYC.2600 Child and Adolescent Development (Formerly 47.260)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2600/",
+        "id": "005706",
+        "description": "The developmental science of childhood and adolescence. Major theoretical perspectives, research methods, and ethical issues are presented with respect to prenatal development, infancy, childhood, adolescence, and the transition to adulthood. Empirical evidence for development in relevant contexts across biological, psychological, and social domains is examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2690": {
+        "name": "PSYC.2690 Research Methods (Formerly 47.269)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2690/",
+        "id": "005710",
+        "description": "An introductory course on the fundamentals of empirical research in psychological science. Instruction will promote understanding and competence in the basic vocabulary of psychological research, addressing information literacy, measurement, reliability, and validity in observed variables and unobserved constructs. Students will learn critical components of experimental, quasi-experimental, and correlational designs, as well as the basics of descriptive statistics, hypothesis and statistical testing, and matching design to analysis strategies. Students will demonstrate this knowledge through he preparation of a research proposal. Finally, this course will provide students a strong basis from which to pursue advanced coursework in a variety of methodological approaches to psychological research.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and Sophomore Status (at least 30 credits).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2720": {
+        "name": "PSYC.2720 Abnormal Psychology (Formerly 47.272)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2720/",
+        "id": "005711",
+        "description": "Presents an introduction to the study of various patterns of mental, behavioral, and personality disorders including diagnosis, etiology, and treatment. Current research-based theoretical approaches will be discussed as a means to gain a better understanding of psychological, biological, and sociocultural causes. Emphasis will be placed on the important notion that mental health problems are not only linked to individual factors, but also to family, community/social, cultural, societal, political, and historical factors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2730": {
+        "name": "PSYC.2730 Biological Psych (Formerly 47.273)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2730/",
+        "id": "005712",
+        "description": "Surveys issues and topics dealing with the physiological and evolutionary bases of behavior. Biological systems and processes that influence behavior are considered, with particular emphasis on brain mechanisms. Recent discoveries in the neurosciences will be presented. Methods of research are reviewed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2760": {
+        "name": "PSYC.2760 Theories of Learning (Formerly 47.276)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2760/",
+        "id": "005714",
+        "description": "This course provides an introduction to key concepts, theories, and experimental paradigms for studying learning and behavior in both human and non-human animals. Behavioral, cognitive, and physiological approaches are compared. You will learn about the scientific study of learning with an emphasis on how behavior changes as a function of experience. We will examine historical and current perspectives on a range of current issues of importance in the study of learning.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2770": {
+        "name": "PSYC.2770 Sensation and Perception (Formerly 47.277)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2770/",
+        "id": "005715",
+        "description": "The course focuses on human sensations and perceptions. Students will examine how people know the objects and events of the world through hearing, seeing, smelling, tasting, moving, and touching. Students will also examine the foundations of experiences which correspond to independent measures of the world (veridical) and those which do not (illusory).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.2780": {
+        "name": "PSYC.2780 Cognitive Psychology (Formerly 47.278)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/2780/",
+        "id": "005716",
+        "description": "Provides an introductory overview of the research on mental processes including but not limited to: attention, perception, memory, learning and decision-making. The course will also connect cognitive psychological research to other branches of study, as well as real world domains such as education, law, and health.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3050": {
+        "name": "PSYC.3050 Psychology and Law (Formerly 47.305)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3050/",
+        "id": "038082",
+        "description": "this course is an introduction to many topics representing major fields of study within psychology and law.  Topics may include: eyewitness testimony, lie detection, jury selection, child protection, forensic interviews, and the death penalty.  In this course, students will be exposed to the diversity of interests among legal psychologists as well as innovative and important ideas, theories, and scientific research findings.  Through readings, the study of actual cases, and presentations from guest speakers, students will gain more understanding of how psychologists study and contribute to the legal system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3080": {
+        "name": "PSYC.3080 Industrial/Organizational Psychology (Formerly 47.308)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3080/",
+        "id": "033658",
+        "description": "An introduction to the application of psychological principles and methods to the work domain.  Students will develop an understanding of the individual, social, and environmental factors as they relate to organizational performance.  Intended as an introduction to the field of Industrial/Organizational (I/O) Psychology, topics include  personnel selection and evaluation, training and development, attitudes and motivation, leadership, group dynamics, diversity, organizational structure and climate, and job design and working conditions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3120": {
+        "name": "PSYC.3120 Learning and Behavior (Formerly 47.312)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3120/",
+        "id": "005718",
+        "description": "Examines various methods and techniques suitable for the modification of human behavior, based on the principles and findings of experimental studies of animal and human behavior. Considers how such methods can be used in education, mental health and corrections, and self-directed personal change.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3280": {
+        "name": "PSYC.3280 Dynamics of Interpersonal Relations (Formerly 47.328)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3280/",
+        "id": "005720",
+        "description": "Presents an analysis of psychological dynamics in interpersonal behavior, emphasizing such topics as interpersonal communication, self-disclosure, personal styles of interaction and techniques of change. The primary focus is on the behavior of the students themselves.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010 General Psychology;  Junior or Senior level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3320": {
+        "name": "PSYC.3320 History of Psychology (Formerly 47.332)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3320/",
+        "id": "005721",
+        "description": "Examines the historical roots of psychology from the pre-scientific psychologies of the ancient Greeks to the twentieth century schools of the introspectionists, the Gestalt psychologists, and psychoanalysts. Historical resolutions of recurring issues are contrasted with modern resolutions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3330": {
+        "name": "PSYC.3330 Psychology of Consciousness (Formerly 47.333)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3330/",
+        "id": "005722",
+        "description": "Introduces students to psychological theories and studies of the mind-body dualism, mind-brain identity, and the emergence of mind. Studies of psychosomatic disease and healing imagery, sleep and hypnosis, \"subconscious\" perception and \"extra sensory\" perception, multiple personalities and \"split brain\" patients are discussed. The questions of animal awareness and computer consciousness are also considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3350": {
+        "name": "PSYC.3350 Psychology and Women (Formerly 47.335)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3350/",
+        "id": "005723",
+        "description": "Considers such topics as: the psychology of sex differences; biological bases of psychological sex differences; the nature of female sexuality; clinical theory and practice concerning women; women as mental patients and mental health consumers; implications for psychology and for women's status.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3360": {
+        "name": "PSYC.3360 Culture and Psychology (Formerly 47.336)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3360/",
+        "id": "037477",
+        "description": "Provides an analysis to the impact of culture, socio-historical, and social influences on psychological processes and outcomes.  Students will also learn about techniques for studying the influence of culture including cross-cultural methods and population-specific methods.  Through careful analysis of research literature, this class will examine a variety of contexts within the U.S. and internationally.  Topics will include identity development, immigration, acculturation, socialization, and social interactions among groups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3370": {
+        "name": "PSYC.3370 Community & Social Change",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3370/",
+        "id": "041090",
+        "description": "The course uses a community social psychology framework to help students envision and become active participants in community and social change processes. In this course, the term social change refers to intentional and active efforts to address social inequalities/oppression and promote psychosocial wellbeing. We will define and analyze social problems using social justice and strengths-based approaches, understand and evaluate various community and social change strategies, and learn how to become effective change agents. These topics will be examined through intersecting lenses of race, ethnicity, culture, gender, class, sexualities, abilities, and globalization. Particular emphasis will be placed on conceptualizing and engaging in social change efforts alongside marginalized and historically underrepresented groups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychology Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3450": {
+        "name": "PSYC.3450 Health Psychology (Formerly 47.345)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3450/",
+        "id": "005724",
+        "description": "An examination of psychological aspects of human health, both physical and mental, and the processes of adjustment and growth. Consideration is given to the interplay of health and illness with emphasis on psychological methods of overcoming and preventing illness and of enhancing physical and emotional well-being.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3510": {
+        "name": "PSYC.3510 Human Sexuality (Formerly 47.351)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3510/",
+        "id": "005725",
+        "description": "Addresses the biological, psychosocial, and attitudinal aspects of human sexuality through lectures, discussions, films from a variety of perspectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3520": {
+        "name": "PSYC.3520 Psychological Testing (Formerly 47.352)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3520/",
+        "id": "005726",
+        "description": "A survey of major tests and techniques used to assess cognitive abilities, personality and vocational interests; an introduction to the various professional settings in which testing and assessment methods are used (e.g. school/education, mental health, rehabilitation, employment and personnel selection, criminal justice). Students learn to administer, score, and interpret specific tests and learn how to develop a case study or report based on test data and related information.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3550": {
+        "name": "PSYC.3550 Sport and Exercise Psychology (Formerly 47.355)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3550/",
+        "id": "005727",
+        "description": "The course will cover topics such as motivation, arousal and anxiety in performance, performance enhancement, youth sport and family interactions, leadership, cooperation and competition, team cohesion, gender issues, exercise and mental health, and psychological factors in injury prevention and rehabilitation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3600": {
+        "name": "PSYC.3600 Adult Development and Aging (Formerly 47.360)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3600/",
+        "id": "005728",
+        "description": "Begins with an overview of recent theoretical perspectives on adult development and aging. In chronological sequence, it presents the stages of adulthood and concludes with death and dying. Topics covered include personal, family, and vocational development through adulthood, gender pattern differences, and the impact of changing demographics, including the lengthening of the life span.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PSYC 1010 General Psychology and PSYC 2600 Child & Adolescent Development.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3610": {
+        "name": "PSYC.3610 Developmental Psychopathology (Formerly 47.361)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3610/",
+        "id": "005729",
+        "description": "Examines behavior problems of childhood and adolescence across developmental transitions with a focus on the interaction of risk and protective factors in the child and his or her social context (e.g., family, school, friendships).  Problems such as depression, anxiety, conduct disorder, ADHD, learning disabilities, and the consequences of trauma and maltreatment are addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PSYC 1010 General Psychology and PSYC 2600 Child & Adolescent Development.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3620": {
+        "name": "PSYC.3620 Psychology of Developmental Disabilities (Formerly 47.362)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3620/",
+        "id": "033583",
+        "description": "This course examines a range of developmental disabilities, their etiology, consideration of underlying brain function, assessment procedures, and current diagnostic, treatment and educational approaches.  In addition, the impact of disability on individuals and the families of those affected, cultural and social aspects of disability, and current practices in service provision will be considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3630": {
+        "name": "PSYC.3630 Introduction to Disability Studies (Formerly 47.363)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3630/",
+        "id": "005730",
+        "description": "This course provides students with a wide range of interests and backgrounds with the opportunity to examine their own mental model(attitudes/values/ assumptions) of disability.  It includes an overview of the nature of intellectual disability and other disabilities and it provides opportunities to explore and understand the historical social response to disability.  Students will look at a range of strategies for providing support and intervention and they will learn about how to effect change through a variety of strategies, including advocacy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre Req: PSYC.1010, General Psychology; student may not enroll if already has credit for 59.363.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3640": {
+        "name": "PSYC.3640 Family Systems",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3640/",
+        "id": "041622",
+        "description": "This course presents a systems model in considering families as they influence, and are influenced by, their members. We will explore theoretical foundations and examine empirical evidence to consider a variety of family systems, structures, and dynamics in the social context and across development, including topics such as culture, gender, sexual orientation, socioeconomic status, disability, foster care, adoption, education, work , and community.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Introduction to Psychological Science, and PSYC.2600 Child & Adolescent Development.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3680": {
+        "name": "PSYC.3680 Psychology of Decision-Making",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3680/",
+        "id": "039825",
+        "description": "We spend billions of dollars every year to address issues caused by poor decisions: jurors convict innocent defendants, employees do not adequately contribute to retirement accounts, young adults smoke cigarettes, etc. Why do people make irrational decisions? This course will provide a comprehensive overview of decision making with an emphasis on applying psychological theory and research to tackle issues in the areas of law, economics, health, etc. Students will learn theoretical concepts to improve their own decision-making as well as help them to positively influence the decisions of others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3690": {
+        "name": "PSYC.3690 Research Statistics (Formerly 47.369)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3690/",
+        "id": "005733",
+        "description": "An intermediate level course building on competence in quantitative reasoning skills and the fundamentals of research methods, and focusing on descriptive and inferential statistics and their application and interpretation. The course will include basic computational approaches; the primary goal is for students to develop the ability to articulate and apply statistical concepts, and communicate statistical results. The course includes topics in basic inferential statistics from z-scores up to and including chi-square and factorial ANOVA. Students will learn to use a database and conduct statistical analyses using standard software packages.  Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.2690 Research Methods with a passing grade of 'D' or better.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.3720": {
+        "name": "PSYC.3720 Comparative Psychology: Animal Behavior (Formerly 47.372)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/3720/",
+        "id": "005735",
+        "description": "Comparative psychology is a discipline that explores the behavior of animals, both human and non-human, using evolutionary theory as a unifying principle. The contributions of evolutionary pressures, genetics, development, learning, and social influence will be explored in variety of animal species and cross-species comparisons made where appropriate. Specific topics covered will include causes and development of behavior, control and organization of behavior, behavioral adaptations, mating systems and reproduction, parental care, defensive behaviors, aggression, foraging, communication, and animal cognition. Students will be required to complete a behavioral observation of a non-human species by traveling to a local zoo or using another live animal observation approach approved by the instructor. (e.g.,a zoo's live animal webcam).\"",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4690": {
+        "name": "PSYC.4690 Research Laboratory (Formerly 47.375 and PSYC.3750)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4690/",
+        "id": "005738",
+        "description": "An advanced course in which students design and carry out an empirical research project from start to finish, resulting in an individually written research report using APA style and an oral presentation. The primary goal is for students to experience discovery by completing an original study that reasonably extends the prior research literature. Topics may vary, reflecting the interests of the instructor. Students will perform literature reviews; formulate a research question; operationalize variables; develop research designs; obtained ethical review and approval; and collect, analyze, and interpret data. Students will also demonstrate knowledge of the research process in assessments that may include assignments, quizzes, or exams.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.2690 Research Methods, and PSYC.3690 Research Statistics, with a 'C' or higher in both.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.2690"
+                ],
+                [
+                    "PSYC.3690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4710": {
+        "name": "PSYC.4710 Seminar in Community Psychology",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4710/",
+        "id": "039826",
+        "description": "An advanced seminar to consider special topics in community psychology with special focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Specific topics will vary and may include such topics as racism, diversity, empowerment, and social change in the contest of social and community life. This is a writing intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4711": {
+        "name": "PSYC.4711 Seminar in Community Psychology: Racism",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4711/",
+        "id": "040479",
+        "description": "An advanced seminar to consider special topics in community psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. The topic of this seminar is racism. In this course we will investigate roots of racism, kinds of racism, reasons for perpetuation of racism, possible solutions to ending racism. Many believer that racism is a thing of the past. Yet, research shows that many of us are unconsciously racist and hurt communities of color without any malicious intent. We will explore our own posting in terms of racism. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4712": {
+        "name": "PSYC.4712 Seminar in Community Psychology: Immigration",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4712/",
+        "id": "040480",
+        "description": "An advanced seminar to consider special topics in community psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. The topic of this seminar is immigration, a very important issue in the United States and around the world. In this seminar we will study the complex process of migration from a community social psychological point of view. Motivations, expectations, acculturation, immigrant status, deportations, policy and more will be covered. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4713": {
+        "name": "PSYC.4713 Seminar in Community Psychology: Prevent Youth Violence",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4713/",
+        "id": "040481",
+        "description": "An advanced seminar to consider special topics in community psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. The topic of this seminar is youth violence, which continues to be a major public health concern in the United States. Preventing youth violence is an important component of creating peaceful and safe neighborhoods and just communities. In this course, we will use ecological and multicultural perspectives to understand different types of youth violence, the contexts in which they occur, and intervention strategies to address the violence. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4714": {
+        "name": "PSYC.4714 Seminar in Community Psychology: Bridging Differences",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4714/",
+        "id": "040482",
+        "description": "An advanced seminar to consider special topics in community psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This course explores dilemmas that can emerge when working to bridge diverse groups in community-based work. The seminar will be organized around narratives that address multiple dimensions of diversity including race, ethnicity, gender, class, sexual orientation, disability, and religion. Too often, guidelines for addressing very complex diversity dynamics are presented as neatly packaged lists of recommendations. However, it is within the stories of the challenges and dilemmas that the complexity of the political, historical, social, and psychological dynamics of diversity are most evident. Students will explore examples of everyday diversity challenges and utilize psychological theories to better understand how the challenges can be shaped by struggles over limited resources, deep historical conflicts between groups, privilege dynamics, intragroup dynamics, organizational cultural norms, and/or other issues. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4720": {
+        "name": "PSYC.4720 Seminar in Personality Psychology (Formerly 47.472)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4720/",
+        "id": "030882",
+        "description": "Focuses on a variety of  theoretical conceptualizations of the productive personality, psychodiagnostic tools and techniques and case histories.   Students develop and enhance their professional skills with respect to presentation of self, writing, and psychological diagnostic techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4730": {
+        "name": "PSYC.4730 Seminar in Social Psychology (Formerly 47.473)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4730/",
+        "id": "005748",
+        "description": "An advanced seminar to consider special topics in social psychology, with special focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Specific topics will vary and may include such topics as social aspects of health and illness; inequalities in education; the impact of globalization; attitude formation and prejudice; and psychology of sex roles. This is a writing intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4731": {
+        "name": "PSYC.4731 Seminar in Social Psychology: Social (In)justice",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4731/",
+        "id": "040483",
+        "description": "An advances seminar to consider special topics in social psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. The topic of this seminar is social injustice, its causes, manifestations, explanations, and social psychological theories that help us understand them. We will explore how and why social injustice prevails in today's world full of resources; why small number of people own majority of world's wealth; why some countries are poorer than others. We will study our own standpoints and where they come from and we will work on possible remedies that could lead to a more just world.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4732": {
+        "name": "PSYC.4732 Seminar in Social Psychology: Achievement Motivation",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4732/",
+        "id": "040484",
+        "description": "An advanced seminar to consider special topics in social psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This course will cover psychological theory and research on the various factors that explain people's motivation to achieve and their performance in different domains. These factors include emotions, needs, personality, efficiency, group membership, identity, goal type, and context. Course goals include honing students' ability to understand, critique, write about, and discuss theoretical and empirical papers within psychology. Students will also develop their skills in generating testable hypotheses. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4733": {
+        "name": "PSYC.4733 Seminar in Social Psychology: the Mind-Body Perspective in Communication",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4733/",
+        "id": "040485",
+        "description": "An advanced seminar to consider special topics in social psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar will focus on the role communication processes (including Intra-Personal, interpersonal, and Mediated-Communication) play in a variety of health related contexts, effects, and processes. Included will be: Self-regulation theories; placebo and nocebo effects; unconscious processes; biofeedback effects and mechanisms; hypnosis; imagery; pain management; emotion regulation; well-being; and the ability to consciously influence autonomic processes such as the immune and endocrine systems. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4734": {
+        "name": "PSYC.4734 Seminar in Social Psychology: Health Campaigns",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4734/",
+        "id": "040486",
+        "description": "An advanced seminar to consider special topics in social psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar will review the stat of the science and art of effective medial health campaigns in light o how they are developed, delivered, and evaluated. Seminar participants will discuss and critically analyze campaigns relative to their effects on health-related awareness, knowledge, attitudes, and behaviors. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4735": {
+        "name": "PSYC.4735 Seminar in Social Psychology: Workplace Diversity",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4735/",
+        "id": "040487",
+        "description": "An advanced seminar to consider special topics in social psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Over the course of our lives, many of us will be working in organizations that include diverse workers, and thus it is important to understand the issues that shape interpersonal and system dynamics within such settings. In this seminar, we review theories and research relevant to how race, ethnicity, class, gender, sexual orientation, and disability dynamics affect workplace systems. Classes will be highly interactive and discussion-oriented as students learn about the challenges diverse organizations face in fostering positive working relationships and about strategies adopted to enhance the effectiveness of the diverse workplace. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4736": {
+        "name": "PSYC.4736 Seminar in Social Psychology: Psychology of Sustainability",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4736/",
+        "id": "040488",
+        "description": "An advanced seminar to consider special topics in social psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. In this course we will explore unequal distribution of resources and power and the culture of consumerism in all parts of the world, including the United States. Once people are aware can make informed choices about what and why and how much they buy, about the companies that produce and sell the products and the political views they support. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4740": {
+        "name": "PSYC.4740 Seminar in Developmental Psychology (Formerly 47.474)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4740/",
+        "id": "005749",
+        "description": "An advanced seminar to consider special topics in developmental psychology, with special focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Specific topics will vary and may include such topics as psychology of the family and parent-child relations; infant development; adjustment during adulthood; and death and dying. This is a writing intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2600 Child & Adolescent Development, and PSYC.2690 Research I; Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4741": {
+        "name": "PSYC.4741 Seminar in Developmental Psychology: Adolescent Identity",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4741/",
+        "id": "040489",
+        "description": "An advanced seminar to consider special topics in developmental psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar will explore the phenomenon of adolescent identity development, beginning with Erik Erikson's seminal work on the subject and continuing through contemporary treatments. We will examine development of identity from extended consciousness, a sense of autobiographical self (1-2 years), to a theory of mind (4-5 years), conception of a personal fable (10-14 years), and the emergence of full life stories (17-25 years). Specific issues of focus will include ethnic, social class, and gender role identity development, identity crises and resolutions, and representations of relationships with family, friends, school, and work. Students will write and analyze their own life stories, as well as lead discussions, and prepare a research paper. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2600 Child & Adolescent Development, and PSYC.2690 Research I; Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4742": {
+        "name": "PSYC.4742 Seminar in Developmental Psychology: Psychology of Education",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4742/",
+        "id": "040490",
+        "description": "An advanced seminar to consider special topics in developmental psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar takes an intensive look at the psychology of education and of learning. We will read about theories of education, research on learning, and study some historical and current trends in both formal education (school) and informal learning environments (hobby subcultures, museums,camps, etc). Readings will include both historical examples (John Dewey, Jane Addams, Paolo Friere) and schooling systems, and policymakers in higher education. In addition to reading, class discussion, and engaging hands on exercises, students will plan and deliver a term-length creative project on the psychology of learning and education. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2600 Child & Adolescent Development, and PSYC.2690 Research I; Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4743": {
+        "name": "PSYC.4743 Seminar in Developmental Psychology: Trauma in Child Development",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4743/",
+        "id": "040491",
+        "description": "An advanced seminar to consider special topics in developmental psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Trauma is a relatively common experience of childhood. Far too many children and youth in the US are witnesses to domestic violence and victims of abuse, neglect, and other violent crimes. Worldwide, millions of children have been disabled, injured, orphaned, or recruited as child soldiers in armed conflicts. When natural disasters strike, children are often among those affected most severely. How do these experiences influence subsequent growth and development? This seminar examines the role of trauma in child development form an ecological perspective with a focus on neurophysiological, affective, and relational systems. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2600 Child & Adolescent Development, and PSYC.2690 Research I; Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4750": {
+        "name": "PSYC.4750 Seminar in Clinical Psychology (Formerly 47.475)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4750/",
+        "id": "005750",
+        "description": "An advanced seminar to consider special topics in clinical psychology, with special focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Specific topics will vary and may include such topics as health psychology and behavioral medicine; the nature and causes of or interventions for specific psychological disorders (e.g.,autism spectrum disorder, schizophrenia); the community mental health movement; clinical methods of assessment. This is a writing intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4751": {
+        "name": "PSYC.4751 Seminar in Clinical Psychology: Women's Health",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4751/",
+        "id": "040492",
+        "description": "An advanced seminar to consider special topics in clinical psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Physical health and illness do not occur in a vacuum. Rather, they are embedded in a complex and dynamic system. This biological (e.g., disease process), psychological (e.g., mental health status) and social (e.g., culture) factors. Topics will include reproductive health, cardiovascular illness, substance use, and eating behaviors. Sexual orientation, race, socioeconomic status and other issues of diversity will be integrated throughout the semester. Students will learn from reading and discussing scholarly articles and book chapters, critically watching relevant videos, and writing individual literature review papers. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4752": {
+        "name": "PSYC.4752 Seminar in Clinical Psychology: Autism",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4752/",
+        "id": "040493",
+        "description": "An advanced seminar to consider special topics in clinical psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Autism spectrum disorder (ASD) is a complex neurological disorder that typically appears before the age of three and immediately and profoundly affects a young child's ability to communicate, develop language, form social relationships and respond appropriately to environmental cues. Over the last 15-20 years, autism has received an increasing level of attention in both scientific arenas and the popular press. Most recent estimates are that about 1 in 50 children are affected. This seminar will examine issues in the etiology, characteristics and treatment of autism and related developmental disabilities. The seminar will also explore some of the more prominent theories and controversies surrounding these disorders. Much of the seminar will be focused on a behavioral approach to understanding and treating children with autism and significant intellectual challenges. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4753": {
+        "name": "PSYC.4753 Seminar in Clinical Psychology & Behavioral Medicine",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4753/",
+        "id": "040494",
+        "description": "An advanced seminar to consider special topics in clinical psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This course examines physical health and illness by integrating information about biological processes, psychological characteristics, and social contexts. We will discuss the following topics throughout the course: the roles of personality, emotion, mental health, and human development in physical well-being; the relationship between health psychology and other disciplines such as nursing, anthropology and genetics; the significance of prevention and public policy in physical health; and the ways in which health psychology is important in a variety of health problems, such as heart disease, cancer, and obesity. This i s a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4754": {
+        "name": "PSYC.4754 Seminar in Clinical Psychology: Language Assessment and Intervention in Autism",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4754/",
+        "id": "040495",
+        "description": "An advanced seminar to consider special topics in clinical psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This course is designed to provide students with a working knowledge of behavioral language assessments and empirically validated interventions to improve language and communication for young children with autism and related disabilities. Successful completion of the course will help prepare students for a position as a behavior technician. Students will participate in class discussions, presentations, and application activities throughout the semester. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4755": {
+        "name": "PSYC.4755 Seminar in Clinical Psychology: Autism in Adolescents & Young Adults",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4755/",
+        "id": "040496",
+        "description": "An advanced seminar to consider special topics in clinical psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar will focus on adolescents and young adults on the \"high-functioning\" end of the autism spectrum. Students will learn the behavioral and psychological characteristics associated with this population, diagnostic procedures, etiology, consider various interventions for this population, and discuss current controversies in the field. We will also consider the impact of autism spectrum disorders (ASD) on individual and their families. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4756": {
+        "name": "PSYC.4756 Seminar in Clinical Psychology: Sexual Offending",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4756/",
+        "id": "040497",
+        "description": "An advanced seminar to consider special topics in clinical psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. The purpose of this course is to examine current psychological theory and research relating to the causes and consequences of sexual aggression. It is designed to acquaint you with some of the key issues, questions, and findings in this field, as well as to allow you to develop some of the critical skills needed by research psychologists. The course is organized topically. We begin by reading and thinking about the social construction of masculinity and femininity (especially through representations in the media) and how these constructions might contribute to sexual aggression. The bulk of the course is devoted to an examination of psychological processes related to victimization and perpetration. The course concludes with a discussion of several special topics and an examination of rape prevention and education. Special topics may include a focus on juvenile and female offenders, specific risk factors for perpetration, campus sexual assault, pedophilia, child maltreatment, pornography, recidivism rates, offender laws, and victim testimonies. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4770": {
+        "name": "PSYC.4770 Seminar in Contemporary Trends (Formerly 47.477)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4770/",
+        "id": "001242",
+        "description": "An advanced seminar to consider current trends in psychology, with special focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Specific topics will vary and may include such topics as contemporary models of addictive behavior; the interaction of psychology and law; existential psychology; psychology of technological change. This is a writing intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PSYC.1010 Intro to Psychological Science and PSYC.2690 Research I:Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4771": {
+        "name": "PSYC.4771 Seminar in Contemporary Trends: Addictions",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4771/",
+        "id": "040498",
+        "description": "An advanced seminar to consider special current topics in psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. The focus of this seminar is on the psychology of addictions. Drawing upon current theory and research, we will look at the nature and causes of the problem behaviors associated with alcohol and drug use. We will also consider whether problems in such areas as shopping, eating, gambling, sex, video games, and the Internet can be understood as forms of addictions. In addition, we will examine the implications of whether or not such addictions should be viewed as diseases, and we will evaluate the relative importance of biological, psychological and socio-cultural factors. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2320 Psychology of Personality, or PSYC.2720 Abnormal Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2320",
+                    "PSYC.2720"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4772": {
+        "name": "PSYC.4772 Seminar in Contemporary Trends: Psychology & Law",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4772/",
+        "id": "040499",
+        "description": "An advanced seminar to consider special current topics in psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This course is an introduction to many topics representing major fields of study within psychology and law. Topics may include: eyewitness testimony, lie detection, jury selection, child protection, forensic interviews, and the death penalty. In this course, students will learn about the diversity of interests among legal findings. The main goal is to provide students with an understanding of relevant theory, empirical findings, and research methodology. Guest speakers will enhance learning. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2690 Research I: Methods, and PSYC.3050 Psychology and Law.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2690"
+                ],
+                [
+                    "PSYC.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4773": {
+        "name": "PSYC.4773 Seminar in Contemporary Trends: Generational Identities and Relations",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4773/",
+        "id": "040500",
+        "description": "An advanced seminar to consider special current topics in psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar will focus on generational identities and intergenerational relations. Generation is an important dimension of human experience in modern societies and a key aspect of self-identity, but it is also linked to tensions and misunderstandings between people of different ages. Specific topics to be addressed include: cultural and historical differences in ideas about generation and cohort; the development of generational identities: generation, mass marketing, and consumerism; the politics of generation and intergenerational tensions; bilateral socialization and positive intergenerational exchange; similarities and differences between Baby Boomers. Gen-X'ers, and Millennials; ageism and age segregation, and; generativity and the future of our planet. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2600 Child & Adolescent Development, and PSYC.2690 Research I; Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2600"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4774": {
+        "name": "PSYC.4774 Seminar in Contemporary Trends: Psychology of Globalization",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4774/",
+        "id": "040501",
+        "description": "An advanced seminar to consider special current topics in psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar will focus on the social and psychological effects of globalization. Specifically, we will address how processes of globalization impact psychological functioning and development (including in the areas of identity, personality, mental health, and aging), social relations, and organizational and community dynamics. We will also explore the implications of global economic and environmental change for human rights and social and economic justice. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2090 Social Psychology, or PSYC.2550 Community Psychology, and PSYC.2690 Research I: Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2090",
+                    "PSYC.2550"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4780": {
+        "name": "PSYC.4780 Seminar in Cognitive Psychology (Formerly 47.478)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4780/",
+        "id": "039175",
+        "description": "An advanced seminar to consider special topics in cognitive psychology, with special focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Specific topics will vary and may include such topics as attention and memory; mental imagery; decision-making; language; applications of cognitive psychology to education. This is a writing intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2690 Research I: Methods, and PSYC.2780 Cognitive Psychology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2690"
+                ],
+                [
+                    "PSYC.2780"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4781": {
+        "name": "PSYC.4781 Seminar in Cognitive Psychology: Educational Applications",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4781/",
+        "id": "040502",
+        "description": "An advanced seminar to consider special topics in cognitive psychology with focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. This seminar is designed to give you an in-depth look into the impact of cognitive psychology on education. We will look at basic processes, including those of attention, memory, and motivation, starting first from basic theoretical principles. We will then read papers that have taken these theoretical principles as a starting point and applied them to real-life issues in education, such as exam performance and students' self-evaluations of their own performance. This is a writing-intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2690 Research I: Methods, and PSYC.2780 Cognitive Psychology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2690"
+                ],
+                [
+                    "PSYC.2780"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4790": {
+        "name": "PSYC.4790 Seminar in Behavioral Psychology",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4790/",
+        "id": "040116",
+        "description": "An advanced seminar to consider special topics in behavioral psychology, with special focus on critique of the theoretical and empirical literature, identification of future research pathways, and the potential for application with consideration of ethics and social responsibility. Specific topics will vary and may include such topics as conceptual issues in behavioral psychology; applied behavior analysis; and the applications of behavioral psychology to education, language, symbolic behavior, and attention. This is a writing intensive course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Intro to Psychological Science, and PSYC.2690 Research I: Methods, and PSY.2760 Theories of Learning, or PSYC.3120 Learning and Behavior.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2690"
+                ],
+                [
+                    "PSYC.3120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4800": {
+        "name": "PSYC.4800 Concentration Practicum I (Formerly 47.480)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4800/",
+        "id": "005752",
+        "description": "This is the first course in a two-course sequence that accompanies that required field placement for undergraduate psychology majors who are registered in a concentration. Practicum I must be taken before Practicum II. The accompanying field placement may either be a research or a service practicum. This is a general course, which will fulfill the requirement for students in any concentration. The course will focus integrating student placement experiences with relevant empirical literature. Topics will draw on the research literature to frame the placement experience and will include working in diverse environments, becoming aware of organizational structures, responding to work related stress, and understanding how the science of psychology applies to the placement. Students will also integrate their placement experiences with the empirical literature from their respective concentrations by identifying and reviewing empirical work that addresses some aspect of their practicum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.2010 Professional Development in P, and a 'C' or higher in PSYC.2690 Research I: Methods, or Spring 2020 grade of 'P', and Junior Standing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.2010"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4810": {
+        "name": "PSYC.4810 Concentration Practicum II (Formerly 47.481)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4810/",
+        "id": "005753",
+        "description": "This is the second course in the two-course sequence that accompanies the required field placement for undergraduate psychology majors who are registered in a concentration. This course can only be taken after the successful completion of PSYC.4800 Concentration Practicum I, in the previous term. The field placement may either be a research or a service practicum. This is a general course, which will fulfill the requirement for students in any concentration. The second course will focus developing a research paper that integrates the empirical literature with the placement experience. The course will continue to focus on topics including working in diverse environments, working within organizations, responding to work related stress, understanding how the science of psychology applies to the placement, and writing informally and formally about placement experiences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.4800 Concentration Practicum I, with a grade of 'B' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.4800"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4820": {
+        "name": "PSYC.4820 Dvptl Disabilities Fieldwork: Service Provision",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4820/",
+        "id": "040719",
+        "description": "In this fieldwork course we explore standards for support and service provision within human services and compare experiences in field placements with these standards, seeking to understand the forces that support or interfere with realizing best practices in disability services. The foundation for this blended learning course (half the classes meet in-person, half online) will be 60 hours fieldwork with an individual with an intellectual/developmental disability. This course integrates course material with field placement experiences through presentation, discussion, group work, case study, and video materials that address course objectives. Each student will have the time to develop an understanding of a person with I/DD, and how individualized planning can facilitate social inclusion.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4830": {
+        "name": "PSYC.4830 Dvptl Disabilities Fieldwork: Leadership & Advoc",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4830/",
+        "id": "040720",
+        "description": "In this fieldwork course we explore standards for support and service provision within formal services and compare experiences in field placements with these standards, seeking to understand the forces that support of interfere with realizing best practices. The foundation for this blended learning course (half the classes meet in person, half online) will be 60 hours of fieldwork within a human service organization or educational setting for people with an intellectual/developmental disability. This course provides a critical examination of the nature of organizations and the impact of leadership and advocacy on the lives of people with disabilities through integrating course material with fieldwork experiences through presentation, discussion, group work, case study, and video materials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.1010  Intro to Psychological Science .",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4860": {
+        "name": "PSYC.4860 Community Service Learning (1, 2, or 3 credits) (Formerly 47.486/586)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4860/",
+        "id": "005756",
+        "description": "Students will take an applied role in the community where they will have the opportunity to provide some form of meaningful service to individuals, groups or communities.  Students will meet regularly with a designated faculty member on campus to consider their experiences in the context of current psychological thought.  In some instances, the commitment to community service may extend over the course of a full year.  Graded as Satisfactory or Unsatisfactory.  1, 2 or 3 credits.  This course may be repeated but no more than 12 credits total from any combination of PSYC.4860, PSYC.4880 and PSYC.4910  may be counted toward the degree.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.1010 Introduction to Psychological Science, and Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4880": {
+        "name": "PSYC.4880 Research Service Learning (Formerly 47.488)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4880/",
+        "id": "036769",
+        "description": "Students will take an applied role in faculty supervised research where they will provide a meaningful contribution to a research program or particular study.  Students will meet regularly with a designated faculty member to discuss the research process and rationale for relevant components of the project including literature review, research design, procedures, data collection, entry, and analysis.  In some instances the commitment to research  may extend over the course of a full year.  Graded as Satisfactory or Unsatisfactory,  1, 2, or 3 credits.  This course may be repeated but no more than 12 credits total from any combination of psyc.4860, PSYC.4880, and PSYC.4910 may be counted toward the degree.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.4910": {
+        "name": "PSYC.4910 Directed Study: Psychology (Formerly 47.491)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4910/",
+        "id": "005757",
+        "description": "Through frequent consultation with the instructor, the student carries out the investigation of a particularly specialized area of interest. This course may be repeated, but no more than 12 credits from any combination of PSYC.486, PSYC.488, and PSYC.491 may be counted toward the degree.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PSYC.1010 Intro to Psychological Science and PSYC.2690 Research I:Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.1010"
+                ],
+                [
+                    "PSYC.2690"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4920": {
+        "name": "PSYC.4920 Undergraduate Thesis in Psychology I",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4920/",
+        "id": "040871",
+        "description": "For undergraduate students actively engaged in research leading toward the submission of a written thesis. Under faculty supervision, students will conceptualize and conduct an original, empirical study, refining and sharpening their research, presentation, and writing skills. A program of supervised work will be arranged between the student and a faculty supervisor, leading to the completion of an introduction and literature review, research plan, and IRB proposal.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre or Co-req: PSYC.3750 Research III: Laboratory, and Senior Level, Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.3750"
+                ]
+            ]
+        }
+    },
+    "PSYC.4930": {
+        "name": "PSYC.4930 Undergraduate Thesis in Psychology II",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4930/",
+        "id": "040872",
+        "description": "For undergraduate students actively engaged in research leading toward the submission of a written thesis. Under faculty supervision, students will conceptualize and conduct an original, empirical study, refining and sharpening their research, presentation, and writing skills. A program of supervised work will be arranged between the student and a faculty supervisor, leading to the completion and presentation of a written thesis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.4920 Undergraduate Thesis in Psychology I, with a grade of 'B' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.4920"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.4960": {
+        "name": "PSYC.4960 Practicum in Psychology (Formerly 47.496)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/4960/",
+        "id": "005759",
+        "description": "A program of practical experience for Psychology majors only. Specific requirements vary, but the Practicum experience enables Junior and Senior level students to work and study in a variety of areas related to psychological practice and research (mental health agencies, community agencies and groups, work settings, schools, prisons, group homes, etc.).  Students meet regularly as a class on campus with the designated instructor to discuss their experiences and to learn more about the settings in which psychologists practice and the challenges that psychologists confront.  Practicum may be repeated for a maximum of nine credits.   Graded Satisfactory or Unsatisfactory. (Field Placement Required)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.2720 Abnormal Psychology; and Junior or Senior level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.2720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5000": {
+        "name": "PSYC.5000 Introduction to Community  Social Psychology) (Formerly 47.500)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5000/",
+        "id": "005760",
+        "description": "Introduces history and contemporary trends of community and social psychology with focus on how social and environmental forces affect individual and group quality of life. This course surveys the history, theoretical frameworks, core values, methods/approaches and orienting concepts in the field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Master's program in Community Social Psychology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5010": {
+        "name": "PSYC.5010 Applied Developmental Psychology (Formerly 47.501)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5010/",
+        "id": "005761",
+        "description": "Provides a life span developmental perspective on individual and social adaptation and change. Examines appropriate theory and research, and illustrates the influences of environmental, social and cultural factors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5020": {
+        "name": "PSYC.5020 Seminar in Community Social Psychology (Formerly 47.502)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5020/",
+        "id": "005762",
+        "description": "Offered from time to time to highlight specialized areas of faculty interest and to acquaint the student with new developments from a broad range of current psychological theory and research and how these developments might affect social and community life.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5030": {
+        "name": "PSYC.5030 Applied Social Psychology (Formerly 47.503)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5030/",
+        "id": "005763",
+        "description": "Introduces students to social psychology as an applied discipline. Covers such applied topics as attitude change, aggression, helping behavior, attribution, and interpersonal influence.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5040": {
+        "name": "PSYC.5040 The Family System (Formerly 47.504)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5040/",
+        "id": "005764",
+        "description": "Studies family processes and the interplay between the family and other social, cultural, and socio-economic systems. Topics include parental roles, changing family structures, racial and ethnic factors, and interactions between family, work, and community.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5090": {
+        "name": "PSYC.5090 Psychological Approaches to Child Maltreatment (Formerly 47.509)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5090/",
+        "id": "035082",
+        "description": "The course addresses the painful topic of Child Maltreatment in the context of research on optimal, typical, and unacceptable treatment of children, as maltreatment cannot be considered apart from acceptable and even optimal treatment.  The impact of maltreatment on the development of the child from the first growth of physical organs in the prenatal infant through the development of moral reasoning in the adolescent is addressed.  Both theories and research will be discussed.\t",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5120": {
+        "name": "PSYC.5120 Applied Research Methods (Formerly 47.512)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5120/",
+        "id": "005767",
+        "description": "Considers strengths and limitations of various approaches to community and social psychological research. Develops skills for formulating research questions and translating them into practical study designs. Sensitivity to research ethics as well as research practicality and validity are emphasized. Pre- or Co-requisite: 47.500",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req or Co-Req: PSYC.5000 Intro to Community Soc Psych.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.5000"
+                ]
+            ]
+        }
+    },
+    "PSYC.5220": {
+        "name": "PSYC.5220 Psychology of Diversity (Formerly 47.522)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5220/",
+        "id": "005770",
+        "description": "This course introduces students to theoretical, philosophical and experiential frameworks for thinking about diversity in our communities and society. It includes an examination of the experiences of diverse groups, especially traditionally oppressed groups and individuals. This course is designed to engage students in a process of introspection and self-examination about issues such as racism, sexism, classism, and homophobia. Emphasis will be placed on challenging one's own world view and the way it fits into institutional oppression, as well as the way it may affect our work as community change agents.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5230": {
+        "name": "PSYC.5230 Women in the Community (Formerly 47.523)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5230/",
+        "id": "005771",
+        "description": "An examination of women's roles in the home, community, and work place; examines psychological consequences, social structural influences, and options for change. Topics include: housework and childcare; violence against women; work place stratification issues; and women's contributions to their communities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5260": {
+        "name": "PSYC.5260 Workplace Diversity ( Formerly 47.526)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5260/",
+        "id": "030411",
+        "description": "This course will explore the challenges presented by the increasingly diverse workforce within the United States.  Students will consider how work groups and organizations can effectively incorporate a diversity of perspectives.  Students will consider issues of oppression, discrimination and bias, with particular attention paid to the situation here in the Merrimack Valley.  There will also be some focus on personal awareness and the development of skills for addressing diversity concerns.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5270": {
+        "name": "PSYC.5270 Immigrant Psychology and Communities (Formerly 47.527)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5270/",
+        "id": "033083",
+        "description": "This course will focus on the immigrant experience and the various immigrant groups in the United States with emphasis on recent immigrants in Lowell and Massachusetts.  Theories of acculturation and adaptation to a new cultural environment will be extensively examined in the course.  An experiential approach will be integrated throughout the course via the incorporation of guest speakers, films, autobiographies/novels, and food.  Students will have ample opportunities to read, reflect, discuss and write about the immigrant experience.  As our country is a country of immigrants, this course should have relevance to anyone working in the community.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5420": {
+        "name": "PSYC.5420 Working  with Groups (Formerly 47.542)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5420/",
+        "id": "005783",
+        "description": "This course uses a community-based approach to working with groups. Guided by an understanding of theoretical principles, students will gain insights about group dynamics and process. Students will develop and apply various skills, including assessment, enhanced communication, conflict resolution, problem solving, decision-making, and evaluation. Emphasis is placed on working within diverse groups, attaining outcomes, and utilizing resources. Organizational, prevention/intervention, and focus groups are examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5430": {
+        "name": "PSYC.5430 Psychology and Law (Formerly 47.543)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5430/",
+        "id": "039124",
+        "description": "This course focuses on applications of psychological research and practice to the legal system. Drawing from the areas of social, cognitive, developmental, clinical, and neuropsychology, students will critically examine the legal process and compare the law's informal theories of human behavior to what psychologists know on the basis of theories and research. Topics covered include including the practice of scientific jury selection, jury deliberation and decision-making, police interrogations and confessions, use of the polygraph as a lie-detector test, eyewitness testimony, repressed and recovered memories, the use of hypnosis, child witnesses in sex abuse cases, the death penalty, the insanity defense, and the role of psychologists as trial consultants and expert witnesses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5450": {
+        "name": "PSYC.5450 Community and Organizational Change (Formerly 47.545)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5450/",
+        "id": "005784",
+        "description": "A review of skills, techniques, and qualities associated with effective community and organizational interventions. Topics include the possibility and desirability of change, methods for studying change, assessment of needs and resources, visioning and planning, membership recruitment and retention, strategy and tactics, leadership styles, publicizing, funding, advocacy, evaluation techniques, and the personal qualities of the change agent. Both cultural factors and the community context of interventions will be discussed. Application to specific cases will be made. Students will have the opportunity to apply course material to settings outside the classroom.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5460": {
+        "name": "PSYC.5460 Grant Writing (Formerly 47.546)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5460/",
+        "id": "005785",
+        "description": "This course will be a hands-on course in grant writing.  One of the first lessons that you will learn is that grant writing is only to a small degree about writing.  Successful grants emerge from working effectively with others to draw out ideas, capture those ideas to create a program or a plan for research, show how the plan is an appropriate one to respond to the \"Request for Proposals\", and package those ideas so that they make sense to the people who will review the proposal.  Grant writing is increasingly a team building activity.  Whether or not you obtain the funding is sometimes less important than the networking and planning that you do as a part of developing a grant proposal.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Community Social Psychology  & Economic Social Regional Development Majors only or permission of instructor/chair.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5610": {
+        "name": "PSYC.5610 Introduction to Behavioral Intervention in Autism (Formerly 47.561)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5610/",
+        "id": "032169",
+        "description": "This course provides an introduction to the causes and diagnosis of autism, scientific validation, applied behavior analysis, and ethical treatment.   Students also learn to write functional objectives, plan positive reinforcement, and design an applied measurement system in the context of developing Individualized Family Service Plans and Individualized Education plans.  The issue of culturally appropriate interventions is addressed  Prerequisite:  coursework in the psychology of child development, or permission.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5611": {
+        "name": "PSYC.5611 Introduction to Behavioral Intervention in Autism for 3rd",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5611/",
+        "id": "040643",
+        "description": "This course is for students who took 5610 prior to fall 2014 and who need additional hours to qualify for the BCBA exam. It provides an introduction to the causes and diagnosis of autism, scientific validation, applied behavior analysis, and ethical treatment. Students also learn to write functional objectives, plan positive reinforcement, and design an applied measurement system in the context of developing individualized Family Service Plans and Individualized Education plans. The issue of culturally appropriate interventions in addressed Prerequisite: coursework in the psychology of child development, or permission.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5620": {
+        "name": "PSYC.5620 Teaching and Positive Behavioral Support in Autism (Formerly 47.562)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5620/",
+        "id": "032546",
+        "description": "This course covers the application of specific behavioral teaching procedures, including  prompting, reinforcement, shaping, chaining, error correction and generalization methods, and the development of instructional plans.  Emphasis is placed on procedures and plans to teach communication, social, self-help and per-academic skills.  Application of such methods in inclusive classroom settings is also considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: PSYC.5610 Introduction to Behavioral Intervention in Autism.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.5610"
+                ]
+            ]
+        }
+    },
+    "PSYC.5621": {
+        "name": "PSYC.5621 Teaching and Positive Behavioral Support in Autism for 3rd",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5621/",
+        "id": "040823",
+        "description": "This course is for students who took 5620 prior to fall 2014 and who need additional hours to qualify for the BCBA exam. This course covers the application of specific behavioral teaching procedures, including prompting, reinforcement, shaping, chaining, error correction and generalization methods, and the development of instructional plans. Emphasis is placed on procedures and plans to teach communication, social, self-help and per-academic skills. Application of such methods in inclusive classroom settings is also considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: PSYC.5610 Introduction to Behavioral Intervention in Autism, or Pre-req or Co-req: PSYC.5611 Introduction to Behavioral Intervention in Autism for 3rd.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.5610",
+                    "PSYC.5611"
+                ]
+            ]
+        }
+    },
+    "PSYC.5630": {
+        "name": "PSYC.5630 Management Strategies in Applied Behavioral Intervention",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5630/",
+        "id": "039615",
+        "description": "This course provides instruction on areas of the 4th edition task list related to ethically providing behavior analytic services as established by the Behavior Analysis Certification Board and codes of conduct for behavior analysts in the field of applied behavior analysis. Building on knowledge of applied behavior analysis and autism gained in the two prerequisite courses, students will enhance their understanding of best practices in the assessment and treatment of individuals diagnosed with an autism spectrum disorder and how ABA strategies are implemented and evaluated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5610 Introduction to Behavioral Intervention in Autism, and PSYC.5620 Teaching and Positive Behavioral Support in Autism.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5610"
+                ],
+                [
+                    "PSYC.5620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5650": {
+        "name": "PSYC.5650 Measurement and Experimental Design in Behavioral Intervention (Formerly 47.565)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5650/",
+        "id": "033068",
+        "description": "This course provides advanced coverage of measurement methods used in behavioral intervention.  It also offers in-depth coverage of the \"within-subject\" experimental designs commonly used in behavioral research and practice.  Component analysis and parametric analysis methods, and ethical considerations in research, are also covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: PSYC.5610 Introduction to Behavioral Intervention in Autism.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.5610"
+                ]
+            ]
+        }
+    },
+    "PSYC.5651": {
+        "name": "PSYC.5651 Measurement and Experimental Design in Behavioral Intervention for 3rd",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5651/",
+        "id": "040638",
+        "description": "This course is for students who took 5650 prior to Fall 2014 and who need additional hours to qualify for the BCBA exam. This course provides advanced coverage of measurement methods used in behavioral intervention. It also offers in-depth coverage of the \"within-subject\" experimental designs commonly used in behavioral research and practice. Component analysis and parametric analysis methods, and ethical considerations in research, are also covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: PSYC.5610 Introduction to Behavioral Intervention in Autism, or Pre-req or Co-req: PSYC.5611 Introduction to Behavioral Intervention in Autism for 3rd.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.5610",
+                    "PSYC.5611"
+                ]
+            ]
+        }
+    },
+    "PSYC.5660": {
+        "name": "PSYC.5660 Functional Analysis and Treatment of Challenging Behavior (Formerly 47.566)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5660/",
+        "id": "033066",
+        "description": "This course covers the purpose, rationale and methods used in conducting and interpreting functional analyses of challenging, or \"maladaptive\", behaviors (self-injury, stereotypy, aggression).  It also describes the full range of behavioral procedures used to decrease or eliminate these behaviors, with emphasis placed on ethical interventions and the desirability of least restrictive and non-aversive strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5620 Teaching and Positive Behavioral Support in Autism.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5661": {
+        "name": "PSYC.5661 Functional Analysis and Treatment of Challenging Behavior for 3rd",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5661/",
+        "id": "040641",
+        "description": "This course is for students who took 5660 prior to Fall 2014 and who need additional hours to qualify for the BCBA exam. This course covers the purpose, rationale and methods used in conducting and interpreting functional analyses of challenging, or \"maladaptive\", behaviors (self-injury, sterotypy, aggression). It also describes the full range of behavioral procedures used to decrease or eliminate these behaviors, with emphasis placed of ethical interventions and the desirability of least restrictive and non-aversive strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5620 Teaching and Positive Behavioral Support in Autism, or Permission of graduate coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5680": {
+        "name": "PSYC.5680 Behavioral Intervention Program Models in Autism (Formerly 47.568)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5680/",
+        "id": "033067",
+        "description": "This course explores how educational environments can be designed to maximize learning.  Different models of effective, evidence-based behavioral intervenions are analyzed.  The use of teaching activity schedules and staff training to build supportive educational settings is also covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5620 Teaching and Positive Behavioral Support in Autism.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5681": {
+        "name": "PSYC.5681 Behavioral Intervention Program Models in Autism for 3rd",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5681/",
+        "id": "040642",
+        "description": "This course is for students who took 5680 prior to Fall 2014 who need additional hours to qualify for the BCBA exam. This course explores how educational environments can be designed to maximize learning. Different models of effective, evidence-based behavioral interventions are analyzed. The use of teaching activity schedules and staff training to build supportive educational settings is also covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5620 Teaching and Positive Behavioral Support in Autism, or Permission of graduate coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5710": {
+        "name": "PSYC.5710 Autism and Developmental Psychopathology (Formerly 47.571)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5710/",
+        "id": "037675",
+        "description": "This course is designed to explore Autism Spectrum Disorders (ASDs) in the developing person and in changing social contexts (e.g.,family, school, employment) across development.  An empirical and theoretical review of developmental transformations and reorganizations across the lifespan provides the basis for examining biological, social, psychological, and cultural contributions to the continuity and discontinuity of both adaptive and maladaptive processes over time as well as an analysis of individual and environmental risk and protective factors across development.  Special attention is given to the changing competencies and challenges of developmental periods and their role in the assessment, display, meaning, and implications of ASDs from infancy through adulthood.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5720": {
+        "name": "PSYC.5720 Legal and Ethical Issues in Professional Practice (Formerly 47.572)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5720/",
+        "id": "037676",
+        "description": "This course will explore the legal and ethical issues facing professionals working with individuals diagnosed with disabilities, particularly those on the autism spectrum.  The goal is to provide behavior analysts and other professionals the opportunity to develop skills in dealing with the complex legal and ethical issues that arise when working in human service fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": ".Pre-req: PSYC 5650 Measurement and Experimental Design in Behavioral Intervention, or PSYC.5660 Functional Analysis and Treatment of Challenging Behaviors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5650"
+                ],
+                [
+                    "PSYC.5660"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5740": {
+        "name": "PSYC.5740 Community and Social Interventions in Autism (Formerly 47.574)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5740/",
+        "id": "037998",
+        "description": "This course will focus on current perspectives of community-based programming for individuals on the autism spectrum, particularly among the adolescent and adult age range.  We will overview the challenges experienced by those with an autism spectrum disorder (ASD) during adolescence and adulthood, and consider the issues involved in designing, implementing, and evaluating social and community interventions for this population.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5810": {
+        "name": "PSYC.5810 Concepts and Principles of Behavior Analysis",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5810/",
+        "id": "041581",
+        "description": "This course is designed to provide students with foundational knowledge regarding the basic concepts and principles of behavior analysis. Students will gain an introduction to what behavior analysis is and how it differs from other approaches that study behavior. Students will be asked to define and identify examples of the basic principles, then apply that knowledge to describe and diagram original, real-world examples. Students will look at how the environment promotes the development of both adaptive and maladaptive behaviors, shapes behavior over time, and how the environment can be modified to help change behavior.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5820": {
+        "name": "PSYC.5820 Measurement and Experimental Design",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5820/",
+        "id": "041582",
+        "description": "This course provides advanced coverage of the measurement methods that are important to the effective use of applied behavior analysis. It also offers in-depth coverage of the \"within-subject: experimental designs commonly used in behavioral research and practice. Component analysis and parametric analysis methods, and social validity and generalization considerations in research, are also covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre or Co-req: PSYC.5810 Concepts and Principles of Behavior Analysis.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.5810"
+                ]
+            ]
+        }
+    },
+    "PSYC.5830": {
+        "name": "PSYC.5830 Philosophical Underpinnings of Behavior Analysis",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5830/",
+        "id": "041583",
+        "description": "This course will focus on the scientific and philosophical underpinnings of behavior analysis. In this course, students will review basic assumptions about the nature of behavior, including comparison of the philosophical positions of free will and determinism. Emphasis will be placed on verbal behavior and the problems that can arise when practitioners are confronted wit mentalistic explanations of behavior. Students also will explore complex conceptual issues, such as knowledge and understanding, purpose and intention, problem-solving, reasoning, creativity, culture, ethics, and rights and values, in ways that illustrate how they are important to everyday life. The historical perspective of how radical behaviorism evolved, and how it compare to other conceptual systems will be reviewed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810 Concepts and Principles of Behavior Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5840": {
+        "name": "PSYC.5840 Behavioral Assessment",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5840/",
+        "id": "041584",
+        "description": "This course covers the assessment of behaviors and skills. We will review many types of assessments used in applied behavior analysis and the reliability of these common assessments. Specific topics to be covered include functional behavior assessments, functional analysis, preference and reinforcement assessments, skill assessments, identification of goals, how to write goals, and the development of a treatment plan. Emphasis will be placed on the use of assessments to inform treatment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810 Concepts and Principles of Behavior Analysis, and PSYC.5820 Measurement and Experimental Design.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ],
+                [
+                    "PSYC.5820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5850": {
+        "name": "PSYC.5850 Professional and Ethical Issues in Behavior Analysis",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5850/",
+        "id": "041585",
+        "description": "This course will explore the legal and ethical issues facing professionals working with individuals diagnosed with disabilities, particularly those on the autism spectrum. The goal is to provide behavior analysts and other professionals the opportunity to develop skills in dealing with the complex legal and ethical issues that arise when working in human service fields.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810 Concepts and Principles of Behavior Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5860": {
+        "name": "PSYC.5860 Community Service Learning (1, 2, or 3 credits) (Formerly 47.486/586)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5860/",
+        "id": "005756",
+        "description": "Students will take an applied role in the community where they will have the opportunity to provide some form of meaningful service to individuals, groups or communities.  Students will meet regularly with a designated faculty member on campus to consider their experiences in the context of current psychological thought.  In some instances, the commitment to community service may extend over the course of a full year.  Graded as Satisfactory or Unsatisfactory.  1, 2 or 3 credits.  This course may be repeated but no more than 12 credits total from any combination of PSYC.4860, PSYC.4880 and PSYC.4910  may be counted toward the degree.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5870": {
+        "name": "PSYC.5870 Behavior Change Procedures",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5870/",
+        "id": "041586",
+        "description": "This course covers the design and application of behavior change procedures commonly used by behavior analysts. We will review the importance of cultural considerations and ongoing monitoring of progress. Specific topics to be covered include reinforcement, antecedent manipulations, transfer of stimulus control, and programming for maintenance and generalization. Emphasis will be placed on procedures used for skill acquisition including social, communication, self-help, and academic skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810 Concepts and Principles of Behavior Analysis, and PSYC.5820 Measurement and Experimental Design, and PSYC.5840 Behavioral Assessment.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ],
+                [
+                    "PSYC.5820"
+                ],
+                [
+                    "PSYC.5840"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5880": {
+        "name": "PSYC.5880 Advanced Cognition",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5880/",
+        "id": "039940",
+        "description": "This course will provide an advanced overview of the scientific study of mental processes. Specifically, we will read a number of experimental and review articles that describe or contribute significant advancements to our understanding of memory, decision-making, language, attention, perception, etc. Readings will be critically evaluated and synthesized through discussions and a variety of in-class review activities, with particular emphasis on the role of cognition in a broader human context.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.5890": {
+        "name": "PSYC.5890 Implementation and Supervision Practices in Behavior Analysis",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5890/",
+        "id": "041587",
+        "description": "This course covers implementation of simpler to more complex behavior change procedures and the management and supervision of the staff who implement those procedures. We will review the importance of ethical and safety considerations, data analysis to monitor progress and problem-solve any lack of progress, and initial staff training and ongoing supervision of staff. Specific topics to be covered include reinforcement procedures to impact behavior, positive and negative punishment, group contingencies and programming for maintenance and generalization of behavior changes, staff training and supervision effectiveness. Emphasis will be placed on procedures used for behavior reduction and socially-valid replacement behaviors as well as best practices in personnel management and supervision.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810 Concepts and Principles of Behavior Analysis, and PSYC.5820 Measurement and Experimental Design, and PSYC.5840 Behavioral Assessment.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ],
+                [
+                    "PSYC.5820"
+                ],
+                [
+                    "PSYC.5840"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5900": {
+        "name": "PSYC.5900 Professional Seminar in Applied Behavior Analysis",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5900/",
+        "id": "041713",
+        "description": "A monthly meeting for students in the ABA option of the Applied Behavior Analysis and Autism Studies graduate program designed to address questions related to the supervised practicum experience. Student will be required to be in a setting accruing fieldwork experience under the supervision of a Board Certified Behavior Analyst.",
+        "credits": {
+            "min": "0",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810 Concepts and Principles of Behavior Analysis, and PSYC.5820 Measurement and Experimental Design, and PSYC.5840 Behavioral Assessment, and Graduate Student in the Applied Behavior Analysis and Autism Studies Program.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ],
+                [
+                    "PSYC.5820"
+                ],
+                [
+                    "PSYC.5840"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.5901": {
+        "name": "PSYC.5901 Collaborative and Interdisciplinary Professional Development",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/5901/",
+        "id": "042102",
+        "description": "This is a 0-credit course that will meet monthly to provide a forum for scholars in the UMass Lowell and Lasell interdisciplinary program. The course will provide a platform for scholars to discuss collaborative projects and gain extensive overlapping fieldwork experience in at least two different educational settings working with diverse learners with autism and related disabilities. The seminar will cover a wide rang of topics related to interdisciplinary work and host guest speakers in areas related to special education and applied behavior analysis, including a panel discussion with family members and individuals with autism and related disabilities to share their perspectives on disability and service systems. This is a consent only class. To register for the course, you must be matriculated in the master's degree program in Applied Behavior Analysis and Autism Studies and be a scholar in the UMass Lowell and Lasell Interdisciplinary training program.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6110": {
+        "name": "PSYC.6110 Program Evaluation (Formerly 47.611)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6110/",
+        "id": "005790",
+        "description": "A skill-oriented approach that considers both formative and summative evaluation techniques. Emphasizes mastery of the technical aspects of the evaluation process, and includes consideration of the importance of program evaluation in community psychology, health, education, etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6200": {
+        "name": "PSYC.6200 Special Topics in Applied Behavior Analysis (ABA)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6200/",
+        "id": "042087",
+        "description": "Special topics classes are used to address timely issues that do not fit into the regular course offerings. This is an advanced course of study. Specific subject matter will be announced in advances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6250": {
+        "name": "PSYC.6250 Advanced Community Dynamics: Lowell (Formerly 47.625)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6250/",
+        "id": "005795",
+        "description": "An examination of principles that influence community structure, function, and evolution over time. Students will learn how community patterns and activities can best be understood and how community problems and concerns can best be addressed, employing psychological and other conceptual frameworks and perspectives.  Specific emphasis will be placed on the historic and diverse city of Lowell. Prerequisites: 47.500 and 47.512.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PSYC 5000 Intro to Community Soc Psych and PSYC 5120 Applied Research Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5000"
+                ],
+                [
+                    "PSYC.5120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.6310": {
+        "name": "PSYC.6310 Capstone Practicum I in Community Social Psychology (Formerly 47.6310)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6310/",
+        "id": "005796",
+        "description": "Provides supervised field experience in a setting appropriate to the student's area of specialization, plus on-campus class meetings. An average of approximately ten hours of fieldwork in an approved setting for two consecutive semesters is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC 5000 Intro to Community Soc Psych, and PSYC 5120 Applied Res Methods; Pre-Req/Co-Req: PSYC 6250 Adv Community Dynamics:Lowell.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5000"
+                ],
+                [
+                    "PSYC.5120"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PSYC.6250"
+                ]
+            ]
+        }
+    },
+    "PSYC.6320": {
+        "name": "PSYC.6320 Capstone Practicum II in Community Social Psychology(Formerly 47.632)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6320/",
+        "id": "005797",
+        "description": "Continuation of PSYC.6310, which is pre-requisite.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PSYC.6310 Practicum I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.6310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.6400": {
+        "name": "PSYC.6400 Theories of Change in Applied Psychology (Formerly 47.640)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6400/",
+        "id": "039260",
+        "description": "Examines major theories of development and change relevant to Applied Psychology; and discusses the use of theories in posing and answering research questions. \u00a0A major focus of research and practice is on understanding and promoting change (in structures, functions and processes of cognition, emotion, behavior and relationships) over time. \u00a0In this course, students will examine major theories of change (development, therapeutic and school/community/contextual change), learn to place these theories in comparative, historical and philosophical context, examine efforts in theory integration, and test the direct relevance of theories to posing and answering their own research questions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6410": {
+        "name": "PSYC.6410 Fundamentals of Prevention Science",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6410/",
+        "id": "039261",
+        "description": "This graduate course will examine theoretical, empirical, and practical foundations of prevention science for designing and evaluating diverse interventions to prevent human social problems and promote healthy development.  The seminar will cover the origins and multidisciplinary roots of prevention science, key concepts, current trends and directions, theoretical approaches, program theory, methodology, research to practice, policy development, and dissemination.  Special consideration will be given to conceptual issues in the field such as prevention versus promotion, stages of program development, scaling up, methodological approaches such as randomized controlled trials, quasi-experiments, process and impact assessment, cost-benefit analysis, statistical methodology, dissemination.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.6400 Theories of Change in Applied Psychology.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.6400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.6500": {
+        "name": "PSYC.6500 Advanced Quantitative Methods(Formerly 47.700/PSYC.7000)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6500/",
+        "id": "039258",
+        "description": "This course is designed to provide an overview of the most widely used methods employed by psychologists and other behavioral scientists. You will learn about the common research tools and strategies that psychologists' use in the production of knowledge. The course will provide you with a basic understanding of the strengths and weaknesses of the various research strategies used by psychologists so that you can become an informed consumer of research both in the behavioral sciences and the media. In addition, you will begin to develop and practice a set of research skills that will prepare you for advanced study in the behavioral sciences.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: PSYC.6400 Theories of Change in Applied Psychology, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PSYC.6400"
+                ]
+            ]
+        }
+    },
+    "PSYC.6630": {
+        "name": "PSYC.6630 Experimental Analysis of Behavior (Formerly 47.663)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6630/",
+        "id": "037678",
+        "description": "This course will explore the basic principles of the experimental analysis of behavior and their application to an understanding of learning.  Emphasis will be placed on the historical underpinnings of the field, the methods of analysis, and current issues in the field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6710": {
+        "name": "PSYC.6710 Supervised Practicum Applied Behavior Analysis: I (Formerly 47.671)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6710/",
+        "id": "037672",
+        "description": "This is the first of a two-semester practicum course to supplement supervised fieldwork experience students receive as a requirement for the Master of Science in Applied Behavior Analysis and Autism Studies. Students practice engaging in the necessary skills to become an effective behavior analyst and a scientist-practitioner. The assignments, activities, and discussions will enhance student's understanding of the fundamental concepts, principles, and behavior change programs used in the field. All students must have an off-site, approved placement that includes direct work with clients.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req PSYC.5810, PSYC.5820, PSYC.5840, PSYC.5870, PSYC.5900.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ],
+                [
+                    "PSYC.5820"
+                ],
+                [
+                    "PSYC.5840"
+                ],
+                [
+                    "PSYC.5870"
+                ],
+                [
+                    "PSYC.5900"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.6720": {
+        "name": "PSYC.6720 Supervised Practicum Applied Behavior Analysis: II (Formerly 47.672)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6720/",
+        "id": "037673",
+        "description": "This is the second of a two-semester practicum course to supplement supervised fieldwork experience students receive as a requirement for the Master of Science in Applied Behavior Analysis and Autism Studies. Students practice engaging in the necessary skills to become an effective behavior analyst and a scientist-practitioner. The assignments, activities, and discussions will enhance student's understanding of the fundamental concepts, principles, and behavior change programs used in the field. All students must have an off-site, approved placement that includes direct work with clients.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810, and PSYC.5820, and PSYC.5840, and PSYC.5870, and PSYC.5900, and PSYC.6710.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ],
+                [
+                    "PSYC.5820"
+                ],
+                [
+                    "PSYC.5840"
+                ],
+                [
+                    "PSYC.5870"
+                ],
+                [
+                    "PSYC.5900"
+                ],
+                [
+                    "PSYC.6710"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.6750": {
+        "name": "PSYC.6750 Seminar in Health Psychology",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6750/",
+        "id": "039253",
+        "description": "This course focuses on the application of psychological principals to the subspecialty of health psychology.  Students will learn about the major topics in health psychology, including health behaviors, stress and health, health moderators, and prevention.  Students will be exposed to psychological theories and research methodologies used in health psychology, and to current literature in the field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate status and previous coursework in community psychology and research methods strongly recommended.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6810": {
+        "name": "PSYC.6810 Health Campaigns: Effects and Processes (Formerly 47.681)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6810/",
+        "id": "039247",
+        "description": "The intent of this course is to provide the student with a thorough understanding of the effects and processes of health campaigns -- including theoretical foundations, empirical findings, and practical applications.  The emphasis will be on applying this information to diverse aspects of human health, including individual physical and mental health as well as the broader fabric of public health and societal functioning.  As the course evolves, students will apply and extend the course concepts through critical analysis of existing health campaigns and through the design of a proposed campaign of their choosing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6910": {
+        "name": "PSYC.6910 Directed Study in Community and Social Psychology (Formerly 47.691)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6910/",
+        "id": "005799",
+        "description": "This course is designed as an independent study under the supervision of a member of the department of a subject not offered in the standard curriculum.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6920": {
+        "name": "PSYC.6920 Directed Study in Applied Behavior Analysis and Autism Studies (47.692)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6920/",
+        "id": "037740",
+        "description": "This course is designed as an independent study under the supervision of a member of the department of a subject not offered in the standard curriculum.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6921": {
+        "name": "PSYC.6921 Directed Study in Applied Behavior Analysis I",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6921/",
+        "id": "041650",
+        "description": "This directed study will serve as a bridge course for students who are seeking certification as Board Certified Behavior Analysts (BCBA) and who have completed some or all coursework in one of UMass Lowell's certificates in Applied Behavior Analysis, but do not have all of the required content hours to sit for the BCBA exam. The directed study will assist them in gaining mastery of a designated set of content hours that they are missing.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6930": {
+        "name": "PSYC.6930 Directed Study in Applied Psychology and Prevention Science (Formerly 47.693)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6930/",
+        "id": "039244",
+        "description": "Designed as an independent study under faculty supervision in a topic not offered elsewhere in the curriculum.",
+        "credits": {
+            "min": "3",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6940": {
+        "name": "PSYC.6940 Mentored Research Experience",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6940/",
+        "id": "041415",
+        "description": "Students will take an applied role in faculty-supervised research, with prior approval of primary advisor, where they provide a meaningful contribution to a faculty member's research program or particular study. Students will be involved in various stages of the research process, including literature review, research design, procedures, data collection, entry, and/or analysis. Activities will be substantive enough for the students to earn co-authorship in research dissemination, including research papers, presentations, and policy briefs. Graded as Satisfactory or Unsatisfactory, 3 credits or 6 credits. This course may be repeated but no more than 12 credits total from an combination of PSYC.6930, PSYC.6940, PSYC.6950 may be counted toward the degree.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.6950": {
+        "name": "PSYC.6950 Applied Field Research",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/6950/",
+        "id": "041414",
+        "description": "Students will work in an applied setting, with prior approval of primary advisor, where they will have the opportunity to perform various research tasks, including grant writing, needs assessments, gaps analyses, and provide evidence-based workshops and training to staff and community members at the applied setting. these activities may culminate in research papers, presentations, policy briefs. Graded as Satisfactory or Unsatisfactory, 3 credits or 6 credits. This course may be repeated but no more than 12 credits total from any combination of PSYC.6930, PSYC.6940, PSYC.6950 may be counted toward the degree.",
+        "credits": {
+            "min": "3",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.7010": {
+        "name": "PSYC.7010 Narrative Methods (Formerly 47.701)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7010/",
+        "id": "039257",
+        "description": "Narrative refers to real or imaginary events related often by means of language, but also by means of pictures, songs, and dance.  Narrative often involves a sequence of events, representation of the meaning of those events, and description of the context in which they occurred.  Narrative is the primary means by which we make sense of our experiences and represent ourselves to and develop intimacy with others.  There are important documented differences in narration due to culture, cognition, emotion, age, and gender.  To adequately analyze narration requires expertise in a wide variety of analytic methods and is the overarching goal of this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.7030": {
+        "name": "PSYC.7030 Selected Topics in Applied Psychology and Prevention Science (Formerly 47.703)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7030/",
+        "id": "039245",
+        "description": "Presents a careful consideration of selected topics in the area of Applied Psychology and Prevention Science.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.7050": {
+        "name": "PSYC.7050 Intro to Structural Equation Modeling",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7050/",
+        "id": "040422",
+        "description": "introduction to basic concepts, principles, and applications of structural equation modeling including path analysis, confirmatory latent variable models, multiple-group modeling, and latent growth curve modeling. Students will learn how to use these techniques in relation to various examples of social science research data.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CRIM.6900 Advanced Regression Analysis, or PUBH.6890 Advanced Regression Modeling, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CRIM.6900",
+                    "PUBH.6890"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PSYC.7220": {
+        "name": "PSYC.7220 Master's Project in Autism",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7220/",
+        "id": "040824",
+        "description": "For master's graduate students actively engaged in a research or intervention-based project leading to the submission of a written project report. A program of supervised study will be arranged between the student and a faculty supervisor. This course may be repeated once. Permission of instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.7330": {
+        "name": "PSYC.7330 Master's Project in Community-Social Psychology (Formerly 47.733)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7330/",
+        "id": "005802",
+        "description": "For graduate students actively engaged in developing a change-oriented intervention leading to the submission of a written project report. A program of supervised study will be arranged between the student and a faculty supervisor. Prerequisite: Approval of major advisor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.7430": {
+        "name": "PSYC.7430 Master's Thesis in Community Social Psychology (Formerly 47.743)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7430/",
+        "id": "005804",
+        "description": "For graduate students actively engaged in research leading toward the submission of a written thesis. A program of supervised work  will be arranged between the student and a faculty supervisor. This course may be repeated for credit, but only a total of 6 credits may be counted toward the Master's degree. Prerequisite: 47.500 and 47.512 and permission of the faculty member who will supervise the thesis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.7440": {
+        "name": "PSYC.7440 Master's Thesis in Applied Behavior Analysis and Autism Studies.(Formerly 47.744)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7440/",
+        "id": "038223",
+        "description": "For graduate students actively engaged in research leading toward the submission of a written thesis. A program of supervised work will be arranged between the student and faculty supervisor. This course may be repeated for credit, but only a total of 6 credits may be counted toward the Master's degree.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PSYC.5810 Concepts and Principles of Behavior Analysis, and Co-req: PSYC.5120 Applied Research Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PSYC.5810"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PSYC.5120"
+                ]
+            ]
+        }
+    },
+    "PSYC.7460": {
+        "name": "PSYC.7460 Master's Thesis in Community Social Psychology (Formerly 47.746)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7460/",
+        "id": "005805",
+        "description": "For graduate students actively engaged in research leading toward the submission of a written thesis. A program\nof supervised work will be arranged between the student and a faculty supervisor. Only a total of 6 credits may be counted toward the Master's degree. Prerequisite: 47.500 and 47.512 and permission of the faculty member who will supervise the thesis.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PSYC.7630": {
+        "name": "PSYC.7630 Dissertation (Formerly 47.763)",
+        "url": "https://www.uml.edu/catalog/courses/PSYC/7630/",
+        "id": "039246",
+        "description": "Faculty supervision of doctoral dissertation.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

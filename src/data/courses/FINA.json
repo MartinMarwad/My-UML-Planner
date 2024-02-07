@@ -1,0 +1,899 @@
+{
+    "total": 43,
+    "time": 32.77416014671326,
+    "FINA.2000": {
+        "name": "FINA.2000 Personal Finance",
+        "url": "https://www.uml.edu/catalog/courses/FINA/2000/",
+        "id": "041122",
+        "description": "This course emphasizes the development of individually focused financial information and a comprehensive financial plan designed to enable the individual to manage his or her financial affairs. The course also integrates personal goals, such as buying a home, retirement, investing, and insurance needs, to help assure that the financial plan incorporates the major decision stages an individual will face.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FINA.2210": {
+        "name": "FINA.2210 Intro to Investments (Formerly FINA 221/ 61.300 )",
+        "url": "https://www.uml.edu/catalog/courses/FINA/2210/",
+        "id": "006384",
+        "description": "This course provides the background and skills for financial decisions that individuals need to make during their entire life.  Topics will include the financial aspects of career planning, budgeting and consumer credit, the purchasing and financing decisions related to housing and other major expenditures, long-term saving and investing, insurance, and retirement planning.   Although the course has no formal prerequisites, it assumes that students have some familiarity with basic high school algebra.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BSBA program and Junior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FINA.3010": {
+        "name": "FINA.3010 Financial Management (Formerly FINA/61.301)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/3010/",
+        "id": "006385",
+        "description": "Principles of financial management, including working and fixed capital, sources of funds, financial statements, financial planning and capital structure.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-reqs: ECON 2010 Economics I & ACCT.2010 Acct/Financial; or Business minor and ACCT.2010 Acct/Financial.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010",
+                    "ACCT.2010"
+                ],
+                [
+                    "ACCT.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.3030": {
+        "name": "FINA.3030 Introduction to Financial Modeling",
+        "url": "https://www.uml.edu/catalog/courses/FINA/3030/",
+        "id": "039665",
+        "description": "This course consists of modeling exercises that will require students to work on computers in each session. Students will learn how to apply the methods of financial analysis and to conduct time trend analysis, scenario analysis, regression analysis, and optimization using spreadsheet and/or commonly-used statistical software.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA 3010 Financial Management, and FINA 3210 Investment and Portfolio Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ],
+                [
+                    "FINA.3210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.3110": {
+        "name": "FINA.3110 Introduction to Financial Statement Analysis (Formerly FINA/61.303)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/3110/",
+        "id": "006387",
+        "description": "The techniques of financial analysis in depth. Topics covered include cash management, credit scoring, receivables monitoring, inventory management, financial statements analysis and forecasting, financial distress prediction, mergers and acquisitions techniques and other selected topics",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3010 Financial Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.3210": {
+        "name": "FINA.3210 Investment and Portfolio Analysis (Formerly FINA 321/61.304 )",
+        "url": "https://www.uml.edu/catalog/courses/FINA/3210/",
+        "id": "006388",
+        "description": "This course is a survey of investments for business students.  Topics include the investment environment, markets and instruments, securities trading, market indexes, risk, diversification,  the capital asset pricing model, market efficiency, introductory valuation of bonds stocks options and futures, mutual funds, behavioral finance, and strategies for individual inves\u00adtors.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS) and Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-reqs: ECON 2010 Economics I & ACCT.2010 Acct/Financial; or Business minor and ACCT.2010 Acct/Financial; and COM filter courses.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ECON.2010",
+                    "ACCT.2010"
+                ],
+                [
+                    "ACCT.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.3310": {
+        "name": "FINA.3310 Principles of Corporate Finance (Formerly FINA 331/61.431)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/3310/",
+        "id": "006393",
+        "description": "Advanced study of the principles of financial analysis. Covers topics such as acquisition of long-term assets, capital budgeting models, and the analysis of mutually exclusive projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3010 Financial Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.3320": {
+        "name": "FINA.3320 Credit Risk Analysis (Formerly 61.332)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/3320/",
+        "id": "006390",
+        "description": "This course introduces students to credit risk analysis approaches used by commercial banks to evaluate loan applications. Topics covered include understanding customer business and company life cycle, cash flow analysis using loan applicant financial statements, loan structuring, tax issues, and loan documentation. The course uses a combination of lecture and cases, with emphasis on the use of spreadsheets for case analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3110 Introduction to Financial Statement Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4110": {
+        "name": "FINA.4110 Financial Institutions And Markets (Formerly FINA.411)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4110/",
+        "id": "006391",
+        "description": "This course will focus on the Institutions that facilitate the flow of money, examine the typos of instruments used globally, and provide an understanding of some of the regulation and oversight required to ensure stability. In addition, the course reviews determinants and structure of interest rates and bond prices and examines some of the risks incurred by financial institutions such as interest rate risk and credit risk.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3010 Financial Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4210": {
+        "name": "FINA.4210 Introduction to Financial Risk Management",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4210/",
+        "id": "041251",
+        "description": "This course will review the basic concepts of risk measurement and risk management. We will review the nature of risk and the various dimensions of risk that an effective risk management program must address. The principal focus in the latter part of the course will be on risk management in the financial services industry. We will survey some of the practices and tools current in this industry along with their strengths and shortcomings. We will also review how firms organize their risk management functions and, importantly, the impact of the principal regulatory regimes on the risk management practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA 3010 Financial Management, and FINA 3210 Investment and Portfolio Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ],
+                [
+                    "FINA.3210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4220": {
+        "name": "FINA.4220 Portfolio and Security Analysis (Formerly FINA 422/61.421)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4220/",
+        "id": "006392",
+        "description": "Advanced course on investment theory and applications. Topics covered include stock market behavior, portfolio and capital market theories, and securities analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: FINA.3010 Business Finance and FINA.3210 Investment & Portfolio Analysis or FINA.2210 Investments.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ],
+                [
+                    "FINA.3210",
+                    "FINA.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4230": {
+        "name": "FINA.4230 Student Managed Fund (Formerly FINA 423/61.434)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4230/",
+        "id": "006396",
+        "description": "A course focused on application of investment theory.  Topics covered include stock market behavior and securities analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.3010 Financial Management, and FINA.3110 Introduction to Financial Statement Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ],
+                [
+                    "FINA.3110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4320": {
+        "name": "FINA.4320 Intermediate Corporate Finance (Formerly FINA 432/61.433)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4320/",
+        "id": "006395",
+        "description": "This course builds on financial decision-making concepts covered in the Corporate Finance course. Some of the topics covered in the course include financial restructuring, mergers and acquisitions, different forms of debt and equity financing, leasing, and real options.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.3310 Principles of Corporate Finance.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4410": {
+        "name": "FINA.4410 Introduction to Financial Derivatives (Formerly FINA 441)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4410/",
+        "id": "039400",
+        "description": "This course is an introduction to financial derivatives. The primary emphases are the valuation and practical application of these instruments for both hedging and speculation. Topics include the characteristics of options, forward contracts, futures, and swaps; arbitrage and the valuation of derivatives; creating value and profit diagrams; and the structure of the derivatives markets. Ethical and economic issues associated with the use of derivatives as reported in the current financial press will also be covered",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.3010 Financial Management, or FINA.3210 Investment and Portfolio Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010",
+                    "FINA.3210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4550": {
+        "name": "FINA.4550 Financial Regulation, Compliance, and Ethics",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4550/",
+        "id": "039666",
+        "description": "This course will provide: 1.) an introduction to ethical standards held to be best practices in the financial services industry; 2.) a survey of some of the major regulatory regimes within which this global industry operates; and, 3.) exposure to principles and procedures for establishing and maintaining and effective compliance regime consistent with good ethical practice and regulatory compliance. The course will rely heavily upon examination of real-world examples in the application of the principles surveyed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3010 Financial Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4890": {
+        "name": "FINA.4890 Internship In Finance  (Formerly FINA /61.489)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4890/",
+        "id": "006399",
+        "description": "Opportunity for students to earn academic credit through the integration of professional on-the-job experience and related academic work. Project jointly supervised by a faculty member and representative of the employing organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: FINA.3010 Business Finance, Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4910": {
+        "name": "FINA.4910 International Finance (Formerly FINA /61.491)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4910/",
+        "id": "006400",
+        "description": "Financial aspects of international business operations. Evaluation of risks associated with multinational operation and managerial decision making under conditions of financial uncertainty.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3010 Financial Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.4970": {
+        "name": "FINA.4970 Independent Study Finance (Formerly FINA 497/61.499 )",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4970/",
+        "id": "006401",
+        "description": "An opportunity for students to carry out individualized study relating to the field of finance under the supervision of a member of the faculty.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Reqs: 61.301 Business Finance, and Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FINA.4980": {
+        "name": "FINA.4980 Special Topics in Finance (Formerly FINA 498/61.479 )",
+        "url": "https://www.uml.edu/catalog/courses/FINA/4980/",
+        "id": "035274",
+        "description": "Topics of current interest in Finance. Subject matter to be announced in advance. For a current semester course title, please check the schedule.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3010 Financial Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.5010": {
+        "name": "FINA.5010 Business Financial Analysis (Formerly FINA/61.501)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/5010/",
+        "id": "006402",
+        "description": "Introduces students to the finance function in a firm. Students are exposed to a variety of analytical techniques and to theory applied to financial decision making. Study will include effects of major financial decisions such as investment, financing and dividends on the value of a firm, in the light of their risk-return relationship under the assumption that the maximization of shareholder wealth is the goal of management. Pre-requisites: MBA or Certificate Programs or Permission of MBA Director.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "ACCT.5010 AND MBA, MSEM or MGFB Certificate or PSM or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6010": {
+        "name": "FINA.6010 Corporate Finance (Formerly FINA /61.601)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6010/",
+        "id": "006404",
+        "description": "Relates working capital strategy, capital investment analysis, long-term financing, and capital structure decisions in a risk-return framework to the dynamics of the firm and the market in which it operates.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6020": {
+        "name": "FINA.6020 Advanced Corporate Finance (Formerly FINA 602/61.621)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6020/",
+        "id": "006406",
+        "description": "This course covers advanced topics of financial decision-making concepts such as financial restructuring, mergers and acquisitions, different forms of debt and equity financing, leasing, and real options. The course includes techniques to incorporate uncertainty in financial analysis, to hedge corporate risk, and to restructure a firm through leveraged buyouts or under bankruptcy protection. It also includes advanced topics such as real options, theories of behavioral corporate finance, and the process to navigate extraordinary financial situations such as financial restructuring and liquidation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.6010 Corporate Finance.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6050": {
+        "name": "FINA.6050 Mergers, Acquisitions, and Corporate Restructuring (Formerly FINA 605)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6050/",
+        "id": "039387",
+        "description": "This course examines the process by which takeovers and other corporate control  transactions take place. Of particular interest will be the empirical evidence of capital market reactions to control transactions, to defensive measures by management against takeover bids and the valuation effects of these activities. We will also investigate restructuring activities that have significant effects on firm assets, liabilities, and equity claims, as well as their underlying economic motives. A Major focus will be the interaction of strategic planning, valuation, financial strategies, and investment decisions in the life cycle of the firm. This course is indispensable for those who plan to pursue careers in corporate finance, investment banking, private equity, and management consulting.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.6010 Corporate Finance.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6100": {
+        "name": "FINA.6100 Global Financial Markets and Monetary Policy (Formerly FINA 610/61.610)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6100/",
+        "id": "006405",
+        "description": "This course examines the interactions between changing perceptions of macroeconomic conditions and movements in the prices and yields on financial market instruments. The orientation of this course is heavily institutional with emphasis on helping students develop a \"Wall Street\" perspective on asset choice and the likely impact of macroeconomic conditions and policies on financial market prices. At the same time, the dependence of macroeconomic policy outcomes on global financial markets' expectations of future real growth in the US and in the world economy, expectations of inflation, sovereign default risk and of interest rates will be stressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.6010 Corporate Finance.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6110": {
+        "name": "FINA.6110 Financial Statement Analysis (Formerly FINA 611)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6110/",
+        "id": "039307",
+        "description": "This course introduces to students a comprehensive financial statement analysis and valuation framework that integrates financial reporting, financial analysis and valuation, and the application of this framework to fundamental analysis. This course provides students with hands-on experience in financial statement analysis. Students will be introduced to general tools of financial analysis, theoretical concepts, and practical valuation issues. By the end of the course, students should be comfortable with using firms financial statements to develop an understand of their performance and to establish a basis for making reasonable valuation estimates.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA Professional, MSF, or MSA students who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MIST.5010, and MGMT.5010 or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MIST.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6210": {
+        "name": "FINA.6210 Security Analysis and Portfolio Management (Formerly FINA 621/61.721)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6210/",
+        "id": "006412",
+        "description": "This course introduces the student to the main theories and practice of investments and portfolio management.  The student will learn about various investment opportunities including real and financial assets; the investment environment including the money and capital markets; the investment process including identification of goals, data gathering and analysis etc.; and, decision making under a changing market environment.  The material covered will include: selection of assets - with special emphasis on securities selection through technical analysis and fundamental analysis, computation of risk and return of individual assets, asset allocation and portfolio formation, computation of risk and return of portfolios, measurement of portfolio performance and rebalancing of portfolios. Also included in the material will be topics such as the \"pyramid\" approach, forecasting and the use of indicators and, market and industry indexes, models such as the CAPM, bond and stock valuation, mutual funds, domestic versus global investment etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6220": {
+        "name": "FINA.6220 Advanced Portfolio Management (Formerly FINA 622/61.735)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6220/",
+        "id": "006416",
+        "description": "This course develops investment theory as applicable to portfolio management and securities selection. Topics covered include identification of investor goals, identification of investment opportunities in real and financial assets under volatile capital market conditions as well as analysis and decision making under conditions of certainty and uncertainty. Related concepts include technical analysis and fundamental analysis, pyramid approach to investing, changing risk and return through asset allocation and portfolio formation, valuation of basic securities and rebalancing of portfolios.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.6210 Security Analysis and Portfolio Management.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.6210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6240": {
+        "name": "FINA.6240 Fixed Income Securities (Formerly FINA /61.624)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6240/",
+        "id": "038390",
+        "description": "Financial securities whose valuation depends on interest rates, such as Treasury securities, municipal bonds, and corporate bonds are called Fixed Income Securities. In this course, students will learn how to value and manage the risk of these securities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.6010 Corporate Finance.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6530": {
+        "name": "FINA.6530 Financial Institutions and Markets (Formerly FINA 653/61.732)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6530/",
+        "id": "006415",
+        "description": "Analysis of the theory and practice of financial intermediation by institutions in the financial markets, including debt, equity, and foreign exchange markets.  Study of the role of financial intermediaries including commercial banks, investment banks, and brokers.   Other topics include financial market policy making and regulation in financial markets with an aim to understanding the rationale and nature of such policies and regulations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6550": {
+        "name": "FINA.6550 Global Financial Regulation and Compliance",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6550/",
+        "id": "040025",
+        "description": "This course will provide an in depth survey of some of the major regulatory regimes within which the global financial services industry operates. Participants will learn the principles and techniques required to establish and maintain an effective compliance regime consistent with a strong ethical corporate culture. The course will rely upon examination of real-world examples; and, students will participate in a significant case study, requiring them to design an effective compliance program for a hypothetical firm operating in multiple jurisdictions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.6010 Corporate Finance, and Matriculated status in the MBA, or MSF, or MSA programs, or permission of the Graduate Program Director.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6610": {
+        "name": "FINA.6610 Financial Risk Management (Formerly FINA 661)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6610/",
+        "id": "039134",
+        "description": "This course deals with the theoretical and practical approaches to effective financial risk management. It covers risk management techniques for corporations and for management of equity, bond, derivatives and investment portfolios. Topics include measurement of corporate risk exposure, portfolio risk exposure and value at risk (VAR) for financial institutions; risk and diversification, modern portfolio theory, concentrated equity positions, portfolio benchmarking, the importance of asset allocations; market risk management, currency risk exposures, credit risk management, interest rate risks, and operational & integrated risk management; and computer applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.6010 Corporate Finance.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6750": {
+        "name": "FINA.6750 Financial Derivatives (Formerly FINA/61.675)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6750/",
+        "id": "035765",
+        "description": "The primary emphases in this course are the valuation and practical application of derivatives for both hedging and speculation. Topics include the characteristics of options, forward contracts, futures, and swaps; arbitrage and the valuation of derivatives; creating value and profit diagrams; and the structure of the derivatives markets. Ethical and economic issues associated with the use of derivatives as reported in the current financial press are also covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.5010 Business Financial Analysis.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6770": {
+        "name": "FINA.6770 Independent  Study: Finance (Formerly FINA/61.677)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6770/",
+        "id": "006408",
+        "description": "Pre-Requisites: MBA Foundation Core and 61.601, or permission of MBA Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 61.601 Corporate Finance, MBA Foundation Core, or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FINA.6880": {
+        "name": "FINA.6880 Current Topics in Finance (Formerly FINA/61.688)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6880/",
+        "id": "006409",
+        "description": "Topics of current interest in Finance. Subject matter to be announced in advance. For a current semester course title, please log on to ISIS, the Inter-Campus Student Information System.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.6910": {
+        "name": "FINA.6910 International Financial Management (Formerly FINA/61.691)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/6910/",
+        "id": "006410",
+        "description": "The international dimension of the finance function of the firm. Financial constraints of the international environment and their effect on the standard concepts of financial management. The techniques of adapting risk analysis to the international situation. Study of international currency flows, monetary systems, forward cover and international banking policies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MBA Professionals only or Masters of Accounting or  Masters of Finance or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FINA.7200": {
+        "name": "FINA.7200 Financial Economics and Research (Formerly FINA 720)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7200/",
+        "id": "039386",
+        "description": "This doctoral-level course will introduce students to financial economics and the research methodology that supports advancement in the field. One major course objective is to provide the core theoretical foundations on which the various subfields, such as corporate finance and investments, rely upon. The second objective is to become familiar with financial data and the methodology to test the empirical evidence to validate theoretical arguments. Topics will include utility theory under uncertainty, stochastic dominance, state preference theory, mean-variance portfolio theory, asset pricing, and contingent claims pricing. Topics that support corporate finance, such as information asymmetry and agency theory, will also be introduced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.7400": {
+        "name": "FINA.7400 Corporate Finance Theory (Formerly FINA/61.740)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7400/",
+        "id": "036933",
+        "description": "This course covers topics in corporate finance including agency theory, theory of the firm, market for corporate control, financing policy, and dividend policy, among others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.7410": {
+        "name": "FINA.7410 Investments Theory (Formerly FINA/61.741)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7410/",
+        "id": "036934",
+        "description": "This course covers topics in optimal portfolio choice and asset pricing including discrete-time and continuous time models for portfolio choice and security prices, Black-Scholes model of asset pricing, and general-equilibrium asset pricing models, among others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Doctoral Student in good standing or with Instructor's Permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FINA.7430": {
+        "name": "FINA.7430 Seminar in Corporate Finance (Formerly FINA/61.743)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7430/",
+        "id": "036936",
+        "description": "This course is a doctoral level seminar covering both theoretical and empirical research in the area of corporate finance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.7440": {
+        "name": "FINA.7440 Seminar in Investment Analysis (Formerly FINA/61.744)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7440/",
+        "id": "036948",
+        "description": "This course is a doctoral level seminar covering both theoretical and empirical research in the area of investments and asset pricing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.7840": {
+        "name": "FINA.7840 Special Topics in Finance (Formerly FINA/ 61.784)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7840/",
+        "id": "036983",
+        "description": "This is a doctoral level course covering both theoretical and empirical research in an area of finance as determined by the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.7960": {
+        "name": "FINA.7960 Doctoral Dissertation (Formerly FINA 796)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7960/",
+        "id": "039423",
+        "description": "Doctoral dissertation research.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FINA.7970": {
+        "name": "FINA.7970 Managerial Research Seminar (Formerly FINA 797)",
+        "url": "https://www.uml.edu/catalog/courses/FINA/7970/",
+        "id": "039299",
+        "description": "The course will involve an on-going monthly presentation from across scholarly disciplines.  Speakers will be drawn from local, national, and international universities.  Attendance will be mandatory; PhD students should gain an appreciation for high level scholarship. and corporate governance research.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Matriculated MBA, MSF, or MSA students who have completed FINA.5010 Business Financial Analysis, ACCT.5010 Financial Accounting , or permission of MBA/MSF coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

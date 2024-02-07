@@ -1,0 +1,79 @@
+{
+    "total": 5,
+    "time": 5.792953729629517,
+    "WLAN.1991": {
+        "name": "WLAN.1991 Directed Studies World Languages Level 1",
+        "url": "https://www.uml.edu/catalog/courses/WLAN/1991/",
+        "id": "040258",
+        "description": "Directed Studies World Languages Level 1",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLAN.1992": {
+        "name": "WLAN.1992 Directed Studies World Languages Level 2",
+        "url": "https://www.uml.edu/catalog/courses/WLAN/1992/",
+        "id": "040259",
+        "description": "Directed Studies World Languages Level 2.  Permission of the instructor and department chair required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLAN.2991": {
+        "name": "WLAN.2991 Directed Studies World Languages Level 3",
+        "url": "https://www.uml.edu/catalog/courses/WLAN/2991/",
+        "id": "040261",
+        "description": "Directed Studies World Languages Level 3.  Permission of the instructor and department chair required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLAN.2992": {
+        "name": "WLAN.2992 Directed Studies World Languages Level 4",
+        "url": "https://www.uml.edu/catalog/courses/WLAN/2992/",
+        "id": "040260",
+        "description": "Directed Studies World Languages Level 4.  Permission of the instructor and department chair required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "WLAN.4000": {
+        "name": "WLAN.4000 Senior Capstone in World Languages and Cultures",
+        "url": "https://www.uml.edu/catalog/courses/WLAN/4000/",
+        "id": "040672",
+        "description": "The purpose of this course is to help students document and critically analyze their experience abroad, in an internship or in a community project. Through the creation of a digital portfolio, this course validates our major students' linguistic hands-on experience through study abroad or community-based practicum experience and it establishes consistency in our major curriculum by ensuring that all our majors are getting a high-quality linguistic experience abroad or at home. This course is conducted in the target language in which the student majors. For those students majoring in French/Spanish and Italian/Spanish options, the student chooses the target language in which the coursework is completed.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

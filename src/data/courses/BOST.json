@@ -1,0 +1,349 @@
+{
+    "total": 23,
+    "time": 17.170053482055664,
+    "BOST.545MATH": {
+        "name": "BOST.545MATH Prob & Stats I for Sec. Teach (BOST.545MATH)",
+        "url": "https://www.uml.edu/catalog/courses/BOST/545MATH/",
+        "id": "041452",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(545MATH)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.560BIOL": {
+        "name": "BOST.560BIOL Bioinformatics",
+        "url": "https://www.uml.edu/catalog/courses/BOST/560BIOL/",
+        "id": "039818",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details. (BIOL.560)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.603CRSCAD": {
+        "name": "BOST.603CRSCAD Reconstruction After Cameras",
+        "url": "https://www.uml.edu/catalog/courses/BOST/603CRSCAD/",
+        "id": "040123",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(CRSCAD.603L)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.603ENVSCI": {
+        "name": "BOST.603ENVSCI Coasts and Communities I",
+        "url": "https://www.uml.edu/catalog/courses/BOST/603ENVSCI/",
+        "id": "040640",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(ENVISCI.603)",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.604ENVSCI": {
+        "name": "BOST.604ENVSCI Coasts and Communities II",
+        "url": "https://www.uml.edu/catalog/courses/BOST/604ENVSCI/",
+        "id": "040831",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(ENVSCI.604)",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.607BIOL": {
+        "name": "BOST.607BIOL An Introduction to Computational Data Analysis for Biology",
+        "url": "https://www.uml.edu/catalog/courses/BOST/607BIOL/",
+        "id": "040019",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.613ENVSCI": {
+        "name": "BOST.613ENVSCI Oceans and Human Health",
+        "url": "https://www.uml.edu/catalog/courses/BOST/613ENVSCI/",
+        "id": "040644",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(ENVSCI.613)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.619MSIS": {
+        "name": "BOST.619MSIS Systems Analysis and Design",
+        "url": "https://www.uml.edu/catalog/courses/BOST/619MSIS/",
+        "id": "040366",
+        "description": "Intercampus Course - Please refer to the UMASS Boston Course Catalog for details.\n(MSIS 619)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.625BIOL": {
+        "name": "BOST.625BIOL Genomics and Biotechnology",
+        "url": "https://www.uml.edu/catalog/courses/BOST/625BIOL/",
+        "id": "039819",
+        "description": "Intercampus Course - Please refer to the UMASS Boston Course Catalog for details.\n(BIOL625))",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.630MSIS": {
+        "name": "BOST.630MSIS Project & Change Managment",
+        "url": "https://www.uml.edu/catalog/courses/BOST/630MSIS/",
+        "id": "040353",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(MSIS 630)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.635PHYSIC": {
+        "name": "BOST.635PHYSIC Estimation in Physics",
+        "url": "https://www.uml.edu/catalog/courses/BOST/635PHYSIC/",
+        "id": "042234",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details. (PHYSIC 635).",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.638PHYSIC": {
+        "name": "BOST.638PHYSIC Quantum Measurement Theory",
+        "url": "https://www.uml.edu/catalog/courses/BOST/638PHYSIC/",
+        "id": "041824",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details. (PHYSIC 638)",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.654BIOL": {
+        "name": "BOST.654BIOL Sustainability Science",
+        "url": "https://www.uml.edu/catalog/courses/BOST/654BIOL/",
+        "id": "040639",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(BIOL.654)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.664BIOL": {
+        "name": "BOST.664BIOL Bioinformatics Molecular Biology",
+        "url": "https://www.uml.edu/catalog/courses/BOST/664BIOL/",
+        "id": "040110",
+        "description": "Intercampus Course--Please refer to UMASS Boston Course Catalog for details.\n(BIOL.664)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.671CHEM": {
+        "name": "BOST.671CHEM Introduction to Green Chemisty",
+        "url": "https://www.uml.edu/catalog/courses/BOST/671CHEM/",
+        "id": "040830",
+        "description": "Intercampus Course--Please refer to UMASS Boston Course Catalog for details.\n(CHEM 671)",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.671MBAMGT": {
+        "name": "BOST.671MBAMGT Introduction to Environmental Management",
+        "url": "https://www.uml.edu/catalog/courses/BOST/671MBAMGT/",
+        "id": "040834",
+        "description": "Intercampus Course--Please refer to UMASS Boston Course Catalog for details.\n(MBAMGT 671L)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.673BIOL": {
+        "name": "BOST.673BIOL Directed Readings (Formerly BOS.673BIOL)",
+        "url": "https://www.uml.edu/catalog/courses/BOST/673BIOL/",
+        "id": "035818",
+        "description": "Intercampus Course--Please refer to UMASS Boston Course Catalog for details.\n(BIOL673)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.675ENVSCI": {
+        "name": "BOST.675ENVSCI Economics of Renewables",
+        "url": "https://www.uml.edu/catalog/courses/BOST/675ENVSCI/",
+        "id": "040108",
+        "description": "Intercampus Course--Please refer to UMASS Boston Course Catalog for details.\n(ENVSCI.675L)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.693PSYDBS": {
+        "name": "BOST.693PSYDBS Seminar in Development and Brain Sciences",
+        "url": "https://www.uml.edu/catalog/courses/BOST/693PSYDBS/",
+        "id": "040514",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(PSYDBS.693)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.697ENVSCI": {
+        "name": "BOST.697ENVSCI Special Topics",
+        "url": "https://www.uml.edu/catalog/courses/BOST/697ENVSCI/",
+        "id": "040832",
+        "description": "Intercampus Course - Please refer to the UMASS Boston Course Catalog for details. (ENVSCI 697)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.700NURS": {
+        "name": "BOST.700NURS Philosophy of Nursing Science",
+        "url": "https://www.uml.edu/catalog/courses/BOST/700NURS/",
+        "id": "041006",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details. (NURSNG 700)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.762PSYDBS": {
+        "name": "BOST.762PSYDBS Knowledge Acquisition",
+        "url": "https://www.uml.edu/catalog/courses/BOST/762PSYDBS/",
+        "id": "041079",
+        "description": "Intercampus Course -- Please refer to UMASS Boston Course Catalog for details.\n(PSYDBS.762)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BOST.791ENVSCI": {
+        "name": "BOST.791ENVSCI Seminar Environmental Studies",
+        "url": "https://www.uml.edu/catalog/courses/BOST/791ENVSCI/",
+        "id": "040833",
+        "description": "Intercampus Course--Please refer to UMASS Boston Course Catalog for details.\n(ENVSCI 791)",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

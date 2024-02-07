@@ -1,0 +1,2371 @@
+{
+    "total": 87,
+    "time": 59.76310086250305,
+    "ARTS.1010": {
+        "name": "ARTS.1010 Art Concepts I (formerly 70.101)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1010/",
+        "id": "006823",
+        "description": "Art Concepts I will focus on learning the visual language of the creative process through anexamination of the principles of two-dimensional visual organization. These fundamental basics form the underlying structure of all studio and communication arts. Through slide lecture, guest lecturers, field trips, and studio projects, students will begin to understand the many forms that visual expression takes. The course will develop creative problem solving skills and students will learn to respond to personal challenge. Students will also be instructed in the principles of professional execution and be introduced to diverse modes of thought, media, and aesthetic expression.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1020": {
+        "name": "ARTS.1020 Art Concepts II (formerly 70.102)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1020/",
+        "id": "006824",
+        "description": "Art Concepts II will focus on learning the visual language of the creative process through an examination of the principles of three-dimensional visual organization. These fundamental basics form the underlying structure of architecture, environmental graphic design, product design and sculpture. Through slide lecture, guest lecturers, field trips, and studio projects, students will begin to understand the many forms that three dimensional expression takes. The course will develop creative problem solving skills and students will learn to respond to personal challenge. Students will also be instructed in the principles of professional execution and be introduced todiverse modes of thought, media, and aesthetic expression. Art majors only.   Fall and Spring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ARTS.1010 Art Concepts I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.1130": {
+        "name": "ARTS.1130 Digital Foundations (Formerly 70.113)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1130/",
+        "id": "035096",
+        "description": "This course explores the computer as a tool of the visual language.  Topics included are raster and vector-based image making, art for the internet & mobile devices, and current image capture and output methods.  This course will introduce Photoshop, Illustrator, Flash and a basic programming with the aim of expanding the artist's toolkit.  Lectures, readings, and discussions will provide an overview of history and contemporary ideas on the use of computers in art.  Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Fine Arts Majors, Graphic Design Majors, Digital Media Majors, Minors and BLA concentration only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1140": {
+        "name": "ARTS.1140 The Creative Process (formerly 70.114)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1140/",
+        "id": "039356",
+        "description": "This course explores the relationship between the creative process, self-expression and communication, through the visual arts. The creative process is first explored broadly as a problem-solving tool applicable to all fields of human endeavor. The student then experiences the creative process in studio explorations and the creation of art works with an emphasis on process rather than product with the goal of broadening the basis for student self confidence in creative skill development, originality, critical thinking/writing, the use of information technology resources, and appreciation of the visual arts as a powerful vehicle for communication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Non-Art Majors Only",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1150": {
+        "name": "ARTS.1150 Drawing for Non-Art Majors",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1150/",
+        "id": "039595",
+        "description": "This introductory drawing course is intended for students with little or no drawing experience. It is a studio art course involving the learner in a hands-on approach to basic drawing and composition. Learners explore, comprehend, and employ the basic elements and principles of art, use various graphic media and become familiar with the vocabulary, concepts and techniques of drawing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1160": {
+        "name": "ARTS.1160 Graphic Design for Non-Majors",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1160/",
+        "id": "041594",
+        "description": "In this course, non-major students with an interest in Graphic Design will be introduced to design and typography fundamentals and how they apply to both print and screen-based media. In a variety of assignments, students will learn design process, image-making and layout, writing and responding to a client brief, including brand identity creation and a social awareness project. They will work with the Adobe Creative Cloud programs Illustrator, Photoshop and Indesign and be able to execute their designs using the appropriate software. This class will meet once a week for 3 hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1170": {
+        "name": "ARTS.1170 An Introduction to the Language of Painting",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1170/",
+        "id": "042131",
+        "description": "This is an introductory course which is designed for students who have either no or minimal painting experience. Focusing on the basic elements of painting, both in theory and practice there will be an emphasis on the familiarization of materials and techniques. Over the course of the semester, students will develop a greater fluency and larger understanding of the visual and material vocabulary of painting. Over the course of the semester, an emphasis is put on developing the student's ability to critically evaluate their work, contributing to the development of their individual vision.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1350": {
+        "name": "ARTS.1350 Kinetic Projects (Formerly 70.135)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1350/",
+        "id": "039359",
+        "description": "Kinetic Projects is a hybrid course designed for a variety of majors to explore the intersections between mechanical engineering and sculpture. In this project-driven class, students will learn principles and practice in both the fields of engineering and art, and put them into practice by creating functioning kinetic objects to be displayed in a public setting. The course will also include guest lectures from practitioners in Art and Engineering. The course provides an introduction to technical communications, teamwork, data analysis, computer coding, computer-aided drafting/design/modeling program usage, prototyping techniques, report-writing and /or oral presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1550": {
+        "name": "ARTS.1550 Drawing I (formerly 70.155, 70.255)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1550/",
+        "id": "006835",
+        "description": "Provides a foundation in basic drawing concepts using a variety of media and approaches. The emphasis is on building visual literacy and its application to the realm of ideas. A wide range of assignments are given to develop graphic expression.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1560": {
+        "name": "ARTS.1560 Drawing II (Formerly 70.156, 70.256)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1560/",
+        "id": "006855",
+        "description": "The emphasis is on giving form to ideas through building a solid sense of visual literacy. Assignments include a wide range of color media, surface, and subject matter with the focus on the psychological and structural use of color, creative experimentation, and the development of personal style. Fall and spring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Fine Arts Majors, Minors and BLA concentration only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.1610": {
+        "name": "ARTS.1610 Introduction to Photography (formerly 70.161)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/1610/",
+        "id": "039396",
+        "description": "Photography for Non Majors. Students learn how to transform the three-dimensional world before their eyes into the two-dimensional world of photography utilizing the human invention of the lens and camera. They come to appreciate the role photography plays in composition, lighting, and concept creation. Does not count towards a BLA minor or a BFA degree. AH.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2010": {
+        "name": "ARTS.2010 Form And Content (formerly 70.201)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2010/",
+        "id": "006827",
+        "description": "Form and Content is considered the capstone course of the Art Foundations Requirement. Through a variety of studio assignments and individual projects students will explore theintegration of humanities related concepts and develop an understanding of how visual artists think, live and function in the twenty first century. As part of the course requirements students will participate in the foundations exhibition at the end of the semester. Art majors only. Fall and Spring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts I, ARTS 1550 Drawing I, and ARTS 1130 Digital Foundations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2100": {
+        "name": "ARTS.2100 Graphic Design I (Formerly 70.210)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2100/",
+        "id": "006849",
+        "description": "Exercises, lectures and projects will introduce students to graphic design principles and techniques. Course will begin with a fundamental study of image, form, and space relations, then cover such topics as working with grids, typography basics, page layout, the introduction of color, rendering techniques, denotative and connotative image making, history, and more. Students will be assigned a series of projects to enhance their visual communication skills. Students will be introduced to the software used in contemporary design practice. Students must earn a C+ or better in the course to continue in the Graphic Design BFA program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2200": {
+        "name": "ARTS.2200 Website Design I (formerly 70.220)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2200/",
+        "id": "006874",
+        "description": "This course will focus on the creation of visual content for the web and will explore what constitutes a visually exciting and engaging site. Other topics that will be covered are: file formats, compression, web color strategies, and platform standards. Basic familiarity with Mac OS and/or Windows platforms required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2210": {
+        "name": "ARTS.2210 Practicum/Internship (formerly 70.221)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2210/",
+        "id": "006893",
+        "description": "The Practicum/Internship is an on-campus or off-campus learning experience. Specific requirements will vary depending on department policies and the nature of the program undertaken by the student. The practicum experience is to provide an occasion for practical experience in an area of particular interest to the student.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2300": {
+        "name": "ARTS.2300 Typography I (Formerly 70.230)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2300/",
+        "id": "006830",
+        "description": "This introductory typography course is for students interested in visual communication, type and its use. Students begin the semester working with a single letterform and numeral and end the semester researching and design and entire book. Proper typographic systems must be used including a detailed look at page layout software, creating grids, working with \"style sheets\" and the finer points of setting typography. We will also explore how to transfer these skills and concepts for use in screen-based media. This is a project based course which contains visual, written, and research components. Students will be introduced to the software used in contemporary design practice. Students must earn a C+ or better in this course to continue in the Graphic Design BFA program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2320": {
+        "name": "ARTS.2320 Ceramics I (formerly 70.232)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2320/",
+        "id": "006848",
+        "description": "Learn the basics of working with clay with a focus on traditional Khmer hand building and surface carving practices. Hand building techniques including slab construction, coil pinch, low relief carving, slip joinery, and additive processes to create vessels and sculptures will be covered as well as glazing, color, and traditional wood kiln firing processes Students make sculptural and functional forms to fire in a Cambodian style environmentally green smokeless wood burning kiln. Course is suitable for both beginners and intermediate ceramists. This is a General Education elective in arts & humanities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2330": {
+        "name": "ARTS.2330 Khmer Ceramics",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2330/",
+        "id": "041847",
+        "description": "Learn the basics of working with clay with a focus on traditional Khmer hand building and surface carving practices.  Hand building techniques including slab construction, coil pinch, low relief carving, slip joinery, and additive processes to create vessels and sculptures will be covered as well as glazing, color, and traditional wood kiln firing processes.  Students make sculptural and functional forms to fire in a Cambodian style environmentally green smokeless wood burning kiln. Course is suitable for both beginners and intermediate ceramists.  This is a General Education elective in the arts & humanities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2350": {
+        "name": "ARTS.2350 Sculpture I (formerly 70.235)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2350/",
+        "id": "006846",
+        "description": "The exploration of three-dimensional form through the use of basic materials, methods and approaches. Assignments will include expressive problems based on human and non-objective form relationships. Spring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2420": {
+        "name": "ARTS.2420 Language of Video (formerly 70.242)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2420/",
+        "id": "006870",
+        "description": "An introductory course in video camera principles and editing functions. Utilizing writing and still photography, students will explore the language of video in both images and sound as they produce factual documents and/or personal fiction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2560": {
+        "name": "ARTS.2560 Drawing III (formerly 70.256)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2560/",
+        "id": "006856",
+        "description": "This advanced course in drawing is designed to help students develop the expressive and conceptual concerns of their drawing practice while developing their ability to work in an independent manner. Designed for students in al disciplines, the course will emphasize the development of strong research skills through the exploration of historical and contemporary modes of drawing. The class will be combination of studio work, presentations, and individual and group critiques. Critiques are designed to provide feedback and to encourage and nurture each students vision. Exploring a variety of drawing media, the ultimate goal of the course is the development of a visually coherent and conceptually inified body of work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2570": {
+        "name": "ARTS.2570 Monotypes (formerly 70.257)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2570/",
+        "id": "006864",
+        "description": "Exploration of the one-of-a-kind \"painter's print \". Emphasis is on the development of personal expression through a variety of assignments and techniques. Three portfolios of prints are required, two with assigned topics, and one with a self-assigned theme. Fall, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2590": {
+        "name": "ARTS.2590 Papermaking (formerly 70.259)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2590/",
+        "id": "006836",
+        "description": "The papermaking course is designed to explore paper, not just as a surface to receive an image, but as a material capable of being an artistic expression in and of itself. The course will explore the processes and techniques of making images in handmade paper, making images on handmade paper, making visual designs out of handmade paper and casting handmade paper into three-dimensional sculptural forms. Spring, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2610": {
+        "name": "ARTS.2610 Photography I (formerly 70.261)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2610/",
+        "id": "006837",
+        "description": "A foundation course that covers the basic analogue and digital camera techniques, as well as aesthetic principles, Student learn to make, develop and print their own photographs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Fine Arts Majors, Graphic Design Majors, Digital Media Majors, Minors and BLA concentration only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2620": {
+        "name": "ARTS.2620 Digital Imaging and Photography: Photoshop (formerly 70.262)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2620/",
+        "id": "006838",
+        "description": "This course will offer the student a transition between traditional photographic imaging and digital photographic imaging. The course will cover the fundamentals of digital scanning, digital capture and image manipulation. Image preparation for other media will also be explored.  Basic familiarity with the Mac OS and/or Windows platforms required.  6 Contact Hours required for Day School students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2660": {
+        "name": "ARTS.2660 Alternative Photo Processing (formerly 70.266)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2660/",
+        "id": "031970",
+        "description": "Alternative Photo Processing give the serious photography student an opportunity to Learn historic and contemporary alternative processes such as Cyanotype, Van Dyke Brown, Kallitype, Palladium, and Image Transfers. Alternative methods of creating negatives utilizing photocopiers, inkjet printers, Clich\u00e9 Verre, and Acrylic Lifts will give student the opportunity to make handmade photographs with and without a camera.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and ARTS 2610 Photography I, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2670": {
+        "name": "ARTS.2670 Printmaking (formerly 70.267)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2670/",
+        "id": "006842",
+        "description": "An introduction to basic printmaking processes and aesthetics with the emphasis on etching. The approach is concept oriented, emphasizing experimentation and exploration on an individual level to communicate ideas.  Fall.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1550 Drawing I, and ARTS.1560 Drawing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2690": {
+        "name": "ARTS.2690 Color (formerly 70.269)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2690/",
+        "id": "006843",
+        "description": "A course in the systematic study of color and color theory to sharpen visual acuity, stimulate creativity and develop a greater facility in the use of color.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2700": {
+        "name": "ARTS.2700 Figure Drawing (formerly 70.270)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2700/",
+        "id": "006865",
+        "description": "The study of the draped and undraped figure from life, stressing both sound observation and the creative use of human form as a vehicle for personal expression. A variety of assignments, graphic media, and approaches will be given in order to help explore both philosophical and aesthetic issues. Fall, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010, ARTS 1020, ARTS 1130, ARTS 2010, ARTS 1550, and ARTS 1560, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2710": {
+        "name": "ARTS.2710 Painting I (formerly 70.271)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2710/",
+        "id": "006844",
+        "description": "Presents oil painting techniques as vehicles for serious creative expression. A variety of assignments will be given to help the student build proficiency in the use of color, paint handling, and subject matter.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2720": {
+        "name": "ARTS.2720 2D Animation I (formerly 70.272)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2720/",
+        "id": "006867",
+        "description": "This course will provide students with the fundamental understanding about the process and the concepts in animation for narrative and experimental expression.  Preproduction including scripting and storyboarding will be especially emphasized.  Hybrid techniques in both traditional and digital animations including hand-drawing, stop-motion, rotoscoping, pixilation as well as tweening will be introduced.  Static and kinetic aesthetics of moving images will be explored through the review of historic and contemporary animations, and through the production.  Students from this course will make a much smoother transition to 3D animation courses, Language of Video, Interactive media as well as Web Design/Art.  The course will also introduce the student to historical and contemporary perspectives related to the discipline.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010, ARTS 1020, ARTS 1130, ARTS 2010, ARTS 1550, and ARTS 1560, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2730": {
+        "name": "ARTS.2730 Watercolor (formerly 70.273)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2730/",
+        "id": "006845",
+        "description": "The technical and creative use of water based media as they apply to fine arts and graphic design. Assignments in acrylic, gouache, watercolor, and ink are designed to stimulate independent thinking. A final self-assigned project is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.2741": {
+        "name": "ARTS.2741 Storyboarding and Comics (formerly 70.274)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2741/",
+        "id": "039327",
+        "description": "This course focuses on applying industry-standard storyboarding and storytelling techniques to animation. Contents to be covered include the various purposes and formats of storyboards, the basic terminology and concepts used in storyboarding, and the application of storyboarding techniques to the creation of storyboards with or without a written script.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2760": {
+        "name": "ARTS.2760 3D Modeling and Animation I (formerly 70.276)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2760/",
+        "id": "006869",
+        "description": "This course will focus mainly on the forms, materials, and composition of 3D computer grahics in the various environments.  Students will explore the possibility of 3D computer graphics for creative expression as well as innovative visual communications such as animation, game, sculpture, print and design.  Rendering, lighting and camera as well as material and texturing techniques will be also explored.  The course will also introduce the student to historical and contemporary perspectives related to the discipline.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1130 Digital Foundations, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1130"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2770": {
+        "name": "ARTS.2770 Compositing and Motion Graphics (formerly 70.277)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2770/",
+        "id": "039337",
+        "description": "Students in this course learn the concepts, techniques and vocabulary of compositing and motion graphics in animation using Adobe After Effects. Students will produce animated videos, motion graphics and montages integrating image manipulation applications and other image processing support.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1130 Digital Foundations, or DGMD.1100 Introduction to Digital Media Production.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1130",
+                    "DGMD.1100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2780": {
+        "name": "ARTS.2780 Interactive Media (formerly 70.278)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2780/",
+        "id": "006873",
+        "description": "This course provides students with the ability to create interactive motion graphics for Multimedia projects using Adobe Flash and Adobe After Effects. Students learn how to make sophisticated vector and pixel based graphics with basic action scripting and a variety of interactive graphic elements as well as compositing, editing, character rigging, effects for digital media and animation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010, ARTS 1020, ARTS 1130, ARTS 2010, ARTS 1550, and ARTS 1560, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2900": {
+        "name": "ARTS.2900 Illustration I (formerly 70.290)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2900/",
+        "id": "006879",
+        "description": "This course will provide students with an understanding of the creative, visual and formal aspects of the applied art of illustration. Project challenges will be based on several real-world applications of illustration in a variety of genres including editorial, sequential narrative, portrait, nature and product application. The course includes an introduction to different illustration media, the stages and process of creating illustrations and learning about both contemporary and historic illustrators. They will be encouraged to develop unique thinking and conceptual approaches as they hone their artistic voice. Students will learn to communicate ideas and develop content through research, discussion, sketching, critique and creating.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2950": {
+        "name": "ARTS.2950 Studio Workshop Abroad (formerly 70.295)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2950/",
+        "id": "039112",
+        "description": "In this course students will make a portfolio of small works and take them abroad to exhibit internationally. While on tour, participants will create further works by interaction with their surroundings, take visual notes, and collect items to broaden artistic practice upon return home.  Participants are to generate work that develops their own artistic voice, explores and expresses their visions open to the surrounding foreign cultural influences. As this course takes place largely abroad, the unique challenges of interpreting culture, representing profound experience, and learning from a mix of ancient and modern sources will frame artistic investigations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts I, and ARTS 1550 Drawing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1550"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2951": {
+        "name": "ARTS.2951 BioArt Workshop in Portugal",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2951/",
+        "id": "040319",
+        "description": "This is an interdisciplinary course that combines art and science a Cultivamos Cultural in San Luis Portugal. The intersection of Art, Biology and the Environment offer unique opportunities to visual artists. This innovative summer course, which is already on its fourth edition, will allow non-specialists to acquire theoretical and practical skills in biological and environmental sciences in connection to the visual arts. The Summer School explores the interdisciplinary relationship between art, line and environmental sciences through hands-on exercises, combining theory and practice in an informal environment, e.g.: seminars, debates, visits, and the creation of artworks with biological media.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1010 or 1020 College Writing I or II or (42.103 Col Writing I-Internatl or ENGL 1110 College Writing I ESL) or HONR.1100.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "ENGL.1110",
+                    "HONR.1100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2960": {
+        "name": "ARTS.2960 Character and Layout Design (formerly 70.296)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2960/",
+        "id": "039332",
+        "description": "This course is designed for students to understand the fundamentals of character and layout design for Animation. Students will focus on rendering life forms in space. Emphasis will be placed on the anatomical structure of characters as well as practical and aesthetic elements of pre-production. Shot design, composition, staging, mood, texture and lighting for layout and background design will be covered in this course as well. Students will also learn the basics of using props a background and foreground design elements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2970": {
+        "name": "ARTS.2970 Studio Workshop (formerly 70.297)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2970/",
+        "id": "006850",
+        "description": "Presents a study of studio problems in visual structures and organization, as well as an exploration of various media and techniques. Topics will vary. This course may be repeated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010, ARTS 1020, ARTS 1130, ARTS 2010, ARTS 1550, and ARTS 1560, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.2980": {
+        "name": "ARTS.2980 Book Arts (formerly 70.298)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/2980/",
+        "id": "006851",
+        "description": "Book Arts will engage students in the design and fabrication of handmade, one-of-a-kind artists books. A wide variety of material and processes will be investigated. Students will learn how to produce compelling book structures for visual and graphic content. The course will introduce students to the history of Eastern and Western methods of bookmaking as well as the contemporary practice of one-of-a- kind conceptual artists books. The three-dimensional possibilities of bookmaking will also be explored.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010, ARTS 1020, ARTS 1130, ARTS 2010, ARTS 1550, and ARTS 1560, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3100": {
+        "name": "ARTS.3100 Graphic Design II (formerly 70.310)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3100/",
+        "id": "006880",
+        "description": "Students will continue improving their visual communication skills, and develop their ability to take a project to its final stage and render it as a professional portfolio piece. In a variety of print, screen-based, interactive, and time-based projects, students will be expected to conceive inventive, conceptual solutions to design problems. Building on design fundamentals, students are encouraged to maintain consistent, sophisticated design systems and explore various types of image-making. While strengthening their technical proficiency and design process, students will learn to apply concepts to multi-format project deliverables. Common projects include brand identity systems, dat visualization, publication design, poster design, packaging, design for screens, and motion design. Students must earn a C+ or better in this course to continue in the Graphic Design BFA program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, and ARTS 2300 Typography I, and ARTS 2100 Graphic Design I",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2300"
+                ],
+                [
+                    "ARTS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3150": {
+        "name": "ARTS.3150 Packaging and Point of Purchase",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3150/",
+        "id": "041500",
+        "description": "This course explores design in a physically three-dimensional space, such as packaging and environmental graphics. Through multiple projects students learn packaging systems, the billboard effect and how designs live and interact in their physical space. Improving form, industrial design and sustainability are challenges this course will explore. This course expands to touch on printing techniques and constraints, die lines and conceptual design beyond the screen.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.2100 Graphic Design I, and ARTS.3100 Graphic Design II, and ARTS.2300 Typography I, and ARTS.3300 Typography II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ],
+                [
+                    "ARTS.2300"
+                ],
+                [
+                    "ARTS.3300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3200": {
+        "name": "ARTS.3200 Web Design II (formerly 70.320)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3200/",
+        "id": "006877",
+        "description": "This advanced-level course is designed for students who have completed Website Development (90.238) and Website Design (70.379). The course will cover advanced topics such as user-centered design, information architecture, testing, and usage analysis. Students will have the opportunity to further develop their design, development, and conceptualization skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2100 Graphic Design I, ARTS 3100 Graphic Design II, ARTS 2300 Typography and ARTS 2200 We",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ],
+                [
+                    "ARTS.2300"
+                ],
+                [
+                    "ARTS.2200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3300": {
+        "name": "ARTS.3300 Typography II (formerly 70.330)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3300/",
+        "id": "030372",
+        "description": "Continuation of 70.230",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, and ARTS 2300 Typography I, and ARTS 2100 Graphic Design I",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2300"
+                ],
+                [
+                    "ARTS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3320": {
+        "name": "ARTS.3320 Ceramics II (formerly 70.322)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3320/",
+        "id": "035291",
+        "description": "Building on Ceramics I as an introductory course, Ceramics II will ask the student to explore functional and nonfunctional ceramic form.  Students will be expected to challenge themselves with scale, advanced glaze methods and they will become familiar with kiln firings.  Historical and contemporary issues in ceramics will be covered through lectures, slide presentations and critiques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.2320 Ceramics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3350": {
+        "name": "ARTS.3350 Sculpture II (formerly 70.335)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3350/",
+        "id": "006858",
+        "description": "A course allowing the student to further develop his or her techniques and understanding of sculptural form, leading to a more personal vocabulary. Conventional techniques will be extended to cover more contemporary materials and methods.  Spring, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and ARTS 2350 Sculpture 1, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3610": {
+        "name": "ARTS.3610 Photography II (formerly 70.361)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3610/",
+        "id": "006860",
+        "description": "This is an intermediate course that will build on the experience of Photography I and further emphasize the medium as a complex cultural practice with its many approaches. Students will be asked to conceive, research and execute a long-term project as a culmination of the semester which will take a format of a photo book. Weekly instructions, lectures, demonstrations, and assignments are aimed at helping students further enhance their conceptual and technical skills, and to allow them to form their own vision and approach to the medium. Advanced digital camera and inkjet printing techniques will be taught along with the proper exhibition practices. Ideas related to contemporary, historical, and aesthetic concerns of the medium will be extensively explored. A meaningful portion of the course will be dedicated to reading, discussion, and critique of work in progress. Students are expected to be self-motivated and work independently.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1610 Light & Lens, or ARTS..2610 Photography I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3635": {
+        "name": "ARTS.3635 Film and Darkroom Photography",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3635/",
+        "id": "042264",
+        "description": "This course explores the practice of film photography and darkroom techniques as well as historic, conceptual, and aesthetic concerns related to the medium. The emphasis will be on the black and white silver gelatin process. Students will learn analog/traditional photography and will develop the skills necessary to produce prints in the darkroom. Emphasis on exploring photography as a fine art medium is the main objective of this class. Ideas related to contemporary, historical, and aesthetic photographic issues will be addressed during the course lectures and discussions. The course is open to anyone; previous experience with photography is expected but not necessary.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3670": {
+        "name": "ARTS.3670 Printmaking II (formerly 70.367)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3670/",
+        "id": "039176",
+        "description": "This course builds on the printmaking techniques and aesthetic issues explored in Printmaking and Monotypes, using advanced methods in relief, intaglio and silkscreen to further develop individual aesthetic and conceptual goals. Students will use studio work, critique discussion, writing and research to explore cultural, conceptual and historical issues at the heart of printmaking. High levels of quality in imagery, increased technical proficiency and conceptual development are expected in the creation of work throughout the semester. Studio work is done during and outside of class time, along with image lectures, technical demonstrations and critique discussions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.2670 Printmaking.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2670"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3680": {
+        "name": "ARTS.3680 Relief Printmaking",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3680/",
+        "id": "042132",
+        "description": "Relief Printmaking focuses on western relief printmaking using subtractive methods with carving tools on linoleum and wood to produce both single and multicolor prints. Presentations will explore and show examples of the historical and contemporary use of relief printmaking as an accessible method to distribute information and imagery and also as a means to produce a fine art print. Emphasis will be given on relief technique building using a printmaking press, traditional printmaking tools, shop etiquette and exploratory research to tie each individual students' concepts and interests to the imagery they create.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1010 Art Concepts I, and ARTS.1560 Drawing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3710": {
+        "name": "ARTS.3710 Painting II (formerly 70.371)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3710/",
+        "id": "006866",
+        "description": "Designed to allow students to develop individual style and approach to content through a series of self-initiated paintings. Students will work closely with the instructor to develop a cohesive series that has a sound philosophical and aesthetic basis. Spring, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and ARTS 2710 Painting I or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2710"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3711": {
+        "name": "ARTS.3711 Place: A Visual Exploration of Lowell (Formerly ARTS.2711)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3711/",
+        "id": "040671",
+        "description": "This studio course is designed for students who have an interest in making images to explore the concept of \"place\", using the landscape of Lowell as a creative resource. Open to all university students, the course is structured for students who are new to the arts as well as students who have previous studio art experience. Drawing upon the unique features of the particular landscape that is the city of Lowell, students will build a body of images that is a response to the geographical and cultural histories evident in the city's physical attributes. From its history as the center of industry and textile design to the present day, the city will be viewed as raw material for the conceptual foundation of the work produced in this course. (Class will meet both on and off-campus.)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3730": {
+        "name": "ARTS.3730 Professional Photography (formerly 70.373)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3730/",
+        "id": "006868",
+        "description": "A professional level course in advertising product and studio portrait photography. Students willlearn view camera techniques as well as principles of lighting using strobe equipment. Fall, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1610 Light & Lens, or ARTS..2610 Photography I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3740": {
+        "name": "ARTS.3740 Animation Studio (formerly 70.374)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3740/",
+        "id": "039113",
+        "description": "This course focuses on applying industry-standard story boarding, character and layout and background design and scripting techniques to animation.  Contents to be covered include the various purposes and formats of storyboards, the basic terminology and concepts used in production, and the application of production techniques to the creation of animated films with or without a written script and the production  process of an animated  film from Idea to execution of complete film.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and ARTS 2720 2-D Animation or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3760": {
+        "name": "ARTS.3760 3D Modeling and Animation II (formerly 70.376)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3760/",
+        "id": "006871",
+        "description": "Students will learn the fundamentals of computer generated 3D modeling and animation. The emphasis will be on 3D character creation and the fundamental process of animation production including: concept development, organic modeling, rigging, posing, character animation, rendering and post-production. The course will also introduce the student to historical and contemporary perspectives related to the discipline. Various independent short animations will be screened for aesthetic and critical inquiry with the lectures dedicated to production techniques. The course will also introduce the student to historical and contemporary perspectives related to the discipline.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1130 Digital Foundations, and ARTS.2760 3D Modeling and Animation I, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2760"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3765": {
+        "name": "ARTS.3765 Adaptive Devices for Better Life",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3765/",
+        "id": "041653",
+        "description": "In this interdisciplinary course, students and professors from Art and Design and Physical Therapy and Kinesiology will collaborate with a hospital partner to create adaptive devices to improve the lives of children with disabilities. Students will work in small, interdisciplinary teams to invent devices to better facilitate the daily activities of children with disabilities, such as customized spoons and creating VR wheel chair training. Class time will consist of demonstrations, studio/production, visits to the hospital for testing and consultation, and final presentation to patients, therapists, and potential investors. Numerous production work flows, including 3D modeling, 3D scanning, 3D printing, VR sculpting, and physical object making with various materials will be utilized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1020 Art Concepts II, and ARTS.1130 Digital Foundations, and ARTS.2760 Intro to 3D Modeling+Animation, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2760"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3770": {
+        "name": "ARTS.3770 2D Animation II (formerly 70.377)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3770/",
+        "id": "006872",
+        "description": "This course focuses on applying industry-standard storyboarding, character and layout design and scripting techniques to animation. Contents to be covered include the various purposes and formats of storyboards, the basic terminology and concepts used in production, and the application of production techniques to the creation of animated films with or without a written script and the production process of an animated film from Idea to execution of complete film.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.2720 2D Animation I, and Art & Design Majors, Minors. Course applies to elective major requirements in Animation/Interactive Media Concentration.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3780": {
+        "name": "ARTS.3780 Interactive Media ll",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3780/",
+        "id": "039944",
+        "description": "This course will immerse students in interactive storytelling. The class will investigate time-based interactive media practices and feature hands-on lab projects. The course will contextualize interactivity within the relevant history shaping contemporary storytelling. Students will engage with exemplary interactive media projects as well as survey experimental ones. The students will apply design thinking, user experience design (UX), and media archeology to increasingly self-directed projects. The course will engage in cross-platform content publishing to browsers, mobile devices, and emergent technology platforms such as Virtual Reality.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, ARTS.2780 Interactive Media.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2780"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3800": {
+        "name": "ARTS.3800 Special Topics in Art & Design",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3800/",
+        "id": "039612",
+        "description": "Topics of current interest in Art & Design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARTS.3811": {
+        "name": "ARTS.3811 Game Design: Narrative (formerly ARTS.2810 Introduction to Game Design)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3811/",
+        "id": "039942",
+        "description": "The goal of this course is to introduce students to game design. Students will begin by creating basic tabletop games that take advantage of the playful classroom environment where different ideas and narratives can be quickly prototyped, played, and evaluated. Students will move to digital game creation for the screen using an industry standard game engine (Unity). The course includes exercises, lectures, readings, and two main projects. Students will be able to analyze the mechanics, dynamics, and aesthetics of games, create unique and innovative prototypes or games, contextualize class productions in the context of new media art and/or mainstream culture, work collaboratively in a group context, and learn the basics of a screen-based game engine.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3820": {
+        "name": "ARTS.3820 Art & Design of Data Visualization",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3820/",
+        "id": "039945",
+        "description": "This course focuses on applying foundations of artistic information graphics and data visualization to increasingly self-directed data driven projects. Participants will use data from various sources and engage diverse topics. The course covers the various purposes and formats of data visualization, the basic terminology and concepts used in the field, and the application of design techniques to the creation of static and interactive creative displays powered by data sets of varying sizes. Elements of typographic design, layout, and color theory will be used to sharpen communication and make projects accessible. The theory of information visualization will be balanced with hands on use of proprietary and open source tools including Adobe, Spreadsheets, and scripting (e.g. JavaScript).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, ARTS.2100 Graphic Design l.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3950": {
+        "name": "ARTS.3950 Advertising Design Studio (formerly 70.395)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3950/",
+        "id": "006882",
+        "description": "This course introduces the components and principles of advertising design. Students will learn to develop strategic approaches to creating compelling ad campaigns for print and cross platform related media as they gain an understanding of the synergy between art and copy. The course covers how to write effective creative briefs, create storyboards, use social media, make engaging presentations and work as part of a team. Projects include both product, service and social campaigns, a unique self-promo piece, and working with real clients. In addition, students will learn how to negotiate and communicate in the advertising field with respectful and empowering language.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2100 Graphic Design I and ARTS 3100 Graphic Design II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3970": {
+        "name": "ARTS.3970 Art and Copy (formerly 70.397)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3970/",
+        "id": "006883",
+        "description": "The real world of advertising incorporates selling words and memorable images in a dynamic visual/verbal design unit. As copywriters and art directors, students learn to think pictures and see words as they prepare advertising campaign concepts for a variety of products and media, including print and television. Spring, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2100 Graphic Design I and ARTS 3100 Graphic Design II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3980": {
+        "name": "ARTS.3980 Documentary Image (formerly 70.398)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3980/",
+        "id": "006884",
+        "description": "In a world of increasing manipulation, documentary photographs still astound us with their visual truths. In this course, students will utilize words and images \"the primary tools of the photojournalist \" to explore the significant issues of our time. Works by Fenton, O'Sullivan, Gardner, Riis, Hine, Bourke-White, Lange, Smith, Davidson, Salgado, Mark and others are studied for content, style, and inspiration. Fall, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2610 Photography I, and ARTS 3610 Photography II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2610"
+                ],
+                [
+                    "ARTS.3610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.3982": {
+        "name": "ARTS.3982 Study Abroad / Photography in the Azores",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/3982/",
+        "id": "042058",
+        "description": "A photograph as a witness is the primary concern of this course. The meaning of any photograph is determined by several cultural, social, and historical contexts. This class explores theses issues through visits to local Azorean communities and with a trip to the Azores. Photographers are bound by an invisible social contract of either reaffirming or questioning the world surrounding them. During this course, students will consider the mythologies of hierarchy and objectivity permeating the concept of documentary photography. Social engagement through work with the local community will be a large component of this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.2610 Photography I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4100": {
+        "name": "ARTS.4100 Graphic Design III (Formerly 70.410)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4100/",
+        "id": "031971",
+        "description": "Students will drive their own content creation to solve visual, conceptual and technical problems through independently and collaboratively-generated analysis, evaluation, and refinement. Through research, they will create an extensive multi-part project that addresses communication design (audience, messaging, interaction/experience) and representation of an idea across multiple elements in a system. The visual strategy should explore a brand language and system, and be applied to print and screen-based deliverables including, but not limited to: brand identity guidelines, packaging, website/app, print and social media advertising, and promotional motion graphics. They will write about and document their process throughout, and present final work in a professional presentation. Students must earn a C+ or better in this course to continue in the Graphic Design BFA program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2100 Graphic Design I, ARTS 3100 Graphic Design II, ARTS 2300 Typography l and ARTS 3300",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ],
+                [
+                    "ARTS.2300"
+                ],
+                [
+                    "ARTS.3300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4110": {
+        "name": "ARTS.4110 Design In Motion (formerly 70.411)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4110/",
+        "id": "039111",
+        "description": "The course aims to provide students with an understanding of the creative, visual and formal aspects of time\u00ad based communication and motion graphic design from both a contextual and technical point of view.  Designers, with their comprehension of the principles of graphic design, typography and theories of visual communication will develop a knowledge and understanding of processes and techniques involved in creating time-based media including title sequence design.  Projects Introduce students to time-based visual communication environments. Unique conditions influencing the roles of story boarding, planning, typography, graphics, symbolic systems, narrative, sound and time.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2100 Graphic Design I, ARTS 3100 Graphic Design II, and ARTS 2300 Typography I, and Co-re",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ],
+                [
+                    "ARTS.2300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4150": {
+        "name": "ARTS.4150 Advanced Graphic Design Exploration",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4150/",
+        "id": "041660",
+        "description": "This advanced graphic design studio elective encourages students to question the purpose of graphic design in the context of our current world, parallel existences, and possible futures. Drawing from historical and contemporary design influences, they will develop a personal methodology to form making. Building upon their fundamental knowledge of design, they will explore and test current skills and technology (use of online and digital solutions such as AR, motion and web). Using critical theory and research, they will consider their future roles in the industry and speculate and design for fictional or possible scenarios. The course aims to push students' traditional problem-solving, consider the role of authorship of designed content, and develop conceptual, critical approaches to design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.4100 Graphic Design III, and ARTS.4300 Typography III.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.4100"
+                ],
+                [
+                    "ARTS.4300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4200": {
+        "name": "ARTS.4200 Web Design  III (formerly 70.420)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4200/",
+        "id": "030373",
+        "description": "This course introduces students to the problems and solutions of advanced web design and development. It reviews the best web applications and practices for designing cutting edge websites. Students will get familiarized with the process of students to working with clients. Students will learn how to use version control software to track their design and development, manage assets, and work within a team. The course will further explore the relevant cultural and historical context of web design and prepare students for navigating the rapid changes inherent in the field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2100 Graphic Design I, ARTS 3100 Graphic Design II, ARTS 2300 Typography,ARTS 2200 Web De",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ],
+                [
+                    "ARTS.2300"
+                ],
+                [
+                    "ARTS.2200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4300": {
+        "name": "ARTS.4300 Typography III (Formerly 70.340)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4300/",
+        "id": "038878",
+        "description": "Typography III is a course in typographic theory and practice. This is a project based course, which includes a visual, research and writing component. During this course students, will create at least two grid systems and use them as primary units of organization. Students will apply typographic systems and basic interaction principles to two complex, text/image structures: a book and a series of web pages. Through readings, lectures and projects/critiques, you will be introduced to various theoretical approaches to the typographic page, as well as various approaches to designing interactive structures (book, web page/site) that hold and present typographic content. Students must earn a C+ or better in this course to continue in the Graphic Design BFA program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2100 Graphic Design I, ARTS 3100 Graphic Design II, and ARTS 2300 Typography I, and Co-re",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.3100"
+                ],
+                [
+                    "ARTS.2300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4310": {
+        "name": "ARTS.4310 Publication Design",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4310/",
+        "id": "040932",
+        "description": "This is a book design course. using the typographic knowledge acquired in Typography I and Typography II, students will explore 3 forms of book design (traditional, digital, handmade) + 3 types of content (fiction, non-fiction, call-to-action).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.2100 Graphic Design I, and ARTS.2300 Typography I, and ARTS.3300 Typography II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2100"
+                ],
+                [
+                    "ARTS.2300"
+                ],
+                [
+                    "ARTS.3300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4350": {
+        "name": "ARTS.4350 Sculpture III (formerly 70.435)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4350/",
+        "id": "030834",
+        "description": "Sculpture III will allow students with a continued, special interest in three-dimensional media and installation art to find their personal visual voice and begin to develop a structured studio practice. Students will be asked to identify a conceptual theme for the semester that they will explore through research, development and execution in a series of installation works. The course will introduce and expand on contemporary media and methods not covered in Sculpture I and II. Verbal analysis and articulation of the final sculptural works will continue to be stressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, and ARTS 1560 Drawing II, 7.0235 Sculpture I and ARTS 3350 Sculpture II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.3350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4550": {
+        "name": "ARTS.4550 Thought Made Visible",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4550/",
+        "id": "039602",
+        "description": "This seminar based studio course is designed to enable students to expand their research in the painting and sculpture disciplines through focused individual investigation. The course will involve theoretical readings, lectures, and critiques associated with contemporary studio artist practices. Two of the primary objectives of the course are: (1) for students to broaden the conceptual foundation of their work while continuing to develop their personal direction and (2) to begin to think independently and be critical of their work beyond an assignment based pedagogy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1010, and ARTS.1020, and ARTS.1130, and ARTS.1550, and ARTS.1560, and ARTS.2010, and ARTS.2710, and ARTS.3710, and ARTS.4710, and ARTS.2350, and ARTS.3350, and ARTS.4350.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.2710"
+                ],
+                [
+                    "ARTS.3710"
+                ],
+                [
+                    "ARTS.4710"
+                ],
+                [
+                    "ARTS.2350"
+                ],
+                [
+                    "ARTS.3350"
+                ],
+                [
+                    "ARTS.4350"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4600": {
+        "name": "ARTS.4600 The Entrepreneurial Hustle for Creatives",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4600/",
+        "id": "041117",
+        "description": "This course explores how students can advance and maintain sustainable creative careers with a combination of freelance clients, developing business and entrepreneurship opportunities, how to grants and how to the public request for proposals process. Through class presentations, discussions, research, and related assignments, this course provides an overview as of the components needed to be successful in today's art market. Topics include the Artist and Designer as Entrepreneur, setting up our own business, Live/Work Income and Expenses, Reputation and Recognition, Goal Setting, Creating your own Opportunities, Specific Markets and Marketing skills, Legal & Contract Issues, and Fundraising.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, and ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4610": {
+        "name": "ARTS.4610 Photography Workshop (formerly 70.461)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4610/",
+        "id": "006887",
+        "description": "An advanced course in photography that will blend seminar-style discussions and studio practice. An emphasis will be made on critical thinking, research and analysis alongside developing problem solving strategies that could be applied to creative practice. Students will produce a portfolio of creative work upon completion of the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.1610 Light & Lens, or ARTS.2610 Photography I, and ARTS.3610 Photography II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1610",
+                    "ARTS.2610"
+                ],
+                [
+                    "ARTS.3610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4710": {
+        "name": "ARTS.4710 Painting III (formerly 70.471)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4710/",
+        "id": "030837",
+        "description": "The focus of this class is to give individual students the opportunity to work in an independent manner, expand their ideas and develop the ability to articulate both conceptually and formally the needs of their own work. The class combines studio work, presentations, visiting lecturers and individual and group critiques, with an emphasis on understanding and embracing risk as a necessary component of a painter's studio practice. Critiques are designed to provide feedback, encourage, challenge, and nurture each student's vision. Assignments are given on an individual basis. Students are expected to support their work by research of both historical and contemporary art.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2710 Painting I and ARTS 3710 Painting II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2710"
+                ],
+                [
+                    "ARTS.3710"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4760": {
+        "name": "ARTS.4760 3D Animation II",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4760/",
+        "id": "041474",
+        "description": "In this course, students will utilize industry standard 3D modeling and animation software to effectively animate 3D characters and bring them to life. With hands-on exercises and demonstrations, students will learn how to move 3D rigged characters using body mechanics, lip-synching animation, dialog between characters, acting, and motion capture technology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.2760 Introduction to 3D Modeling and Animation.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2760"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4811": {
+        "name": "ARTS.4811 Game Design II (formerly 70.381/ARTS.3811 Advanced Game Design )",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4811/",
+        "id": "006876",
+        "description": "This advanced level course is designed for students who have completed Interactive Game Design and who are interested in exploring interactive game strategies and multilevel game design. Basic familiarity with Mac OS and/or Windows platforms required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II, ARTS 2720 2-D Animation and ARTS 2760 Intro to 3-D Modeling.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ],
+                [
+                    "ARTS.2720"
+                ],
+                [
+                    "ARTS.2760"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4910": {
+        "name": "ARTS.4910 Advanced Studio (formerly 70.491)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4910/",
+        "id": "006889",
+        "description": "In order to enable students to expand expression in areas of their choice, they may repeat any studio course that is the most advanced offered in that given subject. They will be given more freedom within assignments and be expected to perform on a more advanced level.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and Junior level studio class in the same discipline.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4920": {
+        "name": "ARTS.4920 Advanced Studio (formerly 70.492)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4920/",
+        "id": "006890",
+        "description": "In order to enable students to expand expression in areas of their choice, they may repeat any studio course that is the most advanced offered in that given subject. They will be given more freedom within assignments and be expected to perform on a more advanced level. Fall and Spring.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and Junior level studio class in the same discipline.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4930": {
+        "name": "ARTS.4930 Senior Studio I (formerly 70.493)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4930/",
+        "id": "039353",
+        "description": "Senior Studio I is on of the two capstone courses of the Bachelor of Fine Arts program in the Art Department. Students are required to research, develop and produce a mature, coherent and substantial body of work representing 6 credits (in a two course sequence) that will be presented to the faculty for evaluation as well as exhibited to the public in the BFA Senior Studio exhibition. Enrollment restricted to majors in BFA program. Senior Studio k will focus on research, professional portfolio, resume and artist statement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Academic Plan Fine Arts (BFA) and Level Senior Standing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.(BFA)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4940": {
+        "name": "ARTS.4940 Directed Study (formerly 70.494)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4940/",
+        "id": "006891",
+        "description": "A special problem in studio art is investigated through conferences and studio work.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and Sophomore level studio class in the same discipline.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4950": {
+        "name": "ARTS.4950 Advanced Tutorial (formerly 70.495)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4950/",
+        "id": "006892",
+        "description": "A program of directed studies which affords the advanced students an opportunity to pursue a previously explored problem in greater depth. The purpose is to sharpen and refine skill, content and presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS 1010 Art Concepts, ARTS 1020 Art Concepts II, ARTS 1130 Digital Foundations, ARTS 2010 Form & Content, ARTS 1550 Drawing I, ARTS 1560 Drawing II and Junior level studio class in the same discipline.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.1010"
+                ],
+                [
+                    "ARTS.1020"
+                ],
+                [
+                    "ARTS.1130"
+                ],
+                [
+                    "ARTS.2010"
+                ],
+                [
+                    "ARTS.1550"
+                ],
+                [
+                    "ARTS.1560"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4970": {
+        "name": "ARTS.4970 Senior Studio (formerly 70.497)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4970/",
+        "id": "006894",
+        "description": "This course is designed to culminate four years of art experience for the BFA studies. The development of personal approach to media and idea is emphasized. Each student will be responsible for developing a self-assigned thematic concern. No assignments will be made by the instructor who will act only as an advisor and coordinator. Course evaluation is by the Senior Studio Review Committee. Enrollment restricted to majors in BFA program. Fall and Spring.   Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL), Critical Thinking & Problem Solving (CTPS) and Information Literacy (IL).",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "Academic Plan Fine Arts (BFA) and Level Senior Standing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.(BFA)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARTS.4980": {
+        "name": "ARTS.4980 Senior Studio II (formerly 70.498)",
+        "url": "https://www.uml.edu/catalog/courses/ARTS/4980/",
+        "id": "039354",
+        "description": "Senior Studio II is on of the two capstone courses of the Bachelor of Fine Arts program in the Art Department. Students are required to research, develop and produce a mature, coherent and substantial body of work representing 6 credits (in a two course sequence) that will be presented to the faculty for evaluation as well as exhibited to the public in the BFA Senior Studio exhibition. Enrollment restricted to majors in BFA program. Senior Studio ll will focus on research, capstone project presentation and a process book.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARTS.4930 Senior Studio I, and Academic Plan Fine Arts (BFA), and Level Senior Standing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.4930"
+                ],
+                [
+                    "ARTS.(BFA)"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

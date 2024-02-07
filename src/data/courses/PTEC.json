@@ -1,0 +1,109 @@
+{
+    "total": 7,
+    "time": 8.084240436553955,
+    "PTEC.2010": {
+        "name": "PTEC.2010 Plastics Material Science I (Commodity Thermoplast)",
+        "url": "https://www.uml.edu/catalog/courses/PTEC/2010/",
+        "id": "004353",
+        "description": "Serves as an introductory course reviewing the history, classification, definitions and terminology, raw materials, methods of manufacturing, testing-characterization of typical physical properties, and end-uses of polymeric materials systems. Emphasis will be on the commodity thermoplastics, polyolefins, vinyls and styrenics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PTEC.2020": {
+        "name": "PTEC.2020 Plastics Material Science II",
+        "url": "https://www.uml.edu/catalog/courses/PTEC/2020/",
+        "id": "004354",
+        "description": "Presents a continuation of 27.201, emphasizing engineering thermoplastics, nylons and acetals, acrylics and cellulosics, polycarbonates, polysulfones, modified PPE, polyesters, fluoropolymers, polyamides, PPS, PEI and LCPs, copolymers, alloys and blends. Discussions will review the chemistry, properties, process ability and design limitations of these high-performance engineering and specialty polymers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PTEC.3310": {
+        "name": "PTEC.3310 Injection Molding",
+        "url": "https://www.uml.edu/catalog/courses/PTEC/3310/",
+        "id": "004372",
+        "description": "This course is an overview of the injection molding industry-its productivity; utilization; and yield -as well as an introductory discussion of applicable materials for injection molding, the theories of plastication and morphology, and the industrial standards used to specify the types of injection molding machinery, safety considerations, and recent innovations in injection molding processing technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PTEC.4510": {
+        "name": "PTEC.4510 Selected Topics I",
+        "url": "https://www.uml.edu/catalog/courses/PTEC/4510/",
+        "id": "004393",
+        "description": "Addresses specialized topics in applied polymer science, adhesives, elastomers, coatings, and fibers as well as other timely subjects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PTEC.4520": {
+        "name": "PTEC.4520 Selected Topics II (Formerly 27.452)",
+        "url": "https://www.uml.edu/catalog/courses/PTEC/4520/",
+        "id": "004394",
+        "description": "Addresses specialized topics in applied polymer science, adhesives, elastomers, coatings, and fibers as well as other timely subjects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PTEC.4530": {
+        "name": "PTEC.4530 Selected Topics III (Formerly 27.453)",
+        "url": "https://www.uml.edu/catalog/courses/PTEC/4530/",
+        "id": "004395",
+        "description": "Addresses specialized topics in applied polymer science, adhesives, elastomers, coatings, and fibers as well as other timely subjects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PTEC.4540": {
+        "name": "PTEC.4540 Selected Topics IV (Formerly 27.454)",
+        "url": "https://www.uml.edu/catalog/courses/PTEC/4540/",
+        "id": "004396",
+        "description": "Addresses specialized topics in applied polymer science, adhesives, elastomers, coatings, and fibers as well as other timely subjects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

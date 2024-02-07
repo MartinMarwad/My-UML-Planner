@@ -1,0 +1,613 @@
+{
+    "total": 33,
+    "time": 22.939120769500732,
+    "MKTG.1CO-OP": {
+        "name": "MKTG.1CO-OP Curricula Practical Training",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/1CO-OP/",
+        "id": "039189",
+        "description": "Curricula Practical Training. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.2010": {
+        "name": "MKTG.2010 Marketing Principles (Formerly MKTG 201/62.201)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/2010/",
+        "id": "006426",
+        "description": "The role of marketing in the economy. The elements of the marketing mix--product, price, distribution, and promotion--are discussed in the context of social and political constraints on marketing activity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010/S College Writing I, or ENGL.1020 College Writing II, or HONR.110 First Year Seminar in Honors:Text in the City.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.2100": {
+        "name": "MKTG.2100 Professional Communications (Formerly MKTG 210/66.210)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/2100/",
+        "id": "032962",
+        "description": "This course provides students with the theory and practice of successful oral and written communication in business.  Emphasis is on the development and improvement of communication skills needed for today's fast-paced organizations.  Such skills include written communication in short memos and reports, including the use of conferencing technology to convey information.  Additionally, the course focuses on oral communication through presentations and discussions as well as the use of current presentation software.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Business majors or IT-BS Majors or IT- AS Majors & ENGL.1020 College Writing 2 or equiv.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.3020": {
+        "name": "MKTG.3020 Marketing Research (Formerly MKTG 302/62.302)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/3020/",
+        "id": "006428",
+        "description": "Analysis of the information gathering function of marketing management. Design, execution and evaluation of marketing research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.3100": {
+        "name": "MKTG.3100 Digital Marketing",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/3100/",
+        "id": "041215",
+        "description": "This course presents an overview of the growing field of digital marketing and offers opportunities for acquiring technical skills of performing vital daily marketing functions. Through case studies, interactive sessions, and online simulation, class exercises, and/or client projects, students learn about the latest research and best practices in the industry. Topics covered include search engine optimization, search engine marketing, online marketing, web analytics, email marketing, social media marketing, mobile marketing, legal and security issues, and online reputation management. Students will leave the course with working knowledge of the tools and processes for creating, managing, and executing digital marketing plans.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.3130": {
+        "name": "MKTG.3130 Sales and Customer Relations (Formerly MKTG 313/62.313)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/3130/",
+        "id": "006433",
+        "description": "Focuses on the concept of customer value, operating decisions in sales, customer service, and account management. Focus is given on calculating the value of a good or service to the customer, professional selling and sales forecasting, retail and wholesale operations, purchasing, and logistics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.3150": {
+        "name": "MKTG.3150 New Product & Service Management (Formerly MKTG 315/62.315/62.311)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/3150/",
+        "id": "006431",
+        "description": "Course number was formerly 62.311. Focuses on the process of new product & service development and marketing. Emphasis is given on market opportunity identification, R&D-marketing interface, business model development, market potential estimation, and market entry timing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.3990": {
+        "name": "MKTG.3990 Marketing 3000 Electives.",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/3990/",
+        "id": "030164",
+        "description": "Marketing 3000 Electives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.4010": {
+        "name": "MKTG.4010 Advertising (Formerly 62.401/MKTG.401)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4010/",
+        "id": "006434",
+        "description": "Evaluation of various marketing communication methods, including sales promotion and public relations, with an emphasis on advertising. Research, copy writing, scheduling and budgeting from the viewpoint of the marketing manager.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.4020": {
+        "name": "MKTG.4020 Buyer Behavior (Formerly MKTG 402/62.402)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4020/",
+        "id": "006435",
+        "description": "Applications of behavioral theories and techniques to the understanding of consumer and organizational purchasing processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.4070": {
+        "name": "MKTG.4070 Retailing (Formerly MKTG 407/62.407)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4070/",
+        "id": "006440",
+        "description": "This course examines the strategic role of retailing in the distribution of consumer goods and services. Students will gain insights into retailing concepts and practices and will develop skills for building sustainable competitive retail strategies. Key topics include retail formats, retail mix, retail market strategy, integrated retail communication, and customer service, with a focus on new trends and technologies in retailing and electronic retailing such as multichannel/omnichanne retailing, electronic/mobile retailing, social media, and global retailing. This course is designed to provide a foundation for those students interested in pursuing a retail career or in owning/running a retail or e-tail business. Experiential assignments are used to apply the concepts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.4110": {
+        "name": "MKTG.4110 Marketing Analytics (Formerly MKTG 411/62.411/62.312)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4110/",
+        "id": "006432",
+        "description": "Course number was formerly 62.312.  Focuses on marketing strategies and tactics. Emphasis is given on research methods and applications for strategy building and implementation.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS) and Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.4120": {
+        "name": "MKTG.4120 Global Marketing (Formerly MKTG 412/62.412/62.303)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4120/",
+        "id": "006429",
+        "description": "Course number was formerly 62.303.  Focuses on the marketing aspect of global business. Emphasis is given on cultural dynamics and economics as well as political, social and regulatory constraints as they affect the global marketing practice and strategy implementation.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.4300": {
+        "name": "MKTG.4300 Social Media Marketing",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4300/",
+        "id": "040940",
+        "description": "This course presents how social media should be effectively used as a digital communication tool in diverse business contexts. Emphasis is placed on the effective uses of social media for enhanced customer relationship building and brand equity. Topics include PR campaigns on social media, risk management, social entertainment, social commerce, online reputation management, and content marketing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.4960": {
+        "name": "MKTG.4960 Current Topics in Marketing (Formerly MKTG 496/62.496)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4960/",
+        "id": "006446",
+        "description": "Topics of current interest in Marketing.  Subject matter to be announced in advance.  For a current semester course title, please log on to ISIS, the Inter-Campus Student Information System.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MKTG.2010 Marketing Principles; preference Marketing concentrators; COM filter courses.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.4970": {
+        "name": "MKTG.4970 Senior Seminar",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4970/",
+        "id": "006447",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.4980": {
+        "name": "MKTG.4980 Marketing Internship (Formerly MKTG 498/62.498)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4980/",
+        "id": "006448",
+        "description": "Specific projects undertaken by senior marketing students under joint supervision of department internship coordinator and representative from the business organization hosting the internship. Enrollment restricted to marketing seniors selected by internship coordinator. P/NC (free elective credit) only.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.4991": {
+        "name": "MKTG.4991 Independent Study in Marketing (Formerly MKTG 499/62.499)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/4991/",
+        "id": "006449",
+        "description": "An opportunity for the student to carry out individualized study relating to the field of Marketing under the supervision of a member of the faculty",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs:  62.201 Marketing Principles, and Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.5010": {
+        "name": "MKTG.5010 Marketing Fundamentals (Formerly MKTG 501,62.501)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/5010/",
+        "id": "006450",
+        "description": "Describes how marketing strategies and plans of a competitive enterprise are formulated, implemented, and adjusted over time. Behavioral and quantitative aspects are covered, as well as analysis of the environmental forces affecting marketing decisions. Pre-requisites: MBA or Certificate Programs, or Permission of MBA Director.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Matriculated MBA students or MSF or MSEM or MGFB Certificate or PSM or MPA or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.5450": {
+        "name": "MKTG.5450 Professional and Scientific Communication (Formerly PSM 545)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/5450/",
+        "id": "037732",
+        "description": "This course will help you improve your professional communication.  A science professional who can communicate quickly, clearly and effectively will be most successful in the workplace.  In this course, you will gain a fuller understanding of the communication process, and will practice the application of effective communication skills.  You will develop both written and oral communication within the  context of your professional area.  Students will prepare and present a variety of short to moderate length presentations and written assignments.  These assignments simulate those encountered in the \"real-world\" including persuasive presentations, oral and written reports, media interviews, memoranda, and crisis situations.  This class will also display the impact of newer technologies such as e-mail and presentational software and the opportunities they present and constraints they place on effective communication.  Supplemental course reading and materials included as appropriate.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.6010": {
+        "name": "MKTG.6010 Customers and Markets (Formerly MKTG 601/62.601)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6010/",
+        "id": "006452",
+        "description": "Prerequisite: Student must be matriculated and have finished foundation core. Pursues the development of comprehensive and integrated marketing plans using industry/competitor analysis, market value chains, and forecasting. An emphasis is given to business-to-business marketing situations which require an in-depth analysis of the firms' complex organizational behavior and evolving buyer-seller relationship.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.6150": {
+        "name": "MKTG.6150 Sustainable Marketing (Formerly MKTG 615/62.615)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6150/",
+        "id": "035711",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA students with completed MBA Foundation Core; or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.6200": {
+        "name": "MKTG.6200 Sales Management (Formerly MKTG.620)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6200/",
+        "id": "006455",
+        "description": "This course offers students the opportunity to understand how sales management is conducted in small entrepreneurial organizations and large established enterprises. Topics include aligning the sales function with overall organizational objectives, integrating sales into the value delivery process, recruiting a talented sales team and meeting enterprise goals through target setting, compensation schemes, effective use of sales automation systems, and the importance of the Internet and other emerging technologies in the sales discipline. The course will explore the range of sales skills from the consultative selling of complex deals to transactional account management, as well as structural options such as product specialization, customer segment focus and territory alignment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA Manning who have completed ACCT.5010,FINA.5010,MKTG.5010,POMS.5010,MGMT.5010 and MGMT.5110 OR Matriculated MSF who have completed ACCT.5010 and FINA.5010 OR permission of MBA coordinator or MSA or MS ITE students.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110",
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.6250": {
+        "name": "MKTG.6250 Digital Marketing (Formerly MKTG 625/62.625)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6250/",
+        "id": "035712",
+        "description": "This course combines a strategic view of digital marketing and its challenges and opportunities with a tactical approach whereby through case studies, interactive sessions, class exercises, and client projects, students learn about the latest research and best practices in the industry. Topics to be covered include digital marketing strategy, digital marketing and business model innovation, social media marketing, search engine optimization, mobile marketing, video marketing, web analytics and measurement, legal and security issues, and multichannel integration. Students will leave the course with a working knowledge of the tools and processes for creating, managing, and executing digital marketing plans.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students or MSF or MSEM or MGFB Certificate or PSM or MPA or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.6300": {
+        "name": "MKTG.6300 Market Research (Formerly 62.630)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6300/",
+        "id": "035578",
+        "description": "In this course students will learn and apply various marketing research techniques that will enable them to make soundly based decisions about new products or services in either an existing firm or new venture.  Some of the topics covered include: assessing customer needs, estimating market demand, deciding the features of a proposed product/service and the price that would be most attractive in its target market.  The course will provide students with an overview of key marketing concepts, and understanding of the statistical methodology behind market research techniques and practical application of these techniques through cases and projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA Manning; ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010 or permission of Grad Prog Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.6350": {
+        "name": "MKTG.6350 Marketing Analytics",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6350/",
+        "id": "042100",
+        "description": "Marketing Analytics will cover commonly used methods in the Marketing area, such as regression analysis and t-tests. Students will work with actual sales and customer data to determine appropriate strategic actions. Students will also learn how to use relevant analysis software, such as Excel and SPSS.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MKTG.5010 Marketing Fundamentals, or Matriculated in the MBA, MSBA, MSF, MSA, MSE programs at the Manning School, or Permission of Graduate Program Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MKTG.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MKTG.6700": {
+        "name": "MKTG.6700 International Marketing (Formerly MKTG 670/62.670)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6700/",
+        "id": "006461",
+        "description": "This course gives students a comprehensive view of marketing planning activity related to foreign markets. It is aimed a developing your understanding of the various dimensions in a business enterprise that are influenced by marketing. Marketing is a leading, integrated activity that influences the enterprise as a whole. Understanding of key trends in the global context and how they might affect a firm's marketing activity is fundamental for all employees, particularly marketers, executive management and the leadership team including the CEO, and managers at all levels in various functions of the company. This course provides a comprehensive introduction to this fascinating subject in business management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA students who have completed 60.501, 61.501, 62.501, 63.501,66.501 and 66.511, or MSITE program or PSM sub-plan or MSA students or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.6770": {
+        "name": "MKTG.6770 Independent Study: Marketing (Formerly MKTG 677/62.677)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6770/",
+        "id": "006462",
+        "description": "Pre-Requisite: MBA Foundation Core and 62.601 or permission of MBA Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 62.601 and MBA Foundation Core, or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.6880": {
+        "name": "MKTG.6880 Current  Topics in Marketing (Formerly MKTG 688/62.688)",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/6880/",
+        "id": "006464",
+        "description": "Topics of current interest in Marketing.  Subject matter to be announced in advance.  For a current semester course title, please log on to ISIS, the Inter-Campus Student Information System",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who have completed 60.501, 61.501, 62.501, 63.501, 66.501, 66.511 or MSA students or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.7100": {
+        "name": "MKTG.7100 Seminar in Marketing and Innovation Strategy",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/7100/",
+        "id": "041808",
+        "description": "This seminar aims to build the foundation for scholarly research in marketing on strategy-related phenomena.  The seminar involves in-depth discussions of seminal and cutting-edge ideas and methodologies on some important topics in marketing and innovation strategy research.  Discussion topics include, but are no limited to, branding, new product/service development, and competitive dynamics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.7200": {
+        "name": "MKTG.7200 Seminar in Consumer Behavior",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/7200/",
+        "id": "041810",
+        "description": "This seminar aims to build the foundation for scholarly research on phenomena related to consumer judgement and decision-making.  The seminar involves in-depth discussions of seminal and cutting-edge ideas and methodologies on some important topics in consumer behavior research.  Discussion topics include, prospect theory, rational choice, framing, task effects, and biases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.7300": {
+        "name": "MKTG.7300 Seminar in Business-to-Business Marketing",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/7300/",
+        "id": "041811",
+        "description": "This Seminar aims to build the foundation for scholarly research on phenomena related to business-to-business marketing.  The seminar involves in-depth discussions of seminal and cutting-edge ideas and methodologies on some important topics.  Discussion topics include but are not limited to, account management, transaction cost economics, agency theory, resource dependence, networks and alliances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MKTG.7960": {
+        "name": "MKTG.7960 Doctoral Dissertation",
+        "url": "https://www.uml.edu/catalog/courses/MKTG/7960/",
+        "id": "041982",
+        "description": "Doctoral dissertation research.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,685 @@
+{
+    "total": 37,
+    "time": 26.367243766784668,
+    "MUPF.1010": {
+        "name": "MUPF.1010 Performance Applied 1",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/1010/",
+        "id": "041318",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.1020": {
+        "name": "MUPF.1020 Performance Applied 2",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/1020/",
+        "id": "041319",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.1010 Performance Applied 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.1320": {
+        "name": "MUPF.1320 Introduction To Keyboard 2 (Formerly 75.132) (Last offered Spring 2012)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/1320/",
+        "id": "007259",
+        "description": "A study of more advanced chord progressions, ensemble keyboard playing, patriotic songs, more advanced accompaniment patterns and advanced solo literature and a continuation of the use of improvisational techniques.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: MUPF.1310 Intro To Keyboard 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.1310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2000": {
+        "name": "MUPF.2000 Mechanics of Movement for Instrumentalists",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2000/",
+        "id": "041320",
+        "description": "Critical study of motion and posture techniques for optimal performance. Topics include Alexander technique, Feldenkrais Method and Mensendieck System. Adjunct approaches for relaxation and recovery will also be explored, including massage, Rolfing, yoga, and tai chi.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.1020 Performance Applied 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2001": {
+        "name": "MUPF.2001 Language and Diction",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2001/",
+        "id": "040223",
+        "description": "This course teaches the basics of diction and the International Phonetic Alphabet, as utilized by professional singers. These principles are specifically applied to English, French, Italian and German.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.1090 Musicianship & Analysis 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2010": {
+        "name": "MUPF.2010 Performance Applied 3",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2010/",
+        "id": "041350",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.1020 Performance Applied 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2020": {
+        "name": "MUPF.2020 Performance Applied 4",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2020/",
+        "id": "041332",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.2010 Performance Applied 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2110": {
+        "name": "MUPF.2110 Health, Wellness, and the Art of Practice",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2110/",
+        "id": "041321",
+        "description": "This foundational course teaches techniques for effective and efficient practice, examines approaches to injury prevention and management, and discusses strategies for career longevity and long-term healthy music making.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.2120": {
+        "name": "MUPF.2120 Mindfulness and Optimal Performance",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2120/",
+        "id": "041322",
+        "description": "In-depth survey of issues related to the mental aspects of performance and preparation, with a focus on practical application for performers. Topics include Performance anxiety, focus, Visualization, available resources and mental wellness.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.1090 Musicianship & Analysis 2, and MUPF.2110 Health, Wellness and the Art of Practice.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1090"
+                ],
+                [
+                    "MUPF.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2330": {
+        "name": "MUPF.2330 Conducting 1 (Formerly 75.233)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2330/",
+        "id": "007262",
+        "description": "Training in basic baton technique and related study for instrumental and choral conducting.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH 1040 Aural Skills 2, or MUTH 1090 Musicianship & Analysis 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1040",
+                    "MUTH.1090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2340": {
+        "name": "MUPF.2340 Conducting 2 (Formerly 75.234)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2340/",
+        "id": "007263",
+        "description": "Continuation of 75.233 exploring more advanced choral and instrumental conducting techniques.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUPF.2330 Conducting 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.2330"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.2550": {
+        "name": "MUPF.2550 Piano Accompanying 1 (Formerly 75.255) (Last offered Fall 2014)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/2550/",
+        "id": "007267",
+        "description": "This course is designed for both piano and non-piano majors. A discussion of concepts of form with special emphasis on working together with and being sensitive to other musicians will be emphasized. Accompaniments will consist of music for instrumental and vocal soloists and ensembles and will include simple harmonizations and improvisations based on melodies from folk, classical, jazz, and popular music. Techniques of adjustment and cooperation in performance will also be discussed.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.3010": {
+        "name": "MUPF.3010 Performance Applied 5",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3010/",
+        "id": "041323",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.2020 Performance Applied 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3020": {
+        "name": "MUPF.3020 Performance Applied 6",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3020/",
+        "id": "041324",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.3010 Performance Applied 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3410": {
+        "name": "MUPF.3410 Creative Performance 1: Preparation",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3410/",
+        "id": "041337",
+        "description": "Experiential learning environment for the assimilation and practice of performance skills, utilizing \"collaborative masterclass\" model. Course culminates with a mid-length, shared recital of approximately 15 minutes in duration per student. Various topics and application to performance setting and context will be discussed each semester.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.2020 Performance Applied 4, and MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.2020"
+                ],
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3420": {
+        "name": "MUPF.3420 Creative Performance 2: Introductory Recital",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3420/",
+        "id": "041325",
+        "description": "Experiential learning environment for the assimilation and practice of performance skills, utilizing \"collaborative Masterclass\" model. Course culminates with the completion of a junior recital of approximately 30-45 minutes in duration. Various topics and application to performance setting and context will be discussed.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.3410 Creative Performance 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.3410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3460": {
+        "name": "MUPF.3460 Improvisation",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3460/",
+        "id": "041326",
+        "description": "Study of improvisation techniques as applied to a diverse array of stylistic practice and historical periods.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.2020 Performance Applied 4, and MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.2020"
+                ],
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3610": {
+        "name": "MUPF.3610 Jazz Improvisation 1 (Formerly 75.361)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3610/",
+        "id": "007279",
+        "description": "A study of basic jazz structures, motives, chord progressions, scales, melodic analysis, use of some approach techniques, tensions and their application to improvisation. Includes in class performance by small instrumental and/or vocal groups.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH 1080 Musicianship & Analysis I, MUTH 1090 Musicianship & Analysis 2, and MUTH 2080 Musicianship & Analysis 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1080"
+                ],
+                [
+                    "MUTH.1090"
+                ],
+                [
+                    "MUTH.2080"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3620": {
+        "name": "MUPF.3620 Jazz Improvisation 2 (Formerly 75.362)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3620/",
+        "id": "007280",
+        "description": "A continuation of 75.361. Will emphasize the study and performance of more advanced levels of improvisation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUTH.1080 Musicianship & Analysis I, and MUTH.1090 Musicianship & Analysis 2, and MUTH.2080 Musicianship & Analysis 3, and MUPF.3610 Jazz Improvisation I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1080"
+                ],
+                [
+                    "MUTH.1090"
+                ],
+                [
+                    "MUTH.2080"
+                ],
+                [
+                    "MUPF.3610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3810": {
+        "name": "MUPF.3810 The Musician's Toolbox",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3810/",
+        "id": "041327",
+        "description": "This course builds the collection of promotional tools a performing musician needs to secure work in the field (such as biography, photos, audio samples, business cards, etc.), creates a means of dissemination (website), and discusses applications for use. Additionally, strong emphasis is placed upon location, evaluation and effective use of various resources needed to support success in an entrepreneurial music career.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3820": {
+        "name": "MUPF.3820 Marketing & Media for Performing Musicians",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3820/",
+        "id": "041328",
+        "description": "Addresses modern media strategies utilized by performing musicians to promote music and career interests. Students will design and build a promotional website, craft a professional presence on social media, and learn techniques to advance career. Responsible online conduct is discussed and emphasized, and forward-looking online business models are analyzed.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3850": {
+        "name": "MUPF.3850 Recording for Performers",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3850/",
+        "id": "041329",
+        "description": "This course addresses techniques and concepts utilized in creating a professional recording, cost-effective solutions for production, and various concerns surrounding sonic media. Course culminates with a high-quality recording of student material.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.3940": {
+        "name": "MUPF.3940 Performance Seminar I (Formerly 75.394)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/3940/",
+        "id": "007284",
+        "description": "The study and performance of selected works from the repertoire of each of the five primary areas of performance; keyboard, voice, woodwinds, strings, and brass/percussion. Emphasis will be placed on student and faculty performance, leading to detailed consideration of the relationship between the demands of the composer and the problems of the performer and the manner in which these concerns influence the musical and artistic judgments necessary to achieve a quality performance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.4010": {
+        "name": "MUPF.4010 Performance Applied 7",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4010/",
+        "id": "041351",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.3020 Performance Applied 6.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.4020": {
+        "name": "MUPF.4020 Performance Applied 8",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4020/",
+        "id": "041330",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.4010 Performance Applied 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.4010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.4110": {
+        "name": "MUPF.4110 Teaching Artistry",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4110/",
+        "id": "041333",
+        "description": "Most performers supplement their incomes by teaching. This course explores the qualities, considerations and skills necessary for students to become excellent educators, and examines various instructional settings emerging professional musicians are likely to experience.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.4410": {
+        "name": "MUPF.4410 Performance Artistry 1: Preparation",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4410/",
+        "id": "041334",
+        "description": "Experiential learning environment for the assimilation and practice of performance skills. Course culminates with a mid-length, shared recital of approximately 15-30 minutes in duration. Various topics and application to performance setting and context will be discussed each semester.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.3420 Creative Performance 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.3420"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.4420": {
+        "name": "MUPF.4420 Performance Artistry 2: Capstone Recital",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4420/",
+        "id": "041336",
+        "description": "Experiential Learning environment for the assimilation and practice of performance skills, utilizing \"collaborative masterclass\" model. Course culminates with a full-length, high-quality senior recital of approximately 60 minutes in duration. Various topics and application to performance setting and context will be discussed throughout the semester.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUPF.4410 Performance Artistry 1: Preparation.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.4410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.4530": {
+        "name": "MUPF.4530 Instrumental Pedagogy (Formerly 75.453/553)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4530/",
+        "id": "034653",
+        "description": "This course is directed toward the development and refinement of instrumental repertoire and pedagogy.  The course will examine the application of musical content and learning sequences to the teaching of instrumental music to students at all levels. It will include the study of teaching methods and materials for use in private and group instruction.  Observation of studio and class teaching and supervised teaching experience will also be included.  This course is directed toward meeting the NASM undergraduate pedagogy component.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.4630": {
+        "name": "MUPF.4630 Vocal Pedagogy (Formerly 75.463/563)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4630/",
+        "id": "007286",
+        "description": "Course will introduce students to the basics of teaching singing. It will include an overview of the anatomy of the respiratory and vocal mechanism and their application to singing; the categorization of voice types with suggestions for repertoire for young solo singers; an overview of vocal exercises for various technical goals and the diagnosis of common vocal problems and how to treat them. The class will also cover the child and adolescent voice and include in-class supervised teaching.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.4740": {
+        "name": "MUPF.4740 Practical Intonation (Formerly 75.474)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4740/",
+        "id": "007290",
+        "description": "The study of orchestral and band instruments relative to intonation. The development of conceptual awareness relative to the various characteristics of pitch, which are inherent in the design of the various instruments. Identification of problematic intonation and procedures to alleviate problems through performance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.4930": {
+        "name": "MUPF.4930 Performance Seminar 1 (Formerly 75.493)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4930/",
+        "id": "007293",
+        "description": "The study and performance of selected works from the repertoire of each of the five primary areas of performance; keyboard, voice, woodwinds,strings, and brass/percussion.  Emphasis will be placed on student and faculty performance, leading to detailed consideration of the relationship between the demands of the mposer and the problems of the performer and the manner in which these concerns influence the musical and artistic judgments necessary to achieve a quality performance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.4940": {
+        "name": "MUPF.4940 Performance Seminar 2 (Formerly 75.494)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4940/",
+        "id": "007294",
+        "description": "Designed as a \"master class\" experience for students in each of the five primary areas of performance, keyboard, voice, woodwinds, strings, and brass/percussion, with a separate section for each area wherever possible.  Class sessions will consist of student performance of selected literature followed by critical analysis from faculty and peers. Each section will be supervised by the appropriate area coordinator and will also involve invited guest performers selected from faculty, applied faculty and other noted artists.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUPF 3940 or MUPF 4930 Performance Seminar I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUPF.3940",
+                    "MUPF.4930"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUPF.4950": {
+        "name": "MUPF.4950 Directed Study: Research In Performance \n(Formerly 75.495)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/4950/",
+        "id": "007295",
+        "description": "Permission of chairperson required.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.5530": {
+        "name": "MUPF.5530 Instrumental Pedagogy (Formerly 75.453/553)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/5530/",
+        "id": "034653",
+        "description": "This course is directed toward the development and refinement of instrumental repertoire and pedagogy.  The course will examine the application of musical content and learning sequences to the teaching of instrumental music to students at all levels. It will include the study of teaching methods and materials for use in private and group instruction.  Observation of studio and class teaching and supervised teaching experience will also be included.  This course is directed toward meeting the NASM undergraduate pedagogy component.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.5630": {
+        "name": "MUPF.5630 Vocal Pedagogy (Formerly 75.463/563)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/5630/",
+        "id": "007286",
+        "description": "Course will introduce students to the basics of teaching singing. It will include an overview of the anatomy of the respiratory and vocal mechanism and their application to singing; the categorization of voice types with suggestions for repertoire for young solo singers; an overview of vocal exercises for various technical goals and the diagnosis of common vocal problems and how to treat them. The class will also cover the child and adolescent voice and include in-class supervised teaching.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music majors only, or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUPF.5950": {
+        "name": "MUPF.5950 Graduate Direct Study: Research in Performance (Formerly 75.595)",
+        "url": "https://www.uml.edu/catalog/courses/MUPF/5950/",
+        "id": "007301",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

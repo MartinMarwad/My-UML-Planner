@@ -1,0 +1,49 @@
+{
+    "total": 3,
+    "time": 4.516372442245483,
+    "LABR.2400": {
+        "name": "LABR.2400 Introduction to Labor Studies (Formerly WLS 240)",
+        "url": "https://www.uml.edu/catalog/courses/LABR/2400/",
+        "id": "037049",
+        "description": "This foundational course has two overarching learning objectives: (1) to give students basic empirical knowledge and analytical tools to understand the context of work in the United States at the dawn of the twenty-first century and (2) to give students an understanding of how labour unions work, what has been their impact historically, and what their role is in contemporary society. The course will be explicitly interdisciplinary, drawing on readings from history, sociology, economics, political science, and psychology to offer and introduction to understanding work and labor through and analytic lens. In addition, the course will include a service-learning component in collaboration with the UML Labor Education Program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LABR.4020": {
+        "name": "LABR.4020 Directed Studies in Work, Labor and Society (Formerly WLS 402)",
+        "url": "https://www.uml.edu/catalog/courses/LABR/4020/",
+        "id": "037052",
+        "description": "This course, taken for 1 or 3 credits, may serve as a capstone experience for advanced students in the Work, Labor and Society minor, helping them to explore a work-related topic of interest while working closely with a faculty member.  Projects that students complete for the Directed Studies will vary in length, scope, and topic, depending on how many credits are taken and which faculty member agrees to work with the student.  What all projects will have in common is (1) a topic clearly relevant to work, labor and society (2) an emphasis on achieving deep learning through advanced study, and (3) the integration of two or more distinct disciplines, integrating these disciplinary insights in order to solve a complex problem or analyze a complicated issue.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LABR.4100": {
+        "name": "LABR.4100 Internship in Work, Labor and Society (Formerly WLS 410)",
+        "url": "https://www.uml.edu/catalog/courses/LABR/4100/",
+        "id": "037051",
+        "description": "This internship option allows students to take full advantage of the substantial links to the community that the UML Labor Extension program has built over many years of work in this region.  The internship provides opportunities for students to learn through thoughtful engagement in community service, applying knowledge of work/labor issues gained in the classroom to the world outside the classroom.  Students will be expected to spend a minimum of 100 hours during the semester at the internship site, and to have a designated supervisor on site as well as a faculty supervisor overseeing their work and ensuring it is a meaningful learning experience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: WLS.240 Work, Labor and Society.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

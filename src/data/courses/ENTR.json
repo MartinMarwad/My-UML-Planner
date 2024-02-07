@@ -1,0 +1,644 @@
+{
+    "total": 36,
+    "time": 25.930851697921753,
+    "ENTR.1000": {
+        "name": "ENTR.1000 The Freshmen Difference Maker Seminar (Formerly BUSI.1000)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/1000/",
+        "id": "039596",
+        "description": "This seminar is designed to provide Business students with an opportunity to explore how their business school education can make a difference in the world through innovative and entrepreneurial action. We will examine social, environmental and economic problems in our community while learning about the University's own entrepreneurial ecosystem.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.1500": {
+        "name": "ENTR.1500 Introduction to Entrepreneurship and Business",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/1500/",
+        "id": "041770",
+        "description": "Entrepreneurship can be considered a process of economic or social value creation, rather than the single event of opening a business. This course focuses on creativity, innovation, problem identification, opportunity recognition, developing solutions, and resource acquisition. The functional areas of business and the cross-functional nature of these will be demonstrated as student teams will address problems they discover.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "All students are required to take this course if they have fewer than 30 earned credits. This course is open only to students in Business Administration.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.3000": {
+        "name": "ENTR.3000 Principles of Innovation and Entrepreneurship (Formerly ENTR/64.300)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/3000/",
+        "id": "038589",
+        "description": "Course number was formerly 64.300. This course is designed to help non-business students understand the importance of innovation and entrepreneurship in today's global economy and cultivate an entrepreneurial mindset among students in the Manning School of Business entrepreneurship concentration. It will cover different forms of entrepreneurship such as small businesses, growth ventures, corporate entrepreneurship and social entrepreneurship. The course will focus on the types of innovation, turning innovation into an ongoing new venture and on the entrepreneurial process. Innovation and entrepreneurship theories and concepts will be discussed with real life examples and cases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Requisite:  Sophomore level or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.3610": {
+        "name": "ENTR.3610 Starting a New Venture  (Formerly ENTR/64.361)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/3610/",
+        "id": "033876",
+        "description": "This course is designed for students with a curiosity and interest in starting a new business.  In this course, students will explore the entrepreneurship process including how entrepreneurs discover and evaluate the sources and opportunities for new business ventures; how they assemble the resources, how they operate and grow a new business; and finally how they harvest their hard work as successful entrepreneurs.  The course covers a variety of topics associated with launching and running a new business venture, such as marketing, financing, building the venture team, legal and regulatory issues, and social and environmental issues.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Level or Higher or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.3620": {
+        "name": "ENTR.3620 Corporate Entrepreneurship (Formerly ENTR/64.362)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/3620/",
+        "id": "033877",
+        "description": "This course focuses on entrepreneurship in established companies.  In order to compete in today's dynamic business environment, organizaations need to spur and promote entrepreneurial thinking and actions as a way of remaining innovative and competitive.  Thus, the course explores how the entrepreneurship process works within an existing organization, including the identifiation of strategies companies engage to rejuvenate their business, markets and industries.  Students will also study how individuals can play a role in promoting entrepreneurial activities in their organizations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENTR.3000, Prin.Innov & Entrepreneurship",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENTR.3000"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENTR.4100": {
+        "name": "ENTR.4100 Global Entrepreneurship and Innovation - I (Formerly ENTR /64.410)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4100/",
+        "id": "039399",
+        "description": "The Course is offered as a 2-week intensive experiential learning of Global Entrepreneurship and Innovation. It is designed to help students to understand the importance of entrepreneurship and innovation in today's global economy and to cultivate an entrepreneurial mind-set among the students in the UMass Lowell. Students will work in inter-disciplinary, multi-cultural environments exploring problem solving techniques, opportunities identification, business concept development & venture planning using standard business model framework and bringing ideas to reality.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.4110": {
+        "name": "ENTR.4110 Global Entrepreneurship and Innovation - II (Formerly ENTR /64.411)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4110/",
+        "id": "006564",
+        "description": "The Course is offered as a 2-week intensive experiential learning of Global Entrepreneurship and Innovation. It is designed to help students to understand the importance of entrepreneurship and innovation in today's global economy and to cultivate an entrepreneurial mind-set among the students in the UMass Lowell. Students will work in inter-disciplinary, multi-cultural environments exploring problem solving techniques, opportunities identification, business concept development & venture planning using standard business model framework and bringing ideas to reality.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.4150": {
+        "name": "ENTR.4150 Entrepreneurial Customer Discovery",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4150/",
+        "id": "042138",
+        "description": "This course focuses on leveraging entrepreneurial approaches such as Lean Launchpad methodology to validate and solve pressing technology commercialization processes and problems. The course provides students with an opportunity to work with interdisciplinary teams on real-world problems/projects sourced from the government, faculty research, incubators, etc. The course will offer students a rigorous exploration of the customer discovery process, including value proposition design, repeated hypothesis testing and validation with key stakeholders. By the end of the course, students will have conducted in-depth market research, fully vetted and validated a project/problem, and provided a minimum viable product concept addressing customer needs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Standing or above.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.4200": {
+        "name": "ENTR.4200 Leading Successful Entrepreneurial Teams",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4200/",
+        "id": "042123",
+        "description": "The focus of this course is to enable students understand the importance of entrepreneurial team characteristics (demographic, functional and cognitive) and dynamics on team success as well as entrepreneurial leadership in the new venture setting. Students will have opportunities to understand their own entrepreneurial mindset profile and learn to work with team members with heterogeneous entrepreneurial styles and preferences. Working together as entrepreneurial teams, students will identify innovative and proactive solutions to various problems while learning to manage risk effectively.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Level or Higher or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.4630": {
+        "name": "ENTR.4630 Managing Innovation (Formerly ENTR /64.463)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4630/",
+        "id": "033878",
+        "description": "A critical issue for entrepreneurs and managers is how to translate opportunity into competitive advantage.  This course examines theories of innovation and their application to real-world business opportunities.  A particular focus is placed on emerging scientific and technical innovations and the opportunities and challenges they present to both existing businesses and new venture entrepreneurs.  Students examine innovation strategies, planning models, evaluation models, licensing and the commercialization process required to launch new businesses around innovative products and technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Level or Higher or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.4640": {
+        "name": "ENTR.4640 Finance for Emerging Business Enterprises (Formerly ENTR /64.464)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4640/",
+        "id": "033879",
+        "description": "Course content covers financial aspects of an entrepreneurial venture from its start to a potential sale.  Major sources of financing covered in the course include venture capital, private placement, bank credit, and public financing.  Other financial concepts covered include organization of the business, financial forecasting, financial analysis, firm valuation and acquisitions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Level or Higher or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.4800": {
+        "name": "ENTR.4800 Current Topics in Entrepreneurship (Formerly ENTR /64.480)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4800/",
+        "id": "036214",
+        "description": "Topics of current interest in entrepreneurship.  Subject matter to be announced in advance.  For a current semester course title please log on to SiS, the Inter-Campus Student Information System.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: FINA.3010 Business Finance, MGMT.3010 Organizational Behavior.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ],
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENTR.4890": {
+        "name": "ENTR.4890 Internship in Entrepreneurship (Formerly ENTR /64.489)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4890/",
+        "id": "035773",
+        "description": "Opportunity for students to earn academic credit through the integration of professional work experience with related academic work.  Project jointly supervised by a faculty member and representative of the employing organization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: 61.301 Business Finance, 66.301 Organizational  Behavior; and Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.4960": {
+        "name": "ENTR.4960 Entrepreneurship Strategy Implementation (Formerly ENTR /64.496)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4960/",
+        "id": "038814",
+        "description": "The Course focuses on innovation and entrepreneurship utilizing experiential learning and venturing projects. It will deal with ideation methods and tools, technology commercialization, business planning and potential initial incubation of an early-stage business by project teams, and the development of an investment proposal to launch a new business. Students will be exploring, identifying and analyzing the path from Idea to Market for technology projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FINA.3010, MKTG.2010, POMS.3010, MGMT.3010, and Senior Level.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FINA.3010"
+                ],
+                [
+                    "MKTG.2010"
+                ],
+                [
+                    "POMS.3010"
+                ],
+                [
+                    "MGMT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENTR.4991": {
+        "name": "ENTR.4991 Independent Studies (Formerly ENTR 499)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/4991/",
+        "id": "006565",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.5910": {
+        "name": "ENTR.5910 Independent Study (Formerly ENTR 591)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/5910/",
+        "id": "006566",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6100": {
+        "name": "ENTR.6100 Global Entrepreneurship and Innovation I (Formerly ENTR /64.610)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6100/",
+        "id": "039347",
+        "description": "The Course is offered as a 2-week intensive experiential learning of Global Entrepreneurship and Innovation. It is designed to help students to understand the importance of entrepreneurship and innovation in today's global economy and to cultivate an entrepreneurial mind-set among the students in the UMass Lowell Students will work in inter-disciplinary, multi-cultural environments exploring problem solving techniques, opportunities identification, business concept development and venture planning using standard business model framework and bringing ideas to reality.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students or MSF or MSEM or MGFB Certificate or PSM or MPA or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6110": {
+        "name": "ENTR.6110 Global Entrepreneurship and Innovation II (Formerly ENTR /64.611)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6110/",
+        "id": "006574",
+        "description": "The Course is offered as a 2-week intensive experiential learning of Global Entrepreneurship and Innovation. It is designed to help students to understand the importance of entrepreneurship and innovation in today's global economy and to cultivate an entrepreneurial mind-set among the students in the UMass Lowell. Students will work inter-disciplinary, multi-cultural environments exploring problem solving techniques, opportunities identification, business concept development & Venture planning using standard business model framework and bringing ideas to reality.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students or MSF or MSEM or MGFB Certificate or PSM or MPA or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6350": {
+        "name": "ENTR.6350 Financing Innovation and Technology Ventures (Formerly ENTR /64.635)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6350/",
+        "id": "035577",
+        "description": "This course focuses on strategies for financing innovation and new technology ventures both within a firm and on a stand-alone basis.  Topics covered will include: different types of business organizations; different sources of funding including internal sources and external sources such as angel investors, venture capitalists, etc.; short-term and long-term financial planning and forecasting; business valuation; term sheet negotiation and exit strategies including mergers and acquisitions and IPOs.  Each aspect of the course will be covered within the context of a business plan and venture life-cycle.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6400": {
+        "name": "ENTR.6400 New Venture Creation (Formerly ENTR/64.640)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6400/",
+        "id": "037840",
+        "description": "This course is designed for students who are interested in entrepreneurship.  The focus is on entrepreneurship as generic activity.  It explores the opportunities and challenges face by individuals who seek to start a new ventures and the probable career development paths that are available.  For those who may be interested in starting or running a new business, the course will provide an essential foundation for this process, identify the skills and resources required, and explore the opportunities available to the young entrepreneur.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6450": {
+        "name": "ENTR.6450 New Product Development (Formerly 66.630)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6450/",
+        "id": "035583",
+        "description": "This course will enable students to understand the complexities involved in new innovation and technology-based product development.  Through examples and exercises, students will be exposed to such topics as creative problem solving, customers/suppliers/partners involvements and inputs processes, integration among all functions, building and managing cross functional teams, rapid prototyping and development, creating a learning organization and measurements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010,MGMT.5110 OR MSITE major OR New Venture Certificate OR PSM major OR MSA major OR permission of graduate program coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENTR.6500": {
+        "name": "ENTR.6500 Innovation and Emerging Technology (Formerly ENTR /64.650)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6500/",
+        "id": "035579",
+        "description": "This course examines technological innovation and its relationship to value-creation and business strategy. Emphasis is placed on emerging scientific and technical innovations and the opportunities and challenges they present to both existing businesses and new venture entrepreneurs.  The overall goal of this course is to help you to understand, appreciate and learn to manage the technology innovation process.  Students examine innovation strategies, planning models, evaluation models, licensing and the commercialization process required to launch new businesses around innovative products and technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6510": {
+        "name": "ENTR.6510 Technological Entrepreneurship (Formerly ENTR 565 and ENTR.5650)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6510/",
+        "id": "039095",
+        "description": "This course is designed to help master's level students, often from fields outside of business, understand how technological and social innovations lead to new businesses and how those are created, funded, governed, and grown.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6550": {
+        "name": "ENTR.6550 Corporate Entrepreneurship (Formerly ENTR /64.655)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6550/",
+        "id": "035580",
+        "description": "This course focuses on entrepreneurship in established companies.  Corporate Entrepreneurship (CE) is a process by which companies adopt a conscious strategy to encourage creativity, innovation, outside-the-box thinking, experimentation and risk taking.  As a result, companies promoting and  implementing CE strive for competitive advantages in rapidly changing global markets.  The course will cover components of CE, developing & implementing CE strategies and managing CE.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010,MGMT.5110 OR MSITE major OR New Venture Certificate OR PSM major OR MSA major OR permission of graduate program coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENTR.6600": {
+        "name": "ENTR.6600 Entrepreneurial Teams",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6600/",
+        "id": "042219",
+        "description": "The course will emphasize the importance of the entrepreneurial leadership, team characteristics, composition, and dynamics. Students will learn to understand and appreciate their own individual and collective contribution to the success of any entrepreneurial effort. Working together in teams, students will have opportunities to identify innovative and proactive solutions to various problems while learning to manage risk effectively.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6700": {
+        "name": "ENTR.6700 Global Entrepreneurship (Formerly ENTR /64.670)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6700/",
+        "id": "038768",
+        "description": "This course discusses state of global entrepreneurship and the opportunities for it. It will cover different forms of global entrepreneurship, influences of macro forces and factors for global entrepreneurs consideration. The course will offer a structured approach to thinking and creating entrepreneurship beyond domestic markets and operations. It will present entrepreneurship framework, case studies, group projects and connections with global entrepreneurs to understand real-life global entrepreneurship.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010,MGMT.5110 OR MSITE major OR New Venture Certificate OR PSM major OR MSA major OR permission of graduate program coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENTR.6800": {
+        "name": "ENTR.6800 Capstone I - New Venture Planning (Formerly ENTR /64.680)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6800/",
+        "id": "035581",
+        "description": "Capstone I-New Venture Planning (64.680) and Capstone II-New venture Implementation (64.681) focus on technology commercialization, business planning and initial incubation of an early-stage business by project teams, and the development of an investment proposal to launch a new business.  In Capstone I students will be exploring, identifying and analyzing the path \"from Idea to Market\" for technology and research projects.  They will evaluate selected technology and research projects for commercial applications and explore different options available to productize and introduce these projects to market.  Where appropriate, teams will complete a new venture business plan and launch a new business (Capstone II).  These two courses together will comprise the M.S.I.T.E program Capstone experience and will require students to actually develop these commercialization projects.  Each student team will be assigned to a faculty member(s) who will instruct and guide them throughout this process.  In addition to M.S.I. T. E. students, Capstone I may be taken by M.B.A. students as an elective and students in the New Venture Certificate program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010,MGMT.5110 OR MSITE major OR New Venture Certificate OR PSM major OR MSA major OR permission of graduate program coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENTR.6810": {
+        "name": "ENTR.6810 Capstone II - New Venture Implementation (Formerly ENTR /64.681)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6810/",
+        "id": "035582",
+        "description": "Capstone I-New Venture Planning (64.680) and Capstone II-New Venture Implementation (64.681) focus on technology commercialization, business planning and initial incubation of an early-stage business by project teams, and the development of an investment proposal to launch a new business.  In Capstone I students will be exploring, identifying and analyzing the path \"from Idea to Market\" for technology and research projects.  They will evaluate selected technology and research projects for commercial applications and explore different options available to productize and introduce these projects to market.  Where appropriate, teams will complete a new venture business plan and launch a new business (Capstone II).  These two courses together will comprise the M.S.I.T.E program Capstone experience and will require students to actually develop these commercialization projects.  Each student team will be assigned to a faculty member(s) who will instruct and guide them throughout this process.  Capstone II may only be taken by students in the M.S.I.T.E. program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSITE program OR permission of Graduate Coordinators.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6880": {
+        "name": "ENTR.6880 Current Topics in Entrepreneurship (Formerly ENTR /64.688)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6880/",
+        "id": "035586",
+        "description": "This course is designed for an entrepreneur or an intrapreneur that focuses on key marketing concepts, methods, and strategic issues relevant for start-up and early-stage entrepreneurs and new ventures within an established company.  It will give students a broad and deep understanding of such topics; Entrepreneurship and marketing; Marketing Opportunities; Market Development; Distribution strategy; pricing Strategy; Customer Relationship Strategy; Communication Strategy; and Effective use of Social Media.  Start-up entrepreneurs and intrapeneurs face the challenge of matching large resources of established companies and thus have to utilize different (\"entrepreneurial\") marketing methods to succeed.\"",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Matriculated MBA students, MBA Foundation Core, MSITE program, or PSM sub-plan, or permission of Grad Prog Coordinator",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.6990": {
+        "name": "ENTR.6990 Independent Study (Formerly ENTR /64.699)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/6990/",
+        "id": "006584",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.7400": {
+        "name": "ENTR.7400 Seminar in Entrepreneurship Research (Formerly ENTR /64.740)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/7400/",
+        "id": "036952",
+        "description": "This is a full-semester seminar devoted to the diverse field of entrepreneurship. During the semester, we will cover seminal articles as well as contemporary topics and debates. Our emphasis is on reading and discussing academic articles from various perspectives on entrepreneurship. Students are expected to actively participate and contribute to class discussions as well as prepare a research proposal.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.7420": {
+        "name": "ENTR.7420 Seminar in Corporate Entrepreneurship (Formerly ENTR /64.742)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/7420/",
+        "id": "036954",
+        "description": "In this course, students will become familiar with and develop an in-depth understanding of the concepts, models, and paradigms that collectively form the foundation for corporate entrepreneurship. The purpose is to develop a keen awareness of major gaps that exist in the literature. Students will develop the ability to critically integrate findings from the literature and strengthen the skills needed to conduct original research in the related areas.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Business-PhD Students only or permission of the Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.7430": {
+        "name": "ENTR.7430 Seminar in Innovation and New Product Development (Formerly ENTR /64.743)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/7430/",
+        "id": "039044",
+        "description": "This seminar is on the progress of the scholarly research on innovation and new product development. Topics include: types, drivers, and outcomes of innovation; new product development processes, how innovations and new products can help an organization develop a sustainable competitive advantage.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Business-PhD Students only or permission of the Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.7440": {
+        "name": "ENTR.7440 Current Topics in Innovation and Entrepreneurship (Formerly ENTR /64.744)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/7440/",
+        "id": "039133",
+        "description": "This course examines current topics facing entrepreneurs and companies in strategic marketing of their innovative products and services. The specific issues covered include customers risk and value perceptions, buyer-seller relations, customer lifetime value, international",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.7960": {
+        "name": "ENTR.7960 Doctoral Dissertation (Formerly ENTR /64.796)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/7960/",
+        "id": "039422",
+        "description": "Doctoral dissertation research.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENTR.7970": {
+        "name": "ENTR.7970 Managerial Research Seminar (Formerly ENTR /64.797)",
+        "url": "https://www.uml.edu/catalog/courses/ENTR/7970/",
+        "id": "039288",
+        "description": "The course will involve an on-going monthly presentation from across scholarly disciplines. Speakers will be drawn from local, national, and international universities. Attendance will be mandatory; PhD students should gain an appreciation for high level scholarship and corporate governance research.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,471 @@
+{
+    "total": 23,
+    "time": 16.808352947235107,
+    "EXER.1010": {
+        "name": "EXER.1010 Strategies for Academic Success in Exercise Science (Formerly 38.101)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/1010/",
+        "id": "035271",
+        "description": "This seminar course introduces Exercise Physiology (EP) students to UMass Lowell, the Zuckerberg College of Health Sciences, and the Exercise Physiology program. Students will engage in learning activities that promote success in the program by familiarizing themselves with academic policies, resources, and positive time management, communication and study skills Students will also explore careers in Exercise Physiology and other health-related fields through interprofessional learning while being introduced to the concepts of diversity, professionalism and ethical conduct. All exercise physiology undergraduate course (EXER) are restricted to EP majors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Exercise Science Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "EXER.2020": {
+        "name": "EXER.2020 Introduction to Exercise Science (Formerly 38.202)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/2020/",
+        "id": "004875",
+        "description": "This course will provide a broad overview of the various fields and career options within Exercise Science. Course content will include a history of the profession, potential career and graduate studies options, the legal and ethical aspects of practice, and an introduction to basic fitness terminology and principles using ACSM guidelines. Students will have the opportunity to network with guest speakers for all different careers and explore various environments in which Exercise Physiologists work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "EXER.2170": {
+        "name": "EXER.2170 Research Methods in Exercise Science",
+        "url": "https://www.uml.edu/catalog/courses/EXER/2170/",
+        "id": "041473",
+        "description": "This course involves an in-depth study of current research methods and topics with specific applications to the field of Exercise Physiology. The content includes the sources of data acquisition, research design, testing procedures, and treatment of data. Each student must participate in a senior research project utilizing information gained from the lecture portion of the class. All 1st 2nd and 3rd year course work in the exercise physiology major. All exercise physiology undergraduate courses (number 38) are restricted to EP majors only. Meets ore Curriculum Essential Learning Outcome for Information Literacy (IL) and Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "EXER.1010 Strategies for Academic Success in Exercise Science, and MATH.2830 Introduction to Statistics, and Exercise Science majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.1010"
+                ],
+                [
+                    "MATH.2830"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.3010": {
+        "name": "EXER.3010 Junior Seminar (Formerly 38.301)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/3010/",
+        "id": "035272",
+        "description": "The Junior Seminar, offered spring semester to Exercise Physiology majors, will orient students to information required for their Practicum experience during their Senior Year.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Junior Status in EP & ES Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "EXER.3050": {
+        "name": "EXER.3050 Exercise Physiology  (Formerly 38.305)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/3050/",
+        "id": "004881",
+        "description": "This course will examine the short and long term effects of exercise of the oxygen transport systems, including understanding the concepts of physiological and metabolic functioning of the human body during aerobic physical activity, exercise, sports performance and training. Students taking this course and its lab co-requisite are advised that the capability to exercise moderately and maximally will be necessary.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "HSCI.1020 Anatomy & Physiology II, and HSCI.2520 Physiological Chemistry II, or CHEM.1220 Chemistry II, and Co-req: EXER.3070 Exercise Physiology Lab, and EP or ES Majors, or ES Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1020"
+                ],
+                [
+                    "HSCI.2520",
+                    "CHEM.1220"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "EXER.3070"
+                ]
+            ]
+        }
+    },
+    "EXER.3070": {
+        "name": "EXER.3070 Exercise Physiology Laboratory (Formerly 38.307)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/3070/",
+        "id": "004882",
+        "description": "This course offers students the opportunity to apply, test and evaluate physiological concepts and skills discussed in the lecture as it related to the aerobic systems and training.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: EXER.3050 Exercise Physiology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "EXER.3050"
+                ]
+            ]
+        }
+    },
+    "EXER.3150": {
+        "name": "EXER.3150 Kinesiology (Formerly 38.315)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/3150/",
+        "id": "001250",
+        "description": "This course combines the study of mechanics, kinematics, kinetics, anatomy and neuromuscular physiology to teach the examination and evaluation of human movement. The major focus of the course is in qualitative evaluation of movement. Topics also include quantitative evaluation, body mechanics, posture and gait evaluation with a focus on identification of abnormal movement patterns.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.1020 Anatomy & Physiology II, and PHYS.1040 General Physics II, or PHYS.1440 Physics II, and Co-req: EXER.3170 Kinesiology Laboratory.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1020"
+                ],
+                [
+                    "PHYS.1040",
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "EXER.3170"
+                ]
+            ]
+        }
+    },
+    "EXER.3170": {
+        "name": "EXER.3170 Kinesiology Laboratory (Formerly 38.317)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/3170/",
+        "id": "004884",
+        "description": "This course should be taken concurrently with EXER.3150. This course is designed to practically apply topics discussed in kinesiology lecture. Students are given the opportunity to engage in various activities that will allow them to observe and analyze the numerous factors involved in human motion and the impact of those factors on human performance. Students are given the opportunity and encouraged to explore areas of personal interest within the goals and objective of the course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: EXER.3150 Kinesiology.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "EXER.3150"
+                ]
+            ]
+        }
+    },
+    "EXER.3350": {
+        "name": "EXER.3350 Sport and Exercise Biomechanics",
+        "url": "https://www.uml.edu/catalog/courses/EXER/3350/",
+        "id": "040949",
+        "description": "This course will examine the mechanical laws and principles applied to the human body including forms of motion, linear and angular kinematics/kinetics. The concepts studied will include qualitative and quantitative analysis of sport techniques and general movement patterns. There will be in-class lab activities to prepare the student to use a scientific approach for analyzing exercise and sports activities.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "EXER.3050 Exercise Physiology, and ES Majors, or ES Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.3560": {
+        "name": "EXER.3560 Pharmacology (Formerly 38.356)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/3560/",
+        "id": "031962",
+        "description": "An introduction to the biochemistry and physiological actions of various pharmaceuticals. Fundamental concepts will include drug receptors, drug receptor interactions, pharmacokinetics, enzyme induction, drug metabolism, drug safety and effectiveness and idiosyncratic reactions. Several major disease states, and the common agents used for treatment will be presented including: autonomic (central nervous system stimulants, cholinergic, adrenergic, and muscarinic agents); Neuropharmacololgy (Alzheimer's and Parkinson's diseases, major depressive disorder, anxiety and insomnia); Cardiovascular conditions (hypertension, hypercholesterolemia), Endocrinology (adrenal steroids anti-hyperglycemic agents); Analgesia (opioid and non-opioid), Antibacterial agents, and Respiratory conditions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.1020 Anatomy & Physiology II, and HSCI.3500 Human Biochemistry.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.1020"
+                ],
+                [
+                    "HSCI.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.4060": {
+        "name": "EXER.4060 Foundations of Strength and Conditioning (Formerly 38.406)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4060/",
+        "id": "001249",
+        "description": "This course is the second of a two-part series in exercise physiology designed to study the physiological effects of exercise on the human body. It will call upon the knowledge gained in Anatomy and Physiology, Biochemistry, Kinesiology, and Exercise Physiology. The course covers a variety of topics including: physiological adaptations to resistance training, resistance training concepts and methods to include periodization and principles of test selection and administration, concepts of flexibility, dynamic warm-ups, plyometrics, speed, agility and speed-endurance development, basic concepts of rehabilitation and reconditioning, exercise prescription and programming for healthy populations, and the effect of performance-enhancing drugs on performance. This course will cover (cont'd).",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "EXER.3050 Exercise Physiology, and Co-req: EXER.4080 Foundations of strength and Conditioning, and EP or ES Majors, or ES Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.3050"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "EXER.4080"
+                ]
+            ]
+        }
+    },
+    "EXER.4080": {
+        "name": "EXER.4080 Foundations of Strength and Conditioning Laboratory (Formerly 38.408)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4080/",
+        "id": "004887",
+        "description": "This course must be taken concurrently with EXER.4060, Foundations of Strength and Conditioning. The laboratory experiences allow students to observe the concepts discussed in the lecture co-requisite course; develop the psychomotor skills necessary for practical applications; work collaboratively in groups; and develop skills in scientific method including written communication. The course is organized to develop students' critical thinking as an active participant in class. Students are expected to develop practical skills in the laboratory consistent with current standards of practice, learn to administer exercise tolerance tests, interpret and present exercise test data, and develop simple assessment and treatment programs for all clients. (cont'd)",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: EXER.4060 Foundations of Strength and Conditioning.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "EXER.4060"
+                ]
+            ]
+        }
+    },
+    "EXER.4120": {
+        "name": "EXER.4120 Clinical Practicum I and II (Formerly 38.412)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4120/",
+        "id": "004888",
+        "description": "This course is an off-campus experience in either a cardiac/pulmonary rehab clinical facility or in a fitness setting. Students experience practical applications of the concepts and theories learned in the classroom settings. Strength and conditioning, research or industry related setting, or other setting appropriate to the particular student's interests.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "EXER.3150 Kinesiology, and EXER.3560 Pharmacology, and EXER.4220 Exercise Prescription and Programming, and Co-req: EXER.4180 Senior Seminar.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.3150"
+                ],
+                [
+                    "EXER.3560"
+                ],
+                [
+                    "EXER.4220"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "EXER.4180"
+                ]
+            ]
+        }
+    },
+    "EXER.4170": {
+        "name": "EXER.4170 Research Methods in Exercise Physiology (Formerly 38.417)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4170/",
+        "id": "004889",
+        "description": "This course involves an in-depth study of current research methods and topics with specific applications to the field of Exercise Physiology. The content includes the sources of data acquisition, research design, testing procedures, and treatment of data. Each student must participate in a senior research project utilizing information gained from the lecture portion of the class.  All 1st 2nd and 3rd year course work in the exercise physiology major. All exercise physiology undergraduate courses (number 38) are restricted to EP majors  only. Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL) and Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1020 College Writing II, and MATH.2830 Introduction to Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ],
+                [
+                    "MATH.2830"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.4180": {
+        "name": "EXER.4180 Senior Seminar (Formerly 38.418)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4180/",
+        "id": "004890",
+        "description": "This course is specifically designed to enhance the practicum experience in the senior year.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: EXER.4120 Clinical Practicum I & II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "EXER.4120"
+                ]
+            ]
+        }
+    },
+    "EXER.4200": {
+        "name": "EXER.4200 Advanced Study in Exercise Science (Formerly 38.420)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4200/",
+        "id": "004891",
+        "description": "This course is a capstone course in Exercise Science. Students summate and synthesize classroom and clinical experiences in Exercise Science in the preparation of a final project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "EXER.3050 Exercise Physiology, and EP or ES Majors, or ES Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.4210": {
+        "name": "EXER.4210 Directed Study Health Promotion (Formerly 38.421)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4210/",
+        "id": "030347",
+        "description": "This course is designed for independent study opportunities, including but not limited to directed study, directed research, and Honors College theses and projects. These learning opportunities provide students with meaningful opportunities to work directly with a faculty member on individually designed content that integrates didactic knowledge throughout their program of study. The course focuses on broadening the student's area of interest, expertise, and career choices.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Exercise Physiology Core 3 Courses: EXER.4060/4080, EXER.3560, EXER.3010 and Senior Standing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.3560"
+                ],
+                [
+                    "EXER.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.4220": {
+        "name": "EXER.4220 Exercise Prescription & Programming (Formerly 38.422)",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4220/",
+        "id": "004892",
+        "description": "This course provides an essential foundation for exercise prescription and programming, and sound educational practice. Factors that impede or enhance exercise compliance and progress are explored. Clinical teaching skills, safety, and professional behavior are also addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-req: EXER.4060 Foundations of Strength and Conditioning.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "EXER.4060"
+                ]
+            ]
+        }
+    },
+    "EXER.4240": {
+        "name": "EXER.4240 Motor Control & Learning",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4240/",
+        "id": "039664",
+        "description": "This course provides an in-depth presentation of the behavioral and neuroscientific foundations of human movement control, coordination, and the learning of movement skills. Topics include an introduction to the cellular basis of neurophysiology, discussion of the contributions of the sensory and motor systems, and learning the major theories of motor control and the acquisition of motor skill and their importance in rehabilitation, teaching and sport performance. The ultimate goal is for students to develop a unified conceptual framework for motor control and learning and how these relate to the optimization of intervention strategies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "EXER.3050 Exercise Physiology, and Exercise Science students only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.4250": {
+        "name": "EXER.4250 Clinical Exercise Physiology",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4250/",
+        "id": "041952",
+        "description": "This course will examine the pathophysiology and exercise considerations associated with a variety of diseases and disorders. Students will utilize case studies to apply the principles of exercise testing, prescription, and programming within these medically stable special populations. These diseases and special populations may include (but are not limited to): older adults, arrhythmias, obesity, hypertension, asthma, COPD, post-myocardial infarction, diabetes, arthritis, osteoporosis, cancer, cerebral palsy, musculoskeletal concerns, developmental disorders, and intellectual disabilities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "EXER.3050 Exercise Physiology, and EP or ES Majors, or ES Minors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "EXER.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "EXER.4260": {
+        "name": "EXER.4260 Motor Control and Learning Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4260/",
+        "id": "040945",
+        "description": "This laboratory course provides a hands-on experience with the concepts and topics centered around the behavioral and neuroscientific foundations of human movement control, coordination, and the learning of movement skills. It is designed to examine the principles of motor learning by examining physiological, psychological, and neuromotor factors that affect motor control, the acquisition of motor skills and performance. Students will learn to apply motor learning and control skills to coaching movement and physical activity.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: EXER.4240 Motor Control and Learning, and Exercise Science majors only, and Senior status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "EXER.4240"
+                ]
+            ]
+        }
+    },
+    "EXER.4280": {
+        "name": "EXER.4280 Exercise Prescription & Programming Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4280/",
+        "id": "041930",
+        "description": "This laboratory course will expand upon topics taught in the lecture, examining methods for assessing and improving various elements of health and fitness, including (but not limited to): body composition, aerobic fitness, muscle strength, muscle power, muscle endurance, flexibility, balance, and movement. Students will demonstrate competency of administering a variety of health and fitness assessments and master utilizing information gleaned from these assessments to appropriately prescribe exercise programming for individuals.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: EXER.4220 Exercise Prescription and Programming.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "EXER.4220"
+                ]
+            ]
+        }
+    },
+    "EXER.4300": {
+        "name": "EXER.4300 Exercise is Medicine",
+        "url": "https://www.uml.edu/catalog/courses/EXER/4300/",
+        "id": "040946",
+        "description": "Healthcare is a business that requires students and workers who understand its complexity and constant changes. Health promotion experts are positioned to lead the charge a reducing healthcare costs and improving patient and client outcomes, in the community or the workplace. This student-driven capstone course will focus on the concepts and skills necessary to develop, promote and implement effective health and wellness programs where the central tenets are \"Exercise is Medicine\" and \"Exercise is Business Relevant\". Students will learn how to bridge the gap between the fields of exercise, health, wellness, and management and how to successfully communicate their ideas to a variety of business, sport, and health organizations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HSCI.3400 IPE Research Methods, and Exercise Science, or Nutritional Science, or Public Health majors only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "HSCI.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

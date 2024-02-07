@@ -1,0 +1,2218 @@
+{
+    "total": 129,
+    "time": 84.89510226249695,
+    "PLAS.0010": {
+        "name": "PLAS.0010 Plastics Safety Lecture (Formerly 26.001)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/0010/",
+        "id": "004147",
+        "description": "All Plastics Engineering students enrolled in a plastics laboratory course are required to attend a one hour per week safety lecture for safety training.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Co-req: PLAS.2150, or PLAS.3150, or PLAS.4150, or PLAS.4160, or PLAS.4170, or PLAS.5730.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.5730"
+                ]
+            ]
+        }
+    },
+    "PLAS.0020": {
+        "name": "PLAS.0020 Plastics Safety Lecture (Formerly 26.002)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/0020/",
+        "id": "004148",
+        "description": "All Plastics Engineering students enrolled in a plastics laboratory course are required to attend a one hour per week safety lecture for safety training.  Continuation of 26.001.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Co-req: PLAS.2160, or PLAS.3160, or PLAS.4150, or PLAS.4160, or PLAS.4170, or PLAS.5730.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.5730"
+                ]
+            ]
+        }
+    },
+    "PLAS.1070": {
+        "name": "PLAS.1070 Introduction to Plastics Engineering  (Formerly 25.107/26.107)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/1070/",
+        "id": "039473",
+        "description": "This course is designed to teach basic principles of technical drawing, fundamentals of design, fundamentals of computer aided design (CAD), dimensioning and tolerances. Basic concepts of manufacturing, rapid prototyping and 3D printing are covered. The lecture component covers theoretical information, and the lab component covers hands-on learning, where students learn to use a commercial CAD software.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.1080": {
+        "name": "PLAS.1080 Introduction to Polymer Sustainability",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/1080/",
+        "id": "041940",
+        "description": "This course provides a foundation in the principles of environmental sustainability and the relationship of polymers and plastics to the environment.  The course introduces principles of lifecycle and material flow analysis, waste management, circular design, green chemistry and engineering and renewable materials. The basic concepts underpinning recyclability and toxicity are covered.  We discuss current challenges of waste management systems and future options for increasing use of secondary feedstocks.  Students learn about properties of biobased and biodegradable plastics.  The course also covers fate of plastics in the environment and strategies for reducing leakage.  The overarching objective is to provide an understanding of environmental challenges and solutions in the plastics industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 1210 Chemistry I, or equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.2010": {
+        "name": "PLAS.2010 Polymer Materials I (Formerly 26.201)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2010/",
+        "id": "001258",
+        "description": "This introductory course in plastics materials first evaluates how commercial plastics were developed, characterized and compared throughout the relevant industry. Various ASTM testing protocols are reviewed followed by an initial study of commodity plastic materials, including polyethylene, poly (vinyl chloride), polystyrene, diene rubbers and other selected and relatively high-volume resins.  Applicable commercial polymerization methods are introduced along with comparative structure/property relationships. Initial comparisons are drawn as between commodity thermoplastic resins and thermoset compositions. Comparative end-use applications are continuously discussed along with a consideration of selected environmental issues (recyclability).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs:  CHEM 1210 Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.2020": {
+        "name": "PLAS.2020 Polymer Materials II (Formerly 26.202)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2020/",
+        "id": "004149",
+        "description": "A critical review of the commercial family of materials known as engineering thermoplastics including an examination of relatively important thermoset polymer systems. Major commercial polymerization reactions are reviewed (e.g. applicable chain growth or step-growth polymerizations) including comparative market performance based upon mechanical, thermal, chemical properties and environmental considerations. Also considered are selective high performance plastic materials suitable for use at elevated temperatures and in other relatively extreme working environments. Recommended Pre-Req: 26.201 Polymer Materials I.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CHEM 1210Chemistry I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.2100": {
+        "name": "PLAS.2100 Professional Development Seminar  (Formerly 26.210)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2100/",
+        "id": "033446",
+        "description": "The Professional Development Seminar is designed to provide students with the necessary structure, resources, and support to successfully secure and engage in their first Plastics Cooperative Education experience.  Through a variety of interactive teaching methodologies and assignments, students will participate in a sequence of learning activities including self-assessment, industry research, and the development of co-op learning objectives.  Students will prepare to engage in the job search process through resume-writing, strategic interviewing, professional networking and learn professional behavior and presentation skills.  The goal of the course is to assist each student in developing a sound plan of action to successfully participate in the cooperative education experience.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.2110": {
+        "name": "PLAS.2110 Engineering Mechanics (Formerly 26.211)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2110/",
+        "id": "004153",
+        "description": "Equilibrium of structures subjected to forces and moments.  Area and mass moments of inertia,.  Internal forces, shear and bending moments acting on loaded structures, including cantilevers, beams, trusses, bridges and machine frames. Friction.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "92.121 Calculus I and PHYS 1410 Physics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.2120": {
+        "name": "PLAS.2120 Dynamics (Formerly 26.212)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2120/",
+        "id": "004154",
+        "description": "This course covers the fundamentals of Newtonian mechanics, including kinematics, motion relative to accelerated reference frames, work and energy, impulse and momentum, 2D and 3D rigid body dynamics.  The course pays special attention to applications in plastics engineering including introductory topics in material and energy balance.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "92.121 Calculus I and PHYS 1410 Physics I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.2150": {
+        "name": "PLAS.2150 Plastics Processing Engineering Laboratory I (Formerly 26.215)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2150/",
+        "id": "004155",
+        "description": "This lab course focuses on physical property testing of plastics. The tests covered include tensile properties, flexural properties, pendulum impact resistance, drop impact resistance, surface properties, and melt flow rate. The effect of environment on many of these properties is also evaluated.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req or Co-Req: PLAS 2010 Polymer Materials I, Co-Req: PLAS 0010 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.2010"
+                ],
+                [
+                    "PLAS.0010"
+                ]
+            ]
+        }
+    },
+    "PLAS.2160": {
+        "name": "PLAS.2160 Plastics Process Engineering Laboratory II (Formerly 26.216)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2160/",
+        "id": "004156",
+        "description": "This laboratory introduces students to the plastics manufacturing processes of single screw extrusion, injection molding, blow molding, sheet thermoforming and rotational molding. Experiments are designed so that the student will understand the theory of polymer conversion techniques by the interaction between process variables and materials characteristics.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: PLAS.0020 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.2180": {
+        "name": "PLAS.2180 Introduction to Design (Formerly 26.218)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2180/",
+        "id": "004157",
+        "description": "This course is designed to teach basic principles of technical drawing, fundamentals of design, dimensioning and tolerances. Basic concepts of manufacturing and rapid prototyping are covered. The lecture component covers theoretical information, and the lab component covers hands-on learning, where students learn to use a commercial CAD software.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL).",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.2190": {
+        "name": "PLAS.2190 Principles of Processing Equipment & Automation",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2190/",
+        "id": "041649",
+        "description": "This course provides a theoretical understanding of the design of plastics processing equipment and automation. Each system will be studied and analyzed discreetly, including the safety interlock system, hydraulic power system, pneumatic system, high voltage AC electrical power system, low voltage DC electrical control system, user interface with programmable logic controller (PLC), optical sensors, and associated mechanical aspects of the design. For each system, functions of components will be introduced, the theory underlying their operation will be discussed and analyzed, and components will be incorporated into a complete machine system detailed on associated machine prints. Lab will provide practical examples of the theory discussed in class.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "PLAS.1070 Intro to Plastics Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.1070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.2470": {
+        "name": "PLAS.2470 Thermodynamics  (Formerly 26.247)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/2470/",
+        "id": "004159",
+        "description": "This course introduces the concepts of system definition, pure substance properties, phase behavior and engine cycles. The laws of Thermodynamics are introduced and used to determine equilibrium states of systems, conservation of energy and directionality of energy transformation. Mathematical analysis of closed and flowing systems and engineering devices used in polymer processing is reviewed. It concludes with a discussion of introductory level polymer thermodynamics. Meets Core Curriculum Essential Learning Outcomes for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1320 Calculus II  and PHYS 1410 Physics I, Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.3060": {
+        "name": "PLAS.3060 Methods of Experimental Analysis (Formerly 26.306)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3060/",
+        "id": "004163",
+        "description": "Methods for design and analysis of experiments provided in three course modules: (1) descriptive and inferential statistics for hypothesis testing: (2) analysis of variance and linear regression for model building; and (3) factorial, fractional factorial, and response surface design of experiments for decision support and optimization. Course incorporates project work with modern statistical programming. Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL) and Critical thinking and problem solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.3100": {
+        "name": "PLAS.3100 Co-op Assessment I (Formerly 26.310)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3100/",
+        "id": "035650",
+        "description": "The primary goal of this seminar is to assist students in the overall assessment of their overall cooperative education experience.  Through facilitated small group discussion, individual consultation and hands on practice, students will have an opportunity to identify and articulate their technical and professional skills, and explore how these skills and their co-op employment might be translated and leveraged into future work environments and their academic program at UML.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre/Co-req: PLAS 2100 Professional Development Seminar; and Pre/Co-Req:PLAS 3CE Cooperative Education.PLAS 2100&PLAS 3CE Pre/Co-Req",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.2100"
+                ]
+            ]
+        }
+    },
+    "PLAS.3140": {
+        "name": "PLAS.3140 Fluid Flow (Formerly 26.314)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3140/",
+        "id": "004164",
+        "description": "Statics and dynamics of Newtonian and Non-Newtonian fluids. Bernoulli equation, flow in closed conduits, measurement of fluid flow, external flow, rheology of melts, control volume, temperature and entrance effects. Applications of flow equations to plastics processing. Recommended Pre-Reqs: 92.234 Differential Equations or 92.236 Engineering Differential Equations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.3150": {
+        "name": "PLAS.3150 Plastics Process Laboratory III (Formerly 26.315)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3150/",
+        "id": "004165",
+        "description": "This laboratory introduces students to the plastics manufacturing processes of twin screw extrusion, film extrusion, tube extrusion, and injection molding process monitoring. Experiments are designed so that the student will understand the theory of polymer conversion techniques by the interaction between process variables and material characteristics.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: PLAS 2150 or PLAS 2160 Plastics Processing Eng Lab I/II, PLAS 2010 or PLAS 2020 Polymeric Materials I/II; Co-Req: PLAS 0010 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2150",
+                    "PLAS.2160"
+                ],
+                [
+                    "PLAS.2010",
+                    "PLAS.2020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.0010"
+                ]
+            ]
+        }
+    },
+    "PLAS.3160": {
+        "name": "PLAS.3160 Plastics Process Engineering Laboratory IV (Formerly 26.316)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3160/",
+        "id": "004166",
+        "description": "This laboratory introduces students to variations of injection molding, extrusion, blow molding and thermoset manufacturing processes not previously studied. Advanced process set-up, including design of experiments, is covered. Experiments are designed so that the student will understand the theory of polymer conversion techniques by the interaction between process variables and material characteristics.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: PLAS 2150 or PLAS 2160 Plastics Processing Eng Lab I/II, PLAS 2010 or PLAS 2020 Polymeric Materials I/II; Co-Req: PLAS 0020 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2150",
+                    "PLAS.2160"
+                ],
+                [
+                    "PLAS.2010",
+                    "PLAS.2020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.3200": {
+        "name": "PLAS.3200 Co-op Assessment I (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3200/",
+        "id": "039899",
+        "description": "This seminar is designed to support and assist students in the assessment of their 6 month cooperative education experience. Students will reflect of their extended time in a work environment, the impact of their experience on their planning, and how organizational culture, personal interests and values can inform their subsequent decisions for career development. Through facilitated small group discussions, individual consultation and hands on practice, students will have the opportunity to identify and articulate their technical and professional skills.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "PLAS.3CE Co-op Experience and PLAS.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.3480": {
+        "name": "PLAS.3480 Heat Transfer (Formerly 26.348)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3480/",
+        "id": "004168",
+        "description": "This course covers the theory and application of steady and transient heat conduction, convection, and radiation. Particular emphasis is placed on heat transfer problems in plastics processing and modern engineered systems. Computational methods and analysis of heat exchangers are covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre/Co-Req: MATH 2310 Calculus III; MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.2310",
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ]
+        }
+    },
+    "PLAS.3730": {
+        "name": "PLAS.3730 Mold Engineering  (Formerly 26.373)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3730/",
+        "id": "004169",
+        "description": "The course provides a comprehensive systematic approach to mold engineering and design, specifically focused on injection molds. Topics are presented in a top-down manner, beginning with significant design objectives and constraints followed by application specific analysis. Topics include: mold types and functions, mold layout, cost estimation, cavity filling, feed systems, gating, venting, cooling systems, shrinkage, ejector systems, and structural design. Junior status or permission of instructor.  Includes laboratory experience in mold design and mold making.",
+        "credits": {
+            "min": "4",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Reqs: PLAS 2180 Intro to Design or PLAS.1070 Introduction to Plastics Engineering; Pre-Req or Co-Reqs:  PLAS 3480 Heat Transfer. (PLAS.3140 recommended pre-requisite).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2180",
+                    "PLAS.1070"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.3480"
+                ]
+            ]
+        }
+    },
+    "PLAS.3770": {
+        "name": "PLAS.3770 Plastics Process Engineering I  (Formerly 26.377/577)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3770/",
+        "id": "001256",
+        "description": "The first course in a two semester sequence to study the fundamental principles of polymer processing, i.e., the conversion of the polymeric materials into useful articles. The course will first study the properties of polymers (bulk and rheological and thermal properties) and why they are important to understanding polymer processing.  This course will emphasize the fundamental principles of the extrusion process and examine the correlation between elements of the extruder, polymer properties, and processing variables and why they all must be considered when studying and understandng a plastics processing technique.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PLAS 2010 Polymer Materials I or PLAS 2020 Polymer Materials II. Pre-Req or Co-Req: PLAS 3140 Fluid Flow.  PLAS.3140 is a Co-Req of PLAS.3770.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2010",
+                    "PLAS.2020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.3140",
+                    "PLAS.3140",
+                    "PLAS.3770"
+                ]
+            ]
+        }
+    },
+    "PLAS.3780": {
+        "name": "PLAS.3780 Plastics Process Engineering II  (Formerly 26.378)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3780/",
+        "id": "004171",
+        "description": "Plastics Process Engineering II introduces four of the five major plastics forming (manufacturing) processes: rotational molding, thermoforming, blow molding, and injection molding with emphasis on how polymeric materials, machine and tooling components, and process variables affect properties of the products produced with each process. The course also examines melt mixing in polymer processing, including mixing in single screw systems and mixing in co-rotating twin screw extruders.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PLAS 2010 Polymer Materials I or PLAS 2020 Polymer Materials II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2010",
+                    "PLAS.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.3810": {
+        "name": "PLAS.3810 Polymer Science for Engineers I  (Formerly 26.381)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3810/",
+        "id": "033717",
+        "description": "An introduction to polymer science with a focus on making polymers.  Topics covered include the chemistry, kinetics, and statistics of step and chain polymerizations and copolymerizations, polymerization processes.  Industrially relevant polymers and commercial polymerization processes will be highlighted, with coverage of the health and safety aspects of various approaches to the preparation of various polymers given.  Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PLAS 2010 Polymer Materials I or PLAS 2020 Polymeric Materials II and CHEM 2040 Intro to Organic & Polymer Chemistry or CHEM 2210 Organic Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2010",
+                    "PLAS.2020"
+                ],
+                [
+                    "CHEM.2040",
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.3820": {
+        "name": "PLAS.3820 Polymer Science for Engineers II  (Formerly 26.382)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3820/",
+        "id": "033718",
+        "description": "An introduction to polymer science with a focus on polymer properties and behavior.  Topics covered include analytical techniques (chemical, thermal, and microstructural analysis of polymers, measurement of molecular weight distribution, etc.), as well as the underlying physical, rheological and solution properties that make these techniques possible. Recommended Pre-Req: 26.381 Polymer Science for Engineers I",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PLAS 2010 Polymer Materials I or PLAS 2020 Polymeric Materials II and CHEM 2040 Intro to Organic & Polymer Chemistry or CHEM 2210 Organic Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2010",
+                    "PLAS.2020"
+                ],
+                [
+                    "CHEM.2040",
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.3830": {
+        "name": "PLAS.3830 Polymer Science I Lab  (Formerly 26.383)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3830/",
+        "id": "034579",
+        "description": "Synthesis of polymers by step growth, condensation, suspension and free radical emulsion polymerization techniques.  Fundamental concepts in polymerization kinetics and mechanism will be covered as well as structure-property considerations and polymerization with functional groups.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: CHEM 2040 Intro Organic & Polymer Chem or CHEM 2210 Organic Chemistry I; Co-Req: PLAS 3810 Polymer Science for Engineers I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2040",
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.3810"
+                ]
+            ]
+        }
+    },
+    "PLAS.3840": {
+        "name": "PLAS.3840 Polymer Science II Lab  (Formerly 26.384)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3840/",
+        "id": "034580",
+        "description": "Polymer characterization techniques including molecular weight distribution by gel permeation chromatography, crystallinity and order by differential scanning calorimetry; polymer morphology and surface properties, and spectroscopic (nuclear magnetic resonance, Raman, infrared) and mechanical (tensile, dynamic mechanical, rheological) techniques will also be covered. Recommended Pre-Reqs: 26.381 Polymer Science for Engineers I and 26.383 Polymer Science I Lab; Co-Req: 26.382 Polymer Science for Engineers II.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 2040 Intro to Organic and Polymer Chemistry or CHEM 2210 Organic Chemistry I; Co-Req: PLAS 3820 Polymer Sci for Engineers II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2040"
+                ],
+                [
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.3820"
+                ]
+            ]
+        }
+    },
+    "PLAS.3CO-OP": {
+        "name": "PLAS.3CO-OP Plastics Engineering Curricular Practical Training (CPT)  (Formerly 26.3CO-OP)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/3CO-OP/",
+        "id": "039515",
+        "description": "Plastics Engineering Curricular Practical Training (CPT). \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.4020": {
+        "name": "PLAS.4020 Medical Device Development Regulation",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4020/",
+        "id": "041942",
+        "description": "Comprehensive and in-depth analysis of US medical device diagnostics development and approval requirements.  Detailed analysis of quality assurance issues and regulatory reforms implemented under the Food and Drug Administration.  Provides a step-by-step guide through the Center for Devices and Radiological Health (CRDH) investigational device exemptions, premarket approval, 510 (k) application process, and product development protocol and review processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Level is Junior or Senior Standing Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.4030": {
+        "name": "PLAS.4030 Mechanical Behavior of Polymers  (Formerly 26.403/503)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4030/",
+        "id": "001260",
+        "description": "Topics covered in this course include linear viscoelasticity, creep, stress relaxation, dynamic behavior, hysteresis, stress-strain response phenomena, principles of time-temperature superposition, rubber elasticity, failure and fracture mechanisms for polymers, and the effect of additives on mechanical behavior. Real life design examples are used to demonstrate the topics and concepts as much as possible.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: (ENGN.2050 or PLAS.2110) and PLAS.2150 Plastics Process Engin. Lab I, MATH.2340 Differential Equations or MATH.2360 Engin. Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2110)"
+                ],
+                [
+                    "PLAS.2150"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.4040": {
+        "name": "PLAS.4040 Process Control  (Formerly 26.404)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4040/",
+        "id": "004172",
+        "description": "Basic principles of control systems used with plastics processing equipment. Included are instrumentation, signal conditioning, data acquisition, feedback control, process monitoring, data reduction, and SPC/SQC.  Meets Core Curriculum Essential Learning Outcome for Critical Thinking & Problem Solving (CTPS) and Written & Oral Communication (WOC).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.4060": {
+        "name": "PLAS.4060 Polymer Structure, Properties and Applications  (Formerly 26.406)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4060/",
+        "id": "004173",
+        "description": "The fundamental relationships between molecular structure, properties and end-use applications of plastics materials will be explored in detail. Molecular structural features include chemical composition, molecular size and flexibility, intermolecular order and bonding, and supermolecular structure. Properties include processability, mechanical, acoustic, thermal, electrical, optical and chemical properties, price, and balance of properties. Applications include rigid solids, flexible solids, foams, film and non-plastic applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 26.202 Polymeric Materials II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.4100": {
+        "name": "PLAS.4100 Coop Assessment II  (Formerly 26.410)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4100/",
+        "id": "004176",
+        "description": "This seminar is designed to support and assist students in the continued assessment of their cooperative education experience.  Through a deepening of their work in Co-op assessment 1, students well review their overall performance in the cooperative education program, while continuing to demonstrate their technical and professional skills through written work and public presentations to multiple audiences.  It is expected that students will clearly define their future academic and career goals, enhance their professional networks, and develop a future plan to support aspirations related to their major.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req or Co-Req: PLAS 2100; Pre-Req: PLAS 3CE or PLAS 4CE.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.2100;"
+                ]
+            ]
+        }
+    },
+    "PLAS.4150": {
+        "name": "PLAS.4150 Capstone Project I  (Formerly 26.415)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4150/",
+        "id": "004181",
+        "description": "first half of a two-semester capstone experience. Students, working in teams under the supervision of faculty members, select a project related to the field of plastics engineering, prepare a project charter considering constraints and mitigations, conduct experimental research, and propose potential project solutions.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture; and Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.0010",
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.4160": {
+        "name": "PLAS.4160 Capstone Project II  (Formerly 26.416)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4160/",
+        "id": "004182",
+        "description": "Second half of a two-semester capstone experience. Students, working in teams under the supervision of faculty members, continue a project related to the field of plastics engineering, implement one or more project solutions, conduct experimental research, author a final report, and provide a presentation according to professional conference guidelines.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: PLAS 4150 Capstone Project I; and Co-Req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture. Senior Status.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.4150"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.0010",
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.4170": {
+        "name": "PLAS.4170 Honors Capstone Project II  (Formerly 26.417)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4170/",
+        "id": "032560",
+        "description": "A section of capstone laboratory for honor students only.  Honors student groups design, perform, analyze, report and defend a research project which incorporates the processing and characterization of plastics materials.  Supporting practicum on literature searches, plastics processing, basic plastics testing techniques, and data analysis are included in the course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.0010",
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.4180": {
+        "name": "PLAS.4180 Product and Process Design  (Formerly 26.418)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4180/",
+        "id": "004183",
+        "description": "Theoretical principles and engineering practices for development of new plastic products with a focus on conventional and advanced injection molding processes. Topics include design methodology, plastic materials selection, design for manufacturing, computer aided engineering, mechanical behavior of plastics, structural design of plastic parts, prototyping techniques, experimental stress analysis, assembly techniques for plastic parts, and design for recyclability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PLAS.2110 Engineering Mechanics, or ENGN.2050 Statics, and PLAS.1070 Introduction to Plastics Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2110",
+                    "ENGN.2050"
+                ],
+                [
+                    "PLAS.1070"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.4200": {
+        "name": "PLAS.4200 Co-op Assessment 2 (6 months)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4200/",
+        "id": "039941",
+        "description": "This seminar is designed to support and assist students int he assessment of their second cooperative education work experience that was for a 6 month cycle. Students will reflect on their extended time in this second work environment, and how their two different co-op work experiences impacts their subsequent decisions for career development. Students will review their overall performance in the cooperative education program, and demonstrate their technical and professional skills through written work and public presentations to multiple audiences.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "PLAS.3CE Co-op Experience and PLAS.2100 Professional Development Seminar, Permission of Instructor following 6 month co-op.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.4500": {
+        "name": "PLAS.4500 Nanoscale Trans. Phenomena for Manuf.  Nanodevices (Formerly 10/22/26.450)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/4500/",
+        "id": "036698",
+        "description": "An interdisciplinary course taught by faculty from the Chemical, Mechanical and Plastics Engineering Departments, who have special knowledge in nanoscale fluid mechanics and heat transfer.  The course on nanoscale transport phenomena constitutes a bridge between existing fluid and heat transfer courses in multiple disciplines and emerging nanoscale science and engineering concepts to reflect the forefront of nanomanufacturing.  The course is designed to incorporate recent advances in manufacturing polymer based nanodevices.   Key issues of the implementation and maintenance costs for fabrication will be addressed.  Hands-on laboratory experiments will be performed to complement the lectures with the ultimate goal of designing and building a complete nanodevice at the end of the course.  The course will prepare graduates for employment focused on designing and manufacturing nano/microfluidic systems, lab on ship devices, electronic devices, medical devices and other emerging technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 26.314 Fluid Flow, 26.348 Heat Transfer, and 26.218 Intro to Design.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5000": {
+        "name": "PLAS.5000 Advanced  Project  In Plastics I  (Formerly 26.500)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5000/",
+        "id": "004205",
+        "description": "A laboratory course for advanced projects in the areas of plastics materials, design, processing, elastomers, coatings, adhesives, or medical plastics.",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5010": {
+        "name": "PLAS.5010 Advanced Project  In Plastics II  (Formerly 26.501)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5010/",
+        "id": "004206",
+        "description": "Continuation of 26.500.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5020": {
+        "name": "PLAS.5020 Medical Device Development Regulation  (Formerly 26.602 and PLAS.6020)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5020/",
+        "id": "004296",
+        "description": "Comprehensive and in-depth analysis of US medical device diagnostics development and approval requirements. Detailed analysis of quality assurance issues and regulatory reforms implemented under the Food and Drug Administration. Provides a step-by-step guide through the Center for Devices and Radiological Health (CRDH) investigational device exemptions, premarket approval, 510 (k) application process, and product development protocol and review processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5030": {
+        "name": "PLAS.5030 Mechanical Behavior of Polymers  (Formerly 26.403/503)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5030/",
+        "id": "001260",
+        "description": "Topics covered in this course include linear viscoelasticity, creep, stress relaxation, dynamic behavior, hysteresis, stress-strain response phenomena, principles of time-temperature superposition, rubber elasticity, failure and fracture mechanisms for polymers, and the effect of additives on mechanical behavior. Real life design examples are used to demonstrate the topics and concepts as much as possible.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: MECH.2110 Engin. Mechanics, MECH.2150 Plastics Process Engin. Lab I, MATH.2340 Diff Eq.s or MATH.2360 Engin. Diff Eq. or Grad. career students. (Pre-reqs are enforced only for undergrad plastics engineering students).",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MECH.2110"
+                ],
+                [
+                    "MECH.2150"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.5060": {
+        "name": "PLAS.5060 Polymer Structure Properties & Applications  (Formerly 26.506)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5060/",
+        "id": "004210",
+        "description": "Relationships between polymer structure (chemical composition, molecular weight and flexibility, intermolecular order and bonding, supermolecular structure) and practical properties (processability, mechanical, acoustic, thermal, electrical, optical, and chemical) and applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 26.202 Polymeric Materials II or Graduate career students. (Pre-requisites are enforced only for undergraduate plastics engineering students).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5090": {
+        "name": "PLAS.5090 Plastics Processing Theory I  (Formerly 26.509)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5090/",
+        "id": "004213",
+        "description": "Principles of Rheology and continuum mechanics involved in the processing of plastics, and their applications in plastics process engineering including flows in standard geometries and extrusion applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5110": {
+        "name": "PLAS.5110 Polymer Blends  (Formerly 26.511)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5110/",
+        "id": "004215",
+        "description": "Physical, mechanical, and thermal properties, preparation, and testing of polymer blends, alloys, and multiphase systems. Thermodynamic theories and experimental determination of miscibility of polymer blends. Structure property relationships for multiphase systems and interpenetrating networks.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5120": {
+        "name": "PLAS.5120 Foams  (Formerly 26.512)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5120/",
+        "id": "004216",
+        "description": "This course covers the fundamentals of polymer foaming, processing methods, recent technologies, foam characteristics, and applications. Fundamentals cover the cell nucleation and growth mechanisms in foaming and the role of thermodynamics and kinetics. Batch foaming, extrusion foaming, foam injection molding, and bead foaming are discussed as the common processing methods. The characteristics and performance of polymeric foams, process-structure-property relationships, and the relevant applications in various industries also are presented.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5130": {
+        "name": "PLAS.5130 New Plastics Materials  (Formerly 26.513)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5130/",
+        "id": "004217",
+        "description": "Critical examination of the new plastics appearing in the research literature and being field-tested for commercialization in the plastics industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5140": {
+        "name": "PLAS.5140 Statistics for Six Sigma  (Formerly 26.514)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5140/",
+        "id": "004218",
+        "description": "A review of statistical techniques for Six Sigma with Applications specifically designed for the plastics processing industry.  Those completing the course should be at the Six Sigma green belt level or better.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5150": {
+        "name": "PLAS.5150 Lean Plastics Manufacturing  (Formerly 26.515)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5150/",
+        "id": "030849",
+        "description": "Methods of analysis and operation of plastics manufacturing facilities.  Topics include: performance measurement, inventory control, forecasting, production planning, scheduling, resource management, supply chains, various technologies for improved productivity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5180": {
+        "name": "PLAS.5180 Plastics Product Design  (Formerly 26.518)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5180/",
+        "id": "004221",
+        "description": "This course reviews the theoretical principles and the engineering practice associated with the development of new plastic products. The course focuses on design practices for products that will be produced by conventional and advanced injection molding processes. Topics include design methodology, plastic materials selection, design for manufacturing, computer aided engineering, mechanical behavior of plastics, structural design of plastic parts, prototyping techniques, experimental stress analysis, and assembly techniques for plastic parts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: 26.211 Engineering Mechanics, 26.218 Introduction to Design or Graduate career students. (Pre-requisites are enforced only for undergraduate plastics engineering students).",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5230": {
+        "name": "PLAS.5230 Screw Design Principles (Last Term 2007 Spring)(Formerly 26.523)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5230/",
+        "id": "004226",
+        "description": "Energy balances, energy efficiency for extrusion and injection molding, application of energy equation (conduction, convection, viscous dissipation), equations of state, melt conveying in simple and compound screws, screw scale up, plastication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5240": {
+        "name": "PLAS.5240 Process Analysis Instrument and Control  (Formerly 26.524)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5240/",
+        "id": "004227",
+        "description": "Industrial instruments for measurement and control of plastics processes. Design of experiments. Analysis of plastics forming operations. Dynamic testing techniques. Automatic plastics process control. Data acquisition systems, SPC/SQC and Taguchi methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5250": {
+        "name": "PLAS.5250 Synthetic Fibers: Processing-Structure-Properties (Formerly 26.525)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5250/",
+        "id": "004228",
+        "description": "An introduction to processing-structure-properties of fibers and its significance to modern advanced materials. This course coves both traditional and emerging fiber spinning methods (ex. solution spinning, melt extrusion, gel-spinning, and electrospinning), post-processing techniques (ex. yarns, weaving), and the resulting multi-scale structures and properties. The unique physical and chemical properties of fibers and its application as past and emerging advanced materials will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5280": {
+        "name": "PLAS.5280 Plastics Information Data Bases  (Formerly 26.528)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5280/",
+        "id": "004230",
+        "description": "Review of procedures for literature searching, databases, etc.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5300": {
+        "name": "PLAS.5300 Selected Topics  (Formerly 26.530)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5300/",
+        "id": "004232",
+        "description": "Topics in various fields of Plastics Engineering. Content may vary from year to year so that students may, by repeated enrollment, acquire a broad knowledge of contemporary Plastics Engineering.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5320": {
+        "name": "PLAS.5320 Adhesives and Adhesion  (Formerly 26.532)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5320/",
+        "id": "004234",
+        "description": "Adhesive joining of engineering materials. Surface chemistry, theories of adhesion and cohesion, joint design, surface preparation, commercial adhesives, Rheology, equipment, testing, service life, and reliability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5330": {
+        "name": "PLAS.5330 Green Coatings Science and Technology I  (Formerly 26.533)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5330/",
+        "id": "004235",
+        "description": "This course reviews the basic principles of design and formulation of water-borne, high-solids and powder resins used for the development of  solvent-less \"green\" coatings and the use of bio-derived resins, mostly based on soybean oil and other renewable raw materials. The mechanisms and methods of curing and of polymerization for polymers used as coatings will also be covered. The basic principles of formulation of coatings will be introduced. Permission of instructor for Plastics Engineering Undergraduates seeking to take course as technical elective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5340": {
+        "name": "PLAS.5340 Coatings Science and Technology II  (Formerly 26.534)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5340/",
+        "id": "004236",
+        "description": "A continuation of 26.533. This graduate course reviews the basic principles of design and formulation of waterborne, high-solids, powder resins that meet current manufacturing regulations. Rheology of polymer and pigment dispersion, and their application to coatings, inks and adhesives will be included here..",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5350": {
+        "name": "PLAS.5350 Rubber Technology  (Formerly 26.535)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5350/",
+        "id": "004237",
+        "description": "Polymerization and compounding of the commercial elastomers. Properties and test methods.Leading applications and methods of processing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5360": {
+        "name": "PLAS.5360 Rheology of Polymers (Formerly 26.536)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5360/",
+        "id": "004238",
+        "description": "Rheology of polymer melts, solutions, latexes, and pigment dispersions, and their application to coatings and adhesives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5370": {
+        "name": "PLAS.5370 Business Law for Engineers  (Formerly 26.537)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5370/",
+        "id": "030847",
+        "description": "Business legal issues engineers encounter in practice, including contractual, products liability, and intellectual property issues.  Business torts relating to product design, manufacturing and inadequate warning defects.  Unreasonably dangerous products and strict liability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5400": {
+        "name": "PLAS.5400 Commercial Development of Plastics  (Formerly 26.540)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5400/",
+        "id": "004241",
+        "description": "The concepts of industrial marketing will be reviewed for research, pricing strategies, and product planning for market segmentation, place (distribution)-promotional activities. Topics will include creating a demand, selling, and servicing base resins and additives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5410": {
+        "name": "PLAS.5410 Computer Applications in Plastics  (Formerly 26.541)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5410/",
+        "id": "004242",
+        "description": "Problem solving in plastics engineering has been dramatically influenced by the computer and innovative software packages. This graduate course will focus on the application and development of  software packages for engineering analyses of plastics processes.  Specially, the course will cover the basic CAD programs, Pro/ENGINEER, SOLIDWORKS, followed by basic Pre-and-Post processor software, FEMAP, meshing program HYPERMESH, FEMLAB multiphysics, and MATHEMATICA.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5420": {
+        "name": "PLAS.5420 Colloidal Nanoscience and Nanoscale Engineering  (Formerly 10.542/26.542)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5420/",
+        "id": "001259",
+        "description": "This course will cover the fundamentals of nanoscale colloidal processes, intermolecular forces and electrostatic phenomena at interfaces, boundary tensions and films at interfaces, electrostatic and London forces in disperse systems, interactions and self-assembly of polymer colloids, nanoparticles, surfactants and biomolecules.  Applications include microfluidics; lab-on-a-chip; nano-biocolloids, vesicles, colloidosomes, polymersomes and polymer hydrogel microcapsules for drug delivery and nanostructured materials and devices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5440": {
+        "name": "PLAS.5440 Advanced Plastics Materials  (Formerly 26.544)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5440/",
+        "id": "004243",
+        "description": "This course reviews the historical developments of polymeric material systems, commodity, engineering, biodegradable, and high performance thermoplastics. Topics include their synthesis, structure, properties, and applications and there is also an overview of typical additives that are used to modify the properties of plastics. Knowledge of general and/or organic chemistry is recommended as a prerequisite for this course. .",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5450": {
+        "name": "PLAS.5450 Additives for Polymer Materials  (Formerly 26.545)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5450/",
+        "id": "004244",
+        "description": "Additives incorporated into polymers to modify processing and end-use properties: reinforcements, plasticizers, stabilizers, flame retardants, colorants, biostats, blowing agents, anti-stats, impact modifiers, and processing aids.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5470": {
+        "name": "PLAS.5470 Materials for Renewable Energy and Sustainability  (Formerly 26.547)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5470/",
+        "id": "004246",
+        "description": "This course reviews the selection and design of materials for use in energy generation and conservation applications.  Both traditional and renewable technologies for energy generation are reviewed, and the differences in materials needs for generation, storage and transmission highlighted.  Particular emphasis is placed on organic and polymeric materials technological challenges in solar, wind and hydro/geothermal energy and future transportation fuel production.  The concept of life cycle assessment is introduced for the optimization of systems from a materials science perspective.  The impacts of global economics, ethics and efficiency are also addressed.  The course approaches sustainability as an open-ended, complex engineering problem and introduces students to the broad range of career opportunities for materials engineers in renewable energy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1310 Calculus I or MATH 1380 Calculus for Life Sciences, or Permission of Instructor/Coordinator or Chair.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1310",
+                    "MATH.1380"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.5480": {
+        "name": "PLAS.5480 Analytical and Numerical Methods in Plastics Processing  (Formerly 26.548)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5480/",
+        "id": "004247",
+        "description": "This course covers the use of analytical and numerical methods related to engineering. Topics include ordinary differential equations, linear second order differential equations, matrices, vectors, linear systems of equations, partial differential equations.  Use of numerical methods to differential equations, linear algebra,  regression, interpolation, data analysis, and partial differential equations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5490": {
+        "name": "PLAS.5490 Product Design for Elastomers  (Formerly 26.549)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5490/",
+        "id": "004248",
+        "description": "This course covers the basics of thermoset and thermoplastic elastomer product design.  Topics include mechanical behavior, large deformation structural analysis, design for manufacturability, performance limitations, and end use applications for elastomers and assembly considerations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5500": {
+        "name": "PLAS.5500 Processing with Elastomers  (Formerly 26.550)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5500/",
+        "id": "004249",
+        "description": "This course covers the basics of elastomer processing. Topics include mixing, Rheology, extrusion, injection molding, compressing molding, and curing as it applies to elastomers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5510": {
+        "name": "PLAS.5510 Extrusion Die Design  (Formerly 26.551)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5510/",
+        "id": "004250",
+        "description": "This is a project-oriented course which utilizes current CAE programs to design extruder dies. This course will study the basic principles of extrusion die design and apply these principles in designing extrusion dies. A review of the extrusion process and the flow behavior of various polymers will be studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5520": {
+        "name": "PLAS.5520 Machine Design  (Formerly 26.552)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5520/",
+        "id": "004251",
+        "description": "Hydraulics, machine logic, drives, pumps, motors, heaters, barrel and screw combinations, mechanical design. Hydraulic and electrical control circuits development. A semester project is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5530": {
+        "name": "PLAS.5530 Medical Device Design I  (Formerly 26.553)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5530/",
+        "id": "004252",
+        "description": "A systematic approach to inventing new medical devices.  The class details the process of validating medical needs including market assessment and the evaluation of existing technologies; basics of regulatory (FDA) and reimbursement planning; brainstorming and early prototyping for concept creation.  Course format includes expert guest lecturers and interactive practical discussions with faculty.  Students will prepare a medical device proposal and presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5540": {
+        "name": "PLAS.5540 Medical Device Design II  (Formerly 26.554)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5540/",
+        "id": "004253",
+        "description": "This course focuses on how to take a medical device invention forward from early concept to technology translation and implementation planning.  Topics include technology research & development; patent strategies; techniques for analyzing intellectual property; advanced planning for reimbursement and FDA approval; choosing translation strategies (licensing vs. start-up); ethical issues including conflict of interest; fundraising approaches and cash requirements; essentials of writing a business or research plan; strategies for assembling a development team.  Students will prepare a final medical device proposal and presentation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "26.553 Medical Device Design I",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5550": {
+        "name": "PLAS.5550 Medical Device Processing",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5550/",
+        "id": "042003",
+        "description": "Critical analysis of current methods of medical device manufacturing, focusing on processing and performance considerations. Includes discussion of different production methods, material selection considerations, biocompatibility, leachables and extractables, device sterilization, and sterile packaging.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate level or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5630": {
+        "name": "PLAS.5630 Current Topics in Plastics Materials I  (Formerly 26.563)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5630/",
+        "id": "004262",
+        "description": "Individual research and presentation in the field of plastics materials.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5640": {
+        "name": "PLAS.5640 Current Topics in Plastics Materials II  (Formerly 26.564)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5640/",
+        "id": "004263",
+        "description": "Individual research and presentation in the field of plastics materials.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5650": {
+        "name": "PLAS.5650 Thermosets  (Formerly 26.565)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5650/",
+        "id": "031944",
+        "description": "Provides an in-depth review of the major families of engineering thermosetting resins: phenolics, aminos, polyesters, epoxies, silicones, and various polyurethanes systems.  Emphasis is on the basic chemistry, inherent physical properties and processability, and the effect of polymer modifiers (additives) on the functional properties of molding compounds.  Typical market sectors served and related processing/fabrication technologies used in reinforced plastics/composites are reviewed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5660": {
+        "name": "PLAS.5660 Polymer Materials Systems Solution  (Formerly 26.566)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5660/",
+        "id": "004264",
+        "description": "This course investigates the selection processes to be followed in screening material candidates, and specifying a material of record. Emphasis is placed on prioritizing performance requirements, contrasting potential candidates, reviewing processing demands, and post-fabrication schemes. The course will be based on actual case studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5680": {
+        "name": "PLAS.5680 Dynamic Mechanical Properties II  (Formerly 26.568)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5680/",
+        "id": "004266",
+        "description": "Practical review of theoretical concepts of rheological measurements with practical applications of experimental techniques. Emphasis will be on the viscoelastic properties of polymer solutions, melts, and solids with correlation with theoretical dynamic mechanical behavior.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5690": {
+        "name": "PLAS.5690 Current Topics in Plastics Design I  (Formerly 26.569)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5690/",
+        "id": "004267",
+        "description": "Individual research and presentation in the field of plastics design.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5700": {
+        "name": "PLAS.5700 Current Topics in Plastics Processing I  (Formerly 26.570)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5700/",
+        "id": "004268",
+        "description": "Individual research and presentation in the field of plastics processing.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5710": {
+        "name": "PLAS.5710 Plastics Processing Engineering Laboratory I  (Formerly 26.571)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5710/",
+        "id": "004269",
+        "description": "Laboratory study of the interaction between process variables and materials in extrusion, injection molding, blow molding, thermoforming, compounding and mixing.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5720": {
+        "name": "PLAS.5720 Advanced Plastics Processing Engineering Laboratory  (Formerly 26.572)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5720/",
+        "id": "004270",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: PLAS.0020 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.5730": {
+        "name": "PLAS.5730 Graduate Polymer Laboratory",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5730/",
+        "id": "041651",
+        "description": "This course provides in-coming graduate students hands-on experience with plastics processing and characterization techniques. Students formed parts of products using multiple extrusion processes, injection molding, blow molding, and thermoforming. These products then are characterized for their mechanical, thermal, and other characteristics using standard test methods. A heavy emphasis also is placed on reporting the results in a professional manner.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.0010",
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.5740": {
+        "name": "PLAS.5740 Advance Physical Properties Lab  (Formerly 26.574)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5740/",
+        "id": "004272",
+        "description": "Measurement of mechanical properties in tension, compression, shear, and flexure; dielectric constant and dissipation factor; thermal behavior under stress; melt rheology.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: PLAS 0010 or PLAS 0020 Plastics Safety Lecture.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "PLAS.0010",
+                    "PLAS.0020"
+                ]
+            ]
+        }
+    },
+    "PLAS.5750": {
+        "name": "PLAS.5750 Biomaterials in Medical Applications (Formerly 26.575)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5750/",
+        "id": "004273",
+        "description": "A comprehensive study of the history, current and future rents within biomedical devices and their applications.  Students will be introduced to research techniques used to analyze the different classes of biomaterials.  An overview of typical host reactions such as inflammatory response and their evaluation will be touched upon.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5760": {
+        "name": "PLAS.5760 Advanced Mold Design  (Formerly 26.576)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5760/",
+        "id": "004274",
+        "description": "This course provides an integrated approach to mold engineering which includes the interrelationships of polymeric materials, engineering principles, processing, and plastics product design. Major topics include cost estimation, mold layout and feed system design, cooling systems, structural design considerations, and ejector system design. Analytical treatment of the subject matter is given based on the relevant rheology, thermodynamics, heat transfer, fluid flow and strength of materials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5770": {
+        "name": "PLAS.5770 Plastics Process Engineering I  (Formerly 26.377/577)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5770/",
+        "id": "001256",
+        "description": "The first course in a two semester sequence to study the fundamental principles of polymer processing, i.e., the conversion of the polymeric materials into useful articles. The course will first study the properties of polymers (bulk and rheological and thermal properties) and why they are important to understanding polymer processing.  This course will emphasize the fundamental principles of the extrusion process and examine the correlation between elements of the extruder, polymer properties, and processing variables and why they all must be considered when studying and understandng a plastics processing technique.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PLAS 2010 Polymer Materials I or PLAS 2020 Polymer Materials II. Pre-Req or Co-Req: PLAS 3140 Fluid Flow.  PLAS.3140 is a Co-Req of PLAS.3770.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.2010",
+                    "PLAS.2020"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "PLAS.3140",
+                    "PLAS.3140",
+                    "PLAS.3770"
+                ]
+            ]
+        }
+    },
+    "PLAS.5780": {
+        "name": "PLAS.5780 Advanced Plastics Processing  (Formerly 26.578)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5780/",
+        "id": "004275",
+        "description": "This course reviews the common plastics manufacturing processes, including extrusion, injection molding, blow molding, thermoforming, and rotational molding. After the review, the course focus shifts to the impacts of screw design and processing parameters on the conveyance, melting, devolatilization, and mixing with single screws and compounding with twin screw extruders. This course also includes an overview of die designs, multi-shot and gas assist injection molding, film stretching and methods for heating and cooling in plastics processing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5790": {
+        "name": "PLAS.5790 Problems In Biomaterials/Directed Study  (Formerly 26.579)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5790/",
+        "id": "004276",
+        "description": "Selection of a current biomaterial problem of interest by the individual student, examination of pertinent literature to determine present knowledge in the area, formulation of an approach to resolve or clarify the issues involved, and (time permitting) work towards the solution of the selected problem.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5820": {
+        "name": "PLAS.5820 Current Topics in Plastics Design II  (Formerly 26.582)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5820/",
+        "id": "004279",
+        "description": "Individual research and presentation in the field of plastics product or tooling design.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5830": {
+        "name": "PLAS.5830 Advanced Research Methodology  (Formerly 26.583)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5830/",
+        "id": "004280",
+        "description": "A systematic evaluation of the techniques used in efficient research and development. Experimental data are analyzed and plotted using a mathematical approach. Creative thinking, problem solving, and student presentation of data are stressed. Extensive reading of research papers, analysis of such, and defense of the analysis required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5850": {
+        "name": "PLAS.5850 Computer Aided Engineering I  (Formerly 26.585)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5850/",
+        "id": "004282",
+        "description": "This course provides a fundamental approach to computer-aided engineering for plasticsprocessing. Emphasis is upon the theory and techniques of computer aided engineering asapplied to plastics processing problems, allowing students to understand the various assumptions and methods used to create the programs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5880": {
+        "name": "PLAS.5880 Injection Molding (Last Term 2008 Spring)(Formerly 26.588)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5880/",
+        "id": "030845",
+        "description": "Process thermodynamics, energy balances, power requirements.  Heat transfer, cooling equations for amorphous and crystalline materials. Equations of state, pvT applications, shrinkage and ejection forces. Isothermal cavity filling, non-isothermal effects. Coupled runner/gate/cavity flow, flow balancing. Shear heating, frozen layer development. Residual stress. Injection/compression flow. Reciprocation effects in screw plastication.  Review of specialized injection molding processes.  An individual research project, term paper and presentation are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5890": {
+        "name": "PLAS.5890 Polymer Nanocomposites  (Formerly 22.570/26.589)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5890/",
+        "id": "034581",
+        "description": "This course deals with the preparation, characterization, behavior and properties of polymer nanocomposites, with an emphasis on the most commercially relevant systems to date, as well as new developments in the field. The major preparation routes to these materials are discussed, with an emphasis on the importance not only of dispersion but of true thermodynamic compatibility in these systems.  From there, the focus shifts to describe the consequences of nanocomposite structure in terms of both molecular behavior and macroscopic properties, as informed by the most up-to-date research literature available.  Case studies of specific systems will serve as opportunities to gain deeper understanding, and the safety issues surrounding nanoparticle handling will also be presented.  Finally, current research by invited lecturers working in the field will be presented as time permits.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5900": {
+        "name": "PLAS.5900 Survey of Intellectual Property  (Formerly 26.590)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5900/",
+        "id": "004285",
+        "description": "A review of patents, trademarks, copyrights and their application for protection of technology in the plastics industry. Other topics to be considered will be employee rights/non-competition agreements, foreign protection, and technology licensing. (in the Plastics Industry)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5910": {
+        "name": "PLAS.5910 Industrial Thesis Development I  (Formerly 26.591)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5910/",
+        "id": "004286",
+        "description": "Enables graduate students to work part-time to compliment academic studies with practical industrial experience and acquire/enhance expertise in their research as well as thesis investigation.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5940": {
+        "name": "PLAS.5940 Additive Manufacturing Engineering Fundamentals",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5940/",
+        "id": "041165",
+        "description": "Critical analysis of current methods of additive manufacturing. Materials selection, processing-structure-property relationships, testing, relationship to transport phenomena and/or reaction kinetics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Graduate level or Instructor permission.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5950": {
+        "name": "PLAS.5950 Thermoplastic Elastomers  (Formerly 26.595)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5950/",
+        "id": "004290",
+        "description": "A comprehensive review of thermoplastic elastomer (TPE) technology. Physical and chemical nature of the various classes of TPE's will be considered with emphasis on mechanical and rheological properties relevant to engineering applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5960": {
+        "name": "PLAS.5960 Plastics, Elastomers and  Additives from Renewable Resources  (Formerly 26.596)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5960/",
+        "id": "033604",
+        "description": "This course will provide and introduction to plastics, elastomers and additives obtained from renewable resources.  Processes that involve conversion (chemically/enzmatically) of naturally occurring precursors (monomers) obtained from renewable resources to plastics and elastomers will be reviewed.  Brief discussion of processing, degradation and recycling of these materials will also be included.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PLAS 4060 or PLAS 5060 Polymer Struct, Prop and Appl.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.4060",
+                    "PLAS.5060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.5970": {
+        "name": "PLAS.5970 Plastics & Environment (Formerly 26.597)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5970/",
+        "id": "004291",
+        "description": "This course investigates the waste management solutions for different types of plastics. Both traditional and emerging recycling methods will be highlighted. Accumulation of plastic waste in the natural environment and the toxicology of plastics as well as their additives will be discussed, Further, analysis methods and instrumentation to characterize recycled plastics, and the differences in virgin polymers and recycled polymers will be introduced. Potential degradable, biodegradable or biobased alternatives will be reviewed along with the concepts of life cycle assessment and Green Chemistry for designing the most sustainable plastic materials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.5990": {
+        "name": "PLAS.5990 Rapid Prototyping",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/5990/",
+        "id": "004293",
+        "description": "Survey of the rapidly expanding technology field of rapid prototyping. Technologies to be considered include stereolithography, laminated object manufacturing, selective laser sintering, fused deposition modeling, and solid ground curing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6010": {
+        "name": "PLAS.6010 Graduate Industrial Coop Education I  (Formerly 26.601)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6010/",
+        "id": "004295",
+        "description": "Graduate students interested in developing a practical industrial experience component to complement their academic training may register for this course with advisor's approval.  This credit is not applicable to the mandated degree credit hours.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6060": {
+        "name": "PLAS.6060 Plastics Manufacturing Systems Engineering  (Formerly 26.606)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6060/",
+        "id": "035172",
+        "description": "The course provides guidance about plastics manufacturing as an integrated system with broadly applicable analysis in three areas: 1) machinery, 2) controls, and 3) operations. The machinery topics include heating/cooling, hydraulics/pneumatics, electric drives, and sensors. The controls topics include signal conditioning, data acquisition, machine controllers, and related control laws. The operations topics include process characterization, process optimization, quality control, and automation. The course is developed to support plastics processing engineers and others involved with plastics manufacturing who are performing process development, research, and machine design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6070": {
+        "name": "PLAS.6070 Supply Chain Management for Engineers  (Formerly 26.607)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6070/",
+        "id": "037379",
+        "description": "This course focuses on design, development, and planning supply chain networks while examining the product's life cycle with an emphasis of the manufacturing processes.  Throughout the course, global supply chain management, supply chain drivers, distribution networks, network design under uncertainty, supply-demand cycle, demand forecasting, inventory management, supply chain performance, end -of-life, cradle-grave and cradle-cradle products, along with supply chain decision-making topics will be covered.  These topics will be demonstrated with the implementation of examples, and case studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6100": {
+        "name": "PLAS.6100 Plastics Industry Development  (Formerly 26.610)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6100/",
+        "id": "035816",
+        "description": "The goals of this course are numerous.  In the large sense, the primary focus of this course will be to review many of the major technological developments and discoveries that have helped make the plastics industry what it is today.  Having a thorough understanding of how these developments were implemented commercially can help us implement modern day technologies in a more efficient and productive manner.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6110": {
+        "name": "PLAS.6110 Coloration of Engineering Thermoplastics",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6110/",
+        "id": "039971",
+        "description": "A comprehensive approach to all elements of Color Technology focused on needs for future plastics engineers. The course includes theory of color vision, instrumental color measurement and tolerancing, chemistry and processes of commercial dyes and pigments, their testing in polymers, failure modes and elements of industrial color matching. Special attention will be given to weatherability of color formulations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6180": {
+        "name": "PLAS.6180 Structural Product Design  (Formerly 26.618)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6180/",
+        "id": "037683",
+        "description": "Design of plastic and composite products to meet structural requirements including strength, stiffness, impact, fatigue, and creep while remaining low weight, low cost, and easy to manufacture.  The course will include an overview of structural properties of polymeric materials as well as application of finite element analysis to homework and project assignments.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PLAS.4180 Product & Process Design or PLAS 5180 Plastics Product Design and PLAS 4030 or PLAS.5030 Mechanical Behavior of Polymers.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.4180",
+                    "PLAS.5180"
+                ],
+                [
+                    "PLAS.4030",
+                    "PLAS.5030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.6420": {
+        "name": "PLAS.6420 Characterization of Polymers and Plastics  (Formerly 26.642)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6420/",
+        "id": "039120",
+        "description": "This course provides an in-depth review of the various means by which important properties of polymers and plastics are determined. Lectures will cover analysis of composition and structure (including deformulation techniques) as well as measurements of common physical, mechanical, thermal, barrier, fire and optical properties. Coverage will include both the fundamental basis for the techniques and their practical applications, strengths and weaknesses. Time and resources allowing, selected techniques will be demonstrated in the lab as well.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6500": {
+        "name": "PLAS.6500 Nanoscale Transport Phenomena for Manufacturing Nanodevices  (Formerly 26.650)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6500/",
+        "id": "004300",
+        "description": "An interdisciplinary course taught by faculty from the Chemical, Mechanical and Plastics Engineering Department, who have special knowledge in nanoscale fluid mechanics and heat transfer.The course on nanoscale transport phenomena constitutes a bridge between existing fluid and heat transfer courses in multiple disciplines and emerging nanoscale science and engineering concepts to reflect the forefront of nanomanufacturing. The course is designed to incorporate recent advances in manufacturing polymer based nanodevices. Key issues of the implementation and maintenance cost for fabrication will be addressed. Hands-on laboratory experiments will be performed to complement the lectures with the ultimate goal of designing and building a complete nanodevice at the end of the course. The course will prepare graduates for employment focused on designing and manufacturing nano/microfluidic systems, lab on ship devices, electronic devices, medical devices and other emerging technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6750": {
+        "name": "PLAS.6750 Biomaterials II  (Formerly 26.675)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6750/",
+        "id": "034943",
+        "description": "The degradation of biomaterials in the biological environment for applications such as sutures, orthopedic implants, dental implants, etc. will be reviewed.  Students will analyze issues unique to the field of implants, devices and biomaterials.  While reviewing new products and standards, the prospective and possibilities of biomaterials will be studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.6780": {
+        "name": "PLAS.6780 New Developments in Polymer Manufacturing",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6780/",
+        "id": "039564",
+        "description": "This course explores advanced concepts and new developments in polymer manufacturing. It is designed for students with prior courses and/or experience in polymer processing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PLAS.3780 Plastics Process Eng II, or PLAS.5780 Advanced Plastics Processing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.3780",
+                    "PLAS.5780"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.6820": {
+        "name": "PLAS.6820 Physical Polymer Science",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/6820/",
+        "id": "039565",
+        "description": "Comprehensive course covering physical polymer science and engineering. The role of molecular conformation and configuration in determining the physical behavior of polymers. The amorphous and crystalline states of polymers; polymer/polymer phase diagrams; glass-rubber transition and polymer viscoelastic behavior.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PLAS.4030 Mechanical Behavior Polymers, and PLAS.5060 Polymer structure and Props, and PLAS.5440 Adv. Plastics Materials, or PLAS.3820 Polymer Science II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PLAS.4030"
+                ],
+                [
+                    "PLAS.5060"
+                ],
+                [
+                    "PLAS.5440",
+                    "PLAS.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "PLAS.7410": {
+        "name": "PLAS.7410 Master's Thesis - Plastics Engineering  (Formerly 26.741)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7410/",
+        "id": "004333",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7430": {
+        "name": "PLAS.7430 Masters Thesis Plastics Engineering  (Formerly 26.743)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7430/",
+        "id": "004334",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7460": {
+        "name": "PLAS.7460 Master's Thesis - Plastics Engineering  (Formerly 26.746)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7460/",
+        "id": "004336",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7490": {
+        "name": "PLAS.7490 M S Grad Res Plastics  (Formerly 26.749)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7490/",
+        "id": "004337",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7510": {
+        "name": "PLAS.7510 Doctoral Thesis Research  (Formerly 26.751)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7510/",
+        "id": "004338",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7520": {
+        "name": "PLAS.7520 Doctoral Thesis Research  (Formerly 26.752)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7520/",
+        "id": "004339",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7530": {
+        "name": "PLAS.7530 Doctoral Dissertation/Plastics Engineering  (Formerly 26.753)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7530/",
+        "id": "004340",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7560": {
+        "name": "PLAS.7560 Doctoral Dissertation/Plastics Engineering  (Formerly 26.756)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7560/",
+        "id": "004342",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7590": {
+        "name": "PLAS.7590 Doctoral Dissertation/Plastics Engineering  (Formerly 26.759)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7590/",
+        "id": "004345",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7630": {
+        "name": "PLAS.7630 Continued Graduate Research  (Formerly 26.763)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7630/",
+        "id": "004346",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7660": {
+        "name": "PLAS.7660 Continued Graduate Research  (Formerly 26.766)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7660/",
+        "id": "004347",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7690": {
+        "name": "PLAS.7690 Continued Graduate Research  (Formerly 26.769)",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7690/",
+        "id": "004349",
+        "description": "Individual research projects in plastics.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "PLAS.7CPT": {
+        "name": "PLAS.7CPT Curricular Practical Training for Engineering Doctoral Candidates",
+        "url": "https://www.uml.edu/catalog/courses/PLAS/7CPT/",
+        "id": "041752",
+        "description": "Curricular Practical Training (CPT) is a training program for doctoral students in Engineering. Participation in CPT acknowledges that this an integral part of an established curriculum and directly related to the major area of study or thesis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

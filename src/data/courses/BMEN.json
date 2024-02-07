@@ -1,0 +1,1202 @@
+{
+    "total": 68,
+    "time": 46.87697911262512,
+    "BMEN.1020": {
+        "name": "BMEN.1020 Biomedical Engineering Seminar",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/1020/",
+        "id": "041291",
+        "description": "This course provides undergraduate students in Biomedical Engineering the opportunity to expand their knowledge of Biomedical Engineering career opportunities and develop required skills. Content includes the development of professional skills (career opportunities, resume writing, etc) and an exploration of current research areas through presentations by faculty (and/or off-campus subject matter experts) and through literature review.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.1070": {
+        "name": "BMEN.1070 Introduction to Biomedical Engineering (Formerly 25.107)",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/1070/",
+        "id": "040052",
+        "description": "This course aims to introduce students to the field of Biomedical Engineering and to help students gain he sills necessary to succeed in the undergraduate degree program. The course will introduce the specialties within BME, discuss career options, and give a sample of all major considerations that go into the development of a biomedical device including how to conduct a literature search, the engineering design process, prototyping, and federal regulation considerations.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "BME Majors Only or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.1200": {
+        "name": "BMEN.1200 BME Application Programming",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/1200/",
+        "id": "041292",
+        "description": "Introduces programming logic for engineers. Covers fundamentals of procedural programming with applications in Biomedical Engineering and embedded systems. Topics include variables, expressions and statements, console input/output, modularization and functions, arrays, pointers and strings algorithms, structures, and file input/output. Introduces working with Matlab. Laboratories include designing and programming engineering applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BME Majors Only or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.2100": {
+        "name": "BMEN.2100 Thermodynamics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/2100/",
+        "id": "041118",
+        "description": "The laws of thermodynamics describe the relationship of heat and other forms of energy. In this course, the following concepts are introduced: the definition of systems; the first and second laws of thermodynamics; the properties of pure substances and mixture; and phase behaviors. This course emphasizes the application of thermodynamics to biological and biomedical systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req:  MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.2200": {
+        "name": "BMEN.2200 Bioinstrumentation",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/2200/",
+        "id": "041293",
+        "description": "This course introduces fundamental of instrumentation for biological applications. In this course we will explore sources of signals, detection of these signals, signals to noise, and data processing. We will learn how to analyze circuits including energy storage elements, op-amps, and filters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, and PHYS.1440 Physics II, and Co-req: BMEN.2205L.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BMEN.2205L"
+                ]
+            ]
+        }
+    },
+    "BMEN.2205L": {
+        "name": "BMEN.2205L Bioinstrumentation Lab",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/2205L/",
+        "id": "041294",
+        "description": "This course is the laboratory section associate with Bioinstrumentation (BMEN.2200). The lab will learn how to build basic circuits to collect physiologically-relevant data and analyze the data using concepts from signal processing.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: BMEN.2200 Bioinstrumentation.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BMEN.2200"
+                ]
+            ]
+        }
+    },
+    "BMEN.3010": {
+        "name": "BMEN.3010 Biomedical Engineering I",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/3010/",
+        "id": "040904",
+        "description": "This course is the first of a two semester sequence that form a survey of different topic areas within biomedical engineering. The course will emphasize a multidisciplinary approach to current topics in the range of academic disciplines in biomedical engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.3015L": {
+        "name": "BMEN.3015L Biomedical Engineering Lab I",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/3015L/",
+        "id": "040905",
+        "description": "This course will be a Laboratory section associated with BMEN.3010 Biomedical Engineering I.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.3020": {
+        "name": "BMEN.3020 Biomedical Engineering II",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/3020/",
+        "id": "041119",
+        "description": "This course is the second of a two semester sequence that form a survey of different topic areas within biomedical engineering. The course will emphasize a multidisciplinary approach to current topics in the range of academic disciplines in biomedical engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Level Junior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.3025L": {
+        "name": "BMEN.3025L Biomedical Engineering Lab II",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/3025L/",
+        "id": "041120",
+        "description": "This course will be a laboratory section associated with BMEN.3020 Biomedical Engineering II.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: BMEN.3020 Biomedical Engineering II, and Junior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BMEN.3020"
+                ]
+            ]
+        }
+    },
+    "BMEN.3100": {
+        "name": "BMEN.3100 Transport Phenomena for Biomedical Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/3100/",
+        "id": "040887",
+        "description": "This course will provide an understanding and theories of transport in biological systems. It then builds on this knowledge base to show real world applications in the development and design of medical devices, artificial organs, drug delivery systems, and tissue engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre- or Co-req: MATH.2360 Engineering Differential Equations, or MATH.2340 Differential Equations, and Pre- or Co-req: BMEN.2100 Thermodynamics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.2360",
+                    "MATH.2340"
+                ],
+                [
+                    "BMEN.2100"
+                ]
+            ]
+        }
+    },
+    "BMEN.3200": {
+        "name": "BMEN.3200 Quantitative Physiology",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/3200/",
+        "id": "041295",
+        "description": "This course provides an introduction to human physiology using a quantitative, systems oriented approach. Systems examined include: musculoskeletal: cardiovascular; respiratory; renal; gastrointestinal; and endocrine. Mathematical models, MATLAB simulation and engineering analyses are used to describe system performance where applicable.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req BMEN.3205L Quantitative Physiology Lab & Pre-Req BMEN.1200 Applications Programming & Pre-Req BMEN.2200 Bioinstrumentation",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BMEN.3205L",
+                    "BMEN.1200",
+                    "BMEN.2200"
+                ]
+            ]
+        }
+    },
+    "BMEN.3205L": {
+        "name": "BMEN.3205L Quantitative Physiology Lab",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/3205L/",
+        "id": "041296",
+        "description": "Experiments involving the modeling and measurement of human physiology systems. Use of computer simulations to provide mathematical descriptions of physiological behavior. Calibration and validation of models through hands-on experiments. Focus on quantitative measurement of neural, cardiovascular, respiratory, muscular, and endocrine system functions.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-req: BMEN.3200 Quantitative Physiology, and Pre-req: BMEN.2205L Bioinstrumentation Lab.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BMEN.3200"
+                ],
+                [
+                    "BMEN.2205L"
+                ]
+            ]
+        }
+    },
+    "BMEN.4020": {
+        "name": "BMEN.4020 Biomaterials",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4020/",
+        "id": "040906",
+        "description": "This course will provide an introduction to materials used in biomedical applications. It will provide students with and understanding of the fundamental principles and language associated with current biomaterials research and to understand the issues associated with medical applications of these materials. The goal is to enable students in the course to read the biomaterials literature with critical understanding. The course will introduce principles of materials science and cell biology underlying the design of medical implants, artificial organs, and matrices for tissue engineering and covers surface chemistry and physics of selected biomaterials, surface characterization methodology, acute and chronic response to implanted biomaterials, and molecular and cellular interactions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.2210 Organic Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4030": {
+        "name": "BMEN.4030 Medical Device Design I",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4030/",
+        "id": "040907",
+        "description": "This course focuses on how to take a medical device invention forward from early concept to technology translation and implementation planning.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.4035": {
+        "name": "BMEN.4035 Medical Device Design II",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4035/",
+        "id": "041499",
+        "description": "This course builds on the work done in BMEN.4030, Medical Device Design I. The course focuses on moving one or more potential solutions to a medical need forward into technical development and preparing for commercialization. Students will learn the fundamentals of medical device prototyping; developing patent strategies; planning for reimbursement and regulatory approval; choosing a commercialization route (licensing, partnering, start - up); anticipating marketing, sales, and distribution needs; understanding financial modeling and cash requirement; fundraising; and identifying and managing risks.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.4030 Medical Device Design I, or BMEN.5030 Medical Device Development.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.4030",
+                    "BMEN.5030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4040": {
+        "name": "BMEN.4040 Fundamentals of Medical Device Regulation",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4040/",
+        "id": "041520",
+        "description": "A comprehensive and in-depth analysis of US medical device diagnostics development and approval requirements. Detailed analysis of quality assurance issues and regulatory reforms implemented under the Food and Drug Administration. Provides a step-by-step guide through the Center for Devices and Radiological Health (CDRH) investigation device exemptions, premarket approval, 510(k) application process and product development protocol and review process.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Level Junior Standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.4090": {
+        "name": "BMEN.4090 Biomedical Properties of Polymers",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4090/",
+        "id": "041498",
+        "description": "The biomedical properties and structures of polymers determine their utilization in various biomedical applications such as medical devices, implants, drug delivery, and medical packaging. These biomedical properties include mechanical properties, physical properties, chemical properties, optical properties, electrical properties, melt flow properties, failure and fracture properties, viscoelastic properties, and chemical composition.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.4020 Biomaterials.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.4020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4100": {
+        "name": "BMEN.4100 Biological Principles for Cellular and Tissue Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4100/",
+        "id": "041783",
+        "description": "The course will introduce principles of cell biology and design underlying cell and tissue engineering decision-making. Students will learn how mechanical and chemical aspects of the extracellular environment influence cell functions including viability, proliferation, differentiation, and protein expression, and how those aspects may be integrated and/or manipulated in vitro and in vivo using various material and chemical approaches. Additionally, students will be introduced to contemporary techniques used to assess engineered tissue response and integration via immunocyto-/histo-chemistry, secretomics, imaging, immunoassays, and sequencing modalities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BIOL.2100 Biology for Engineers, or BIOL.1110 Principles of Biology I, and CHEM.2210 Organic Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BIOL.2100",
+                    "BIOL.1110"
+                ],
+                [
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4110": {
+        "name": "BMEN.4110 Tissue Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4110/",
+        "id": "041162",
+        "description": "Tissue engineering utilizes engineering materials, cells, and other biochemical factors to develop and manipulate cells, tissues, or organs which can replace and/or support biological functions. In this course, we will explore the principles underlying tissue structure-function relationships; how to rationally alter, restore, or improve cellular environments; and clinical implementations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: BMEN.4100 Biological Principles for Cellular and Tissue Engineering, and BMEN04020 Biomaterials.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "BMEN.4100"
+                ]
+            ]
+        }
+    },
+    "BMEN.4115": {
+        "name": "BMEN.4115 Advanced Tissue Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4115/",
+        "id": "041497",
+        "description": "Tissue engineering research continues to attract the interest of researchers and the general public. Popular media outlets like the New York Times, Time, and Wired continue to engage a wide audience and foster excitement for the field as regenerative medicine inches toward becoming a clinical reality. This course will cover enabling technologies, and current applications of the tissue engineering field. The enabling technologies section will focus upon those strategies typically incorporated into tissue-engineered deices or utilized in their development, including advanced scaffolding techniques, bioreactors, and micro physiological systems. Finally, the applications section presents engineered tissues and organs that are currently under development for regenerative medicine applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.4110 Tissue Engineering, or BMEN.5110 Tissue Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.4110",
+                    "BMEN.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4130": {
+        "name": "BMEN.4130 Neural Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4130/",
+        "id": "041957",
+        "description": "Neural Engineering represents the intersection between neuroscience and the technologies designed to measure and modulate the nervous system. This course will review the fundamental principles of cellular and systems neuroscience in the peripheral and central nervous systems, followed by surveys of cutting edge optical/electrical neural interfaces, in vivo/vitro synthetic model systems, prostheses, as well as ethical considerations in neuroscience/neural engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.2200 Bioinstrumentation, and BMEN.3200 Quantitative Physiology, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.2200"
+                ],
+                [
+                    "BMEN.3200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4300": {
+        "name": "BMEN.4300 Occupational Ergonomics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4300/",
+        "id": "041496",
+        "description": "Occupational ergonomics provides us with a scientific basis for designing the work environment to optimize the physical and mental interaction of workers with their work systems: machines, tools, co-workers, work methods, etc. This is a survey of the field, so we will cover a wide variety of topics: relevant principles of anatomy, physiology, and musculoskeletal function; design of the physical and psychosocial work environment to enhance worker health and safety, work scheduling to reduce fatigue, and mental workload (e.g., display of information) to reduce worker error. Wherever relevant we will incorporate basic approaches to hazard assessment, exposure limits or guidelines, and approaches to workplace design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.4310": {
+        "name": "BMEN.4310 Biomechanics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4310/",
+        "id": "041298",
+        "description": "The course provides an overview of musculoskeletal anatomy, the mechanical properties and structural behavior of biological tissues, and biodynamics. Specific course topics will include structure and function relationships in tissues and organs; application of stress and strain analysis to biological tissues; analysis of forces in human function and movement; energy and power in human activity; introduction to modeling viscoelasticity of tissues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.1410 Physics I, and BMEN.1200 BME Applications Programming.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1410"
+                ],
+                [
+                    "BMEN.1200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4315": {
+        "name": "BMEN.4315 Biomechanics II",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4315/",
+        "id": "041875",
+        "description": "This course prepares students with the mathematical preliminaries and theoretical framework to analyze the mechanics of biological materials and human movement. The course will focus on methods to model biological tissues as non-linear, elastic, homogeneous, anisotropic, incompressible materials, and analyze human movement, including the impulse-momentum and work-energy principles, as well as gait analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.4310 Biomechanics, and MATH.2340 Differential Equations, or MATH.2360 Eng Differential Equations, or MATH.2440 Honors Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.4310"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360",
+                    "MATH.2440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4320": {
+        "name": "BMEN.4320 Biofluid Mechanics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4320/",
+        "id": "041784",
+        "description": "This course will introduce fundamental principles and mathematical/physical models for air and blood flow in the physiological systems. Their practical applications will be discussed, with an emphasis on modeling and the potential of flow studies for clinical research applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.3100 Transport Phenomena for Biomedical Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4350": {
+        "name": "BMEN.4350 Respiratory Dynamics and Devices",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4350/",
+        "id": "041495",
+        "description": "An aerosol is an assembly of particles suspended in a gaseous medium. They are omnipresent in our workplaces and outdoor environments. They include a wide range of phenomena such as dust, fume, smoke, mist, fog, haze, clouds, and smog. Certain aerosols pose significant health threats, while others improve the quality of our lives. It is necessary to understand how airborne particles behave to control against their undesirable effects and to harness their beneficial potential. This course will explore the mechanics of aerosol behavior, including their generation, transformation, and fate in occupational and environmental settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.1440 Physics II, and MATH.2310 Calculus III, and Junior Standing or Above.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440"
+                ],
+                [
+                    "MATH.2310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4380": {
+        "name": "BMEN.4380 Computational Biomechanics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4380/",
+        "id": "041785",
+        "description": "Computational biomechanics is a powerful engineering method to model fluid-structure interaction in biological systems. While its traditional roots are in the realm of engineering, the techniques have found wide use in the biomedical engineering domain to simulate the biomechanical response and hemodynamics of the human body and medical devices. This course will prepare students with hands-on and practical skills using computational packages and software to solve biomechanical problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.1200 BME App. Programming, and BMEN.3100 Transport Phenomena, and BMEN.4310 Biomechanics I, and MATH.2340 Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.1200"
+                ],
+                [
+                    "BMEN.3100"
+                ],
+                [
+                    "BMEN.4310"
+                ],
+                [
+                    "MATH.2340"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4390": {
+        "name": "BMEN.4390 Computer Aided Engineering Design & Analysis",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4390/",
+        "id": "041494",
+        "description": "This course introduces the student to the use of CAD for construction of basic shapes and multi-view drawings. It is a project-oriented course introducing the student tot graphic design using SolidWorks. Design, analysis and visualization of engineering components and systems using interactive computer programs with an emphasis on computer simulation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior or Senior standing.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.4410": {
+        "name": "BMEN.4410 Biomedical Optics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4410/",
+        "id": "041956",
+        "description": "This course will introduce fundamental principles of the interactions between light and biological tissue, including their applications in biology and medicine for detection, imaging, and treatment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.3100 Transport Phenomena, and BMEN.1200 BME Applications Programming, and MATH.2340 Differential Equations, and PHYS.1440 Physics II, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.3100"
+                ],
+                [
+                    "BMEN.1200"
+                ],
+                [
+                    "MATH.2340"
+                ],
+                [
+                    "PHYS.1440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4610": {
+        "name": "BMEN.4610 Drug Delivery",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4610/",
+        "id": "041161",
+        "description": "This class describes the engineering of pharmaceutical delivery systems emphasizing design and application of materials and novel techniques to overcome challenges or barriers to effective drug delivery. Topics will include drug delivery fundamentals and transport mechanisms, drug formulation for delivery, and applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.3100 Transport Phenomena for Biomedical Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4810": {
+        "name": "BMEN.4810 Data Analytics & Biostatistics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4810/",
+        "id": "041521",
+        "description": "Data analysis is a major skill that is required to solve problems as well as to design and develop biotechnology solutions and medical devices. A bioengineer must not only apply the long standard general statistical methods in order to analyze data but also master some of the unique aspects involved in the analysis of biomedical datasets. This course will require the student to become proficient in MATLAB and the Statistics and Machine Learning Toolbox in order to achieve course learning objectives. The student will also be required to demonstrate their bioanalytical proficiency through the implementation of an individual project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.2830 Introduction to Statistics, or MATH.3860 Probability and Statistics, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2830",
+                    "MATH.3860"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4850": {
+        "name": "BMEN.4850 Applied Project Management and Mentorship in BME",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4850/",
+        "id": "041617",
+        "description": "This course will cover successful strategies in project management and mentorship. Students in the course will serve as project managers (PM) and mentors to the students enrolled in BMEN.1070: Introduction to Biomedical Engineering. PMs will facilitate one to two groups in the completion of their semester long project in BMEM.1070. They will set deadlines, assess work, manage the project, and participate in weekly professional development meetings. We will discuss how to run successful meetings, to set achievable goals, and to optimize time and budget constraints in order to ensure successful completion of a BME related project. We will also explore career options as a project manager, learn about their job responsibilities, and learn essential tools commonly used by PMs in industry.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.4910": {
+        "name": "BMEN.4910 Biomedical Capstone I",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4910/",
+        "id": "041243",
+        "description": "This is the first of a two course capstone sequence. It provides an integrative design experience in engineering. Students work in teams and apply their engineering problem solving skills on open-ended, real-world biomedical projects. This course has an emphasis on team work, communication, report writing, oral presentations, project definition and project planning.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.3200 Quantitative Physiology, and BMEN.3205L Quantitative Physiology Lab, and Pre- or Co-req: BMEN.3100 Transport Phenomena, and BMEN.4310 Biomechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.3200"
+                ],
+                [
+                    "BMEN.3205L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "BMEN.3100"
+                ],
+                [
+                    "BMEN.4310"
+                ]
+            ]
+        }
+    },
+    "BMEN.4920": {
+        "name": "BMEN.4920 Biomedical Capstone II",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4920/",
+        "id": "041244",
+        "description": "This is the second of a two course capstone sequence. This course provides an integrative design experience in engineering. Students work in teams and apply their engineering problem solving skills on open-ended, real-world biomedical projects. This course has an emphasis on team work, communication, report writing, oral presentations, design, analysis, test and fabrication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.4910 Biomedical Capstone I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.4910"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4950": {
+        "name": "BMEN.4950 BME Selected Topics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4950/",
+        "id": "041297",
+        "description": "This course will provide an in-depth examination of a specific area of biomedical engineering. Specific topics will vary with the expertise of the instructor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Junior Standing, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.4980": {
+        "name": "BMEN.4980 BME Research Experience I",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4980/",
+        "id": "041856",
+        "description": "BME Research Experience I will provide biomedical engineering students with a mentored experience with a hands-on research project. Appropriate research experiences are those within biomedical engineering that allow the student opportunities to increase their skills, knowledge, and experiences in their academic/career goal areas. Student will work approximately 3 hours a week per credit on the designated research project. Regular meetings with the research mentor will also occur. Students are required to submit a significant status update or final project report to their mentor.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.4981": {
+        "name": "BMEN.4981 BME Research Experience II",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4981/",
+        "id": "041854",
+        "description": "BME Research Experience II will provide biomedical engineering students with a mentored experience in a hands-on research project. The project is expected to be a continuation of the work begun in BME Research Experience I. Appropriate research experiences are those within biomedical engineering that allow the student opportunities to increase their skills, knowledge, and experiences in their academic/career goal areas. Student will work approximately 3 hours a week per credit on the designated research project. Regular meetings with the research mentor will also occur. Students are required to give a departmental seminar on their research project.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.4980 BME Research Experience I, and Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.4980"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.4991": {
+        "name": "BMEN.4991 Directed Study: BME",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/4991/",
+        "id": "041209",
+        "description": "This course provides Biomedical Engineering students with the opportunity to pursue the study of a technical topic or project, individually under the supervision of a faculty member and, if desired, a responsible project engineering from industry. The course is to result in a term paper or technical report.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5020": {
+        "name": "BMEN.5020 Fundamentals of Biomaterials",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5020/",
+        "id": "041529",
+        "description": "This course will provide an introduction to materials used in biomedical applications. It will provide students with an understanding of the fundamental principles and language associated with current biomaterials research and to understand the issues associated with medical applications of these materials. The goal is to enable students in the course to read the biomaterials literature with critical understanding. The course will introduce principles of materials science and cell biology underlying the design of medical implants, artificial organs, and matrices for tissue engineering and covers surface chemistry and physics of selected biomaterials, surface characterization methodology, acute and chronic response to implanted biomaterials, and molecular and cellular interactions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.2210 Organic Chemistry I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.5030": {
+        "name": "BMEN.5030 Medical Device Development",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5030/",
+        "id": "041193",
+        "description": "This course focuses of conceptualizing and developing medical devices, including research, clinical needs, engineering, and intellectual property. Students will explore and navigate the principles underlying the successes and challenges of medical device development through project-based learning. In collaboration with faculty from the University of Massachusetts Medical School, students will learn a vast rang of biomedical engineering approaches ranging from non-invasive, invasive, implantable devices for mechanical, chemical, optical, and electrical interfacing for diagnostics and treatment. As required, projects will focus on device design, actuation, instrumentation, control, software to address unmet clinical needs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5035": {
+        "name": "BMEN.5035 Advanced Medical Device Development",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5035/",
+        "id": "041949",
+        "description": "This course focuses on the events that occur after the \"solution concept freeze\" in the medical device development process, including device designs, clinical evaluation, quality systems, manufacturing processes, regulatory and legal compliance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5040": {
+        "name": "BMEN.5040 Medical Device Development Regulation",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5040/",
+        "id": "041757",
+        "description": "A comprehensive and in-depth analysis of US medical device diagnostics development and approval requirements. Detailed analysis of quality assurance issues and regulatory reforms implemented under the Food and Drug Administration. Provides a step-by-step guide though the Center for Devices and Radiological Health (CDRH) investigation device exemptions, premarket approval, 510(k) application process and product development protocol and review process.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5110": {
+        "name": "BMEN.5110 Tissue Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5110/",
+        "id": "041531",
+        "description": "Tissue engineering utilizes engineering materials, cells, and other biochemical factors to develop and manipulate cells, tissues, or organs which can replace and/or support biological functions. In this course, we will explore the principles underlying tissue structure-function relationships; how to rationally alter, restore, or improve cellular environments; and clinical implementations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5115": {
+        "name": "BMEN.5115 Advanced Tissue Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5115/",
+        "id": "041530",
+        "description": "Tissue engineering research continues to attract the interest of researchers and the general public. Popular media outlets like the New York Times, Time, and Wired continue to engage a wide audience and foster excitement for the field as regenerative medicine inches toward becoming a clinical reality. This course will cover enabling technologies, and current applications of the tissue engineering field. The enabling technologies section will focus upon those strategies typically incorporated into tissue-engineered devices or utilized in their development, including advanced scaffolding techniques, bioreactors, and micro physiological systems. Finally, the applications section presents engineered tissues and organs that are currently under development for generative medicine applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "BMEN.5110 Tissue Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "BMEN.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.5130": {
+        "name": "BMEN.5130 Neural Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5130/",
+        "id": "041950",
+        "description": "Neural Engineering represents the intersection between neuroscience and the technologies designed to measure and modulate the nervous system. This course will review the fundamental principles of cellular and systems neuroscience in the peripheral and central nervous systems, followed by surveys of cutting edge optical/electrical neural interfaces, in vivo/vitro synthetic model systems, prostheses, as well as ethical considerations in neuroscience/neural engineering.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5200": {
+        "name": "BMEN.5200 Bioinstrumentation",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5200/",
+        "id": "042043",
+        "description": "This course builds upon students' undergraduate knowledge/experience in circuit analysis and biological signal quantification/processing. Using analog and digital filtering/processing techniques, students will analyze real data sets related to cell/tissue imaging, biomedical imaging, force transduction, and electrophysiological recordings (EMG, EKG, and MEA). As a final project, students will be required to design and propose a set of experiments using bioinstrumentation techniques covered in class, with an emphasis on failure modes and effects analysis (hardware) as well as signal processing and proposed statistical analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "PHYS.1440 Physics II, or PHYS.1640 Honors Physics II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1440",
+                    "PHYS.1640"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "BMEN.5210": {
+        "name": "BMEN.5210 Quantitative Physiology",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5210/",
+        "id": "042142",
+        "description": "Quantitative Physiology will provide learning opportunities for graduate students to understand and develop competencies in a quantitative, research oriented, systems approach to physiology. Systems examined may include cellular; musculoskeletal; cardiovascular; respiratory; endocrine; gastrointestinal; and renal. Where applicable, mathematical models and engineering analyses will be used to describe system performance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5300": {
+        "name": "BMEN.5300 Ergonomics and Work (Formerly BMBT.5300)",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5300/",
+        "id": "040863",
+        "description": "An overview of the scientific basis for design of the workplace to optimize physical and mental interaction of workers with machines, tools, and work methods. Topics include work measurement, anthropometry, biomechanics, work physiology, cumulative trauma disorder and information presentation and processing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5305": {
+        "name": "BMEN.5305 Biomechanics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5305/",
+        "id": "041983",
+        "description": "The course provides an overview of musculoskeletal anatomy, the mechanical properties and structural behavior of biological tissues, and biodynamics. Specific course topics will include structure and function relationships in tissues and organs; application of stress and strain analysis to biological tissues; analysis of forces in human function and movement; energy and power in human activity; introduction to modeling viscoelasticity of tissues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5310": {
+        "name": "BMEN.5310 Occupational Biomechanics (Formerly BMBT.5310)",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5310/",
+        "id": "040767",
+        "description": "The anatomical and physiological basis of human motor capabilities. Quantitative models are developed to explain muscle strength performance, motion control, physical fatigue, and acute and chronic musculoskeletal trauma, particularly static link models of lifting and other manual activities. Application to the evaluation and design of various tasks and occupations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5315": {
+        "name": "BMEN.5315 Biomechanics II",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5315/",
+        "id": "041984",
+        "description": "This course prepares students with the mathematical preliminaries and theoretical framework to analyze the mechanics of biological materials and human movement. The course will focus on methods to model biological tissues as non-linear, elastic, homogeneous, anisotropic, incompressible materials, and analyze human movement, including the impulse-momentum and work-energy principles, as well as gait analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5320": {
+        "name": "BMEN.5320 Occupational Biomechanics Laboratory (Formerly BMBT.5320)",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5320/",
+        "id": "040768",
+        "description": "A laboratory presentation of the biomechanical basis for understanding and predicting human motor capabilities using bioinstrumentation. Computerized data acquisition, electromyography and load cells for strength measurement are examples of the equipment used in this lab. Particular emphasis is placed on the evaluation of occupational activities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5325": {
+        "name": "BMEN.5325 Biofluid Mechanics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5325/",
+        "id": "041826",
+        "description": "This course will introduce fundamental principles and mathematical/physical models for air and blood flow in the physiological systems. Their practical applications will be discussed, with an emphasis on modeling and the potential of flow studies for clinical research applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5350": {
+        "name": "BMEN.5350 Respiratory Dynamics and Devices",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5350/",
+        "id": "041696",
+        "description": "An aerosol is an assembly of particles suspended in a gaseous medium. They are omnipresent in our workplaces and outdoor environments. They include a wide range of phenomena such as dust, fume, smoke, mist, fog, haze, clouds and smog. Certain aerosols pose significant health threats, while others improve the quality of our lives. It is necessary to understand how airborne particles behave to control against their undesirable effects and to harness their beneficial potential.This course will explore the mechanics of aerosol behavior, including their generation, transformation, and fate occupational and environmental settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5380": {
+        "name": "BMEN.5380 Computational Biomechanics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5380/",
+        "id": "041827",
+        "description": "Computational biomechanics is a powerful engineering method to model fluid-structure interaction in biological systems. While its traditional roots are in the realm of engineering, the techniques have found wide use in the biomedical engineering domain to simulate the biomechanical response and hemodynamics of the human body and medical devices. This course will prepare students with hands-on and practical skills using computational packages and software to solve biomechanical problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5390": {
+        "name": "BMEN.5390 Computer Aided Design for Biomedical Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5390/",
+        "id": "041532",
+        "description": "This course introduces the student to the use of CAD for construction of basic shapes and multi-vie drawings. It is a project-oriented course introducing the student to graphic design using SolidWorks. Design, analysis and visualization of engineering components and systems using interactive computer programs with an emphasis on computer simulation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5400": {
+        "name": "BMEN.5400 Occupational Safety Engineering (Formerly BMBT.5400)",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5400/",
+        "id": "040862",
+        "description": "The purpose of this course is to introduce students to the principles of safety hazards in the work environment. This course is primarily designed to emphasized the safety aspects to the hazards at work. It begins with the historical development of occupational safety and health and progressively examines the fundamentals of recognition, measurement, evaluation, and control of occupational safety hazards.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5410": {
+        "name": "BMEN.5410 Biomedical Optics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5410/",
+        "id": "041951",
+        "description": "This course will introduce fundamental principles of the interactions between light and biological tissue, including their applications in biology and medicine for detection, imaging, and treatment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5610": {
+        "name": "BMEN.5610 Drug Delivery",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5610/",
+        "id": "041528",
+        "description": "This class describes the engineering of pharmaceutical delivery systems emphasizing design and application of materials and novel techniques to overcome challenges or barrier to effective drug delivery. Topics will include drug delivery fundamentals and transport mechanisms, drug formation for delivery, and applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5810": {
+        "name": "BMEN.5810 Data Analytics & Biostatistics for BME",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5810/",
+        "id": "041533",
+        "description": "Data analysis is a major skill that is required to solve problems as well as to design and develop biotechnology solutions and medical devices. A bioengineer must not only apply the long standard general statistical methods in order to analyze data but also master some of the unique aspects involved in the analysis of biomedical datasets. This course will require the student to become proficient in MATLAB and the Statistics and Machine Learning Toolbox in order to achieve course learning objectives. The student will also be required to demonstrate their bioanalytical proficiency through the implementation of an individual project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.5900": {
+        "name": "BMEN.5900 Graduate Seminar in Biomedical Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/5900/",
+        "id": "042143",
+        "description": "The Graduate Seminar in Biomedical Engineering includes speaker presentations by invited external and internal faculty, as well as student presentations. The objectives of the course are to improve oral communication and visual presentation skills as well as growing exposure to cutting-edge research in the different biomedical tracks. Required for all graduate students.",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.6090": {
+        "name": "BMEN.6090 Research Methods in Medical Device Design",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/6090/",
+        "id": "042059",
+        "description": "Research Methods will provide biomedical engineering graduate students with a mentored experience to learn and master a hands-on research methodology. Appropriate research methodologies are those within Medical Device Design that provide the student with critical hands-on skillsets to further support their graduate studies. Student will work approximately 3 hours a week per credit on a designated research project. Regular meetings with the research mentor will also occur. Students are required to submit final project report and final presentation to their mentor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.6190": {
+        "name": "BMEN.6190 Research Methods in Cellular & Tissue Engineering",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/6190/",
+        "id": "042060",
+        "description": "Research Methods will provide biomedical engineering graduate students with a mentored experience to learn and master a hands-on research methodology. Appropriate research methodologies are those within Cellular and Tissue Engineering that provide the student with critical hands-on skillsets to further support their graduate studies. Student will work approximately 3 hours a week per credit on a designated research project. Regular meetings with the research mentor will also occur. Students are required to submit final project report and final presentation to their mentor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.6320": {
+        "name": "BMEN.6320 Advanced Biomechanics (Formerly BMBT.6320)",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/6320/",
+        "id": "040769",
+        "description": "A course in advanced biomechanical modeling methods, covering three dimensional static models, optimization methods and dynamic models. Special emphasis will be placed on biomechanical models of the hand. Time will also be dedicated to reviewing current developments in the scientific literature.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.6380": {
+        "name": "BMEN.6380 Methods of Work Analysis (Formerly BMBT.6380)",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/6380/",
+        "id": "040861",
+        "description": "Criteria for selection of an approach to ergonomic job analysis depend on the combination of exposures (Micro- and Macro-level ergonomic stressors) observed to be present as well as the analytical goal. Many ergonomic analysis techniques are based on traditional industrial engineering approaches (time-motion study and work sampling), applied to the identification and evaluation of potential risks to workers' health. A variety of methods, both observational and instrumentational, will be discussed; laboratory sessions will permit hands-on application of several of these for critical evaluation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.6390": {
+        "name": "BMEN.6390 Research Models in Biomechanics",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/6390/",
+        "id": "042061",
+        "description": "Research Models will provide biomedical engineering graduate students with a mentored experience to learn and master modeling framework in biomechanics. Appropriate research models will provide the student with critical hands-on skillsets to further support their graduate studies. Student will work approximately 3 hours a week per credit on a designated research project. Regular meetings with the research mentor will also occur. Students are required to submit final project report and final presentation to their mentor.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "BMEN.7590": {
+        "name": "BMEN.7590 Doctoral Dissertation Research",
+        "url": "https://www.uml.edu/catalog/courses/BMEN/7590/",
+        "id": "042079",
+        "description": "Doctoral Dissertation Research Credits.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

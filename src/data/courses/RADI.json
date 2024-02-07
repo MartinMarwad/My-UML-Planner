@@ -1,0 +1,892 @@
+{
+    "total": 53,
+    "time": 37.72752070426941,
+    "RADI.1010": {
+        "name": "RADI.1010 Radiation and Life (Formerly 99.101)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/1010/",
+        "id": "008906",
+        "description": "This course will provide students with an understanding of the nature, sources, uses, and biological effects of natural and man-made radiations. Radiations discussed include non-ionizing radiations such as ultraviolet and microwave as well as the ionizing radiations produced by radon in homes and radio nuclides released from nuclear power plants. Students will have a better understanding of the risks and benefits of radiation in the modern world. Satisfies Gen Ed science requirements for non-science majors.  Does not satisfy science requirements for Science majors but may be used as a free elective by Science majors.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.1020L": {
+        "name": "RADI.1020L Radiation and Life Laboratory (Formerly 99.102)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/1020L/",
+        "id": "008907",
+        "description": "This laboratory course which is suitable for non-science majors will provide the student with an opportunity for some hands-on experience with modern equipment used to identify and quantify levels of radioactivity in the environment. Students will measure radiation from a variety of sources and will determine concentrations of radionuclides in several environmental samples including making measurements of the radon levels in the air of their own homes. Students will also study the effects of ionizing radiation on the germination and growth rate of exposed seeds. Satisfies Gen Ed science requirements for non-science majors.  Does not satisfy science requirements for Science majors but may be used as a free elective by Science majors.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: 99.101 Radiation and Life.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.1330": {
+        "name": "RADI.1330 Technical Physics III (Formerly 99.133)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/1330/",
+        "id": "008911",
+        "description": "Presents material in both the class and laboratory format. Reflection, refraction, mirrors, lenses, wave optics, optical instruments, Coulomb's law, magnetic force, quantum physics, atomic physics and nuclear physics will each be addressed. One session per week. Two additional Friday night classes are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.1320  Technical Physics II with a 'C-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.4810": {
+        "name": "RADI.4810 Mathematical Methods of Radiological Sciences (Formerly 98.481/581)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/4810/",
+        "id": "001207",
+        "description": "This course provides an overview of applied mathematical concepts that are useful in radiological sciences and protection, including special techniques for radiation physics, radiation dosimetry, and radiation shielding, with emphasis on computer applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1320 Calculus II with a C- better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5010L": {
+        "name": "RADI.5010L Radiation Safety and Control I (Formerly 98.501)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5010L/",
+        "id": "001209",
+        "description": "This course provides a theoretical basis for radiological sciences and protection, with a rigorous review of the fundamentals of radiation physics including nuclear reactions, radioactivity and the kinetics of radioactive decay, natural and man-made radiation sources, the characteristics of ionizing radiation, radioactivity analysis, radiation dose quantities and measurement, external and internal radiation dosimetry, and radiation protection techniques.",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Reqs: PHYS 2100 Introductory Modern Physics,  MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations with a 'C-' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5020L": {
+        "name": "RADI.5020L Radiation Safety and Control II (Formerly 95.420/98.502)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5020L/",
+        "id": "008802",
+        "description": "This course provides a continuation of the theoretical and practical aspects of radiation protection provided in Radiation Safety and Control I (98.501). Topics include the statistical analyses and data reduction techniques that are used to analyze radiation measurements pertaining to the field of radiation protection. Laboratory sessions on alpha and gamma radiation measurements and air sampling will reinforce class lectures. Students also will experience applied radiation protection and dose assessment through a contamination control exercise that involves the use of protective clothing and respiratory protection.",
+        "credits": {
+            "min": "3",
+            "max": "4"
+        },
+        "requirements-text": "Pre-Reqs: PHYS 4010 or RADI.5010L Radiation Safety & Control I, and MATH.3860 Probability and Statistics I or MATH 3850 Applied Statistics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.4010",
+                    "RADI.5010L"
+                ],
+                [
+                    "MATH.3860"
+                ],
+                [
+                    "MATH.3850"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5060": {
+        "name": "RADI.5060 Nuclear Instrumentation (Formerly 98.506)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5060/",
+        "id": "008806",
+        "description": "This course provides the operating principles and applications of nuclear radiation detection systems, including detector theory, electronic signal processing, and measurement and data reduction techniques. The systems covered include gas-filled detectors (ion chambers, proportional counters, and Geiger-Mueller counters), inorganic and organic scintillators, and high-purity germanium detectors, for the detection of alpha, beta, gamma, and neutron radiation. This course also covers hypothesis testing, detection limits, and detector dead time.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 2100 Intro Modern Physics and PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ],
+                [
+                    "PHYS.2610L",
+                    "PHYS.2450L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5090": {
+        "name": "RADI.5090 Nuclear Instrumentation (Formerly 96.409)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5090/",
+        "id": "037351",
+        "description": "This course provides the operating principles and applications of nuclear radiation detection systems, including detector theory, electronic signal processing, and measurement and data reduction techniques.  The systems covered include gas-filled detectors (ion chambers, proportional counters, and Geiger_Mueller counters), inorganic and organic scintillators, and high-purity germanium detectors, for the detection of alpha, beta, gamma, and neutron radiation.  This course also covers hypothesis testing, detection limits,and detector dead time,  This course is adapted for Nuclear Engineering and Medical Physics majors.  (offered as 98.509 for graduate credit).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS 2100 Intro Modern Physics and PHYS 2610L The Physics of Materials & Dev or PHYS 2450L Physics III Lab",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ],
+                [
+                    "PHYS.2610L",
+                    "PHYS.2450L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5240": {
+        "name": "RADI.5240 Environmental Health Physics (Formerly 98.524 & 94.424)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5240/",
+        "id": "037592",
+        "description": "Natural and man-made sources of environmental radioactivity and radiation; environmental transport in air, water, and soil; exposure pathways; environmental standards and regulations; environmental monitoring and surveys (MARSSIM); contaminated site characterization, and site remediation; environmental radiological impact of industry, accidents, and natural and man-made disasters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.5330": {
+        "name": "RADI.5330 External Dosimetry and Shieldng (Formerly 98.533)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5330/",
+        "id": "008822",
+        "description": "This course provides the theory and application of dosimetry and shielding for ionizing radiation sources outside the human body. Differential cross-sections, energy transfer and absorption coefficients, kerma, attenuation, and buildup are discussed for photons. Cross-sections, kerma factors, removal coefficients, diffusion, and point-source dose functions for fissioning sources are discussed for neutrons. Beta dosimetry concepts include stopping power, point-source dose functions, and the effects of attenuating materials. Heat generation and temperature profiles are discussed for irradiated materials and radioactive substances. Dosimetry concepts and barrier requirements also are described for particle accelerators, radiotherapy facilities, and medical x-ray imaging facilities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PHYS 4020 or RADI 5020L Radiation Safety & Control II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.4020",
+                    "RADI.5020L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5340": {
+        "name": "RADI.5340 Internal Dosimetry and Bioassay (Formerly 98.534)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5340/",
+        "id": "008823",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.5410": {
+        "name": "RADI.5410 Radiochemistry (Formerly 98.541)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5410/",
+        "id": "008824",
+        "description": "This course provides the theory and application of several analytical techniques, including precipitation, solvent extraction, ion exchange chromatography, and electrodeposition, to the separation and analysis of radioactive substances in various samples. This course also covers some common radiation detection systems, measurement and data reduction techniques, radiotracer and isotope dilution techniques, neutron activation analysis, and radio-immunoassay.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: PHYS 2100 Introductory Modern Physics, CHEM 1220 Chemistry II, and CHEM 1240L Chemistry II Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ],
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "CHEM.1240L"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5620": {
+        "name": "RADI.5620 Radiation Biology (Formerly 98.562)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5620/",
+        "id": "008833",
+        "description": "Effects of ionizing radiation on cellular, molecular and organ systems levels of biological organization; Study of x-rays, gamma rays, accelerator beams, and neutrons in interaction with living systems; Cohesive treatment of radiation biophysics with applications in health physics and radiation oncology. (offered as 98.562 for graduate credit)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: PHYS.2100 Introductory Modern Physics with a 'C-' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "PHYS.2100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.5650": {
+        "name": "RADI.5650 Introduction to Radiation Therapy Physics (Formerly 98.565)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5650/",
+        "id": "033398",
+        "description": "Introduction to the fundamental physics of radiation therapy, with emphasis on external beam photon and electron therapy and on brachytherapy.  For these modalities, the basic operation of delivery equipment, treatment planning principles, methods of dose calculations, determination of time of irradiation from dose prescription, dose measurements, and quality assurance will be studied.  This knowledge will prepare the student for an introduction to the practice of clinical physics in radiation therapy, for advanced radiation therapy physics, and research in radiation therapy physics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: RADI 5010L Radiation Safety and Control I or Co-req RADI 5010L Radiation Safety and Control I, and RADI 5060 Nuclear Instrumentation or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "RADI.5010L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "RADI.5010L"
+                ],
+                [
+                    "RADI.5060"
+                ]
+            ]
+        }
+    },
+    "RADI.5750": {
+        "name": "RADI.5750 Certification Preparation in Radiological Sciences (Formerly 98.575)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5750/",
+        "id": "033038",
+        "description": "Advanced problem solving in radiological sciences including strategies for preparing for and taking professional certification examinations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.5810": {
+        "name": "RADI.5810 Mathematical Methods of Radiological Sciences (Formerly 98.481/581)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5810/",
+        "id": "001207",
+        "description": "This course provides an overview of applied mathematical concepts that are useful in radiological sciences and protection, including special techniques for radiation physics, radiation dosimetry, and radiation shielding, with emphasis on computer applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.5820": {
+        "name": "RADI.5820 Numerical Methods In Radiological Sciences (Formerly 98.582)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5820/",
+        "id": "008836",
+        "description": "This course provides a more advanced mathematical treatment of the topics covered in 98.481, with extensive application of computer techniques to numerical problem solving that is applicable to radiological sciences and protection.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: 95.481 or 98.581 Math Methods of Rad Sciences.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.5980": {
+        "name": "RADI.5980 Medical Imaging I (Formerly 98.598)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/5980/",
+        "id": "036752",
+        "description": "Medical Imaging I is the first part of a two course sequence. Medical Imaging I provides an overview of the medical imaging modalities, teaches basic underlying physics and mathematics of medical imaging, describes key modalities in radiographic imaging, including general x-ray radiography, fluoroscopy, and mammography.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: RADI.5010L/4010L Radiation Safety & Control 1.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6050": {
+        "name": "RADI.6050 Radiation Interactions and Transport (Formerly 98.605)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6050/",
+        "id": "008841",
+        "description": "Photon, neutron, and electron interactions and energy deposition; the Boltzmann equation, elementary analytical solutions; deterministic computational methods, including spherical harmonics and discrete ordinates techniques; continuous slowing down and Fokker Planck approximations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: RADI.5010L/4010L Radiation Safety & Control 1.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6060": {
+        "name": "RADI.6060 Monte Carlo Simulation of Radiation Transport (Formerly 98.606)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6060/",
+        "id": "036753",
+        "description": "Radiation transport simulation by the Monte Carlo method: phase space tracking, dose response estimators, biasing methoda; integral form of the Boltzmann equation; condensed history method for charged particles; neutron, photon, and electron transport calculations for medical physics and health physics applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: RADI 6050 Radiation Transport and Interactions, and 98.581 Mathematical Methods of Rad Sci",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "RADI.6050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.6310L": {
+        "name": "RADI.6310L Professional Health Physics Internship (Formerly 98.631)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6310L/",
+        "id": "036584",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6650": {
+        "name": "RADI.6650 Advanced Radiation Therapy Physics (Formerly 98.665)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6650/",
+        "id": "037215",
+        "description": "The student will be introduced to the physics of advanced treatment techniques used in radiation therapy, which include external beam electron, proton, and photon therapy and internal brachytherapy.  For these techniques, the principles of the techniques such as clinical applications, radiation delivery equipment, treatment planning methods, methods of dose calculations, determination of time of irradiation from dose prescription, dose measurements, and quality assurance will be studied.  This knowledge will prepare the student for an introduction to the clinical practice of medical physics applied to complex treatment techniques used in radiation therapy.  Also, this should help prepare the student for research in radiation therapy physics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-Req: RADI.5650 Introduction to Radiation Therapy Physics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "RADI.5650"
+                ]
+            ]
+        }
+    },
+    "RADI.6710L": {
+        "name": "RADI.6710L Graduate Accelerator HP Internship (Formerly 98.671)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6710L/",
+        "id": "008857",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6720": {
+        "name": "RADI.6720 Graduate Reactor HP Internship (Formerly 98.672)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6720/",
+        "id": "008858",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6730L": {
+        "name": "RADI.6730L Graduate Reactor HP Internship (Formerly 98.673)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6730L/",
+        "id": "008859",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6750L": {
+        "name": "RADI.6750L Graduate Medical HP Internship (Formerly 98.675)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6750L/",
+        "id": "008861",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6760L": {
+        "name": "RADI.6760L Graduate Medical Physics Internship (Formerly 98.676)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6760L/",
+        "id": "008862",
+        "description": "Clinical Rotation under the direction of clinical staff.  This course provides the student with exposure to medical physics responsibilities in a radiation oncology department, including simulation, treatment planning and preparation, monitor unit calculations, dose measurements and calculations, treatment delivery techniques, quality assurance, and radiation safety.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6770L": {
+        "name": "RADI.6770L Graduate Medical Physics Internship (Formerly 98.677)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6770L/",
+        "id": "008863",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6780L": {
+        "name": "RADI.6780L Graduate HP Internship (Formerly 98.678)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6780L/",
+        "id": "008864",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6790L": {
+        "name": "RADI.6790L Graduate HP Internship (Formerly 98.679)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6790L/",
+        "id": "008865",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6830L": {
+        "name": "RADI.6830L Graduate HP Internship (Formerly 98.683)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6830L/",
+        "id": "008869",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6850L": {
+        "name": "RADI.6850L Advanced Medical HP Internship (Formerly 98.685)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6850L/",
+        "id": "008871",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6860L": {
+        "name": "RADI.6860L Advanced Medical Physics Internship (Formerly 98.686)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6860L/",
+        "id": "008872",
+        "description": "Clinical Rotation under the direction of clinical staff.  This course involves the student in one or more projects that require skill development, extended involvement, and project completion, which includes planning and delivery of advanced radiation therapy treatments.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "Pre-Req; RADI 6760L Graduate Medical Physics Internship; Pre/Co-Req: RADI 6650 Advanced Radiation Therapy Physics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "RADI.6760L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "RADI.6650"
+                ]
+            ]
+        }
+    },
+    "RADI.6870L": {
+        "name": "RADI.6870L Advanced Medical Physics Internship (Formerly 98.687)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6870L/",
+        "id": "008873",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6890L": {
+        "name": "RADI.6890L Advanced Graduate HP Internship (Formerly 98.689)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6890L/",
+        "id": "008875",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6900L": {
+        "name": "RADI.6900L Advanced Graduate HP Internship (Formerly 98.690)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6900L/",
+        "id": "008876",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6910L": {
+        "name": "RADI.6910L Advanced Graduate HP Internship (Formerly 98.691)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6910L/",
+        "id": "008877",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6920L": {
+        "name": "RADI.6920L Advanced Graduate HP Internship (Formerly 98.692)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6920L/",
+        "id": "008878",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6930L": {
+        "name": "RADI.6930L Advanced Graduate HP Internship (Formerly 98.693)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6930L/",
+        "id": "008879",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.6980": {
+        "name": "RADI.6980 Medical Imaging II (Formerly 98.599)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/6980/",
+        "id": "037216",
+        "description": "Medical Imaging II is the second part of a two course sequence. Medical Imaging II focuses on the fundamental principles, instrumentation, image reconstruction and applications of computed tomography, radioactive tracer imaging, magnetic resonance imaging, ultrasound imaging, and new emerging imaging technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "RADI.5980 Medical Imaging I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "RADI.5980"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "RADI.7050": {
+        "name": "RADI.7050 Supervised Teaching in Radiological Sciences (Formerly 98.705)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7050/",
+        "id": "008886",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7110": {
+        "name": "RADI.7110 Graduate Seminar in Radiological Sciences (Formerly 98.711)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7110/",
+        "id": "008887",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7120": {
+        "name": "RADI.7120 Graduate Seminar in Radiological Sciences (Formerly 98.712)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7120/",
+        "id": "008888",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7310L": {
+        "name": "RADI.7310L Advanced Project in Radiological Sciences I (Formerly 98.731)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7310L/",
+        "id": "008889",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7320L": {
+        "name": "RADI.7320L Advanced Project in Radiological Sciences II (Formerly 98.732)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7320L/",
+        "id": "008890",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7330": {
+        "name": "RADI.7330 Graduate Project in Radiological Sciences and Protection (Formerly 98.733)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7330/",
+        "id": "008891",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7430": {
+        "name": "RADI.7430 Master's Thesis in Radiological Sciences and Protection (Formerly 98.743)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7430/",
+        "id": "008895",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7460": {
+        "name": "RADI.7460 Master's Thesis in Radiological Sciences and Protection (Formerly 98.746)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7460/",
+        "id": "008896",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7490": {
+        "name": "RADI.7490 Master's Thesis Research in Radiological Sciences (Formerly 98.749)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7490/",
+        "id": "008897",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7530L": {
+        "name": "RADI.7530L Doctoral Dissertation in Radiological Sciences and Protection (Formerly 98.753)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7530L/",
+        "id": "008900",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7560": {
+        "name": "RADI.7560 Doctoral Dissertation in Radiological Sciences and Protection (Formerly 98.756)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7560/",
+        "id": "008901",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7590L": {
+        "name": "RADI.7590L Doctoral Dissertation in Radiological Sciences and Protection (Formerly 98.759)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7590L/",
+        "id": "008902",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "RADI.7690": {
+        "name": "RADI.7690 Continued Graduate Research (Formerly 98.769)",
+        "url": "https://www.uml.edu/catalog/courses/RADI/7690/",
+        "id": "008905",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

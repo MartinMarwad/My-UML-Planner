@@ -1,0 +1,484 @@
+{
+    "total": 31,
+    "time": 22.35050392150879,
+    "LGST.1030": {
+        "name": "LGST.1030 Introduction to Paralegal Studies (Formerly 41.103)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/1030/",
+        "id": "004963",
+        "description": "This course familiarizes students with the role of paralegals in both the public and private sector. Other topics include principles of jurisprudence and basic legal concepts and terminology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.2100": {
+        "name": "LGST.2100 Restorative Justice (Formerly PCS.205/41.210)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/2100/",
+        "id": "037755",
+        "description": "This course will introduce students to the fundamental principles and practices of restorative justice as a method of building positive peace.  Students develop a working knowledge of the general theories of restorative justice, as well as practical hands-on experience with peacemaking techniques. Traditional assumptions about justice and the adversarial legal process will be explored and challenged.  The relationship between restorative justice, restorative practices, and other conflict resolution methods such as mediation will be discussed.  Practical challenges in implementing restorative justice on the ground will also be examined.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.2340": {
+        "name": "LGST.2340 Criminal Law (Formerly 41.234)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/2340/",
+        "id": "004964",
+        "description": "This course studies substantive criminal law, with emphasis on general principles of criminal culpability, such as the act requirement, the mens rea requirement, and causation. Topics include detailed coverage of the elements of personal and property crimes, such as homicide, rape, assault, battery, robbery, burglary, theft, arson, and fraud. The course will also cover the law of attempted crimes, accomplice liability, and defenses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.2500": {
+        "name": "LGST.2500 Disability and the Law: Legal Rights of People with Disabilities (Formerly 41.250)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/2500/",
+        "id": "035292",
+        "description": "This course examines the history and progress of the disability rights movement in America, the current state of the law, trends, and prospects for the future, with particular focus on those laws designed specifically to address the needs of people with disabilities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.2610": {
+        "name": "LGST.2610 Introduction to Legal Concepts (Formerly 41.261)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/2610/",
+        "id": "004966",
+        "description": "This course serves as an introductory legal course. It is a survey of many specific topics, such as constitutional law, contracts, intellectual property law, and current legal topics of interest. More importantly, the course emphasizes critical legal thinking, legal ethics, and human values.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.2620": {
+        "name": "LGST.2620 Introduction to Business Law (Formerly 41.262)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/2620/",
+        "id": "004967",
+        "description": "This course introduces students to the fundamentals of business law. The main emphasis is on key aspects of contract law, including the agreement, consideration, writings, third-party rights, illegality, performance, breach, defenses, and remedies The course also covers agency law, employment law, sections of the Uniform Commercial Code, and a variety of other legal issues and topics that influence and intersect with modern business practices. This course is highly recommended for pre-law students, CPA students, and paralegal students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.2870": {
+        "name": "LGST.2870 Legal Writing (Formerly 41.287)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/2870/",
+        "id": "004969",
+        "description": "This course trains students to produce effective legal work product as drafters of client letters, memoranda of law, pleadings, briefs, and other legal documents.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "LGST.1030 Introduction to Paralegal Studies, and LGST.3870 Legal Research Methods.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "LGST.1030"
+                ],
+                [
+                    "LGST.3870"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "LGST.3600": {
+        "name": "LGST.3600 Legal Issues in Racism (Formerly 41.360)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3600/",
+        "id": "004972",
+        "description": "This course presents a study of racial discrimination in the United States. Emphasis is placed on relevant constitutional provisions, statutory provisions, and on United States Supreme Court cases.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3630": {
+        "name": "LGST.3630 Corporate and Property Law (Formerly 41.363)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3630/",
+        "id": "004973",
+        "description": "This course studies the law pertaining to business entities and structures. Partnerships, limited partnerships, and joint ventures are studied at the outset of the course. The main emphasis is on elements of the corporate structure. The last part of the course deals with personal and real property with coverage of wills and trusts. This course is highly recommended for pre-law students, CPA students, and paralegal students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3650": {
+        "name": "LGST.3650 The Legal Environment of Business (Formerly 41.365)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3650/",
+        "id": "004975",
+        "description": "This class explores the intersection of business and the law in modern American society. This class builds on the concepts covered in Business Law and explores current legal topics that affect doing business in the United States and abroad. Topics covered may include the U.S. Constitution and the courts system, white collar crime, cyber law, the laws of intellectual property, international trade, consumer protection, bankruptcy, product liability, administrative law, and labor and employment law, amongst others.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3660": {
+        "name": "LGST.3660 International Law (Formerly 41.366)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3660/",
+        "id": "004976",
+        "description": "This course provides a broad introduction to international law with emphasis on current issues. Within public international law, topics covered will include the recognition of new states, organizations such as the United Nations and the European Union, the use of force, human rights, international crimes, the global environment, and international courts and tribunals. Within private international law, topics surveyed will include legal aspects of international trade and foreign investment, labor, intellectual property, cyber theft, and taxation. Current issues discussed will include global warming, recent corruption scandals, the Eurozone crisis, and legal issues facing global technology companies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3670": {
+        "name": "LGST.3670 Environmental Law (Formerly 41.367)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3670/",
+        "id": "004977",
+        "description": "This course examines the legal and administrative problems of protecting the quality of the human environment. Federal and state legislation on environmental policy is studied. Public interest litigation as a supplement to the enforcement of environmental law is discussed. The course also focuses on the practical problems of balancing the needs of business, the global competitiveness of the United States, the increasing demand for natural resources, and the need to protect, preserve, and restore the environment. The importance of sustainable development and environmental ethics are discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3700": {
+        "name": "LGST.3700 Real Estate Law (Formerly 41.370)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3700/",
+        "id": "004980",
+        "description": "This course examines contracts for the sale of real estate, deeds, title examinations, security for real estate transactions, methods and problems of co-ownership, zoning ordinances, brokerage contracts, leases and landlord, and tenant rights and liabilities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3720": {
+        "name": "LGST.3720 Sports, Entertainment and Art Law (Formerly 41.372)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3720/",
+        "id": "004981",
+        "description": "This course challenges students to engage in analytic reading, critical thinking and problem solving related to the legal issues facing the sports, entertainment and art worlds. Topics may include contracts, intellectual property rights, employment law, labor law, and other areas of interest.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3760": {
+        "name": "LGST.3760 Family Law (Formerly 41.376)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3760/",
+        "id": "004983",
+        "description": "This course studies the critical family law issues facing society today. Subject matter examined may include the law of marriage, custody, adoption, divorce, child support, juveniles, right to die, fetal tissue transfer to prolong the life of another, reproduction control, and surrogate parenting. This course is taught from a legal and human values perspective.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3770": {
+        "name": "LGST.3770 Elder Law (Formerly 41.377)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3770/",
+        "id": "036724",
+        "description": "This course introduces students to the major architectural components of the legal environment of the elderly, including Medicare, Medicaid, SSI, pensions, nursing homes, assisted living,estate management, and related issues.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3780": {
+        "name": "LGST.3780 Comparative European Community Law (Formerly 41.378)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3780/",
+        "id": "031897",
+        "description": "This course deals with the relationship between European Community law and the law of the United States; the operation and impact of community law in the United States; and the role of the European courts in interpreting community law. International treaties, laws, and regulations affecting the free movement of people, goods and services are traced.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3790": {
+        "name": "LGST.3790 The Relationship of Law, Logic, and Ethics (Formerly 41.379)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3790/",
+        "id": "004984",
+        "description": "This course examines the impact of ethical viewpoints on the structure of legal doctrines. It stresses the fact that the study of law is a study of ethics as well as logic.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3810": {
+        "name": "LGST.3810 Women and the Law (Formerly 41.381)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3810/",
+        "id": "004985",
+        "description": "This course presents legal issues that often or particularly affect women. Topics may include sex discrimination, sexual harassment, rape, marriage, divorce, reproductive control, surrogate motherhood, and custody.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3830": {
+        "name": "LGST.3830 Alternative Dispute Resolution (Formerly 41.383)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3830/",
+        "id": "004986",
+        "description": "The traditional trial is becoming increasingly rare in modern civil litigation; the large majority of disputes are resolved by other techniques. This course will examine alternative methods of dispute resolution such as negotiation, mediation, arbitration, and the mini trial.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3850": {
+        "name": "LGST.3850 Immigration Law (Formerly 41.385)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3850/",
+        "id": "004987",
+        "description": "Studies the immigration, nationality, and naturalization laws of the United States. The topics discussed are: the immigrant selection system, the issuance of immigrant and nonimmigrant visas; grounds of excludability of aliens and waiver of excludability; grounds for deportation of aliens and relief from deportation; and change of status within the United States including legalization, refugee, and asylum status.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3860": {
+        "name": "LGST.3860 Intellectual Property (Formerly 41.386)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3860/",
+        "id": "004988",
+        "description": "This course surveys the law of the protection of ideas, trade secrets, inventions, artistic creations, and reputation. The course will briefly review the law of patent, trademark, copyright, trade secret, and geographical indication. The course will cover the distinction between the various forms of intellectual property, and the statutory and common law methods of enforcing rights.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3870": {
+        "name": "LGST.3870 Legal Research Methods (Formerly 41.387)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3870/",
+        "id": "004989",
+        "description": "This course introduces students to the fundamentals of legal research and writing. Students will gain hands-on experience in legal research and in the reporting of such research in written assignments, case briefs, and memoranda.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "LGST.1030 Intro to Paralegal studies.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "LGST.1030"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "LGST.3880": {
+        "name": "LGST.3880 Directed Study: Law (Formerly 41.388)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3880/",
+        "id": "004990",
+        "description": "This course permits students to engage in specialized study under the supervision of faculty.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3900": {
+        "name": "LGST.3900 Litigation (Formerly 41.390)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3900/",
+        "id": "004992",
+        "description": "This course examines the practices and procedures involved in the litigation process. Topics may include: legal research, courts and jurisdictions, evidence and discovery, pleadings, motions, depositions, trials and appeals, and federal rules of procedure.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.3920": {
+        "name": "LGST.3920 Wills,Trusts and Estates  (Formerly 41.392)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/3920/",
+        "id": "004994",
+        "description": "This course provides an introduction to the law of wills, trusts, and estates.  This course covers the fundamental legal concepts and vocabulary necessary to understand, draft, and work with the core estate planning tools.  Practical examples and sample legal cases and materials will be provided and discussed.  No prior legal knowledge is required, though some familiarity with the United States legal system or case law will be helpful.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.4800": {
+        "name": "LGST.4800 Bankruptcy, Debtor & Creditor Law",
+        "url": "https://www.uml.edu/catalog/courses/LGST/4800/",
+        "id": "041621",
+        "description": "The purpose of this course is to introduce the student to U.S. Bankruptcy laws and their place in providing a safety net for both individuals and business as well as an orderly, consistent and predictable method for dealing with income, debts and assets for insolvents, such system being necessary for the proper functioning of an economy. The topics include the evolution of the laws, provisions common to all Bankruptcy petitions, and proceedings under the most common chapters. Students will study and apply the most commonly used consumer chapters of the United States Bankruptcy Code (7 & 13).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "LGST.2620 Introduction to Business Law, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "LGST.2620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "LGST.4880": {
+        "name": "LGST.4880 Directed Study in Law (Formerly 41.488)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/4880/",
+        "id": "005000",
+        "description": "This course permits students to engage in specialized study under the supervision of faculty.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.4890": {
+        "name": "LGST.4890 Seminar in Law (Formerly 41.489)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/4890/",
+        "id": "005001",
+        "description": "The course provides opportunity for small groups of advanced students to study selected legal topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.4900": {
+        "name": "LGST.4900 Legal Aspects of Cyberspace (Formerly 41.490)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/4900/",
+        "id": "005002",
+        "description": "This course introduces students to the law of the Internet and regulation of lawful and unlawful computer activities. Traditional notions about privacy, defamation, contracts, freedom of expression, pornography, stalking, jurisdiction and intellectual property are challenged by the latest cyberspace technology. Much of the debate about control, which leads to questions about rights and responsibilities, centers around who, if anyone, should design the legal architecture of cyberspace. These and other topical subjects serve as the focus on the study of legal issues in cyberspace.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "LGST.4970": {
+        "name": "LGST.4970 Legal Studies Practicum (Formerly 41.497)",
+        "url": "https://www.uml.edu/catalog/courses/LGST/4970/",
+        "id": "005004",
+        "description": "This course consists of assigned fieldwork under the supervision and with the permission of the coordinator. The course is designed to broaden the educational experience of legal studies students by providing exposure to selected legal environments such as corporate legal departments, financial institutions, law firms, real estate departments, banks and government offices and agencies. This provides a correlation of theoretical knowledge with practical experience in an area of interest to students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

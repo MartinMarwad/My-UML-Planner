@@ -1,0 +1,443 @@
+{
+    "total": 29,
+    "time": 23.16090488433838,
+    "MSIT.3010": {
+        "name": "MSIT.3010 Organization of Programming Languages (Formerly 94.301)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/3010/",
+        "id": "030805",
+        "description": "Analytical approach to the study of programming languages. Description of the salient features of the imperative, functional, logical, and object-oriented programming paradigms in a suitable metalanguage such as Scheme. Topics include iteration, recursion, higher-order functions, types, inheritance, unification, message passing, orders of evaluation, and scope rules. Elementary syntactic and semantic descriptions. Implementation of simple interpreters.\n\nNote:  This course is for CS graduate students needing to fulfill prerequisite requirements.  It is not available to CS undergraduates without specific permission from the Undergraduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.3040": {
+        "name": "MSIT.3040 Foundations of Computer Science (Formerly 94.304)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/3040/",
+        "id": "034537",
+        "description": "A survey of the mathematical foundations of Computer Science. Finite automata and regular languages. Stack Acceptors and Context-Free Languages. Turing Machines, recursive and recursively enumerable sets. Decidability.  Complexity. This course involves no computer programming. This course is for CS graduate students needing it to fulfill prerequisite requirements.  It is not available to CS undergraduates without specific permission from the Undergraduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.3050": {
+        "name": "MSIT.3050 Computer Architecture (Formerly 94.305)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/3050/",
+        "id": "030806",
+        "description": "Examines the basic functional components of a computer system including the CPU, memory systems, and I/O systems. Each of these three areas will be developed in detail with a focus on the system design and component integration. Topics will include CPU control and ALU operation, computer timing, data address and I/O bus activity, addressing model, programmed and DMA I/O, and instruction sets and micro code. This course is for CS graduate students needing it to fulfill prerequisite requirements. It is not available to CS undergraduates without specific permission from the Undergraduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.3080": {
+        "name": "MSIT.3080 Introduction to Operating Systems (Formerly 94.308)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/3080/",
+        "id": "030807",
+        "description": "Presents an introduction to major operating systems and their components. Topics include processes, concurrency and synchronization, deadlock, processor allocation, memory management, I/O devices and file management, and distributed processing. Techniques in operating system design, implementation, and evaluation will be examined. This course is for CS graduate students needing it to fulfill prerequisite requirements.  It is not available to CS undergraduates without specific permission from the Undergraduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.4040": {
+        "name": "MSIT.4040 Analysis of Algorithms (Formerly 94.404)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/4040/",
+        "id": "030808",
+        "description": "Development of more sophisticated ideas in data type and structure, with an introduction to the connection between data structures and the algorithms they support. Data abstraction. Controlled access structures. Trees, lists, graphs, arrays; algorithms design strategies; backtracking, greedy storage, divide and conquer, branch and bound. Elementary techniques for analysis; recursion equations, estimations methods, elementary combinatorial arguments. Examination of problem areas such as searching, sorting, shortest path, matrix and polynomial operations, and the indicated representations and algorithms. The student will use the techniques learned in this course and in previous courses to solve a number of logically complex programming problems. This course is for CS graduate students needing it to fulfill prerequisite requirements.  It is not available to CS undergraduates without specific permission from the Undergraduate Coordinator.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5110": {
+        "name": "MSIT.5110 Network and Systems Administration (Formerly 94.511)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5110/",
+        "id": "035873",
+        "description": "This course introduces the concepts and techniques of systems and network administration. The course covers topics in a wide range from host management, network management, host and network security to automating system administration. In this course learners will be installing and configuring various popular network based services in a Linux environment.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5140": {
+        "name": "MSIT.5140 Systems Security and Auditing (Formerly 94.514)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5140/",
+        "id": "037843",
+        "description": "This course examines the strategies for deploying and auditing secure systems. IT auditors primarily study computer systems and networks form the point of view of examining the effectiveness of their technical and procedural controls to minimize risks. Risk analysis and the implementation of corresponding best practice control objectives will be studied. The material will include methodologies that help auditors to: Discover what's really going on at a point in time; Find out about potential problems, before it's too late to fix them; Evaluate business situations objectively; Make informed, if difficult decisions; Implement corrective actions, changes and improvements where needed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5170": {
+        "name": "MSIT.5170 Operating Systems Foundations (Formerly 94.517)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5170/",
+        "id": "035776",
+        "description": "This course investigates the organization and deployment of contemporary operating systems.  The process model is examined both generically and in the context of the current Linux/Unix and Windows implemantations.  Process attributes such as address spaces, threads, channels and handles, access rights, scheduling behavior and states and state transitions will be studied.  Memory management, deadlock management and the file system development are also evaluated.  A subsystem of system configuration options will be considered during the course in order to highlight the functional deployment of the core OS issues discussed. Pre-req: BS in IT or equivalent. Cannot be used toward MS or PhD in Computer Science.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5180": {
+        "name": "MSIT.5180 Large Scale Application Deployment (Formerly 94.518)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5180/",
+        "id": "035874",
+        "description": "This course will develop a systematic framework for the life cycle management of large scale applications.  Beginning with requirements assessments, and impact analysis, and continuing through regulatory compliance, lifetime maintenance, scalability concerns, and end-of-life evolution, the material in this course will characterize the stages and transitions of large scale applications.  Deployment and management tools will be examined in the context of live applications, with an emphasis on convergent analysis and configuration.  Several case studies will be considered, including operating systems, database applications, mailing systems and collaboration systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5190": {
+        "name": "MSIT.5190 Virtual Systems (Formerly 94.519)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5190/",
+        "id": "035875",
+        "description": "This course will investigate the current state of virtualization in computing systems.  Virtualization at both the hardware and software levels will be examined, with emphasis on the hypervisor configurations of systems such as Vmware, Zen and Hyper-V.  The features and limitations of  virtual environments will be considered, along with several case studies used to demonstrate the configuration and management of such systems.  Para-virtualized software components will be analyzed and their pros and cons discussed.  Processor and peripheral support for virtualization will also be  examined, with a focus on emerging hardware features and the future of virtualization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5200": {
+        "name": "MSIT.5200 Digital Storage Architectures (Formerly 91.520 and COMP.5200)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5200/",
+        "id": "008149",
+        "description": "This course will focus on existing and proposed technologies for storing digital information.  Both hardware and software issues will be examined, beginning with device and controller organization and proceeding through aggregation techniques, interconnect architectures and host consideration. At each level, specific components will be evaluated with respect to critical storage criteria, such as bandwidth and latency, fault tolerance, infrastructure requirements and cost. Students must already have completed a bachelor's degree in a related discipline and must meet all undergraduate prerequisite requirements specified for graduate IT programs to enroll in this course and in a graduate career.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5310": {
+        "name": "MSIT.5310 Project Management (Formerly 94.531)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5310/",
+        "id": "037828",
+        "description": "This course explores the application of knowledge, skills, tools, and techniques that project managers use when managing information technology projects as well as the current IT factors that affect IT project management decision making.  Special emphasis will be placed on learning the best practices currently used by organizations and practitioners to ensure the best chance for project success by learning and applying the concepts of managing scope, risk, budget, time, expectations, quality, people, communications, procurement, and externally provided services.  Students will be expected to perform research in the above areas as well as using tools such as Microsoft Project to solve project management related problems.  Special attention will also be placed on the issues affecting project managers today such as PMOs, virtualization, green IT, and out sourcing.  Practical examples will be used to demonstrate the concepts and techniques, plus you will receive hands on experience by working on a case study.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5320": {
+        "name": "MSIT.5320 Managing Large Data Sets (Formerly 94.532)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5320/",
+        "id": "037827",
+        "description": "The amount of data generated by businesses, science, Web, and social networks is growing at a very fast rate.  This course will cover the algorithms and database techniques required to extract useful information from this flood of data.  Data mining, which is the automatic discovery of interesting patterns and relationships in data, is a central focus of the course.  Topics covered in data mining include association discovery, clustering, classification, and anomaly detection.  Special emphasis will be given to techniques for data warehousing where extremely large datasets (e.g.,many terabytes) are processed.  The course also covers Web mining.  Topics covered include analysis of Web pages and links (like Google) and analysis of large social networks (like Facebook).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5330": {
+        "name": "MSIT.5330 Developer Operations (DevOps)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5330/",
+        "id": "041960",
+        "description": "\"DevOps\" is a set of practices to support software development and business operations in live production environments. By using agile practices and automation, these practices enable software to be developed and deployed to users quickly and with high quality. In this course you will learn DevOps tools and techniques. Tools include micro services, continuous integration and deployments, monitoring, and infrastructure-as-code. Techniques include oh DevOps engineers blur traditional roles of IT, development, release engineering, and quality assurance. Case studies in DevOps from companies such Amazon and Facebook will be studied. For experimentation purposed, Linux will be used on AWS together with open source tools such as Jenkins, Ansible, and Kubernetes. Students must already have completed a bachelor's degree in a related discipline and must meet all undergraduate prerequisite requirements specified for graduate IT programs to enroll in this course and in a graduate career.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5350": {
+        "name": "MSIT.5350 Agile and Iterative Project Management (Formerly 94.535)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5350/",
+        "id": "038319",
+        "description": "This course explores the differences between the Traditional Project management and the Agile management approaches, introduces the principles of Agile Development through applications within each major Project Management process: Project Initiation, Project Planning, Project Execution, and Project Closing. The project will be developed in a timely manner, using Agile techniques that encourage frequent adaptation, self-organization, accountability and with a focus towards rapid delivery. upon completion, students will understand how to apply Agile principles and practices, recognize ways to increase team performance through better communication and close involvement of stake holders, and recognize the key success criteria for implementing Agile Projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5360": {
+        "name": "MSIT.5360 Data Mining (Formerly 94.536)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5360/",
+        "id": "039383",
+        "description": "Today, we are surrounded by big data applications. Smartphone and sensor data, medical and scientific data, financial data, web and text data, and social network data are just a few examples. As a result, mining useful information and discovering knowledge from the big data are increasingly important. It is fair to say that, without data mining, we would not be able to make good use of this large amount of data. In this course, we learn the state-of-the-art techniques in data mining and analysis. Topics include types and properties of data, exploring data, classification, association analysis, cluster analysis, and anomaly detection.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5410": {
+        "name": "MSIT.5410 Information Security, Privacy and Regulatory Compliance (Formerly 94.541)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5410/",
+        "id": "037842",
+        "description": "This course focuses on enterprise-level information security, privacy and regulatory compliance through study of the rapidly emerging Information Governance (IG) discipline which is applied to electronic documents, records management and output of information organization-wide. The key principles of IG will be examined including the security, privacy and compliance of corporate e-documents/records as well as email, social media, instant messaging, cloud computing, and mobile computing. The student will learn how IG leverages existing information technologies to enforce policies, procedures and controls to manage information risk in compliance with legal and litigation demands, external regulatory requirements, and internal governance objectives.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5430": {
+        "name": "MSIT.5430 Intrusion Detection Systems (Formerly 94.543)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5430/",
+        "id": "037841",
+        "description": "Intrusion Detection Systems is a survey of the hardware and software techniques that are applied to the detection, identification, classification and remediation of compromised information systems.  From this introduction to intrusion detection systems, students will develop a solid foundation for understanding IDS and how they function.  This course will give students a background in the technology of detection network attacks.  It will introduce all the concepts and procedures used for IDS (intrusion Detection Systems) and IPS (intrusion Prevention Systems).  Students will have hands-on experience with implementing and configuring software and hardware based IDS in a network infrastructure.  This course is designed with a network administrator in mind.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5450": {
+        "name": "MSIT.5450 Designing and Building a Cybersecurity Program (Formerly 94.545)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5450/",
+        "id": "039468",
+        "description": "This course focuses on best practices for designing and building a comprehensive Cybersecurity Program based on the NIST Framework for Improving Critical Infrastructure Cybersecurity (\"The Framework\"). The Framework was issued on February 12, 2014, as directed by President Obama in Executive Order 13636. This framework provides guidance for reducing cybersecurity risk for organizations, and this course will examine its basic tenets of: \"Cybersecurity Fundamentals\", techniques applied to \"Building a Controls Factory\", \"Cybersecurity Programs\" \"Establishing Cybersecurity Centers of Expertise\" and \"The Cybersecurity Program Implementation Roadmap\".",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5460": {
+        "name": "MSIT.5460 Introduction to Malware Analysis",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5460/",
+        "id": "041716",
+        "description": "This course introduces the use of reverse engineering techniques to find and analyze the behavior of malware in binary form. The topics include basic static analysis, basic dynamic analysis, advanced static analysis, advanced dynamic analysis, shell code analysis, malware behavior and anti-reverse engineering. To take this course, students shall have experience in the C programming language. Knowledge of assembly language is preferred although not necessary since the course will have a crash mini-course in X86 disassembly covering assembly language. The students will do the assignments and labs on either their own computers or in a virtual lab environment. Students must already have completed a bachelor's degree in a related discipline and must meet all undergraduate prerequisite requirements specified for graduate IT programs to enroll in this course and in a graduate career.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline and must meet all undergraduate prerequisite requirements specified for graduate IT programs to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5470": {
+        "name": "MSIT.5470 Protecting against Ransomware Attacks",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5470/",
+        "id": "042247",
+        "description": "This course focuses on the best approach for organizations to develop a ransomware protection strategy, plan / program and operational practices to defend against damaging ransomware attacks. The class includes an overview of recent ransomware attacks, the top trends of today's ransomware variants, a model for describing common tactics and techniques used by ransomware gangs (based on the MIRE ATT&CK framework, tools and playbooks used by the top ransomware families. The class discusses common ransomware controls models (NIST Risk Management Framework and Cybersecurity Framework), ransomware best practices (NIST SP1800 Ransomware Practice Guides and CISA MS-ISAC Ransomware Guide), as well as training and workshops based on Red Team, Blue Team and Purple Team Exercises.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5600": {
+        "name": "MSIT.5600 Network Infrastructures (Formerly 94.560)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5600/",
+        "id": "035876",
+        "description": "This course provides an introduction to the fundamental concepts in the design and implementation of computer communication networks, their protocols, and  applications.  Topics to be covered include:  an overview of network architectures, applications, network programming interfaces (e.g. sockets) , transport, congestion, routing, and data link protocols, addressing, local area networks, network management, and emerging network  technologies. Cannot be used toward MS or D.Sc. in Computer Science.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5610": {
+        "name": "MSIT.5610 Computer Network Security (Formerly 94.561)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5610/",
+        "id": "035785",
+        "description": "This course is aimed to provide students with a solid understanding of key concepts of computer network security and practical solutions to network security threats.  Topics to be covered include common network security attacks, basic security models, data encryption algorithms, public-key cryptography and key management, data authentication, network security protocols in practice, wireless network security, network perimeter security and firewall technology, the art of anti-malicious software, and the art of intrusion detection. Pre-Req: BS in IT or Equivalent. Cannot be used toward MS or D.Sc. in Computer Science.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5620": {
+        "name": "MSIT.5620 Digital Forensics (Formerly 94.562)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5620/",
+        "id": "035877",
+        "description": "Identifying, preserving and extracting electronic evidence.  Students learn how to examine and recover data from operating systems, core forensic procedures for any operating or file system, understanding technical issues in acquiring computer evidence and how to conduct forensically sound examinations to preserve evidence for admission and use in legal proceedings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5630": {
+        "name": "MSIT.5630 Secure Mobile Networks (Formerly 94.563)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5630/",
+        "id": "035878",
+        "description": "This course covers principles and practices of wireless networks, including cellular networks, wireless LANs, ad hoc mesh networks, and sensor networks.  The potential attacks against these wireless networks and the security mechanisms to defend these networks will be discussed.  Topics to be covered include cellular network architecture, wide-area mobile services, wireless LANs and MACs, introduction to emerging wireless networks, survey of malicious behaviors in wireless networks, securing wireless WANs and LANs, securing wireless routing, securing mobile applications, wireless  intrusion detection and prevention, challenges in securing next-generation wireless networks, and privacy issues in wireless networks.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5650": {
+        "name": "MSIT.5650 Cloud Computing (Formerly 94.565)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5650/",
+        "id": "037437",
+        "description": "This course starts with an overview of modern distributed models, exposing the design principles, systems architecture, and innovative applications of parallel, distributed, and cloud computing systems.  The course will focus on the creation and maintenance of high-performance, scalable, reliable systems, providing comprehensive coverage of distributed and cloud computing, including: Facilitating management, debugging, migration, and disaster recovery through virtualization.  Clustered systems for research or ecommerce applications.  Designing systems as web services.  Principles of cloud computing using examples from open-source and commercial applications.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.5660": {
+        "name": "MSIT.5660 Advanced Cloud Computing (Formerly 94.566)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5660/",
+        "id": "038140",
+        "description": "This course is a continuation of the 94.565 Cloud Computing course and will cover in further detail such topics as Cloud Based Storage, Virtualization, Service Oriented Architecture (SOA), High Availability, Scaling, and Mobile Devices.  The course will also study the role of Open Source cloud software such as Hadoop, OpenStack and others.  Similar to the first course where hands-on projects included the use of Cloud Services such as Amazon Web Services (AWS), Google Apps and App Engine, and Windows Azure, this course will continue with those services and add others such as Rackspace and VMware.  Current articles and publications in this fast moving field of Cloud Computing will also be followed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSIT.5650 Cloud Computing, or Permission of the Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MSIT.5650"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MSIT.5670": {
+        "name": "MSIT.5670 Text Analytics and Information Retrievals",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/5670/",
+        "id": "042248",
+        "description": "Introduction to common algorithms, techniques, and Python programming for text analytics and information retrievals, including text representations, data collection and information extraction, visualization, inverse indexing feature engineering, search engine and implementation, word association mining, text categorization, text clustering, topic modeling, word embeddings, text summarization, opinion mining and sentiment analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students must already have completed a bachelor's degree in a related discipline to enroll in this course and in a graduate career.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MSIT.REVIEW": {
+        "name": "MSIT.REVIEW Pending Departmental Review (Formerly 94.REVIEW)",
+        "url": "https://www.uml.edu/catalog/courses/MSIT/REVIEW/",
+        "id": "031863",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

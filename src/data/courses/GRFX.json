@@ -1,0 +1,275 @@
+{
+    "total": 14,
+    "time": 11.078812837600708,
+    "GRFX.2000": {
+        "name": "GRFX.2000 Introduction to Graphic Design (Formerly GRFX 200)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/2000/",
+        "id": "038905",
+        "description": "Exercises, lectures and projects will introduce students to graphic design principles and techniques. Course will begin with a fundamental study of image, form, and space relations, then cover such topics as working with grids, typography basics, page layout, the introduction of color, rendering techniques, history, and more. Students will be assigned a series of projects to enhance their visual communication skills. Formerly 70.291 & 70.210. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Basic Computer Proficiency Required; Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GRFX.2020": {
+        "name": "GRFX.2020 Fundamentals of Typography (Formerly GRFX 202)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/2020/",
+        "id": "038907",
+        "description": "Studies typographic concepts, techniques, and the creative use of type in visual communication. Emphasis will be placed upon the history of type design and its context within the graphic design industry. Formerly 70.240. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Basic Computer Proficiency Required; Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GRFX.2030": {
+        "name": "GRFX.2030 Photographic Imaging (Formerly GRFX 203)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/2030/",
+        "id": "038909",
+        "description": "Covers the fundamentals of image enhancement, image manipulation, scanning, digital capture and using industry-standard photo imaging software. Image preparation for a variety of media will also be explored. Formerly 70.262. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Basic Computer Proficiency Required; Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GRFX.2040": {
+        "name": "GRFX.2040 Computer Graphics & Illustration (Formerly GRFX 204)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/2040/",
+        "id": "038910",
+        "description": "Students will produce a number of illustrations, starting with the traditional approach to illustration and then rendering their concepts using computer illustration and imaging software. Topics include methods for rendering artwork,capturing and expressive illustrative style, and portraying different moods or messages within the illustration. Students will learn to illustrate effectively using the many tools available to them within industry-standard software applications. Formerly 70.264. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Basic Computer Proficiency Required; Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GRFX.2110": {
+        "name": "GRFX.2110 Desktop Publishing: Print Production (Formerly GRFX 211)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/2110/",
+        "id": "038908",
+        "description": "Introduces students to the complexities involved in preparing their designs for print: electronic page layout and design, proofing, specifying inks, trapping, cropping, overprinting, printing separations, proofing, and more. Students will learn about the printing process, printing terminologies, and print industry standards. Formerly 70.245. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX 2000 (formerly 70.291 or ARTS 2100) or GRFX 2020 (formerly ARTS 2400 or ARTS 2300) as Pre-req or Co-req. or Instructor Permission and Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GRFX.2000",
+                    "ARTS.2100)",
+                    "GRFX.2020",
+                    "ARTS.2400",
+                    "ARTS.2300)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GRFX.2120": {
+        "name": "GRFX.2120 Website Design (Formerly GRFX 212)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/2120/",
+        "id": "038906",
+        "description": "This course will focus on the creation of visual content for the web and will explore what constitutes a visually exciting and engaging site. Other topics that will be covered are: file formats, compression, web color strategies, and platforms standards. Formerly 70.379 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "HTML and Photoshop Familiarity Required;  Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GRFX.3000": {
+        "name": "GRFX.3000 Advanced Graphic Design (Formerly GRFX 300)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/3000/",
+        "id": "038911",
+        "description": "Students will be assigned a variety of advanced-level projects dealing with areas such as logo design, publication design, interactive screen design, direct mail projects, corporate identity systems, poster design, and more. Projects in this class are designed to better develop the students ability to take a project to its final stage and render it as a professional portfolio piece. Formerly 70.391. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX 2000 (formerly 70.291 or ARTS 2100) or GRFX 2020 (formerly ARTS 2400 or ARTS 2300) as Pre-req or Co-req. or Instructor Permission and Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GRFX.2000",
+                    "ARTS.2100)",
+                    "GRFX.2020",
+                    "ARTS.2400",
+                    "ARTS.2300)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GRFX.3020": {
+        "name": "GRFX.3020 Advanced Typography",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/3020/",
+        "id": "041252",
+        "description": "Studies expressive visual communications of words including type hierarchy, grid organization, and the primary visual communication job of typographic design. Students should be able to articulate ideas and thought processes in relation to their use of type. An extended type project will be completed. Objectives include furthering the student sensitivity to the qualities of letter forms, legibility, and the refinement of technical skills.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX.2020 Fundamentals of Typography, and GRFX.2030 Photographic Imaging, and GRFX.2040 Computer Graphics and Illustration.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GRFX.2020"
+                ],
+                [
+                    "GRFX.2030"
+                ],
+                [
+                    "GRFX.2040"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GRFX.3030": {
+        "name": "GRFX.3030 Advanced Photographic Imaging (Formerly GRFX 303)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/3030/",
+        "id": "038914",
+        "description": "Students will continue to develop their creative conceptualization skills and practice using advanced-level techniques in Photoshop as they create a number of visually compelling images. Projects will address visual problem solving for commercial applications and digital imaging as an emerging medium in fine art. Students should have basic knowledge of Photoshop and design composition skills prior to registering for this course. Formerly 70.362. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX.2030 or permission of instructor; (formerly ARTS 3620) and Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GRFX.2030",
+                    "ARTS.3620)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GRFX.3120": {
+        "name": "GRFX.3120 Advanced Website Design (Formerly GRFX 312)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/3120/",
+        "id": "038912",
+        "description": "This advanced-level course is designed for students who have completed Website Design. The course will cover topics such as advanced css layout techniques, user-centered design, dynamic pages and testing. Students will have the opportunity to further develop their design and conceptualization skills. Formerly 70.384. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX 2120 (formerly 70.379 or ARTS 2200) and Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GRFX.2120",
+                    "ARTS.2200)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GRFX.3150": {
+        "name": "GRFX.3150 Design for Advertising (Formerly GRFX 315)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/3150/",
+        "id": "038913",
+        "description": "Instruction in the design and layout of commercial advertisements as well as the creative aspects of advertising are integral parts of this course. Practical problems and technical guidance from preliminary layouts to finished work will help preliminary layouts to finished work will help prepare students for the commercial art field. Students will prepare an advertising campaign concept and translate it into a professionally-designed commercial series for use in their portfolios. This course will focus on the integration of design with the overall advertising message. Formerly 70.392. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX 2000 (formerly 70.291 or ARTS 2100) and GRFX 2020 (formerly ARTS 2400 or ARTS 2300) Familiarity with Adobe Photoshop and InDesign are recommended; and Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GRFX.2000",
+                    "ARTS.2100)"
+                ],
+                [
+                    "GRFX.2020",
+                    "ARTS.2400",
+                    "ARTS.2300)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GRFX.3300": {
+        "name": "GRFX.3300 Special Effects for Digital Video (Formerly GRFX 330)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/3300/",
+        "id": "038916",
+        "description": "This advanced-level course is designed for students who have completed 3D Computer Animation and who are interested in exploring the narrative possibilities in animation. Conceptual drawings and storyboarding will be required. The course will cover advanced sequencing, notion paths, editing, audio, and virtual environments. Special effects compositing will be introduced. Other course topics will include media preparation for output to film, video, and CD-ROM. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Adobe Premier Proficiency Required, and Online and Continuing Education Majors, Certificates and Non-Degree OCE Students Only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "GRFX.3500": {
+        "name": "GRFX.3500 User Interface Prototyping for Apps and Web",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/3500/",
+        "id": "041301",
+        "description": "Project based introduction to design for the user experience on mobile and web devices. It introduces tools, techniques, and information about Human-Computer Interaction and offers an approach to design for mobile devices. Students should be able to articulate ideas and thought processes in relation to their choice of design and type. An extended project will be completed. Objectives include an introduction to user research methods, design validation, and ADA compliance.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX.2000 Introduction to Graphic Design, and GRFX.2020 Fundamentals of Typography.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "GRFX.2000"
+                ],
+                [
+                    "GRFX.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "GRFX.4000": {
+        "name": "GRFX.4000 Portfolio Production Seminar (Formerly GRFX 400)",
+        "url": "https://www.uml.edu/catalog/courses/GRFX/4000/",
+        "id": "038917",
+        "description": "This course is designed to help students to organize their work into a professional package and prepare it for presentation. Students may decide to rework existing portfolio pieces or complete additional design projects to enhance their existing portfolios and fully demonstrate their design capabilities. Mock interviews will be conducted in which students will have an opportunity to discuss their work. Includes an end-of-semester portfolio review. 3 credits/3 contact hours.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "GRFX 2000(Formerly 70.291 or ARTS 2100) & GRFX 2020(Formerly ARTS 2400 or ARTS 2300) & GRFX 2110(Formerly ARTS 2450) & GRFX 3000(Formerly 70.391or ARTS 3100) or Instructor Perm. & Online & Continuing Education Majors, Certificates & Non-Degree O",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARTS.2100)",
+                    "ARTS.2400",
+                    "ARTS.2300)",
+                    "ARTS.2450)",
+                    "ARTS.3100)"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,924 @@
+{
+    "total": 53,
+    "time": 36.89493799209595,
+    "MUED.1000": {
+        "name": "MUED.1000 Observation Lab I  (Formerly 73.100)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/1000/",
+        "id": "033187",
+        "description": "All students who are registered for 73.151 Introduction to Music Education are required to sign up for Observation lab 1 and complete 15 hours of school observations outlined by course Instructor.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Co-Req: MUED.1510 Intro to Music Ed.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MUED.1510"
+                ]
+            ]
+        }
+    },
+    "MUED.1410": {
+        "name": "MUED.1410 Introduction To Brass Pedagogy 1 (Formerly 73.141/501)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/1410/",
+        "id": "007092",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on brass instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: MUED.1510 Intro to Music Ed.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.1420": {
+        "name": "MUED.1420 Introduction to Brass Pedagogy 2 (Formerly 73.142)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/1420/",
+        "id": "007093",
+        "description": "A continuation of 73.141. Intensive class instruction toward the development of basic performance proficiency on brass instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Reqs: MUED 1510 Intro to Music Ed and MUED 1410 Intro to Brass Pedagogy I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ],
+                [
+                    "MUED.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.1440": {
+        "name": "MUED.1440 Introduction to Woodwind Pedagogy I (Formerly 73.144/504)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/1440/",
+        "id": "007095",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on woodwind instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: MUED.1510 Intro to Music Ed.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.1450": {
+        "name": "MUED.1450 Introduction to Woodwind Pedagogy 2 (Formerly 73.145/505)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/1450/",
+        "id": "007096",
+        "description": "A continuation of 73.144. Intensive class instruction toward the development of basic performance proficiency on woodwind instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Reqs: MUED 1510 Intro to Music Ed and MUED 1440 Intro to Woodwinds I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ],
+                [
+                    "MUED.1440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.1510": {
+        "name": "MUED.1510 Introduction To Music Education (Formerly 73.151)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/1510/",
+        "id": "007097",
+        "description": "Designed to provide the student with an overview of the principles and practices of music education in today's public schools. Students will observe regular classrooms and music instruction at all levels of N-12 education. This course is a prerequisite for all professional education courses in music education and includes the component of required pre-practicum fieldwork.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Co-Req: MUED.1000 Observation Lab 1.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MUED.1000"
+                ]
+            ]
+        }
+    },
+    "MUED.1620": {
+        "name": "MUED.1620 Introduction to Percussion Pedagogy (Formerly 73.162/5060)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/1620/",
+        "id": "007099",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on percussion instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.2000": {
+        "name": "MUED.2000 Observation Lab 2 (Formerly 73.200)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2000/",
+        "id": "033188",
+        "description": "All students who are registered for 73.410 Globas Music for the Classroom are required to sign up for Observation Lab 2 and complete 20 hours of school observations outlined by course instructor.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Co-Req: MUED 4100 Global Music for Classroom.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MUED.4100"
+                ]
+            ]
+        }
+    },
+    "MUED.2120": {
+        "name": "MUED.2120 Special Topics (Formerly 73.212)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2120/",
+        "id": "035114",
+        "description": "Special Topics: A variety of topical issues in music will be explored through an interdisciplinary lens, which will vary from semester to semester. This music elective may include analysis and discussions of musical structure and form, culture and its influence on musical genre\u00bfs, gender in music, as well as identity and inclusion, depending on faculty and student interest.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.2410": {
+        "name": "MUED.2410 Introduction to Strings Pedagogy 1 (Formerly 73.241/507)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2410/",
+        "id": "007104",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on string instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: MUED.1510 Intro to Music Ed.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.2420": {
+        "name": "MUED.2420 Introduction to String Pedagogy 2 (Formerly 73.242/508)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2420/",
+        "id": "007105",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on string instruments and the development of pedagogical skills and techniques for beginning instructionand demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Reqs:  MUED 1510 Intro to Music Ed and MUED 2410 Intro to Strings Ped I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ],
+                [
+                    "MUED.2410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.2440": {
+        "name": "MUED.2440 Introduction to Voice Pedagogy 1 (Formerly 73.244/516)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2440/",
+        "id": "007107",
+        "description": "Intended to cultivate the fundamental principles of singing. The psychology of singing and the psychology of the singing voice are considered as they apply to tone production and resonance.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: MUED.1510 Intro to Music Ed.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.2450": {
+        "name": "MUED.2450 Introduction to Voice Pedagogy 2 (Formerly 73.245/517)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2450/",
+        "id": "007108",
+        "description": "A continuation of Voice Pedagogy 1.  Intended to cultivate the fundamental principles of singing.  The psychology of singing and the psychology of the singing voice are considered as they apply to tone production and resonance.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: MUED.2440 Intro To Voice Ped 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.2440"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.2470": {
+        "name": "MUED.2470 Introduction to Practical Accompanying  (Formerly 73.247)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2470/",
+        "id": "039178",
+        "description": "This course develops students practical skills in leading and accompanying solo, small and large group performances. Students will accompany their own singing and the singing and performing of others using the piano, guitar, hand percussion, and an original computer arrangement. Original arrangement analysis and production projects will be integrated throughout the semester including realizing lead sheets from sheet music and recordings, performing basic comping, rhythmic, and strumming patterns, and arranging, sequencing and producing accompaniments via computer software. This course culminates in a school or community service-learning performance leading and accompanying youth in singing.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MUTH.1090 Musicianship & Analysis 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.2490": {
+        "name": "MUED.2490 Progressive Performance and Production Pedagogy (Formerly 73.249)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/2490/",
+        "id": "039180",
+        "description": "This course introduces student to pedagogical approaches supporting music performance and production in progressive music experiences in school and community music settings. Students will develop basic performance technique on common progressive performance instruments such as electric guitar and bass, drum set, and keyboard. Students will also develop basic proficiency in live sound reinforcement, including setting up a PA, vocal microphone techniques, and live mixing and balancing. Students will work in small peer groups designing and facilitating small group performance experiences, including songwriting, analysis, arranging and covering music for acoustic and electronic instruments. Students will have experiences facilitating individual and small group instruction with their peers.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "MUTH.1090 Musicianship & Analysis 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUTH.1090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.3000": {
+        "name": "MUED.3000 Observation Lab 3  (Formerly 73.300)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/3000/",
+        "id": "031889",
+        "description": "Pre-Practicum Field and Service learning teaching experiences tied to General Music Methods 1. Students observe and teach in partnership schools under the mentorship of Lowell music teachers and course instructor.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Co-Req: MUED 4200 General Music Methods I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MUED.4200"
+                ]
+            ]
+        }
+    },
+    "MUED.3010": {
+        "name": "MUED.3010 Technology in Music Education (Formerly 73.301)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/3010/",
+        "id": "007110",
+        "description": "Introduction to the role of computers and technology in music education programs.\nCourse includes the development of computer literacy, including knowledge of word processing, database and spreadsheet applications as essential to educators, and explores MIDI, the Internet, music software, recording, multimedia and other technologies as educational tools.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUED.1510 Intro to Music Education, and MUHI.2620 Survey of Music History 2, and MUTH.2090 Musicianship and Analysis 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.1510"
+                ],
+                [
+                    "MUHI.2620"
+                ],
+                [
+                    "MUTH.2090"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUED.3940": {
+        "name": "MUED.3940 Choral Repertoire and Rehearsal Techniques  (Formerly 73.394)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/3940/",
+        "id": "007114",
+        "description": "Examination of appropriate choral repertoire for the secondary school level and effective choral rehearsal techniques. Covers auditioning, warmups, choral tone, diction, score preparation, and development of fundamental musicianship skills necessary for a successful choral ensemble. Serves as a choral laboratory setting for the practice of score preparation and rehearsal techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUED.4200 General Music Methods I, and Co-req: MUED.3940 Choral Repertoire and Rehearsal Techniques.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.4200"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUED.3940"
+                ]
+            ]
+        }
+    },
+    "MUED.4000": {
+        "name": "MUED.4000 Observation Lab 4  (Formerly 73.400)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4000/",
+        "id": "033189",
+        "description": "All students who are registered to 73.430 General Music Methods 2 are required to sign up for Observation Lab 4 and complete 20 hours of school observations outlined by course Instructor.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Co-Req: Gen Music Methods 2.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.4100": {
+        "name": "MUED.4100 Global Music for Classroom (Formerly 73.410/500)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4100/",
+        "id": "007116",
+        "description": "Focus on the music education profession's response to multiculturalism in education as evidenced through the National Music Standards and an examination of resources and methodologies for teaching and understanding the music of diverse cultures, styles, and genres. As one of the core professional music education courses, the course includes the component of pre-practicum fieldwork.\nThere will be an additional research project for Graduate Students enrolled in 73.500.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUED.3010 Technology In Music Ed; Co-Req: MUED.2000 Observation Lab 2",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.3010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUED.2000"
+                ]
+            ]
+        }
+    },
+    "MUED.4200": {
+        "name": "MUED.4200 General Music Methods 1 (Formerly 73.420/544)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4200/",
+        "id": "007121",
+        "description": "A course designed to present the basic fundamentals of general music pedagogy, including lesson planning and the writing of instructional objectives. The course discusses basic principles of curriculum and instruction, assessment, learning styles, and developmental psychology. These are related to state curriculum frameworks and National Music Standards 1-5. As one of the core professional music education courses, the course includes the component of pre-practicum fieldwork in selected settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUED 3010 Technology in Music Ed, MUED 4100 Global Music for Classroom, MUED 2000 Observation Lab 2, and Co-req: MUED 3000 Observation Lab 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.3010"
+                ],
+                [
+                    "MUED.4100"
+                ],
+                [
+                    "MUED.2000"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUED.3000"
+                ]
+            ]
+        }
+    },
+    "MUED.4300": {
+        "name": "MUED.4300 General Music Methods 2 (Formerly 73.430/545)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4300/",
+        "id": "007123",
+        "description": "Investigation of some of the most popular methods of teaching general music, including Orff, Kodaly, Dalcroze, and comprehensive musicianship. Discussion of contemporary issues including music in special education, multicultural music education, and National Music Standards 6-9. As one of the core professional music education courses, the course includes the component of fieldwork in selected settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUED 4200 General Music Methods 1; Co-Req: MUED 4000 Observation lab 4",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.4200"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUED.4000"
+                ]
+            ]
+        }
+    },
+    "MUED.4920": {
+        "name": "MUED.4920 Instrumental Repertoire and Rehearsal Techniques (Formerly 73.492/542)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4920/",
+        "id": "007139",
+        "description": "Examination of appropriate instrumental repertoire for the secondary level and effective instrumental rehearsal techniques.  Includes study of rehearsal planning, score preparation, and the development of fundamental musicianship skills necessary for a successful instrumental ensemble.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.4930": {
+        "name": "MUED.4930 Instrumental Ensemble Lab  (Formerly 73.493)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4930/",
+        "id": "007140",
+        "description": "Designed to supplement the experiences of the instrumental methods courses. Students gain experience performing on secondary instruments, planning lessons for beginning and intermediate level instrumental ensembles, sand conducting in these settings.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: MUED.4920 Instrumental Repertoire and Rehearsal Techniques.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MUED.4920"
+                ]
+            ]
+        }
+    },
+    "MUED.4940": {
+        "name": "MUED.4940 Choral Ensemble Lab  (Formerly 73.494)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4940/",
+        "id": "007141",
+        "description": "Designed to supplement the experiences of the choral and vocal methods courses. Students gain experience by planning lessons for elementary and secondary school level vocal ensembles and conducting in these settings.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.4960": {
+        "name": "MUED.4960 Directed Study: Music Education  (Formerly 73.496)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/4960/",
+        "id": "007143",
+        "description": "Individual work under the supervision of a member of the music education faculty on a specific topic approved by the instructor and the music education faculty. Permission of Coordinator of Music Education required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5000": {
+        "name": "MUED.5000 Global Music for Classroom (Formerly 73.410/500)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5000/",
+        "id": "007116",
+        "description": "Focus on the music education profession's response to multiculturalism in education as evidenced through the National Music Standards and an examination of resources and methodologies for teaching and understanding the music of diverse cultures, styles, and genres. As one of the core professional music education courses, the course includes the component of pre-practicum fieldwork.\nThere will be an additional research project for Graduate Students enrolled in 73.500.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5010": {
+        "name": "MUED.5010 Introduction To Brass Pedagogy 1 (Formerly 73.141/501)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5010/",
+        "id": "007092",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on brass instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5040": {
+        "name": "MUED.5040 Introduction to Woodwind Pedagogy I (Formerly 73.144/504)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5040/",
+        "id": "007095",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on woodwind instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5050": {
+        "name": "MUED.5050 Introduction to Woodwind Pedagogy 2 (Formerly 73.145/505)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5050/",
+        "id": "007096",
+        "description": "A continuation of 73.144. Intensive class instruction toward the development of basic performance proficiency on woodwind instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5060": {
+        "name": "MUED.5060 Introduction to Percussion Pedagogy (Formerly 73.162/5060)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5060/",
+        "id": "007099",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on percussion instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5070": {
+        "name": "MUED.5070 Introduction to Strings Pedagogy 1 (Formerly 73.241/507)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5070/",
+        "id": "007104",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on string instruments and the development of pedagogical skills and techniques for beginning instruction and demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5080": {
+        "name": "MUED.5080 Introduction to String Pedagogy 2 (Formerly 73.242/508)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5080/",
+        "id": "007105",
+        "description": "Intensive class instruction toward the development of basic performance proficiency on string instruments and the development of pedagogical skills and techniques for beginning instructionand demonstration purposes.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5100": {
+        "name": "MUED.5100 Foundations Of Music Education  (Formerly 73.510)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5100/",
+        "id": "007146",
+        "description": "This course is intended for undergraduate students preparing for teacher certification in music. Course participants will explore the historical, psychological, and philosophical foundations upon which current practices in music education are built. Students will explore these concepts through readings, class discussions, individual and group presentations, and other dynamic and interactive processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5150": {
+        "name": "MUED.5150 Special Topics in Music Education  (Formerly 73.515)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5150/",
+        "id": "035084",
+        "description": "A variety of topics in Music Education will be explored such as children and the composition process, curriculum design, assessment and technology, which will vary from semester to semester.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5160": {
+        "name": "MUED.5160 Introduction to Voice Pedagogy 1 (Formerly 73.244/516)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5160/",
+        "id": "007107",
+        "description": "Intended to cultivate the fundamental principles of singing. The psychology of singing and the psychology of the singing voice are considered as they apply to tone production and resonance.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5170": {
+        "name": "MUED.5170 Introduction to Voice Pedagogy 2 (Formerly 73.245/517)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5170/",
+        "id": "007108",
+        "description": "A continuation of Voice Pedagogy 1.  Intended to cultivate the fundamental principles of singing.  The psychology of singing and the psychology of the singing voice are considered as they apply to tone production and resonance.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5220": {
+        "name": "MUED.5220 Curriculum Design in Music Education  (Formerly 73.522)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5220/",
+        "id": "036643",
+        "description": "This course will focus on how to design developmentally appropriate learner centered music curricula.  We will explore what it is we are looking to achieve through the arts, what types of learning we are looking to develop and what are the instructional materials and methods needed to achieve these goals.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5420": {
+        "name": "MUED.5420 Instrumental Repertoire and Rehearsal Techniques (Formerly 73.492/542)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5420/",
+        "id": "007139",
+        "description": "Examination of appropriate instrumental repertoire for the secondary level and effective instrumental rehearsal techniques.  Includes study of rehearsal planning, score preparation, and the development of fundamental musicianship skills necessary for a successful instrumental ensemble.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5440": {
+        "name": "MUED.5440 General Music Methods 1 (Formerly 73.420/544)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5440/",
+        "id": "007121",
+        "description": "A course designed to present the basic fundamentals of general music pedagogy, including lesson planning and the writing of instructional objectives. The course discusses basic principles of curriculum and instruction, assessment, learning styles, and developmental psychology. These are related to state curriculum frameworks and National Music Standards 1-5. As one of the core professional music education courses, the course includes the component of pre-practicum fieldwork in selected settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5450": {
+        "name": "MUED.5450 General Music Methods 2 (Formerly 73.430/545)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5450/",
+        "id": "007123",
+        "description": "Investigation of some of the most popular methods of teaching general music, including Orff, Kodaly, Dalcroze, and comprehensive musicianship. Discussion of contemporary issues including music in special education, multicultural music education, and National Music Standards 6-9. As one of the core professional music education courses, the course includes the component of fieldwork in selected settings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5630": {
+        "name": "MUED.5630 Choral Repertoire and Rehearsal Techniques (Formerly 73.563)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5630/",
+        "id": "035817",
+        "description": "Examination of appropriate choral repertoire for the secondary school level and effective choral rehearsal techniques. Covers auditioning, warmups, choral tone, diction, score preparation, and development of fundamental musicianship skills necessary for a successful choral ensemble. Serves as a choral laboratory setting for the practice of score preparation and rehearsal techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MUED.5440 General Music Methods I, and Co-req: MUED.4940 Choral Ensemble Lab.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUED.5440"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUED.4940"
+                ]
+            ]
+        }
+    },
+    "MUED.5770": {
+        "name": "MUED.5770 Instrumental Music Workshop (Formerly 73.577)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5770/",
+        "id": "007168",
+        "description": "This workshop is designed for music educators working with elementary, middle or high school instrumental & choral ensembles, and for students seeking materials for practical application. Participants will explore instrumental & choral music through performance on instruments. Clinician will provide additional information as to technical facility and instrument/vocal specific rehearsal techniques.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5780": {
+        "name": "MUED.5780 Music/Way of Knowing  (Formerly 73.578)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5780/",
+        "id": "007169",
+        "description": "Nick Page presents a unique and practical fusion of ideas and skills, combining multiple intelligence and multicultural theories to create a powerful vision for music education. Using his book \"Music as a Way of Knowing,\" Nick Page will show how music can come alive in a creative, positive environment with music as the center of a school's curriculum - to teach history, culture, and science as well as an amazing aid to listening skills, memory, and emotional well being. Nick is a master song leader who has inspired music educators throughout North America. He is also the author of Sing and Shine On! An Innovative Guide to Leading Multicultural Song, and his choral music is published by Boosey & Hawkes and by World Music Press.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5830": {
+        "name": "MUED.5830 Intro to Technology Applications for the Music Classroom  (Formerly 73.583)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5830/",
+        "id": "030375",
+        "description": "Introduction to the role of computers and technology in music education programs.  Course includes the development of computer literacy, including knowledge of word processing, database and spreadsheet applications as essential to educators, and explores MIDI, the Internet, music software, recording, multimedia and other technologies as educational tools.",
+        "credits": {
+            "min": "2",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5950": {
+        "name": "MUED.5950 Practicum & Analysis (Formerly 73.595)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5950/",
+        "id": "007180",
+        "description": "This is the culminating experience in the Graduate Music Education Teaching Masters under the supervision of a public school supervising practitioner and a UMass Lowell Program Supervisor. Students are required to spend 8 weeks (minimum) teaching in an elementary placement and 8 weeks (minimum) in a secondary placement. Candidates are required to have passed both Communications and Literacy and Music portions of MTEL examinations and maintained an overall GPA of 3.0.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.5960": {
+        "name": "MUED.5960 Graduate Directed Study: Music Education  (Formerly 73.596)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/5960/",
+        "id": "007181",
+        "description": "Participants will develop a focused line of investigation with the supervision of a faculty member in Music Education. Approval of advisor is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.6010": {
+        "name": "MUED.6010 Seminar In Music Education   (Formerly 73.601)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/6010/",
+        "id": "007185",
+        "description": "This course examines the impact of popular culture on today's youth and its implications for the study of music. Students in this course will explore teaching strategies that link musical styles and conventions from other time periods to the present. Using music from various media as a springboard, there will be an emphasis on the development of technology rich teaching strategies for the K-12 music classroom.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.6250": {
+        "name": "MUED.6250 Community Internship (Formerly 73.625)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/6250/",
+        "id": "035592",
+        "description": "This course will provide students with the opportunity to gain real world experience in the administration of a Community Arts organization.  Students will be required to undergo 300 hours of work under the direct supervision of the director of a Community Arts organization, in coordination with a University advisor.  Students will conduct research into various arts organizations, revise resumes, and draft cover letters under the guidance of the course advisor in preparation for the internship application process.  Students will be required to secure the internship pending approval of the course advisor.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.6500": {
+        "name": "MUED.6500 Research in Music Education (Formerly 73.650)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/6500/",
+        "id": "031972",
+        "description": "This is a required music graduate class that will highlight fundamental research techniques while focusing on multi-disciplinary aspects of writhing about music. Relevant skills and practices: Students will learn how different project types are structured; students will discuss how research acts in the real world and its relevance to their field; The semester will be divided into writing the sections of a professional research paper, with students producing an article as their final project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.6950": {
+        "name": "MUED.6950 Direct Study and Research (Formerly 73.695)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/6950/",
+        "id": "007188",
+        "description": "Participants will develop a focused line of investigation with the supervision of a faculty member in Music Education. Approval of advisor is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.6960": {
+        "name": "MUED.6960 Project Report (Formerly 73.696)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/6960/",
+        "id": "007189",
+        "description": "Original research through action research projects conducted in one's classroom. Students investigate learner-centered approaches to teaching, learning and evaluation. Written reports required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUED.7430": {
+        "name": "MUED.7430 Master's Thesis, Music Education (Formerly 73.743)",
+        "url": "https://www.uml.edu/catalog/courses/MUED/7430/",
+        "id": "007192",
+        "description": "For graduate music education students actively engaged in research leading toward the submission of a written thesis. A program of supervised work will be arranged between the student and a faculty supervisor. Permission of the faculty member who will supervise the thesis is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

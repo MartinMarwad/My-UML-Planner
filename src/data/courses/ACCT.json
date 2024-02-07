@@ -1,0 +1,891 @@
+{
+    "total": 43,
+    "time": 29.477784633636475,
+    "ACCT.2010": {
+        "name": "ACCT.2010 Accounting/Financial (Formerly ACCT/60.201)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/2010/",
+        "id": "006329",
+        "description": "Presents a comprehensive, detailed exposure to basic accounting theory. Beginning with the accounting equation, students are introduced to the accounting cycle, preparation of the statement of financial position and the income statement, accounting for assets, liabilities, and stockholders' equity of the firm, and cash flow and financial statement analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.2020": {
+        "name": "ACCT.2020 Accounting/Managerial (Formerly ACCT/60.202)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/2020/",
+        "id": "006330",
+        "description": "Examines the use of accounting systems for managerial decision-making. Budgeting, forecasting, and cost accumulation systems, which relate to manufacturing systems, will be studied.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ACCT.2010 Acct/Financial.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.2030": {
+        "name": "ACCT.2030 Fundamentals of Accounting",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/2030/",
+        "id": "039660",
+        "description": "This course presents an intensive introduction to critical Financial and Managerial Accounting tools, techniques, and concepts. The course provides a comprehensive exposure to basic accounting theory and the use of accounting for managerial decision-making. Topics include the accounting equation, the accounting cycle, preparation of the financial statements, cost accumulation, cost behavior, and cost-volume-profit analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.3010": {
+        "name": "ACCT.3010 Intermediate Accounting I (Formerly ACCT/60.301)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3010/",
+        "id": "006331",
+        "description": "Examines the generally accepted accounting principles relating to the preparation of financial statements. The student will study, in depth, the valuation and disclosure problems associated with the assets of the enterprise.  The accounting framework and pronouncements of the Financial Accounting Standards Board are emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ACCT.2020 Accounting/Managerial; also 'C' or higher required in ACCT.3010.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2020",
+                    "ACCT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.3020": {
+        "name": "ACCT.3020 Intermediate Accounting II (Formerly ACCT/60.302)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3020/",
+        "id": "006332",
+        "description": "Presents the in-depth study of the valuation and disclosure issues associated with corporate liabilities and stockholders'  equity. Emphasis is placed on the statements  of the Financial Accounting Standards Board.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ACCT.3010 Intermediate Acct I with 'C' or higher.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.3030": {
+        "name": "ACCT.3030 Accounting Information Systems (Formerly ACCT/60.303)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3030/",
+        "id": "006333",
+        "description": "Presents accounting as a system designed to meet the needs of external and internal users. Accounting information system concepts are emphasized. Topics include accounting transaction cycles, internal controls, and systems development processes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.3020 Intermediate Accounting II, or ACCT.3200 Corporate Financial Reporting II, and MIST.2010 Management Information Systems, With a 'C' or higher for all, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.3020",
+                    "ACCT.3200"
+                ],
+                [
+                    "MIST.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.3099": {
+        "name": "ACCT.3099 Accounting Boot Camp",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3099/",
+        "id": "041796",
+        "description": "This intensive accounting course is designed to prepare students for the rigors of the upper-level coursework of the accounting concentration by enhancing their foundation knowledge of financial accounting. The course emphasizes the accounting cycle, and covers the topics like accounts receivable, inventory, and revenue as deemed necessary. Students will also have the opportunity to network with accounting practitioners as an introduction to the professional world of accounting.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Pre-Req: ACCT.2010 Acct/Financial.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.3100": {
+        "name": "ACCT.3100 Corporate Financial Reporting I",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3100/",
+        "id": "041129",
+        "description": "Corporate Financial Reporting I examines the Financial Accounting Standards Board's regulations that make up generally accepted accounting principles relating to the preparation of external financial statements. The student will study, in depth, the accounting cycle, preparation of the Balance Sheet and Income Statement, and the standards/pronouncements governing cash, accounts receivable, notes receivable, and inventory as well as revenue recognition. The student will also begin to understand how data analytics tools are used by accountants",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.2010 Financial Accounting, and Pre-req or Co-req: ACCT.2020 Managerial Accounting.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "ACCT.2020"
+                ]
+            ]
+        }
+    },
+    "ACCT.3100L": {
+        "name": "ACCT.3100L Corporate Financial Reporting I Lab",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3100L/",
+        "id": "041795",
+        "description": "This course gives you additional practice in the concepts covered in ACCT.3100, Corporate Financial Reporting I.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "ACCT.2010 Accounting/Financial, and Co-req: ACCT.3100 Corporate Financial Reporting I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2010"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "ACCT.3100"
+                ]
+            ]
+        }
+    },
+    "ACCT.3200": {
+        "name": "ACCT.3200 Corporate Financial Reporting II",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3200/",
+        "id": "041130",
+        "description": "This course is the second of three corporate financial reporting courses. This course provides the student with the breath, depth and application of the accounting standards and regulations. The course covers accounting theory and practices associated with financial reporting issues of PPE, intangible assets, investments, liabilities, bonds, leases, and income taxes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.3100 Corporate Financial Reporting I, with a 'C' or higher. or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.3200L": {
+        "name": "ACCT.3200L Corporate Financial Reporting II Lab",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3200L/",
+        "id": "041794",
+        "description": "This course gives you additional practice in the concepts covered in ACCT.3200, Corporate Financial Reporting II.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "ACCT.2010 Accounting/Financial, and ACCT.3100 Corporate Financial Reporting I, and Co-req: ACCT.3200 Corporate Financial Reporting II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2010"
+                ],
+                [
+                    "ACCT.3100"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "ACCT.3200"
+                ]
+            ]
+        }
+    },
+    "ACCT.3210": {
+        "name": "ACCT.3210 Cost Accounting (Formerly ACCT/60.321)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3210/",
+        "id": "006335",
+        "description": "An examination of the manufacturing function from the view of the cost accountant. Managerial control of the elements of product costs will be studied with an emphasis on cost accumulation systems both historical and estimated.  Meets Core Curriculum Essential Learning Outcome for Quantitative Literacy (QL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.3010 Intermediate Accounting, or ACCT.3100 Corporate Financial Reporting I, with a 'C' or higher, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.3010",
+                    "ACCT.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.3300": {
+        "name": "ACCT.3300 Corporate Financial Reporting III",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/3300/",
+        "id": "041131",
+        "description": "This course is the third of three corporate financial reporting courses. This course presents the in-depth study of the valuation and disclosure problems associated with Pension (a part of corporate liabilities) and stockholders' equity. After completion of this course, a CAPSTONE project is ready to be completed. Emphasis is placed on the pronouncements of the Financial Accounting Standards Board.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.3100 Corporate Financial Reporting I, and ACCT.3200 Corporate Financial Reporting II, with a 'C' or higher in both, or Spring 2020 grade of 'P'.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.3100"
+                ],
+                [
+                    "ACCT.3200"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.4010": {
+        "name": "ACCT.4010 Advanced Financial Accounting I (Formerly ACCT/60.401)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/4010/",
+        "id": "006344",
+        "description": "Explores issues in accounting for large, multinational business entities. Consolidation, mergers, home office/branch accounting, international accounting topics, partnership and nonprofit organizations are also examined.  Meets Core Curriculum Essential Learning Outcome for Applied & Integrative Learning (AIL) and Critical Thinking & Problem Solving (CTPS).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.3020 Intermediate Accounting II, or ACCT.3300 Corporate Financial Reporting III, with a \"C\" or better, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.3020",
+                    "ACCT.3300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.4210": {
+        "name": "ACCT.4210 Auditing (Formerly ACCT/60.421)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/4210/",
+        "id": "006347",
+        "description": "An examination of the purposes of financial statement audits. The following topics will be examined in depth: auditing standards, professional ethics, legal responsibilities, internal control, audit evidence, financial statement disclosures and audit reports.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.3020 Intermediate Accounting II, or ACCT.3200 Corporate Financial Reporting II, and with a 'C' or higher for all, and Co-req: ACCT.3030 Accounting Information Systems.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.3020",
+                    "ACCT.3200"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "ACCT.3030"
+                ]
+            ]
+        }
+    },
+    "ACCT.4310": {
+        "name": "ACCT.4310 Federal Income Taxes (Formerly ACCT/60.431)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/4310/",
+        "id": "006349",
+        "description": "Deals with the basic rules and regulations of the Internal Revenue Code as it affects the individual and the corporation. An understanding of the code is developed through lectures, assigned readings, research, and the solution to a wide variety of problems.   Meets Core Curriculum Essential Learning Outcome for Information Literacy (IL).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.2020 Acct/Managerial.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.4790": {
+        "name": "ACCT.4790 Accounting Internship (Formerly ACCT/60.479)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/4790/",
+        "id": "006355",
+        "description": "Arrangements must be made with department internship coordinator.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.4800": {
+        "name": "ACCT.4800 Special Topics in Accounting/Internal Audit",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/4800/",
+        "id": "041755",
+        "description": "Special Topics in Accounting introduces students to the activities of an internal auditor and the role of internal auditing in organizations. It explains why internal auditors have such a great understanding of all aspects of the organization for which they work, such as: governance, sales & marketing, management oversight, human resources, supply chain, accounting, finance, compliance, information technology and general operations. Students will learn the basics of business processes; understanding business objectives, risk and controls as well as the steps required to plan, conduct, and report internal audit activities. The course will include a hands-on case study of performing an internal audit and/or consulting project.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.2010 Financial Accounting, and ACCT.2020 Managerial Accounting, and POMS.2010 Introduction to Business Analytics, and FINA.3010 Financial Management, or Permission by the instructor in special cases.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.2010"
+                ],
+                [
+                    "ACCT.2020"
+                ],
+                [
+                    "POMS.2010"
+                ],
+                [
+                    "FINA.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.4991": {
+        "name": "ACCT.4991 Independent Studies (Formerly ACCT/60.499)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/4991/",
+        "id": "006356",
+        "description": "An opportunity for students to carry out individualized study relating to the field of accounting under the supervision of a member of the accounting faculty.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.5010": {
+        "name": "ACCT.5010 Financial Accounting (Formerly ACCT/60.501)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/5010/",
+        "id": "006357",
+        "description": "An introduction to financial accounting within the context of business transactions and business decisions. This course is a broad introduction to using accounting information from the user's perspective with little emphasis on traditional debits, credits, journal entries and ledgers. Emphasis is placed on preparing and understanding financial statements.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Matriculated MBA students or MSF or MSEM or MGFB Certificate or PSM or MPA or Doctor of Engineering majors or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.6010": {
+        "name": "ACCT.6010 Accounting Information for Management Decisions (Formerly ACCT/60.601)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6010/",
+        "id": "006360",
+        "description": "Prerequisite: Student must be matriculated and must have completed foundation core courses. Focuses on the manager's view as opposed to the accountant's view of the decision process and related quantitative and qualitative information needs. The course material examines accounting information that will achieve faster, better, and cheaper operations. New strategic cost management models, such as ABC and target costing, are explored and contrasted with traditional cost approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110 or permission of MBA coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.6020": {
+        "name": "ACCT.6020 Advanced Management and Sustainability Accounting (Formerly ACCT/60.602)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6020/",
+        "id": "037228",
+        "description": "In the new environment of change, accountants are increasingly called on to support strategy through increasing efficiencies and reducing costs.  This course will examine the different ways that accountants can add value through an understanding of value chain activities, use of technology, and extending value chain activities to develop a sustainability strategy.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSA or non-MSA students who have completed the prerequisite of 60.601.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.6050": {
+        "name": "ACCT.6050 Government and Non-Profit Accounting (Formerly ACCT/60.605)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6050/",
+        "id": "038799",
+        "description": "This course introduces students to financial accounting and reporting issues related to stat and local government and non-profit organizations. Students will learn how to prepare, analyze, and interpret these entities financial statements.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSA Program, or Permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.6120": {
+        "name": "ACCT.6120 Advanced Cost Management (Formerly ACCT/60.612)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6120/",
+        "id": "006361",
+        "description": "An examination of cost data in ambiguous situations to assist managers in decision-making and strategy implementation.  Emphasis is placed on advanced cost management for strategic planning, management control and, performance evaluation in multinational business entities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSA or MBA students who have completed the prerequisites of  ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110 and ACCT.6010 or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ],
+                [
+                    "ACCT.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.6210": {
+        "name": "ACCT.6210 Tax Factors in Business Decisions (Formerly ACCT/60.621)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6210/",
+        "id": "035726",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSA or non-MSA students who have completed the prerequisite of 60.601.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.6220": {
+        "name": "ACCT.6220 Globalization and Accounting (Formerly ACCT/60.622)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6220/",
+        "id": "035725",
+        "description": "What role do accountants play in the globalizing business environment? This course will explore this topic, emphasizing global capital markets and financial reporting, the impact of global organizational structures and information systems on managerial accounting, and complex issues of audit and taxation that emerge in this global environment. To appreciate the impact of globalization, the course will consider such aspects as variations in the currencies, cultures, history, ethical issues and legal systems of different regions of the world, emphasizing how managers need to consider global opportunities and risks in their decision-making manage effectively.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110, ACCT.6010 or permission of MBA coordinator or MSA students or permission of MSA Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ],
+                [
+                    "ACCT.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.6230": {
+        "name": "ACCT.6230 Contemporary Accounting Issues (Formerly ACCT/60.623)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6230/",
+        "id": "035727",
+        "description": "Significant and rapid changes in accounting rules are impacting the financial reporting and analysis that management uses to make business decisions.  This course will explore contemporary accounting topics that accounting professionals will face in the workplace and how the accompanying requirements are changing the way that companies and their business partners use, report, analyze, and interpret financial data.  Subjects covered will vary as conditions change but may include International Financial Reporting Standards (IFRS), Fair Value Measurements, Post-Retirement Benefits, Revenue Recognition, or other current accounting topics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Matriculated MBA students who have completed ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110, ACCT.6010 or permission of MBA coordinator or MSA students or permission of MSA Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ],
+                [
+                    "ACCT.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.6300": {
+        "name": "ACCT.6300 Taxation of Business Entities (Formerly ACCT/60.630)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6300/",
+        "id": "037226",
+        "description": "This course provides coverage of gross income and business deductions, and provides a comprehensive overview of the taxation of corporations, partnerships, and sole proprietorships.  This course will also cover the history of federal taxation, estate and gift taxes, and how the taxation of business entities fits into the entire tax system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSA or MBA students who have completed the prerequisites of  ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110 and ACCT.6010 or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ],
+                [
+                    "ACCT.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.6400": {
+        "name": "ACCT.6400 Financial Accounting Theory and Research (Formerly ACCT/60.640)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6400/",
+        "id": "037223",
+        "description": "A comprehensive exposure at an intermediate level to accounting theory and practice.  Emphasis is placed on applying underlying accounting theory to complex accounting measurement problems.  The effects of alternative methods are considered throughout the entire course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSA or MBA students who have completed the prerequisites of  60.501, 61.501, 62.501, 63.501, 66.501, 66.511 and   60.601  with permission from the MSA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.6450": {
+        "name": "ACCT.6450 Fraud Examination and Forensic Accounting (Formerly ACCT/60.645)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6450/",
+        "id": "037227",
+        "description": "This course introduces students to forensic accounting, with a significant focus on fraud examination, elements of fraud and the types of fraud schemes, including fraudulent financial statements, asset misappropriation, corruption, and money laundering. This course will focus on how professionals including business owners, executives, managers and accountants will benefit from understanding the causes, types and scope of fraud, fraud prevention, fraud detection, and fraud investigation. This course will cover management fraud, employee embezzlement and other types of fraud. The principles and methodology of fraud prevention, detection and investigation (e.g., forensic accounting) will be discussed. Students will develop skills in this course which will help them in multiple professions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MSA or MBA students who have completed the prerequisites of  ACCT.5010, FINA.5010, MKTG.5010, POMS.5010, MGMT.5010, MGMT.5110 and ACCT.6010 or permission of MBA Coordinator.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ],
+                [
+                    "FINA.5010"
+                ],
+                [
+                    "MKTG.5010"
+                ],
+                [
+                    "POMS.5010"
+                ],
+                [
+                    "MGMT.5010"
+                ],
+                [
+                    "MGMT.5110"
+                ],
+                [
+                    "ACCT.6010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.6550": {
+        "name": "ACCT.6550 Advanced Auditing (Formerly ACCT/60.655)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6550/",
+        "id": "037221",
+        "description": "This course provides a more in-depth study of auditing topics including audit planning, evidence gathering and evaluation, professional standards and regulatory agencies, and a practical approach to accounting and auditing research.  Applications will be drawn from public and private sector audits.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MSA students, or permission of MSA Coordinator.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.6600": {
+        "name": "ACCT.6600 Accounting Data Analytics",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6600/",
+        "id": "041278",
+        "description": "Topics to be covered in this course include managing and leaning data, building and evaluating models, visualizing the results of data analyses, and drawing conclusions from the analytics. A series of accounting topics with data analytics application will be discussed, such as fraud and earnings management detection, and financial statement analyses. Students should leave this course with skills necessary to understand data and manage data, to translate accounting and business problems into actionable proposals, and to present data/results to managers and data scientists.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT.5010 Financial Accounting with an earned C or better, or MSA Program, or MSB3 Student Group waiver, or MSB9 Student group waiver, or Spring 2020 grade of \"P\".",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.5010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.6770": {
+        "name": "ACCT.6770 Directed Study: Accounting (Formerly ACCT/60.677)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6770/",
+        "id": "006366",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.6990": {
+        "name": "ACCT.6990 Accounting Internship (Formerly ACCT/60.699)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/6990/",
+        "id": "006369",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.7200": {
+        "name": "ACCT.7200 Fraud Examination (Formerly ACCT/60.720)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7200/",
+        "id": "033569",
+        "description": "Fraud is an extremely costly business problem.  Wells, Chairman of The Association of Certified Fraud Examiners, estimates that all forms of corporate dishonesty from \"cooking the books\" to embezzling could run as high as $660 billion annually.  Business owners, executives, managers and accountants will benefit from understanding the causes, types and scope of fraud, fraud prevention, fraud detection, and fraud investigation.  This course will cover management fraud, employee embezzlement and other types of fraud.  The principles and methodology of fraud prevention, detection and investigation will be discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.7510": {
+        "name": "ACCT.7510 Accounting Research Methodology (Formerly ACCT/60.751)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7510/",
+        "id": "038344",
+        "description": "This course situates accounting and organization management research in the context of scientific inquiry generally, and social science in particular. In introduces students to the philosophical background of epistemological and metaphysical issues, the framing of scientific research, theory development, and the formulation of testable hypotheses. Operationalization, measurement and validity issues are studied, and a wide range of research paradigms and methodologies for accounting and organization management research are introduced and illustrated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.7610": {
+        "name": "ACCT.7610 Empirical Financial Accounting Research I (Formerly ACCT/60.761)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7610/",
+        "id": "038567",
+        "description": "This is part I of a two part doctoral seminar in Empirical Financial Accounting Research. This course introduces and develops a broad understanding of empirical accounting research in financial reporting. The intent is to provide an overview of archival research and an in-depth analysis of current financial accounting research. This course will focus on the types of questions and innovative methods accounting academics are currently pursuing and developing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "60.751 Accounting Research Methodolog.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.7620": {
+        "name": "ACCT.7620 Empirical Financial Accounting Research II (Formerly ACCT/60.762)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7620/",
+        "id": "039045",
+        "description": "This is part II of a two part doctoral seminar in Empirical Financial Accounting Research. This course introduces and develops a broad understanding of empirical accounting research in financial reporting. The intent is to provide an overview of archival research and an in-dept analysis of current financial accounting research. This course will focus on the types of questions and innovative methods accounting academics are currently pursuing and developing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "60.751 Accounting Research Methodology and 60.761 Empirical Financial Accounting Research I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.7720": {
+        "name": "ACCT.7720 Auditing and Corporate Governance Research (Formerly ACCT/60.772)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7720/",
+        "id": "039184",
+        "description": "This course is designed to expose doctoral students to major research areas in auditing and corporate governance research, with an emphasis on primarily archival research and secondarily judgment and decision making research. In line with Empirical Financial Accounting Research, emphasis will be placed on a significant number of research topics and methods by participating in active discussions about challenging research opportunities and auditing and corporate governance research.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ACCT 7510 Accounting Research Methodology, and ACCT 7610 Empirical Financial Accounting Research I and ACCT 7620 Empirical Financial Accounting Research II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ACCT.7510"
+                ],
+                [
+                    "ACCT.7610"
+                ],
+                [
+                    "ACCT.7620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ACCT.7960": {
+        "name": "ACCT.7960 Doctoral Dissertation (Formerly ACCT/60.796)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7960/",
+        "id": "039421",
+        "description": "Doctoral dissertation research.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.7970": {
+        "name": "ACCT.7970 Managerial Research Seminar (Formerly ACCT/60.797)",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7970/",
+        "id": "039240",
+        "description": "The course will involve an on-going monthly presentation from across scholarly disciplines. Speakers will be drawn from local, national, and international universities. Attendance will be mandatory; PhD students should gain an appreciation for high level scholarship and corporate governance research.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Good standing in the BA-PhD program.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.799": {
+        "name": "ACCT.799 Independent Study: Accounting",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/799/",
+        "id": "006380",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ACCT.7990": {
+        "name": "ACCT.7990 Independent Study: Accounting",
+        "url": "https://www.uml.edu/catalog/courses/ACCT/7990/",
+        "id": "006380",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

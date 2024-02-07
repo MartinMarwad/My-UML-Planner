@@ -1,0 +1,306 @@
+{
+    "total": 18,
+    "time": 13.509675025939941,
+    "FAHS.1010": {
+        "name": "FAHS.1010 Values and Creative Thinking (formerly 59.101)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/1010/",
+        "id": "006257",
+        "description": "Values and Creative Thinking is a course designed specifically for freshmen.  Throughout the semester you will be asked to examine your personal value system and how it relates to your education.  The purpose of this course is to help you identify those individual qualities that you can use to achieve your highest academic potential.  Specifically, this course is intended to help you develop greater self-awareness and confidence; creative and critical thinking skills; career planning skills designed to help you understand the  full spectrum of available careers; an understanding of different computer technologies and multimedia techniques; an awareness of the role of values in determining your experiences and perspectives; problem solving and group decision making skills relating to issues that affect the quality of your life.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.1090": {
+        "name": "FAHS.1090 First Year Experience Seminar (Formerly 59.109)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/1090/",
+        "id": "035355",
+        "description": "The First-Year Seminar is designed to help first year students get their college careers off to a good start. Students will be provided with an introduction to key concepts that will help them succeed as university students, including: information literacy and technology, strategies for transition to college and success, time management, healthy and safe life-styles, financial management, and an introduction to on-campus resources, such as those provided by Career Services, the Centers for Learning, and other campus programs. Seminars are arranged by students' program of study",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.1150": {
+        "name": "FAHS.1150 Lowell as Text",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/1150/",
+        "id": "035840",
+        "description": "First year seminar for students interested in exploring Lowell, past and present, and using the city to investigate various other issues beyond local.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.1400": {
+        "name": "FAHS.1400 College Exploration Seminar",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/1400/",
+        "id": "041945",
+        "description": "College Exploration Seminar is designed to: Guide rising high school Seniors through the process of exploring and researching academic majors and/or future careers that match their strengths, interests, personality, skills, and values; Introduce students to various research tools for exploring and comparing colleges; Provide an overview of the college application process (with guest speakers from both Admissions and Financial Aid) with an emphasis on best practices; Orient students to the concept of college (with an emphasis on the terminology used in higher education, the differences between high school and college, study skills & time management strategies for a successful first year, and available college resources); Provide an overview of available majors within specific categories (Arts & Humanities, Business, Education, Health, Social Sciences, STEM); Teach students to utilize different decision-making strategies regarding career choice, and to set realistic goals.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.1500": {
+        "name": "FAHS.1500 Major Exploration Seminar",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/1500/",
+        "id": "041152",
+        "description": "Major Exploration Seminar is designed to guide First and Second Year students through the process of exploring and researching college majors and careers that match their strengths, interests, personality, skills, and values.  Each week we learn about a specific major, and faculty guest speakers representing that major often join us to provide insight into possible career paths.  We also utilize a variety of approaches including self-assessment, online research, interest inventories, and informational interviews, so that each student begins to develop a clear picture of majors and careers that are potentially realistic and rewarding to them.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "First Year or Second Year Students only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.1600": {
+        "name": "FAHS.1600 Career Exploration Seminar",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/1600/",
+        "id": "041620",
+        "description": "Career Exploration Seminar II allows students to further explore their fields of interest in a hands-on experiential way through required externship experience. With coaching from the course instructor, each student will: 1) identify two people (working in a field of interest to them) that the would like to job-shadow. 2) request, schedule, and attend the shadowing experiences. 3) provide an extensive overview of the fields and/or occupations they explored to the class. Each student will spend a total of 14 hours throughout the semester shadowing two different people who work in a role or setting that they are potentially interested in. It is suggested that students complete these hours in two 7-hour increments (a 7-hour day with one employer, and a 7-hour day with the other).",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "FAHS.1500 FAHSS Career Exploration Seminar, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FAHS.1500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FAHS.2000": {
+        "name": "FAHS.2000 Job Search Seminar",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/2000/",
+        "id": "040169",
+        "description": "The Job Search Seminar is designed to provide students with the necessary structure, resources, and support to facilitate their career development and the pursuit of career goals. Through a variety of interactive teaching methodologies and assignments, students will participate in a sequence of learning activities including self-assessment, career exploration, and the job search process. The latter will include resume and cover letter writing, the online search, professional networking, and strategic interviewing. The goal of the course is to assist each student in developing a sound plan of action in pursuing their career objectives.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "ENGL.1010 College Writing I, and ENGL.1020 College Writing II or HONR.1100, and open to all FAHSS majors.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ],
+                [
+                    "ENGL.1020",
+                    "HONR.1100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FAHS.2010": {
+        "name": "FAHS.2010 Innovation Project",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/2010/",
+        "id": "040673",
+        "description": "This one credit course is designed to award academic credit for students who are engaged in a project associated with any of the Difference Maker competitions. In the College of Fine Arts, Humanities and Social Sciences, the annual  Creative Venture Competition engages students in a project that creates a new product, program or service that addresses a societal need. Credit is awarded upon completion of all requirements of the competition.\nSince there is no in class requirement, and each project is different, a Project Description, rather than a syllabus is submitted.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.2130": {
+        "name": "FAHS.2130 Foundations in Liberal Studies (Formerly 59.213)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/2130/",
+        "id": "039401",
+        "description": "Foundations of Liberal Studies is a required course for all BLA majors. This course examines the value and importance of drawing on several academic disciplines to understand issues that are too complex to be addressed effectively using any single discipline. Using a case study approach, we will examine how the elements of various disciplines can be integrated and synthesized to understand and give voice to complex issues dealing with health, environment, governance, peace and conflict, etc. Upon completing the course, students will be able to view the courses in their tow BLA concentrations from an interdisciplinary perspective by observing how elements of each discipline can contribute to the understanding of global problems. These skills will be applied in the BLA Capstone Course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: BLA Maj & ENGL.1010 or 1020 College Writing 1 or 2, or HONR.1100 or equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010",
+                    "HONR.1100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FAHS.2200": {
+        "name": "FAHS.2200 Designing the Future World (Formerly 57.220)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/2200/",
+        "id": "033440",
+        "description": "All purposeful human activity involves design.  Every day we are surrounded by the products of design processes--buildings, cars, entertainment, corporations, schools, even laws and regulations.  They make our lives easier in many ways, but they may also create significant social and environmental problems.  In the past, designers often did not consider the impact of their deigns on society, or ignored the negative consequences.  Our culture and legal system usually permitted, or even encouraged, this irresponsibility.  Today, a small group of scholars, businessmen and women, and activists are rethinking how we design the things around us, with the goal of  addressing the most pressing social and environmental issues.  This class will introduce students to some of these issues,\nthe people who are confronting them, and the ways in which all of us can contribute to designing a better Future World.\nWith a series of hands on projects, coupled with readings and other resources, students will work to design aspects of the future.  In the process you will learn about  possible solutions to complex, important problems, but also learn valuable life skills such as problem framing, problem solving, critical thinking, active learning, communication, and simple construction methods.  No previous experience is required-only curiosity and eagerness to learn.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.3600": {
+        "name": "FAHS.3600 Creative Community Workshop (AH)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/3600/",
+        "id": "042139",
+        "description": "This course seeks to motivate and guide students toward the improvement of their community in a measurable, actionable, and continuable manner. The course encourages creativity and promotes serviceable thinking, from concept to delivery. Students will be expected to work in a team structure to solve problems, process information, explore and pursue entrepreneurial opportunities, make decisions, communicate verbally within their team and being able to present their ideas to external audiences. The course satisfies Arts and Humanities Perspective (AH).",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FAHS.3601": {
+        "name": "FAHS.3601 Creative Community Workshop (SS)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/3601/",
+        "id": "042140",
+        "description": "This course seeks to motivate and guide students toward the improvement of their community in a measurable, actionable, and continuable manner. The course encourages creativity and promotes serviceable thinking, from concept to delivery. Students will be expected to work in a team structure to solve problems, process information, explore and pursue entrepreneurial opportunities, make decisions, communicate verbally within their team and being able to present their ideas to external audiences. The course satisfies Social Sciences Perspective (SS).",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FAHS.3700": {
+        "name": "FAHS.3700 Washington Center Term (Formerly 59.370)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/3700/",
+        "id": "006308",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "12"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.3960": {
+        "name": "FAHS.3960 Environmental Studies Practicum (Formerly 59.396)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/3960/",
+        "id": "033369",
+        "description": "This course is the service learning capstone for the Environmental Studies Minor (soon to be created, after approval of this course).  It emphasizes the cross-disciplinary examination of contemporary environmental issues, starting from the premise that they are multi-dimensional - biophysical, cultural, economic, ethical, historical, technical, etc.  It requires only a few class meetings and otherwise involves students in work with local and regional environmental agencies and organizations.  This service work is meant to encourage students to make connections between theory and practice, as well as to expand the conceptual and practical tool kit they need to understand environmental controversies and work toward sustainability.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "Pre-Req: 46.175 Intro to Environmental Studies.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.4130": {
+        "name": "FAHS.4130 BLA Capstone (Formerly 59.413)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/4130/",
+        "id": "039402",
+        "description": "Student enrolled in the BLA program complete the BLA Capstone course during their senior year. This course features a semester-long interdisciplinary project, using knowledge gained from the students' two BLA concentrations, as well as any minors, as applicable. Students enrolled on-campus may choose to complete an original research study, creative art project (i,e., writing, film, music, drawing, etc.), or a problem-focused community action project. Online students choose to do either an original research project or a creative art project. Projects are completed in consultation with the instructor of the BLA Capstone course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "FAHS 2130 Foundations in Liberal Studies, and  (ENGL 1020 College Writing ll or HONR.1100)",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "FAHS.2130"
+                ],
+                [
+                    "HONR.1100)"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "FAHS.4910": {
+        "name": "FAHS.4910 Directed Studies - Intercollegiate FAHSS (Formerly 59.491)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/4910/",
+        "id": "038609",
+        "description": "Directed Studies - Intercollegiate FAHSS. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.4960": {
+        "name": "FAHS.4960 Directed Study in Peer Tutoring (Formerly 59.496)",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/4960/",
+        "id": "006326",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "FAHS.4970": {
+        "name": "FAHS.4970 Directed Studies: Environment and Society",
+        "url": "https://www.uml.edu/catalog/courses/FAHS/4970/",
+        "id": "035783",
+        "description": "An individual supervised research project relative to issues of the environment and society.  Thematic or methodological issues must result in a significant research paper.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

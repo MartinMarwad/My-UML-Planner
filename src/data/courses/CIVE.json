@@ -1,0 +1,1809 @@
+{
+    "total": 109,
+    "time": 70.91690182685852,
+    "CIVE.1070": {
+        "name": "CIVE.1070 Introduction to Engineering for Civil and Environmental (Formerly 25.107/14.107)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/1070/",
+        "id": "039470",
+        "description": "This course provides an introduction to the elements of computer aided design using AutoCAD.  Through assignments and projects, students learn various AutoCAD principles, i.e., graphic entities, hatch patterns, layering, and dimensioning, with special emphasis on completing a design project. Two-dimensional drafting and three-dimensional modeling and surface revolution are also discussed. This course is intended for freshmen in civil and environmental engineering majors.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.2250": {
+        "name": "CIVE.2250 Surveying I (Formerly 14.225)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/2250/",
+        "id": "002970",
+        "description": "A presentation of the basic instruments used in survey processes including distance, angle and level measurements. Analysis and adjustment of random errors. Principles of closed and open traverses. Fieldwork practice in instrument use and office-type projects in contour mapping and the application of contoured topography to highway and water-control projects.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 1320 Calc II or Co-Req MATH 1320 Calc II or Pre-Req MATH 1420 Honors Cal II or Co-Req MATH 1420 Honors Calc II or Pre-Req Calc ABC, and Co-Req CIVE 2860 Prob and Stats for Engineers or Pre-Req CIVE 2860 or Pre or Co-req Math.2830.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.1320",
+                    "MATH.1420",
+                    "MATH.1420"
+                ],
+                [
+                    "CIVE.2860"
+                ],
+                [
+                    "CIVE.2860",
+                    "MATH.2830"
+                ]
+            ]
+        }
+    },
+    "CIVE.2260": {
+        "name": "CIVE.2260 Geomatics (Formerly 14.226)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/2260/",
+        "id": "002971",
+        "description": "Principles and practice of route surveys and designs. Topics include simple and compound circular curves, intersections of straight and curved baselines, vertical alignment principles including parabolic easement curves, earthwork operations and determination of volumes. Includes office-type projects illustrative of the application of surveying information to Civil Engineering projects such as water resources, sanitary sewers and property subdivision. Fieldwork instruction in basic traverse surveys, gathering of topographic information, and the staking-out of buildings and circular curves.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CIVE.2250 Surveying I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.2250"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.2860": {
+        "name": "CIVE.2860 Probability and Statistics for Engineers (Formerly 14.286)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/2860/",
+        "id": "002972",
+        "description": "Probability, statistics, reliability and decision with applications in engineering. Probability of events, discrete and continuous random variables, probability density functions and distributions, estimation, regression and correlation techniques, risk and reliability concepts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req or Co-Req: MATH 1320 Calculus II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ]
+        }
+    },
+    "CIVE.3010": {
+        "name": "CIVE.3010 Fluid Mechanics (Formerly 14.301)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3010/",
+        "id": "002973",
+        "description": "Fluid properties, fluid statics, fluid dynamics including continuity, impulse-momentum and energy equations. Pipe flow, turbomachinery, similitude and modeling, laminar and turbulent flow, boundary layer and closed conduct design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 2310 Calculus III, ENGN 2070 Dynamics, MATH 2340 Differential Equations, or MATH.2360 Eng.Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "ENGN.2070"
+                ],
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.3100": {
+        "name": "CIVE.3100 Engineering Materials (Formerly 14.310)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3100/",
+        "id": "002975",
+        "description": "A treatment of the properties of engineering materials that influence the design, construction and maintenance of Civil Engineering works. Included are such materials as ferrous and non-ferrous metals, timber, asphalt, and cementitious materials. Supplemented by laboratory testing of various engineering materials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Reqs: CHEM 1220 Chemistry II or CHEM 1360 Honors Chemistry II and  ENGN 2060 Strength of Materials.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220",
+                    "CHEM.1360"
+                ],
+                [
+                    "ENGN.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.3110": {
+        "name": "CIVE.3110 Engineering Materials Laboratory (Formerly 14.311)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3110/",
+        "id": "002976",
+        "description": "Experiments and written reports. Testing and measurement techniques and material standards illustrating behavior of materials, including metals, wood, and Portland cement concrete.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "ENGN.2060 Strength of Materials.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.3300": {
+        "name": "CIVE.3300 Soil Mechanics (Formerly 14.330)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3300/",
+        "id": "002977",
+        "description": "Development of the fundamental principles of soil mechanics as utilized in soil and foundation engineering. Topics include: classification, index properties, strength and stress-strain behavior, effective stress principle, permeability, flow and consolidation. Introduction to basic soil mechanics laboratory practice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre and Co-requisites: CIVE.3100 (pre-requisite), CIVE.3330 (co-requisite), and CIVE.3010 or MECH.3810 or CHEN.3030 (co-requisite)",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CIVE.3100"
+                ],
+                [
+                    "CIVE.3330"
+                ],
+                [
+                    "CIVE.3010",
+                    "MECH.3810",
+                    "CHEN.3030"
+                ]
+            ]
+        }
+    },
+    "CIVE.3320": {
+        "name": "CIVE.3320 Environmental Engineering Laboratory (Formerly 14.332)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3320/",
+        "id": "002979",
+        "description": "Laboratory experiments to illustrate analysis of environmental samples and experimental techniques, normally used in support of water and wastewater treatment facilities. Course emphasizes data acquisition and analysis, and engineering report writing.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: CIVE.3620 Environmental Engineering.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CIVE.3620"
+                ]
+            ]
+        }
+    },
+    "CIVE.3330": {
+        "name": "CIVE.3330 Geotechnical Laboratory (Formerly 14.333)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3330/",
+        "id": "002980",
+        "description": "Laboratory experience that illustrates soil mechanics and fluid flow theory. Experiments are conducted in the soils and hydraulics laboratories. Course emphasizes data acquisition and analysis and writing engineering reports.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-Req: 14.330 Soil Mechanics.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.3400": {
+        "name": "CIVE.3400 Transportation Engineering (Formerly 14.340)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3400/",
+        "id": "002981",
+        "description": "Development of the basic principles pertaining to the movement of people and goods by modern transportation systems. Techno-economic characteristics of the various transportation modes. Aspects of planning, design and operation of land, air and water transportation facilities. Development, structure and function of the U.S. transportation system.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH.1320 Calculus II, and Pre-req or Co-req: CIVE.2860 Prob & Stats for Engineers, or MATH.2830 Intro to Stats or MATH.3860 Prob & Stats I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CIVE.2860",
+                    "MATH.2830",
+                    "MATH.3860"
+                ]
+            ]
+        }
+    },
+    "CIVE.3410": {
+        "name": "CIVE.3410 Transportation Engineering Laboratory (Formerly 14.341)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3410/",
+        "id": "002982",
+        "description": "Practice techniques of data collection, analysis and presentation that are commonly used in the planning, design and operation of transportation facilities with primary emphasis on highway systems.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.3500": {
+        "name": "CIVE.3500 Structural Analysis I (Formerly 14.350)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3500/",
+        "id": "002983",
+        "description": "Principles of structural analysis applied to typical civil engineering structures as the initial step in the total design concept.  Emphasis on he classical methods of analysis of statically determinate and indeterminate structures.  The personal computer as an analytical tool.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGN.2060 Strength of Materials.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGN.2060"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.3520": {
+        "name": "CIVE.3520 Reinforced Concrete (Formerly 14.352)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3520/",
+        "id": "002984",
+        "description": "Ultimate strength and elastic behavior of reinforced concrete structural members, continuity in building frames, deflections, shear reinforcement, development length and bar cutoffs, columns and footings.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CIVE 3100 Engineering Materials and CIVE 3500 Structural Analysis l.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3100"
+                ],
+                [
+                    "CIVE.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.3620": {
+        "name": "CIVE.3620 Environmental Engineering (Formerly 14.362)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3620/",
+        "id": "002985",
+        "description": "Physical, chemical and biological principles of the treatment of water and wastewater are considered along with their application to treatment systems. The system components of wastewater and water treatment plants are studied to provide a basic design capability. Hazardous waste site remediation is also discussed.\"",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CHEM.1220 Chemistry II, and CHEM.1240L Chemistry II Lab, and Co-req: CIVE.3320 Environmental Engineering Lab, and ENGN.2070 Dynamics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CHEM.1220"
+                ],
+                [
+                    "CHEM.1240L"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CIVE.3320"
+                ],
+                [
+                    "ENGN.2070"
+                ]
+            ]
+        }
+    },
+    "CIVE.3720": {
+        "name": "CIVE.3720 Civil Engineering Systems (Formerly 14.372)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/3720/",
+        "id": "002986",
+        "description": "Introduction to methods of operations research, management science and economic analysis used in the design, planning and managing of engineering systems. Main topics covered: systems modeling, optimization concepts, network analysis, mathematical programming, critical path analysis, decision analysis, economic consideration.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 1320 Calculus II and MATH 2310 Calculus III or Co-Req: MATH 2310 Calculus III, pre-req CIVE 2860.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.1320"
+                ],
+                [
+                    "MATH.2310"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MATH.2310"
+                ],
+                [
+                    "CIVE.2860"
+                ]
+            ]
+        }
+    },
+    "CIVE.4310": {
+        "name": "CIVE.4310 Foundation and Soil Engineering (Formerly 14.431)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4310/",
+        "id": "002990",
+        "description": "The application of soil mechanics to the design and analysis of foundations and soil structures. Topics include: soil origin and deposition, subsurface exploration, bearing capacity and settlement analyses, design of shallow foundations, earth pressures, retaining structures, and slope stability.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3300 Soil Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.4520": {
+        "name": "CIVE.4520 Steel Design (Formerly 14.452)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4520/",
+        "id": "002993",
+        "description": "An introduction to structural steel design with emphasis on use and interpretation of the AISC Manual and LRFD Specifications. Subjects include design of tension, compression, beams, and beam-column members, plus bolted and welded connections. Other topics may include composite beams, plate girders, building connections and plastic analysis and design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: CIVE.3500 Structural Analysis l.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3500"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.4600": {
+        "name": "CIVE.4600 Water Resources Engineering (Formerly 14.460)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4600/",
+        "id": "002995",
+        "description": "This course is a continuation and extension of Fluid Mechanics, with a focus on engineering applications of hydraulic and hydrologic engineering.   This course covers fundamental concepts of open-channel flow, hydraulic structures, design of open channels, surface-water hydrology, and groundwater hydrology.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3010 Fluid Mechanics, or CHEN.3030 Fluid Mechanics, or MECH.3810 Fluid Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3010",
+                    "CHEN.3030",
+                    "MECH.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.4660": {
+        "name": "CIVE.4660 Introduction to LEED (Formerly 14.466)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4660/",
+        "id": "037656",
+        "description": "This course examines the principles of sustainability and how they are applied to engineering and the built environment.  Areas covered include energy, water, materials, transportation, and green building principles.  Issues of evaluation of sustainability, including life cycle analysis and rating systems, are also discussed. This course fulfills the educational requirements for eligibility to take the LEED (Leadership in Energy and Environmental Design) Green Associate exam.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.4700": {
+        "name": "CIVE.4700 Engineering Economics (Formerly 14.470)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4700/",
+        "id": "002999",
+        "description": "Presentation of mathematical principles of economic analysis, with emphasis on defining alternatives and predicting consequences of proposed investments. Emphasis is placed on the economic, social and environmental impacts of proposed Civil Engineering projects. The attractiveness of investments is judged by present worth, annual worth, rate of return, and benefit-cost ratio techniques. Sensitivity analysis, depreciation and tax impacts in economic studies are also discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.4750": {
+        "name": "CIVE.4750 Construction Management I (Formerly 14.475)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4750/",
+        "id": "003000",
+        "description": "Development of management skills and techniques to plan, schedule, supervise, and control construction projects. Project estimating; labor costs and productivity; construction plans, specifications and contracts; labor relations; time, cost and quality control; construction equipment and project decision making and financing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: CIVE.3720 Civil Engineering Systems.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CIVE.3720"
+                ]
+            ]
+        }
+    },
+    "CIVE.4800": {
+        "name": "CIVE.4800 Special Topics in Civil Engineering (Formerly 14.480)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4800/",
+        "id": "003002",
+        "description": "Contemporary topics in selected areas of study within civil engineering. Course content is chosen by the instructor to meet the interests of the students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.4810": {
+        "name": "CIVE.4810 Special Topics (Formerly 14.481)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4810/",
+        "id": "003003",
+        "description": "Contemporary topics in selected areas of study within civil engineering. Course content is chosen by the instructor to meet the interests of the students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.4830": {
+        "name": "CIVE.4830 Spec Topics: Civil Engineering (Formerly 14.483)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4830/",
+        "id": "003004",
+        "description": "Contemporary topics in selected areas of study within civil engineering. Course content is chosen by the instructor to meet the interests of the students.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.4850": {
+        "name": "CIVE.4850 Capstone Design (Formerly 14.485)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4850/",
+        "id": "003005",
+        "description": "Introduction to the essentials of engineering design and a forum for practicing the design process. Integrates many elements of the curriculum through a comprehensive design project to professional standards. Projects includes the use of open-ended problems, feasibility analysis, complete design process, consideration of alternative solutions, and cost estimation. Students practice team effort, development of a system perspective, communication skills, reporting, and presentations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Senior Status.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.4910": {
+        "name": "CIVE.4910 Industrial Experience I (Formerly 14.491)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4910/",
+        "id": "003007",
+        "description": "The new Cooperative Education program for undergraduates combines academic studies with work experience in appropriate positions in the public or private sectors. It permits students to participate in the flexible schedule of study and work that is related to their academic fields of study and to receive academic credit for the work experience. Requires 500 hours of cooperative education engineering experiences, on a full-time or part-time basis, during any academic semester or summer. All co-op work must be pre-approved by the Co-op Coordinator. (Effective with Class of 2001-02, students in CEE are able to earn three credits after the successful completion of both Industrial Experience I and II). \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "12"
+        },
+        "requirements-text": "Junior level and 2.0 GPA or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.4920": {
+        "name": "CIVE.4920 Industrial Experience II (Formerly 14.492)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4920/",
+        "id": "003008",
+        "description": "The new Cooperative Education program for undergraduates combines academic studies with work experience in appropriate positions in the public or private sectors. It permits students to participate in the flexible schedule of study and work that is related to their academic fields of study and to receive academic credit for the work experience. Requires 500 hours of cooperative education engineering experiences, on a full-time or part-time basis, during any academic semester or summer. All co-op work must be pre-approved by the Co-op Coordinator. (Effective with Class of 2001-02, students in CEE are able to earn three credits after the successful completion of both Industrial Experience I and II).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-req or Co-req: CIVE.4910 Industrial Experience I, and Junior level and 2.0 GPA or higher.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "CIVE.4910"
+                ]
+            ]
+        }
+    },
+    "CIVE.4930": {
+        "name": "CIVE.4930 Industrial Experience III (Formerly 14.493)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/4930/",
+        "id": "003009",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5010": {
+        "name": "CIVE.5010 Civil Engineering Research Seminar",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5010/",
+        "id": "040106",
+        "description": "Research seminar for doctoral and Master's students to listen to researchers from academia, industry, and government of research-related topics in civil and environmental engineering. Invited speakers will present recent research advances in fields of environmental engineering, geotechnical engineering, structural engineering and transportation engineering. Attendance is mandatory for doctoral and MS students with thesis option. Thesis requirements and research methods will be introduced in various talks.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5030": {
+        "name": "CIVE.5030 Computer Based Analysis of Structures (Formerly 14.503)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5030/",
+        "id": "038785",
+        "description": "The course is an introduction to the finite element displacement method for framed structures. It identifies the basic steps involved in applying the displacement method that can be represented as computer procedures. The course covers the modeling and analysis of 2-dimensional and 3-dimensional structures, such as cable-stayed structures, arches, and space trusses, space frames, shear walls, and so on. The analysis is done for both static and dynamic loading. The study is done by using MATLAB, GTSTRUDL, and Mathcad software.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5040": {
+        "name": "CIVE.5040 Advanced Strength Of Material (Formerly 14/10.504)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5040/",
+        "id": "003012",
+        "description": "Stress and strain at a point; curved beam theory, unsymmetrical bending, shear center, torsion of non-circular sections; theories of failure; selected topics in solid mechanics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5050": {
+        "name": "CIVE.5050 Concrete Materials (Formerly 14.505)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5050/",
+        "id": "003013",
+        "description": "This course introduces fundamental and advanced topics on the properties of concrete materials.  Fundamental topics include the formation, structure, mechanical behavior, durability, fracture, and deterioration of concrete.  Theoretical treatments on the deformation, fracture and deterioration of concrete are also addressed.   Advanced topics include the electromagnetic properties of concrete, high performance concrete (HPC), high-strength concrete (HSC), fiber-reinforced concrete, other special concretes, and the green construction of concrete.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 14.310 Engineering Materials.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5080": {
+        "name": "CIVE.5080 Practice of Structural Engineering (Formerly 14.508)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5080/",
+        "id": "036644",
+        "description": "This course covers the practice of structural engineering as it deals with the design of structures such as buildings and bridges, the identification of loads, and design variables, and design detailing for concrete and steel structures.  The emphasis will be placed on the use and interpretation of the ACI318-09, AISD and AASHTO codes and the GTSTRUDL software.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5110": {
+        "name": "CIVE.5110 Inspection and Monitoring of Civil Infrastructure (Formerly 14.511)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5110/",
+        "id": "035284",
+        "description": "In this course, principles and applications of inspection and monitoring techniques for the condition assessment of aged/damaged/deteriorated civil infrastructure systems such as buildings, bridges, and pipelines, are introduced.  Current nondestructive testing/evaluation (NDT/E) methods including optical, acoustic/ultrasonic, thermal,  magnetic/electrical, radiographic, microwave/radar techniques are addressed with a consideration of their theoretical background.  Wired and wireless structural health monitoring (SHM) systems for civil infrastructure are also covered.  Applications using inspection and monitoring techniques are discussed with practical issues in each application.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5120": {
+        "name": "CIVE.5120 Structural Stability (Formerly 14.512)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5120/",
+        "id": "035733",
+        "description": "This course provides a concise introduction to the principles and applications of structural stability for their practical use in the design of steel frame structures.  Concepts of elastic and plastic theories are introduced.  Stability problems of structural members including columns, beam-columns, rigid frames, and beams are studied.  Approaches in evaluating stability problems, including energy and numerical methods, are also addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5150": {
+        "name": "CIVE.5150 Cementitious Materials for Sustainable Concrete",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5150/",
+        "id": "041275",
+        "description": "This course is designed for introducing advanced topics in cement hydration chemistry, materials characterization and concrete sustainability. Advanced topics in chemistry of commonly used cementitious materials, micro-structure, mechanical properties, durability ad sustainability will be offered. Students will learn and practice to characterize and analyze the roles of chemical admixtures and supplementary cementitious materials in concrete property improvement. Chemical issues involved in the engineering behavior of concrete will be offered. A service-learning project about sustainable concrete will be provided. Emerging topics such as self-healing concrete, self-consolidating concrete, mart concrete, 3D concrete printing and ultra-high performance concrete will also be covered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3100 Engineering Materials, or CIVE.5050 Concrete Materials, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3100",
+                    "CIVE.5050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.5210": {
+        "name": "CIVE.5210 Reliability Analysis (Formerly 14.521)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5210/",
+        "id": "003018",
+        "description": "A review of the elementary principles of probability and statistics followed by advanced topics including decision analysis, Monte Carlo simulation, and system reliability. In-depth quantitative treatment in the modeling of engineering problems, evaluation of system reliability, and risk-benefit decision management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5270": {
+        "name": "CIVE.5270 Geotechnical and Environmental Site Characterization (Formerly 14.527)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5270/",
+        "id": "003020",
+        "description": "This course is designed to give students a comprehensive understanding of various site investigation and site assessment technologies employed in geotechnical and environmental engineering. The course begins with introduction to site investigation planning and various geophysical methods including: seismic measurements, ground penetrating radar, electrical resistivity, electromagnetic conductivity, time domain reflectometry. Drilling methods for soil, gas and ground water sampling; decontamination procedures; and long term monitoring methods are studied. Emphasis in this course is placed on conventional and state-of-the-art in situ methods for geotechnical and environmental site characterization: standard penetration test, vane shear test, dilatometer test, pressuremeter test and cone penetration tests. Modern advances in cone penetrometer technology, instrumented with various sensors (capable of monitoring a wide range of physical and environmental parameters: load, pressure, sound, electrical resistivity, temperature, PH, oxidation reduction potential, chemical contaminants) are playing a major role in site characterization. Principles underlying these methods along with the interpretation of test data will be covered in detail. The course will also look into emerging technologies in the area of site characterization. (3-0)3",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5280": {
+        "name": "CIVE.5280 Drilled Deep Foundations (Formerly 14.528)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5280/",
+        "id": "037401",
+        "description": "Design and analyses of drilled deep foundations including: Deep foundations classification and historical perspective.  Cost analysis of foundations.  Construction methods and monitoring techniques.  Static capacity and displacement analyses of a single drilled foundation and a group under vertical and lateral loads.  Traditional and alternative load test methods - standards, construction, interpretation, and simulation.  Integrity testing methods.  Reliability based design using the Load and Resistance Factor design (LRFD) methodology application for drilled deep foundations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.5310 Advanced Soil Mechanics, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.5310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.5290": {
+        "name": "CIVE.5290 Engineering with Geosynthetics (Formerly 14.529)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5290/",
+        "id": "003021",
+        "description": "Rigorous treatment in the mechanism and behavior of reinforced soil materials. Laboratory and insitu tests for determining the engineering properties of geosynthetics (geotextiles, geomembranes, geogrids and geocomposites). Design principles and examples of geosynthetics for separation, soil reinforcement and stabilization, filtration and drainage.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5300": {
+        "name": "CIVE.5300 Driven Deep Foundations (Formerly 14.530)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5300/",
+        "id": "003022",
+        "description": "design and analyses of driven deep foundations including: Deep foundations classification and historical perspective.  Effects of pile installation.  Static capacity and settlement analysis of a single pile and a pile group under vertical loads.  Insight of pile resistance including soil behavior and interfacial friction.  Driven pile load test standards, construction, interpretation, and simulation.  Dynamic analysis of driven piles, the wave equation analysis, dynamic measurements during driving and their interpretation.  Reliability based design using the Load and Resistance Factor design (LRFD) methodology application for driven deep foundations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.5310 Advanced Soil Mechanics, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.5310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.5310": {
+        "name": "CIVE.5310 Advanced Soil Mechanics (Formerly 14.531)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5310/",
+        "id": "003023",
+        "description": "Theories of soil mechanics and their application. Drained and undrained stress-strain and strength behavior of soils. Lateral earth pressures, bearing capacity, slope stability, seepage and consolidation. Lab and insitu testing.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5320": {
+        "name": "CIVE.5320 Theoretical & Numerical Methods in Soil Mechanics (Formerly 14.532)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5320/",
+        "id": "003024",
+        "description": "Geotechnical practice employs computer programs that incorporate numerical methods to address problems of stability, settlement, deformation, and seepage. These methods are based on theoretical understanding of the behavior of soils, and correct use of commercial software requires that the engineer understand theoretical bases of the numerical algorithms and how they work. This course addresses the description of stress and strain in the context of geotechnical engineering and the basic concepts of numerical and computational methods, including discretization errors, computational procedures appropriate to different classes of problem, and numerical instability. It will then apply the insights to the three major problems of geotechnical analysis: settlement, stability, and fluid flow.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "MATH 2360 Eng. Differential Equations, and CIVE 3300 Soil Mechanics.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2360"
+                ],
+                [
+                    "CIVE.3300"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.5330": {
+        "name": "CIVE.5330 Advanced Foundation Engineering (Formerly 14.533)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5330/",
+        "id": "003025",
+        "description": "Design and analysis of shallow foundations, excavations and retaining structures including: site exploration, bearing capacity and settlement theories, earth pressures, braced and unbraced excavations, rigid and flexible retaining structures, reinforced earth, dewatering methods and monitoring techniques.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5340": {
+        "name": "CIVE.5340 Soil Dynamics and Earthquake Engineering (Formerly 14.534)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5340/",
+        "id": "003026",
+        "description": "This course addresses the dynamic properties of soils and basic mechanical theory of dynamic response. It will apply these results to analysis and design of dynamically loaded foundations. A basic understanding of earthquakes - where they occur, their quantitate description, how the complicated patterns of motions are captured by techniques such as the response spectrum, and how engineers design facilities to withstand earthquakes, will be addressed. In particular, the course will consider three topics of current professional and research interest: probabilistic seismic hazard analysis (PHSA), soil liquefaction, and seismically induced displacements. The emphasis will be on geotechnical issues, but some time will be devoted to structural considerations in earthquake resistant design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5360": {
+        "name": "CIVE.5360 Soil Engineering (Formerly 14.536)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5360/",
+        "id": "003027",
+        "description": "The study of soil as an engineering material, and its use in earth structures (e.g. dams, road embankments), flow control, and compacted fills. Stability of natural and man made slopes, soil reinforcement and stabilization.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5370": {
+        "name": "CIVE.5370 Experimental Soil Mechanics (Formerly 14.537)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5370/",
+        "id": "003028",
+        "description": "Application of testing procedures to the evaluation of soil type and engineering properties. Testing for classification, permeability, consolidation, direct and triaxial shear and field parameters. The technical procedures are followed by data analysis, evaluation and presentation. Critical examination of standard testing procedures, evaluation of engineering parameters, error estimation and research devices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5380": {
+        "name": "CIVE.5380 Soil Behavior",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5380/",
+        "id": "003029",
+        "description": "Study of the physico-chemical and mechanical behavior of soil. Topics include: soil mineralogy, formation, composition, concepts of drained and undrained stress-strain and strength behavior, frozen soils.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5390": {
+        "name": "CIVE.5390 Ground Improvement (Formerly 14.539)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5390/",
+        "id": "003030",
+        "description": "Design and construction methods for strengthening the properties and behavior of soils. Highway embankments, soil nailing, soil grouting, landslide investigation and mitigation, dynamic compaction, stone columns.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5400": {
+        "name": "CIVE.5400 Urban Transportation Planning (Formerly 14.540)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5400/",
+        "id": "003031",
+        "description": "Objectives and procedures of the urban transportation planning process. Characteristics and current issues of urban transportation in the United States (both supply and demand). Techniques of analysis, prediction and evaluation of transportation system alternatives. Consideration of economic, environmental, ethical, social and safety impacts in the design and analysis of transportation systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5405": {
+        "name": "CIVE.5405 Advanced Highway Geometric Design",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5405/",
+        "id": "040545",
+        "description": "Development of the principals of modern roadway design while addressing context specific design requirements and constraints. Topics will include guidelines for highway design, design and review of complex geometry, geometric design to address safety and operational concerns, multi-modal design for signalized and un-signalized intersections, complete streets design concepts, and superelevation. Course-work will also include principals to present transportation designs to the public, transportation advocates, and private clients.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3400 Transportation Engineering, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.5410": {
+        "name": "CIVE.5410 Traffic Engineering (Formerly 14.541)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5410/",
+        "id": "003032",
+        "description": "Engineering principles for safe and efficient movement of goods and people on streets and highways, including aspects of (a) transportation planning; (b) geometric design; (c) traffic operations and control; (d) traffic safety, and; (e) management of transportation facilities. Topics include: traffic stream characteristics; traffic engineering studies; capacity and level-of-service analysis; traffic control; simulation of traffic operations; accident studies; parking studies; environmental impacts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5415": {
+        "name": "CIVE.5415 Hazardous Materials Transportation",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5415/",
+        "id": "041429",
+        "description": "Hazmat transportation, safety and security are a convergence of operations, policies and regulation, and planning and design. This course will address the multimodal operations, vessels, technologies, packaging and placarding involved in the safe and secure transportation of hazmat. Safety and security rules, regulations, emergency preparedness and response, industry initiatives and programs, and U.S. government agencies governing hazmat transportation will be included, as well as international impacts on hazmat transportation safety and security.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5420": {
+        "name": "CIVE.5420 Transportation Network Analysis (Formerly 14.542)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5420/",
+        "id": "003033",
+        "description": "This course is to introduce engineering students to basic transportation network analysis skills. Topics covered include fundamentals of linear and nonlinear programming, mathematical representations of transportation networks, various shortest path algorithms, deterministic user equilibrium traffic assignment, stochastic user equilibrium traffic assignment, dynamic traffic assignment, heuristic algorithms for solving traffic assignment problems, and transportation network design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE 3720 Civil Engineering Systems and CIVE 3400 Transportation Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3720"
+                ],
+                [
+                    "CIVE.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.5430": {
+        "name": "CIVE.5430 Traffic Principles for Intelligent Transportation Systems (Formerly 14.543)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5430/",
+        "id": "003034",
+        "description": "The objective of this course is to introduce the student to the traffic principles that are pertinent for the planning, design and analysis of Intelligent Transportation Systems (ITS). The course is oriented toward students that come from different disciplines and who do not have previous background in traffic or transportation principles. It is designed as an introductory course that will enable the student to pursue more advanced courses in transportation systems subsequently.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5440": {
+        "name": "CIVE.5440 Transportation Economics and Project Evaluation (Formerly 14.544)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5440/",
+        "id": "003035",
+        "description": "The course offers an overview of the fundamental principles of transportation economics.  Emphasizes theory and applications concerning demand, supply and economics of transportation systems.  Covers topics such as pricing, regulation and the evaluation of transportation services and projects. Prerequisites: Students should have knowledge of transportation systems and basic microeconomics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5450": {
+        "name": "CIVE.5450 Public Transit Plan and Design (Formerly 14.545)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5450/",
+        "id": "003036",
+        "description": "Planning and design of public transportation systems and their technical, operational and cost characteristics. Discussion of the impact of public transportation on urban development; the different transit modes, including regional and rapid rail transit (RRT), light rail transit (LRT), buses, and paratransit, and their relative role in urban transportation; planning, design, operation and performance of transit systems (service frequency and headways, speed, capacity, productivity, utilization); routes and networks; scheduling; terminal layout; innovative transit technologies and their feasibility.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5460": {
+        "name": "CIVE.5460 Pavement Design (Formerly 14.546)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5460/",
+        "id": "003037",
+        "description": "Fundamentals of planning, design, construction and management of roadway and airport pavements. Introduction to the theory and the analytical techniques used in pavement engineering. Principal topics covered: pavement performance, analysis of traffic, pavement materials; evaluation of subgrade; flexible and rigid pavement structural analysis; reliabilitydesign; drainage evaluation; design of overlays; and pavement distresses.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5470": {
+        "name": "CIVE.5470 Airport Planning and Design (Formerly 14.547)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5470/",
+        "id": "003038",
+        "description": "Planning and design of civil airports. Estimation of air travel demand. Aircraft characteristics related to design; payload, range, runway requirements. Analysis of wind data, runway orientation and obstruction free requirements. Airport configuration, aircraft operations, and capacity of airfield elements. Design of the terminal system, ground access system, and parking facilities.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5480": {
+        "name": "CIVE.5480 Traffic Management and Control (Formerly 14.548)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5480/",
+        "id": "003039",
+        "description": "The course presents modern methods of traffic management, traffic control strategies and traffic control systems technology. Main topics covered, include: transportation systems management (TSM); traffic control systems technology; control concepts - urban and suburban streets; control and management concepts - freeways; control and management concepts - integrated systems; traveler information systems; system selection, design and implementation; systems management; ITS plans and programs. The course will also include exercises in the use and application of traffic simulation and optimization models such as: CORSIM, TRANSYT and MAXBAND/ MULTIBAND.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5490": {
+        "name": "CIVE.5490 Traffic Flow and Emerging Transportation Technologies (Formerly 14.549)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5490/",
+        "id": "003040",
+        "description": "Traffic flow theories seek to describe through precise mathematical models (a) the interactions between vehicles and the roadway system and (b) the interactions among vehicles. This course covers both conventional human-driven vehicles and the emerging connected and automated vehicles. Such theories form the basis of the models and procedures used in design and operational analysis of streets and highways. In particular, the course examines the fundamental traffic flow characteristics and the flow-speed-density relationship, as well as time and space headway, string stability, traffic flow stability, popular analytical techniques for traffic stream modeling at both microscopic and macroscopic levels, shock wave analysis, and simulation modeling of traffic systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "CIVE.3400 Transportation Engineering, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "CIVE.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "CIVE.5500": {
+        "name": "CIVE.5500 Behavior of Structures (Formerly 14.550)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5500/",
+        "id": "003041",
+        "description": "Classical and matrix methods of structural analysis applied to complex plane trusses. Elementary space truss analysis. Elementary model analysis through the use of influence lines for indeterminate structures. The digital computer and problem oriented languages as analytical tools.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5510": {
+        "name": "CIVE.5510 Advanced Steel Design (Formerly 14.551)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5510/",
+        "id": "003042",
+        "description": "Elastic and plastic design of structural steel systems, residual stresses, local buckling, beam-columns, torsion and biaxial bending, composite steel-concrete members, load and resistance factor design.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5520": {
+        "name": "CIVE.5520 Design of Concrete Structures (Formerly 14.552)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5520/",
+        "id": "003043",
+        "description": "The main objective of this course is to expand the students' knowledge and understanding of reinforced concrete behavior and design. Advanced topics at material, element, and system level are built on quick reviews of undergraduate level knowledge and are related to current design codes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5530": {
+        "name": "CIVE.5530 Wood Structures (Formerly 14.553)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5530/",
+        "id": "003044",
+        "description": "Review of properties of wood, lumber, glued laminated timber and structural-use panels. Review of design loads and their distribution in wood-frame buildings. Design of wood members in tension, compression and bending; and design of connections.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5560": {
+        "name": "CIVE.5560 Finite Element Analysis (Formerly 14.556)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5560/",
+        "id": "003047",
+        "description": "Finite element theory and formulation, software applications, static and dynamic finite element analysis of structures and components.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5570": {
+        "name": "CIVE.5570 Structural Dynamics (Formerly 14.557)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5570/",
+        "id": "003048",
+        "description": "Analysis of typical structures subjected to dynamic force or ground excitation using direct integration of equations of motion, modal analysis and approximate methods.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5580": {
+        "name": "CIVE.5580 Bridge Design (Formerly 14.558)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5580/",
+        "id": "003049",
+        "description": "Analysis and design of modern bridges, using computer software for the 3-D modeling of sample bridges under dead and live loading and seismic excitation. AASHTO specifications are used for the design of superstructures and substructures (abutments, piers, and bearings) under group load combinations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5590": {
+        "name": "CIVE.5590 Design of Masonry Structures (Formerly 14.559)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5590/",
+        "id": "030815",
+        "description": "Fundamental characteristics of masonry construction. The nomenclature, properties, and material specifications associated with basic components of masonry. The behavior of masonry assemblages subjected to stresses and deformations. Design of un-reinforced and reinforced masonry structures in accordance with current codes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5610": {
+        "name": "CIVE.5610 Physical Chemical Treatment Processes (Formerly 14.561)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5610/",
+        "id": "003051",
+        "description": "Course provides a theoretical understanding of various chemical and physical unit operations, with direct application of these operations to the design and operation of water and wastewater treatment processes. Topics include colloid destabilization, flocculation, softening, precipitation, neutralization, aeration and gas transfer, packed & tray towers, oxidation, disinfection, reverse osmosis, ultrafiltration, settlings, activated carbon adsorption, ion exchange, and filtration.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5620": {
+        "name": "CIVE.5620 Physical and Chemical Hydrology Geology (Formerly 14.562)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5620/",
+        "id": "003052",
+        "description": "Well hydraulics for the analysis of groundwater movement. A review of the processes of diffusion, dispersion, sorption, and retardation as related to the fate and transport of organic contaminants in groundwater systems. Factors influencing multi-dimensional contaminant plume formation and migration are addressed. It is the goal of this course to provide environmental scientists and engineers with the technical skills required to understand groundwater hydrology and contaminant transport within aquifers. A term paper and professional presentation in class regarding a relevant topic is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5640": {
+        "name": "CIVE.5640 Hydrology & Hydraulics (Formerly 14.564)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5640/",
+        "id": "003054",
+        "description": "This course utilizes engineering principles to quantitatively describe the movement of water in natural and manmade environmental systems.  Topics include: hydrologic cycle, steam flow and hydrographs, flood routing, watershed modeling, subsurface hydrology, and probability concepts in hydrology, hydraulic structures, flow in closed conduits, pumps, open channel flow, elements of  storm and sanitary sewer design will be addressed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5660": {
+        "name": "CIVE.5660 Environmental Applications and Implications of Nanomaterials",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5660/",
+        "id": "040541",
+        "description": "This course will cover (I) novel properties, synthesis, and characterization of nanomaterials; (II) environmental engineering applications of nanomaterials, with an emphasis on nano-enabled water and wastewater treatment technologies such as membrane processes, adsorption, photo-catalysis, and disinfection; and (III) Health and Environmental impacts of nanomaterials, focusing on potential mechanisms of biological uptake and toxicity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5670": {
+        "name": "CIVE.5670 Environmental Aquatic Chemistry (Formerly 14.567)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5670/",
+        "id": "003056",
+        "description": "This course provides environmental understanding of the principles of aquatic chemistry and equilibria as they apply to environmental systems including natural waters, wastewater and treated waters.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5680": {
+        "name": "CIVE.5680 Environmental Fate and Transport (Formerly 14.568)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5680/",
+        "id": "003057",
+        "description": "The fate of contaminants in the environment is controlled by transport processes within a single medium and between media. The similarities in contaminant dispersion within air, surface water and groundwater will be emphasized.  Interphase transport processes such as volatilization and adsorption will then be considered from an equilibrium perspective followed by the kinetics of mass transfer across environmental interfaces.  A professional presentation of a select paper or group of paper concerning a course topic is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5690": {
+        "name": "CIVE.5690 Micropollutants in the Environment",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5690/",
+        "id": "039581",
+        "description": "This course focuses on the generation, fate and transformation, transport, and the impacts of micropollutants in the environment, with emphasis on soil and water matrices. Topics will include nanomaterials and organic micropollutants such as pharmaceuticals, antimicrobials, illicit drugs, and personal care products. Course delivery will be a combination of lectures, experimental analysis, and discussions of assigned reading materials.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5700": {
+        "name": "CIVE.5700 Wastewater Treatment and Storm Water Management Systems (Formerly 14.570)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5700/",
+        "id": "003058",
+        "description": "The era of massive subsidies for construction of sanitary sewers and centralized, publicly operated treatment works (POTWs) has passed. Non - point pollution from sources such as onsite disposal systems has become a major focus of concern in our efforts to protect and improve ground and surface water quality. Much of the new construction in areas not already served by centralized collection and treatment must use the alternative technologies. This course is design oriented. The variously available technologies are studied in depth. Students evaluate various technologies as they may be applied to a complex problem for which information is available, and develop an optimum problem solution.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5710": {
+        "name": "CIVE.5710 Surface Water Quality  Modeling (Formerly 14.571)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5710/",
+        "id": "003059",
+        "description": "Theory and application of surface water quality modeling will be combined interactively throughout the course.  Data from a stream will be utilized in order to bring a public domain model into operation",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5720": {
+        "name": "CIVE.5720 Marine and Coastal Processes (Formerly 14.572)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5720/",
+        "id": "003060",
+        "description": "This course focuses on the coastal dynamics of currents, tides, waves, wave morphology and their effects on beaches, estuaries, mixing and sediment transport/accretion processes. Generalized global aspects of atmospheric and hydrospheric interactions with ocean currents are also presented.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5730": {
+        "name": "CIVE.5730 Solid Waste Engineering (Formerly 14.573)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5730/",
+        "id": "003061",
+        "description": "Characterization, handling and disposal of municipal, industrial and hazardous wastes. Technologies such as landfills, recycling, incineration and composting are examined. A term paper and professional presentation in class regarding a relevant topic is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5750": {
+        "name": "CIVE.5750 Groundwater Modeling (Formerly 14.575)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5750/",
+        "id": "003063",
+        "description": "Groundwater Modeling is designed to present the student with fundamentals, both mathematical and intuitive, of analytic and numeric groundwater modeling. An introductory course in groundwater hydrology is a prerequisite for Groundwater Modeling, and the student should be familiar with IBM computers in running text editors and spreadsheets. The semester will start with basic analytic solutions and image theory to aid in the development of more complex numeric models. Emphasis will then switch to numeric ground water flow models (MODFLOW) and the use of particle tracking models (GWPATH) to simulate the movement of solutes in ground water. The numeric modeling process will focus on forming the problem description, selecting boundary conditions, assigning the model parameters, calibrating the model, and preparing the model report. Course topics include: Analytic Methods, Numeric Methods, Conceptual Model and Grid design, Boundary Conditions, Sources, and Sinks, and Particle Tracking.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5760": {
+        "name": "CIVE.5760 GIS Applications in Civil and Environmental Engineering (Formerly 14.576)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5760/",
+        "id": "003064",
+        "description": "This course is to introduce students to the basic concepts of Geographic Information Systems (GIS) and GIS applications in Civil and Environmental Engineering.  Topics to be covered include GIS data and maps, queries, map digitization, data management, spatial analysis, network analysis, geocoding, coordination systems and map projections, editing. Examples related to transportation, environmental, geotechnical and structural engineering will be provided to help students better understand how to apply GIS in the real world and gain hands-on experience.  This course will consist of lectures and computer work.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5780": {
+        "name": "CIVE.5780 Biological Wastewater Treatment (Formerly 14.578)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5780/",
+        "id": "003066",
+        "description": "Course covers the theoretical and practical aspects of biological wastewater treatment operations. Topics include kinetics of biological growth and substrate utilization, materials balance in chemostats and plug flow reactors, activated sludge process analysis and design, sedimentation and thickening, nitrification and denitrification, phosphorus removal, fixed-film processes analysis and design, anaerobic processes analysis and design, aerated lagoons and stabilization ponds, and natural treatment systems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Students with a CSCE  or UGRD career need permission to take Graduate Level Courses.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5790": {
+        "name": "CIVE.5790 Green and Sustainable Civil Engineering (Formerly 14.579)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5790/",
+        "id": "035734",
+        "description": "This course focuses on various green and sustainable materials and technologies applicable to five areas of civil engineering: environmental engineering, water resources engineering, structural engineering, transportation engineering, and geotechnical engineering.  This course also covers current green building laws and introduces fundamentals of entrepreneurship and patent/copyright laws.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5810": {
+        "name": "CIVE.5810 Engineering Systems Analysis (Formerly 14.581)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5810/",
+        "id": "003067",
+        "description": "The course presents advanced methods of operations research, management science and economic analysis that are used in the design, planning and management of engineering systems. Main topics covered, include: the systems analysis methodology, optimization concepts, mathematical programming techniques, Network analysis and design, project planning and scheduling, decision analysis, queuing systems, simulation methods, economic evaluation. The examples and problems presented in the course illustrate how the analysis methods are used in a variety of systems applications, such as: civil engineering, environmental systems, transportation systems, construction management, water resources, urban development, etc.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5850": {
+        "name": "CIVE.5850 Transportation Safety (Formerly 14.585)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5850/",
+        "id": "030816",
+        "description": "Transportation Safety goes beyond the accepted standards for highway design.  Providing a safe and efficient transportation system for all users is the primary objective of federal, state, and local transportation agencies throughout the nation. This class addresses fundamentals of highway design and operation, human factors, accident investigation, vehicle characteristics and highway safety analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5950": {
+        "name": "CIVE.5950 Hazardous Waste Site Remediation (Formerly 14.595)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5950/",
+        "id": "003074",
+        "description": "This course focuses on the principles of hazardous waste site remediation (with an emphasis on organic contaminants) using physical, chemical or biological remediation technologies. Both established and emerging remediation technologies including: bioremediation, intrinsic remediation, soil vapor extraction (SVE), in situ air sparging (IAS), vacuum- enhanced recovery (VER), application of surfactants for enhanced in situ soil washing, hydraulic and pneumatic fracturing, electrokinetics, in situ reactive walls, phytoremediation, and in situ oxidation, will be addressed. A term paper and professional presentation in class regarding a relevant topic is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.5960": {
+        "name": "CIVE.5960 Grad Industrial Exposure (Formerly 14.596)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/5960/",
+        "id": "003075",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.6510": {
+        "name": "CIVE.6510 Special Topics in Civil Engineering (Formerly 14.651)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/6510/",
+        "id": "003078",
+        "description": "Course content and credits to be arranged with instructor who agrees to direct the student.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.6930": {
+        "name": "CIVE.6930 Civil Engineering Individual Project (Formerly 14.693)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/6930/",
+        "id": "003082",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7050": {
+        "name": "CIVE.7050 Supervised Teaching in Civil Engineering (Formerly 14.705)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7050/",
+        "id": "003084",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7330": {
+        "name": "CIVE.7330 Masters Project in Civil Engineering (Formerly 14.733)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7330/",
+        "id": "003085",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7360": {
+        "name": "CIVE.7360 Masters Project in Civil Engineering (Formerly 14.736)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7360/",
+        "id": "034790",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7410": {
+        "name": "CIVE.7410 Master's Thesis-Civil Engineering (Formerly 14.741)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7410/",
+        "id": "030315",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7430": {
+        "name": "CIVE.7430 Master's Thesis - Civil Engineering (Formerly 14.743)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7430/",
+        "id": "003086",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7460": {
+        "name": "CIVE.7460 Master's Thesis - Civil Engineering (Formerly 14.746)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7460/",
+        "id": "003087",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7490": {
+        "name": "CIVE.7490 Master's Thesis - Civil Engineering (Formerly 14.749)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7490/",
+        "id": "003088",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7510": {
+        "name": "CIVE.7510 Doctoral Dissertation (Formerly 14.751)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7510/",
+        "id": "039533",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7520": {
+        "name": "CIVE.7520 Independent Study in Civil Engineering (Formerly 14.752)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7520/",
+        "id": "003089",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7530": {
+        "name": "CIVE.7530 Doctoral Dissertation (Formerly 14.753)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7530/",
+        "id": "003090",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7560": {
+        "name": "CIVE.7560 Doctoral Dissertation/Civil Engineering (Formerly 14.756)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7560/",
+        "id": "003091",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7570": {
+        "name": "CIVE.7570 Doctoral Dissertation (Formerly 14.757)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7570/",
+        "id": "033069",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "7",
+            "max": "7"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7590": {
+        "name": "CIVE.7590 Doctoral Dissertation (Formerly 14.759)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7590/",
+        "id": "003092",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7610": {
+        "name": "CIVE.7610 Continued Graduate Research",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7610/",
+        "id": "041199",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7630": {
+        "name": "CIVE.7630 Continued Graduate Research (Formerly 14.763)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7630/",
+        "id": "003093",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7660": {
+        "name": "CIVE.7660 Continued Graduate Research (Formerly 14.766)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7660/",
+        "id": "003094",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7690": {
+        "name": "CIVE.7690 Continued Graduate Research (Formerly 14.769)",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7690/",
+        "id": "003095",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "CIVE.7CPT": {
+        "name": "CIVE.7CPT Curricular Practical Training for Engineering Doctoral Candidates",
+        "url": "https://www.uml.edu/catalog/courses/CIVE/7CPT/",
+        "id": "041753",
+        "description": "Curricular Practical Training (CPT) is a training program for doctoral students in Engineering. Participation in CPT acknowledges that this an integral part of an established curriculum and directly related to the major area of study or thesis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

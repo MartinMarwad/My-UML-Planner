@@ -1,0 +1,525 @@
+{
+    "total": 32,
+    "time": 21.501683235168457,
+    "ARHI.1010": {
+        "name": "ARHI.1010 Art Appreciation (Formerly 58.101)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/1010/",
+        "id": "006218",
+        "description": "The course introduces the student to the technical, aesthetic and historical aspects of architecture, sculpture, and painting. An analysis of the visual elements used in fine arts such as color, line, shape, texture, and principles of design are developed through slide lectures, museum visits and assigned readings. In addition, students investigate the purposes of art and visual communication and develop a heightened sense of critical thinking that allows them to investigate successfully different modes of representation, styles and media in a multicultural society.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.1050": {
+        "name": "ARHI.1050 Comparative Arts (Formerly 58.105)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/1050/",
+        "id": "006219",
+        "description": "This course studies the aesthetic, artistic and intellectual similarities between art history and music history. Discussion of the arts focuses on the development in examining the human creativity and expression through the arts: from ancient times as art and morality followed in the Renaissance as art and sciences continued in the Enlightenment as art and society contrasted in the nineteenth century as art and entertainment. Furthermore, this course surveys some of the fundamental aspects of music and art, such as the nature of aesthetic judgment, the task of art and music criticism, including formalist, representational, and contemporary theories on viewing, analyzing, and interpreting the arts. In addition, with a comparative analysis between the modes of visual and aural representation, visual and aural perception, this course analyzes the principal forms and genres of the visual and aural elements of art history and music history, providing an understanding for human creativity and expression. Spring, alternate years.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.2030": {
+        "name": "ARHI.2030 History of Art I: Prehistoric to Medieval Art (Formerly 58.203)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/2030/",
+        "id": "006221",
+        "description": "A survey of the origins of painting, sculpture, and architecture from the prehistoric period through approximately 1300 CE. Works of art are discussed in their historical, cultural, and artistic contexts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.2040": {
+        "name": "ARHI.2040 History of Art II: Renaissance to Modern Art (Formerly 58.204)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/2040/",
+        "id": "006222",
+        "description": "A survey of the origins and development of painting, sculpture, and architecture from Renaissance times to the Modern period.   Emphasis is placed on representative works of art from the Renaisance, Baroque, Rococo, Nineteenth Century Movements-Neoclassicism, Romanticism, Impressionism, Cubism, Dadaism, Surrealism and Abstract Art.  The aim of the course is to introduce the student to basic critical and art historical methods as well as the analysis of style and content within sequential cultural contexts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.2110": {
+        "name": "ARHI.2110 Nineteenth Century Art (Formerly 58.211)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/2110/",
+        "id": "006225",
+        "description": "A study of the major artists and artistic movements of the 19th century. This course examines major cultural, social and political forces (e.g. class struggles, racial and gender inequalities, industrialization, scientific discoveries, emancipation, education reform, the influence of early \"social media,\" etc.) through the lens of the visual arts  and pays particular attention to how these forces impacted the way art was produced, viewed, and understood.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.2210": {
+        "name": "ARHI.2210 Twentieth Century Art (Formerly 58.221)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/2210/",
+        "id": "006226",
+        "description": "A study of developments in painting, sculpture, performance, media arts, conceptual art, architecture, and design after 1900.  This course encompasses modernisms in Europe, the Americas, Asia and the global south.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.2310": {
+        "name": "ARHI.2310 Greek and Roman Art (Formerly 58.231)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/2310/",
+        "id": "006228",
+        "description": "A study of Greek painting, sculpture, and architecture from the Cycladic to the Hellenistic period, and an examination of Roman Art from the Etruscan age to the beginning of Christian art. Emphasis is placed on the Greek Classical period and the Roman Empire.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3000": {
+        "name": "ARHI.3000 Art History, Music and Culture (Formerly 58.300)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3000/",
+        "id": "006231",
+        "description": "This course is a historical and critical examination of the aesthetic and intellectual similarities between art history, music history, literature and culture from Ancient Egypt to contemporary Art. Emphasis is placed on an in-depth exploration of western cultures. In addition, this course provides an understanding of human creativity and expression through a comparative analysis of visual art and music.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3020": {
+        "name": "ARHI.3020 Studies In World Art (Formerly 58.302)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3020/",
+        "id": "006223",
+        "description": "Historical and critical examination of regions works of art from China, Asia, the Islamic world, India, Africa, North America, Latin America, Native American Art and Mexico. Topics vary from year to year. Course may be repeated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3130": {
+        "name": "ARHI.3130 American Art (Formerly 58.313)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3130/",
+        "id": "006234",
+        "description": "This course centers on the study of American painting, sculpture, and decorative arts from the period of first contact up through the mid-twentieth century. One of the central questions of American art remains its definition: when does it start? What sources does it draw upon? In this class we will discuss American art through its ties to the peoples, events, institutions, and landscape that shaped it.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3151": {
+        "name": "ARHI.3151 Islamic Art and Contemporary Society (Formerly as 59.315)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3151/",
+        "id": "006292",
+        "description": "This course introduces students to Islamic art through a survey of works across the broad reach of the Islamic world including Saudi Arabia, Northern and Saharan Africa, Spain, the former Ottoman Empire surrounding Turkey and the Greater Middle East. The last unit of the course looks at Islamic art in the diaspora. The course highlights works form c. 500 CE to the present, ending with the ultra modern city of Dubai.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3210": {
+        "name": "ARHI.3210 Italian Renaissance Art (Formerly 58.321)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3210/",
+        "id": "006235",
+        "description": "A study of painting, sculpture, and architecture in the major artistic centers of Italy (Florence, Rome, Venice, Milan and the Northern Courts) during the 15th and 16th centuries. In addition to examining artworks by some of the most important artists of the period - Leonard da Vinci, Michelangelo, titan - this course considers larger themes raised by these works and gibes attention to the conditions within which the works were originally produced and viewed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3230": {
+        "name": "ARHI.3230 Northern Renaissance Art (Formerly 58.323)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3230/",
+        "id": "006236",
+        "description": "A study of 15th and 16th century painting and sculpture north of the Alps including artists such as Jan van Eyck, Hieronymus Bosch, Jean Fouquet and Albrecht D\u00fcrer. This course considers how social forces (politics, race, religion, gender etc.) influenced the manner in which Northern renaissance art was produced, viewed, and understood, as well as how these forces led to the creation of some of the most startling, strange and enigmatic images of any period in the history of art.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3250": {
+        "name": "ARHI.3250 Studies in Latin American Art (Formerly 58.325 )",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3250/",
+        "id": "031886",
+        "description": "An introduction to the art and architecture of ancient, colonial, and modern Latin America. The course provides a framework by which students consider the complex intersections--of vision, power, history, and artistic production--in Latin American art within both local and global contexts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3300": {
+        "name": "ARHI.3300 Italian Mannerism (Formerly 58.330)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3300/",
+        "id": "006237",
+        "description": "A study on the impact of the High Renaissance in the sixteenth century, the subsequent development of early Mannerism in central Italy and the formation of the Proto-Baroque syle in Venice and Northern Italy, the establishment of the courtly Mannerist style. The role of representative artists such as Anguissola, Pontormo, Rosso, Parmigianino, Bronzino, Beccafumi, Fontana, Vasari, Veronese, Bandinelli, Cellini, Palladio, Peruzzi and Ammanati is emphasized.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3310": {
+        "name": "ARHI.3310 Asian Art (Formerly 58.331)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3310/",
+        "id": "006238",
+        "description": "The purpose of this course is to provide a general overview of the art of the traditional cultures of Asia, China, India and Japan. This survey provides a critical and historical examination of these cultures.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3320": {
+        "name": "ARHI.3320 Baroque Art (Formerly 58.332)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3320/",
+        "id": "006239",
+        "description": "This course surveys the drama and dynamism that infused painting and sculpture from 1550-1750. With its origins in Italy, Baroque art quickly spread throughout much of Europe (including Flanders, France, England, the Dutch republic, Spain, Portugal) and the New World. This course will explore the ways the arts were used to express political ambition, forge social and political alliances, as well as to create cultural identity and memory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3350": {
+        "name": "ARHI.3350 The Golden Age of Spanish Art",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3350/",
+        "id": "039891",
+        "description": "This course is a survey of art in Spain from the discovery of the Americas in 1492 through the mid-seventeenth. This roughly 150-year period, known as the Spanish Golden Age or Siglo de Oro, witnessed the expansion of the Spanish empire across the Atlantic and Asia and gave rise to many of Spain's greatest artistic achievements. This course will survey the unprecedented contributions of Spanish painters, sculptors and architects; the patrons and political forces contributing to this Golden Age of artistic production; and the place of the Spanish golden Age within broader European and global contexts.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3360": {
+        "name": "ARHI.3360 Arts of Sub-Saharan Africa",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3360/",
+        "id": "041904",
+        "description": "This course surveys the arts of Sub-Saharan Africa from the 12th century to the present day. It will situate works of art firmly in the history, aesthetics, values, and motivations of the cultures that created it. Students will discover that each culture has its own unique relationship with art and history. The course will also address the process of ambiguities of living and making art in global, post-colonial world. Students will gain not only a strong foundation of art historical knowledge but also how that knowledge affects our current interactions with African art through museum exhibitions and collections.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3400": {
+        "name": "ARHI.3400 Women and Art (Formerly 58.340)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3400/",
+        "id": "006241",
+        "description": "An introduction to key issues and theoretical approaches to the study of women and art. This course examines women as makers of art, as subjects of art, and as interpreters of art. The class will explore the ways artists have represented the intersections of gender identities, sexual orientation, power, race, class and nationality in their works and the socio-cultural conditions in which specific artists have been excluded or marginalized in art practice, exhibition, collecting and critical discourse.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGL.1010 College Writing I.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3410": {
+        "name": "ARHI.3410 Medieval Art (Formerly 58.241)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3410/",
+        "id": "006229",
+        "description": "This course examines the rich cross-cultural artistic heritage of the medieval world from the Late Antique period (third century CE) through the Gothic period (fourteenth century CE). The course includes the study of paintings, sculpture, illuminated manuscripts, mosaics and architecture. It will explore materials and technique, the relationship of images to sacred texts and rituals, and the controversies regarding image production. Drawing examples for the eastern Mediterranean to the rocky coast of Ireland, the course will draw out the way works of art reflected relationships between the Jewish, Christian, and Islamic religions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3470": {
+        "name": "ARHI.3470 French Impressionism and Post-Impressionism",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3470/",
+        "id": "040398",
+        "description": "This course surveys the artists and artistic movements associated with impressionism and Post-Impressionism in France. The course will begin with an examination of the arts just prior to the last quarter of the nineteenth century and will continue through the beginning of the twentieth century. Readings, lectures and assignments will engage students in a close study of French artists and France itself as the art-making capital of the West during this period. In this capacity, the course will investigate how social forces (politics, gender, race, religion, etc.) influenced the manner in which \"modern\" art was produced, viewed, and understood.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3500": {
+        "name": "ARHI.3500 Post Modernism (Formerly 58.350)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3500/",
+        "id": "006243",
+        "description": "Following the Second World War, artists transformed the avant-garde tradition of their European predecessors to establish a dialogue with the mass media and consumer culture that has resulted in a wide array of artistic movements. Issues ranging from multiculturalism and gender to modernism and postmodernism will be addressed through the movements of abstract expressionism, pop, minimalism, neo-expressionism and appropriate in the diverse media of video, performance and photography, as well as painting and sculpture.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ARHI 2040 History of Art II:Ren - Mod. or ARHI 2210 20th Century Art.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ARHI.2040",
+                    "ARHI.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3520": {
+        "name": "ARHI.3520 Contemporary Art and Culture (Formerly 58.352)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3520/",
+        "id": "006244",
+        "description": "Examination of issues of content, theory, and criticism in contemporary art. Current exhibitions and criticism are integral to the course. Topics vary from year to year.  Meets Core Curriculum Essential Learning Outcome for Diversity and Cultural Awareness (DCA).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ARHI.3530": {
+        "name": "ARHI.3530 History of Public Art in the Modern Era (Formerly 58.353)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3530/",
+        "id": "037451",
+        "description": "This course serves as an introduction to the history of public art in the modern and contemporary world.  The history of public art is examined in relation to such concerns as the definition of public space, community involvement in the creative process, the institutional and economic support system for the arts, the modern understanding of memorial sculpture, and the use of the visual arts to foster public dialogue and cultural exchange.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3600": {
+        "name": "ARHI.3600 Museum Issues (Formerly 58.360)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3600/",
+        "id": "006246",
+        "description": "The art museum in the United States is a unique social institution because of its blend of public and private support and its intricate involvement with artists, art historians, collectors, the art market, and the government. This course will study the art museum\u00c6s history and status in our society today. Special consideration will be given to financial, legal and ethical issues that face art museums in our time. Short papers, oral reports and visits with directors, curators and other museum officials in nearby museums will be included along with a detailed study of a topic of ones choice.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.3650": {
+        "name": "ARHI.3650 Art and Environment (Formerly ARHI.2300)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/3650/",
+        "id": "039594",
+        "description": "This course surveys developments in land, environmental, and ecological art. Some of the most compelling artists today engage with the politics of land use, including the conditions of the global economy, climate change, environmental justice, sustainability, sovereignty and land claims, uneven geographies and expanding megacities, and the privatization of public space.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.4900": {
+        "name": "ARHI.4900 Art History Seminar (Formerly 58.490)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/4900/",
+        "id": "006248",
+        "description": "Study of particular artist, style or selected art historical problem. Topics to be announced. Course may be repeated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "58.204 History of Art II: Renaissance to Modern Art or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.4910": {
+        "name": "ARHI.4910 Art History Seminar (Formerly 58.491)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/4910/",
+        "id": "006249",
+        "description": "Study of particular artist, style or selected art historical problem. Topics to be announced. Course may be repeated.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.4940": {
+        "name": "ARHI.4940 Directed Study in Art History (Formerly 58.494)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/4940/",
+        "id": "006251",
+        "description": "An individual supervised research project relating to stylistic, thematic or methodological issues in Art History, the result to be presented in a significant paper.",
+        "credits": {
+            "min": "1",
+            "max": "4"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.4950": {
+        "name": "ARHI.4950 Advanced Tutorial in Art History (Formerly 58.495)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/4950/",
+        "id": "006252",
+        "description": "A program of directed study affords the advanced student with an additional opportunity to pursue a previously explored problem in greater depth or to initiate and investigate an additional problem. The purpose is to sharpen and refine skills for scholarly research and presentation",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ARHI.4960": {
+        "name": "ARHI.4960 Practicum Experience in Art History (Formerly 58.496)",
+        "url": "https://www.uml.edu/catalog/courses/ARHI/4960/",
+        "id": "006253",
+        "description": "A program of on-campus and/or off-campus experiences for Art History students only. Specific requirements will vary depending upon department policies and the nature of the program undertaken by the student. The intent of the practicum experience is to provide an occasion for investigation of a community, social, cultural or artistic area and for applying techniques of problem solving and/or credits. Students will be graded satisfactory or unsatisfactory.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

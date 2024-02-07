@@ -39,9 +39,7 @@ const ThemeModeProvider = ({ children }) => {
   };
 
   return (
-    <ThemeModeContext.Provider
-      value={{ themeMode, toggleThemeMode, resetThemeMode }}
-    >
+    <ThemeModeContext.Provider value={{ themeMode, toggleThemeMode, resetThemeMode }}>
       {children}
     </ThemeModeContext.Provider>
   );

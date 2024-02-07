@@ -1,0 +1,455 @@
+{
+    "total": 25,
+    "time": 21.554683923721313,
+    "DGMD.1000": {
+        "name": "DGMD.1000 Introduction to Digital Media (Formerly JMS 100/DGMD 100)",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/1000/",
+        "id": "037736",
+        "description": "This foundational course that surveys the history and current state of digital and web-based media from a variety of perspectives: cultural and ethical, as well as the production and monetization of media. Students engage with and become critical consumers of media, learning how we use it to disseminate, market, entertain, influence and disrupt.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.1100": {
+        "name": "DGMD.1100 Introduction to Digital Media Production",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/1100/",
+        "id": "041874",
+        "description": "This is a foundational production-level course in the Digital Media program. The course is designed for students to learn the principles of video production and post-production. Students will be introduced to a variety of video equipment and will learn the basics of editing software, using Adobe Premiere Pro. Likewise, students should expect to gain foundational level skills with sound recording, lighting, and production etiquette. A significant portion of the course is dedicated to in-the-field and in-the-studio hands-on experience. Upon completion of the course, students will be able to create short-format projects using a single camera and will be ready to move onto the production of portfolio-level non-fiction and narrative-based films. No prior experience with the medium is necessary.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.1210": {
+        "name": "DGMD.1210 Introduction to Audio Production",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/1210/",
+        "id": "042013",
+        "description": "This introductory-level production course is designed to engage students in learning techniques and principles of audio production and integration of sound into media storytelling including digital film, commercial media applications, internet production, and many more. Students will learn basic workflows of digital sound recording, processing, editing, and mixing. Likewise, students will be introduced to the aesthetic properties of sound and discuss various applications and form through the study of existing works. A significant portion of the course is dedicated to in-the-field and in-the-studio hands-on experience (both individual and in-group). No prior experience with the medium is necessary. The course is required for Digital Media BA majors but is open to anyone.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.2120": {
+        "name": "DGMD.2120 Media History and Culture I",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/2120/",
+        "id": "042134",
+        "description": "This course is the first in a sequence of a two-semester expose to media history and culture in the US and worldwide. The course will trace and analyze some of the most significant developments in media technology, industry, and the role they play in the process of shaping the human experience affecting society, politics, and culture. The emphasis will be made on the visual media including film and broadcast, but the broader context will be considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.2140": {
+        "name": "DGMD.2140 Media History and Culture II",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/2140/",
+        "id": "042266",
+        "description": "This course is the second in a sequence of a two-semester expose to media history and culture in the US and worldwide. The content will cover the developments from the 1960s to the present moment. The course will trace and analyze some of the most significant developments in media technology, industry, and the role they play in the process of shaping the human experience affecting society, politics, and culture. The emphasis will be made on the visual media including film and broadcast, but the broader context will be considered.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL.1020 College Writing II.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.2200": {
+        "name": "DGMD.2200 Screenwriting",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/2200/",
+        "id": "039821",
+        "description": "In this class students will be immersed in the art and craft of creating compelling stories for the screen in both fiction and nonfiction genres. As it has been said many times about media making, the story is the heart of media production. Students will develop screenwriting abilities through gaining knowledge of and experience with story conception and development: character development; story structure; dramatic action; dialogue; scene/sequence construction and writing for emotional impact.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.2310": {
+        "name": "DGMD.2310 Media, Law and Ethics (Formerly 41.237/DGMD 231)",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/2310/",
+        "id": "038516",
+        "description": "This course explores key legal issues likely to confront journalists, mass media professionals or students interested in learning more about the relationships between law, media and ethics in this global community. Nonetheless, students are challenged to think critically about the applicability of those issues to individuals and to media institutions that transmit information via spoken communications, writing, traditional media, mobile messages, social network sites, or e-mail messages.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.2400": {
+        "name": "DGMD.2400 Introduction to Digital Editing",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/2400/",
+        "id": "040786",
+        "description": "This is an introductory course in digital editing. Students are going to be introduced to the basics of digital editing, the aesthetics and technical skills of digital editing for film and video.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.2450": {
+        "name": "DGMD.2450 Social Media Management",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/2450/",
+        "id": "042135",
+        "description": "The course is designed to equip students with the necessary skills and strategies for content creation and management on social media. Likewise, students will explore various components of social media use including psychology, ethics, and economics behind various existing formats. The course does not aim to prepare students for specific platforms but focuses on general strategies including social responsibility, storytelling methodologies, content creation an d promotion, communication fluidity, data analytics and metrics, and understanding and growing of audiences. Through lectures, presentations, readings, formal exercises, case studies, and discussions the students will develop a solid practice in social media creation and management. Foundational skill in design are desired but not a requirement.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.2510": {
+        "name": "DGMD.2510 Video Production for Digital Media",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/2510/",
+        "id": "039822",
+        "description": "In this course students are going to understand the theory and practice of video production using a single digital camera for digital media through a mix of heavy hands-on practice and lectures. Students will be expected to understand; full digital camera operation and settings, audio control, basic directing, basic lighting, and basic editing intended for digital production. Students will also be expected to learn the terminology of video production/post-production intended for digital media.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.3000": {
+        "name": "DGMD.3000 Multimedia Storytelling (Formerly JMS 300/DGMD 300)",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/3000/",
+        "id": "038225",
+        "description": "This course will facilitate a deeper understanding of the uses of online and multimedia communication technologies in a democratic society and the impact of such technologies on the way we communicate The course will provide students with the opportunity to develop professional knowledge and skills with the tools used in online and multimedia creation. Students will develop a critical understanding of multiplatform and multimedia technologies and will learn how to use video, digital photography, audio, video, social networking and other new technologies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.3100": {
+        "name": "DGMD.3100 Advanced Editing for Digital Media",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/3100/",
+        "id": "039661",
+        "description": "This class is dedicated to the practice of non-linear editing of media for films, television, or the web. Instruction will focus on the development of formal and conceptual post-production practices needed for creating compelling visual stories. Students will consolidate their post-production skills developed in previous courses and further improve in areas of editing picture and sound, color grading and effects. Emphasis will be made on developing necessary software skills, post-production workflow, and aesthetic approaches.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.2510 Video Prod. for Digital Media, and DGMD.3400 Lighting Principles.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.2510"
+                ],
+                [
+                    "DGMD.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.3300": {
+        "name": "DGMD.3300 Digital Cinematography",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/3300/",
+        "id": "039946",
+        "description": "This course emphasizes the concepts needed to control the quality of images created, including such techniques as varying the frame rate, shutter speed, exposure, camera filters and color temperature. Topics covered will include camera operation, composition, framing, lens choice, camera movement, collaboration, blocking, continuity and all aspects of visual storytelling.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.2510 Video Prod for Digital Media, and DGMD.3100 Digital Editing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.2510"
+                ],
+                [
+                    "DGMD.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.3400": {
+        "name": "DGMD.3400 Lighting Principles (Formerly JMS 340/DGMD 340)",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/3400/",
+        "id": "038877",
+        "description": "In this course students are going to understand the principles of lighting, its nature, its physical Characteristics, and its artistic role in media production. Class will have significant hands-on assignments and demonstrations beside theoretical background lectures. The concept will be developed based on a one-camera setting only. Students will work with light meters to guide their lighting schemes.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.3502": {
+        "name": "DGMD.3502 Production Management for Film",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/3502/",
+        "id": "039949",
+        "description": "In this course students are going to be introduced to the process of film production management from preproduction through production and screening. Students will learn budget management, crewing requirements, location needs, equipment rentals, and associated production costs.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGL 1020 College Writing II, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGL.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.3701": {
+        "name": "DGMD.3701 Visual Motion Effects",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/3701/",
+        "id": "039951",
+        "description": "In this course, students are going to use After Effects as a tool to help them achieve a successful and visually convincing effect after going through idea generation process. Students will work on masking, cloning, and three-dimensional space with the aim of producing short productions. Familiarity with Photoshop is preferred.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.3100 Digital Editing, and DGMD.3501 Introduction to Digital Filmmaking.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.3100"
+                ],
+                [
+                    "DGMD.3501"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.4000": {
+        "name": "DGMD.4000 Directed Study in Digital Media (Formerly JMS 400/DGMD 400)",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4000/",
+        "id": "038224",
+        "description": "Through frequent consultation with the instructor, the student carries out the investigation of a particularly specialized area of interest. This course may be repeated for up to a total of 6 credits.",
+        "credits": {
+            "min": "1",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.4100": {
+        "name": "DGMD.4100 TV Studio Production (Formerly JMS 410/DGMD 410)",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4100/",
+        "id": "038651",
+        "description": "This course will offer you the opportunity to produce different types of live programs using digital technology. Plan, organise and direct TV studio-based broadcasting. Work effectively as part of a group. It provides a working knowledge of compositional, personal and organizational production skills in relation to the making of a live broadcast program using at least three cameras having in mind that you will cut/ edit form a camera to another without stopping. It requires collaboration, teamwork and strict, organized structures. In most cases, it requires leadership. But for everybody, personal qualities such as determination, enthusiasm and persistence are almost essential. So too is engaged participation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.1000 Introduction to Digital Media, or DGMD.1100 Introduction to Digital Media Production, or Permission of Instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.1000",
+                    "DGMD.1100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.4103": {
+        "name": "DGMD.4103 TV Sport Broadcasting",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4103/",
+        "id": "039953",
+        "description": "In this course, students are going to learn the techniques and theory behind mobile TV production in regards to the professional sports industry. A look into the major sports of American culture and production techniques utilized to produce each. Environmental factors governing outdoor TV production as well as state and community government issues regarding the broadcast of each sport. In this course, students will be working in collaboration with UMass Lowell Athletic Department and will be involved with the Tsongas Arena sports activities through its Audio/Video department.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.2510 Video Prod for Digital Media, and DGMD.3100 Digital Editing.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.2510"
+                ],
+                [
+                    "DGMD.3100"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.4110": {
+        "name": "DGMD.4110 Titles in Motion (Formerly DGMD 411)",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4110/",
+        "id": "039186",
+        "description": "The course aims to provide students with an understanding of the creative, visual and formal aspects of time-based communication and motion graphic design from both a contextual and technical point of view. Designers, with their comprehension of the principles of graphic design, typography and theories of visual communication will develop a knowledge and understanding of processes and techniques involved in creating time-based media including title sequence design. Projects introduce students to time-based visual communication environments. Unique conditions influencing the roles of storyboarding, planning, typography, graphics, symbolic systems, narrative, sound and time.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.4200": {
+        "name": "DGMD.4200 Podcasting",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4200/",
+        "id": "039954",
+        "description": "In this class, students will create audio segments in the style of a Podcast, each executed with increasing complexity. Students will use the language of cinema, television, print, and the web. They will conduct research, scriptwriting, producing, location scouting, and organize scheduling. Students will use  current technology to record a location-based audio program.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.4300": {
+        "name": "DGMD.4300 Directing for Film",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4300/",
+        "id": "039957",
+        "description": "In this course, student will work on spatial exploration, mise en scene, and directing the actor. Students will learn methods in scene study and improvisation beside rehearsal techniques, script breakdown and analysis. Students will have first hand experience of the role of director on set and beyond. Leadership and decision making are two qualities and major factors that play a crucial role in the progress of this class.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.2200 Screenwriting, DGMD.3100 Digital Editing, DGMD.3501 Introduction to Digital Filmmaking.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.2200"
+                ],
+                [
+                    "DGMD.3100"
+                ],
+                [
+                    "DGMD.3501"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.4750": {
+        "name": "DGMD.4750 Internship in Digital Media",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4750/",
+        "id": "040521",
+        "description": "This course is a semester long internship with one of Digital Media community partners. Students in this course will be practicing media as it is being produced on the ground today through direct hands-on experience.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "DGMD.4980": {
+        "name": "DGMD.4980 Digital Media Capstone I",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4980/",
+        "id": "042014",
+        "description": "The first section of the capstone course is designed for guided self-designated projects by seniors in the Digital Media BA program. The course is a part of a sequence of two courses and is designed to be intense engagement that should manifest in the significant project taken from concept through production. Students can work individually and collaboratively under the close supervision of the faculty. The students are required to submit an application that includes a sound project proposal to be eligible for enrollment into the course. The sequential section DGMD.4991 needs to be completed by the BA students to graduate.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.2200, and DGMD.2510, and DGMD.3100, and DGMD.3400.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.2200"
+                ],
+                [
+                    "DGMD.2510"
+                ],
+                [
+                    "DGMD.3100"
+                ],
+                [
+                    "DGMD.3400"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "DGMD.4991": {
+        "name": "DGMD.4991 Digital Media Capstone II",
+        "url": "https://www.uml.edu/catalog/courses/DGMD/4991/",
+        "id": "042016",
+        "description": "This is the second part of capstone course sequence and is designed for guided self-designated projects by seniors in the Digital Media BA program. The course is a part of a sequence of two courses and is designed to be intense engagement that should manifest in a significant project taken from concept through production. Student s work individually and collaboratively under the close supervision of the faculty. The end result of the course should be the completion of a significant project; the final step should result in a public screening. DGMD.4980 needs to be completed for student to qualify for the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "DGMD.4980 Digital Media Capstone I, or permission of instructor.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "DGMD.4980"
+                ]
+            ],
+            "corequisites": []
+        }
+    }
+}

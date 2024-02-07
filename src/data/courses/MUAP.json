@@ -1,0 +1,1753 @@
+{
+    "total": 97,
+    "time": 66.50552105903625,
+    "MUAP.0010": {
+        "name": "MUAP.0010 Applied Music (Formerly 72.001)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/0010/",
+        "id": "006951",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1000": {
+        "name": "MUAP.1000 Recital Attendance (Formerly 72.100)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1000/",
+        "id": "006955",
+        "description": "Required attendance at scheduled Thursday Recital Hours and ten concerts/recital each semester from those listed on the Department of Music Performance Calendar. Seven semesters required of all music majors.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1010": {
+        "name": "MUAP.1010 Applied Keyboard 1 (Formerly 72.101)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1010/",
+        "id": "006956",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1020": {
+        "name": "MUAP.1020 Applied Keyboard 2 (Formerly 72.102)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1020/",
+        "id": "006957",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1010 Applied Keyboard 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.1050": {
+        "name": "MUAP.1050 Applied Music Technology 1",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1050/",
+        "id": "042021",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1060": {
+        "name": "MUAP.1060 Applied Music Technology 2",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1060/",
+        "id": "042022",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUAP.1050 pre-req",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.1110": {
+        "name": "MUAP.1110 Applied Voice 1 (Formerly 72.111)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1110/",
+        "id": "006958",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1120": {
+        "name": "MUAP.1120 Applied Voice 2 (Formerly 72.112)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1120/",
+        "id": "006959",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1110 Applied Voice 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.1210": {
+        "name": "MUAP.1210 Applied Woodwinds 1 (Formerly 72.121)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1210/",
+        "id": "006960",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1220": {
+        "name": "MUAP.1220 Applied Woodwinds 2 (Formerly 72.122)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1220/",
+        "id": "006961",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1210 Applied Woodwinds 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.1310": {
+        "name": "MUAP.1310 Applied Brass & Percussion 1 (Formerly 72.131)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1310/",
+        "id": "006962",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1320": {
+        "name": "MUAP.1320 Applied Brass & Percussion  2 (Formerly 72.132)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1320/",
+        "id": "006963",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1310 Applied Brass & Perc 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.1410": {
+        "name": "MUAP.1410 Applied Strings 1 (Formerly 72.141)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1410/",
+        "id": "006964",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1420": {
+        "name": "MUAP.1420 Applied Strings 2 (Formerly 72.142)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1420/",
+        "id": "006965",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1410 Applied Strings 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.1520": {
+        "name": "MUAP.1520 Performance Keyboard 1 (Formerly 72.152)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1520/",
+        "id": "006968",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1620": {
+        "name": "MUAP.1620 Performance Voice 1 (Formerly 72.162)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1620/",
+        "id": "006969",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1720": {
+        "name": "MUAP.1720 Performance Woodwinds 1 (Formerly 72.172)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1720/",
+        "id": "006970",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1820": {
+        "name": "MUAP.1820 Performance Brass & Percussion 1 (Formerly 72.182)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1820/",
+        "id": "006971",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.1920": {
+        "name": "MUAP.1920 Performance Strings 1 (Formerly 72.192)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/1920/",
+        "id": "006972",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Music Majors only.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.2010": {
+        "name": "MUAP.2010 Applied Keyboard 3 (Formerly 72.201)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2010/",
+        "id": "006973",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1020 Applied Keyboard 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2020": {
+        "name": "MUAP.2020 Applied Keyboard 4 (Formerly 72.202)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2020/",
+        "id": "006974",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2010 Applied Keyboard 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2050": {
+        "name": "MUAP.2050 Applied Music Technology 3",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2050/",
+        "id": "042023",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.2060": {
+        "name": "MUAP.2060 Applied Music Technology 4",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2060/",
+        "id": "042034",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Reqs:MUAP.1050 Applied Music Technology 1, MUAP.1060 Applied Music Technology 2, & MUAP.2050 Applied Music Technology 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1060"
+                ],
+                [
+                    "MUAP.2050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2110": {
+        "name": "MUAP.2110 Applied Voice 3 (Formerly 72.211)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2110/",
+        "id": "006975",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1120 Applied Voice 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2120": {
+        "name": "MUAP.2120 Applied Voice 4 (Formerly 72.212)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2120/",
+        "id": "006976",
+        "description": "Studio instruction in graduated sequence with voice as the principal instrument.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2110 Applied Voice 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2210": {
+        "name": "MUAP.2210 Applied Woodwinds 3 (Formerly 72.221)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2210/",
+        "id": "006978",
+        "description": "Studio instruction in graduated sequence with woodwind as the principal instrument.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1220 Applied Woodwinds 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2220": {
+        "name": "MUAP.2220 Applied Woodwinds 4 (Formerly 72.222)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2220/",
+        "id": "006979",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2210 Applied Woodwinds 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2310": {
+        "name": "MUAP.2310 Applied Brass & Percussion 3 (Formerly 72.231)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2310/",
+        "id": "006980",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1320 Applied Brass & Perc 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2320": {
+        "name": "MUAP.2320 Applied Brass & Percussion 4 (Formerly 72.232)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2320/",
+        "id": "006981",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2310 Applied Brass & Perc 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2410": {
+        "name": "MUAP.2410 Applied Strings 3 (Formerly 72.241)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2410/",
+        "id": "006982",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.1420 Applied Strings 2, Bass Players only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1420"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2420": {
+        "name": "MUAP.2420 Applied Strings 4 (Formerly 72.242)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2420/",
+        "id": "006983",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2410 Applied Strings 3, Bass Players only.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2510": {
+        "name": "MUAP.2510 Performance Keyboard 2 (Formerly 72.251)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2510/",
+        "id": "006985",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.1520 Perf Keyboard 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2520": {
+        "name": "MUAP.2520 Performance Keyboard 3 (Formerly 72.252)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2520/",
+        "id": "006986",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2510 Perf Keyboard 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2610": {
+        "name": "MUAP.2610 Performance Voice 2 (Formerly 72.261)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2610/",
+        "id": "006987",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.1620 Perf Voice 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2620": {
+        "name": "MUAP.2620 Performance Voice 3 (Formerly 72.262)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2620/",
+        "id": "006988",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2610 Performance Voice 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2710": {
+        "name": "MUAP.2710 Performance Woodwinds 2 (Formerly 72.271)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2710/",
+        "id": "006989",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.1720 Performance Woodwinds 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2720": {
+        "name": "MUAP.2720 Performance Woodwinds 3 (Formerly 72.272)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2720/",
+        "id": "006990",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2710 Performance Woodwinds 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2710"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2810": {
+        "name": "MUAP.2810 Performance Brass & Percussion 2 (Formerly 72.281)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2810/",
+        "id": "006991",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.1820 Performance  Brass & Perc 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2820": {
+        "name": "MUAP.2820 Performance Brass & Percussion 3 (Formerly 72.282)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2820/",
+        "id": "006992",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2810 Perf Brass & Perc 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2910": {
+        "name": "MUAP.2910 Performance Strings 2 (Formerly 72.291)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2910/",
+        "id": "006993",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.1920 Performance Strings 1.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.1920"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.2920": {
+        "name": "MUAP.2920 Performance Strings 3 (Formerly 72.292)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/2920/",
+        "id": "006994",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2910 Performance Strings 2.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2910"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3010": {
+        "name": "MUAP.3010 Applied Keyboard 5 (Formerly 72.301)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3010/",
+        "id": "006995",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2020 Applied Keyboard 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3020": {
+        "name": "MUAP.3020 Applied Keyboard 6 (Formerly 72.302)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3020/",
+        "id": "006996",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3010 Applied Keyboard 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3050": {
+        "name": "MUAP.3050 Applied Music Technology 5",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3050/",
+        "id": "042038",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req:MUAP.2060 Applied Music Technology 4.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.3060": {
+        "name": "MUAP.3060 Applied Music Technology 6",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3060/",
+        "id": "042037",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3050 Applied Music Technology 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3110": {
+        "name": "MUAP.3110 Applied Voice 5 (Formerly 72.311)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3110/",
+        "id": "006997",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2120 Applied Voice 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3120": {
+        "name": "MUAP.3120 Applied Voice 6 (Formerly 72.312)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3120/",
+        "id": "006998",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3110 Applied Voice 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3210": {
+        "name": "MUAP.3210 Applied Woodwinds 5 (Formerly 72.321)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3210/",
+        "id": "006999",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2220 Applied Woodwinds 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3220": {
+        "name": "MUAP.3220 Applied Woodwinds 6 (Formerly 72.322)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3220/",
+        "id": "007000",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3210 Applied Woodwinds 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3310": {
+        "name": "MUAP.3310 Applied Brass & Percussion 5 (Formerly 72.331)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3310/",
+        "id": "007001",
+        "description": "Studio instruction in graduated sequence with brass or percussion as the principal instrument.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2320  Applied Brass & Perc 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3320": {
+        "name": "MUAP.3320 Applied Brass & Percussion 6 (Formerly 72.332)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3320/",
+        "id": "007002",
+        "description": "Studio instruction in graduated sequence with brass or percussion as the principal instrument.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3310 Applied Brass & Percussion 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3410": {
+        "name": "MUAP.3410 Applied Strings 5 (Formerly 72.341)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3410/",
+        "id": "007003",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.2420 Applied Strings 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2420"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3420": {
+        "name": "MUAP.3420 Applied Strings 6 (Formerly 72.342)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3420/",
+        "id": "007004",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3410 Applied Strings 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3510": {
+        "name": "MUAP.3510 Performance Keyboard 4 (Formerly 72.351)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3510/",
+        "id": "007005",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2520 Perf Keyboard 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3520": {
+        "name": "MUAP.3520 Performance Keyboard 5 (Formerly 72.352)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3520/",
+        "id": "007006",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3510 Performance Keyboard 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3510"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3610": {
+        "name": "MUAP.3610 Performance Voice 4 (Formerly 72.361)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3610/",
+        "id": "007007",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 72.262 Performance Voice 3.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.3620": {
+        "name": "MUAP.3620 Performance Voice 5 (Formerly 72.362)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3620/",
+        "id": "007008",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3610 Performance Voice 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3610"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3710": {
+        "name": "MUAP.3710 Performance Woodwinds 4 (Formerly 72.371)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3710/",
+        "id": "007009",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2720 Performance Woodwinds 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3720": {
+        "name": "MUAP.3720 Performance Woodwinds 5 (Formerly 72.372)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3720/",
+        "id": "007010",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3710 Performance Woodwinds 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3710"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3810": {
+        "name": "MUAP.3810 Performance Brass & Percussion 4 (Formerly 72.381)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3810/",
+        "id": "007011",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2820 Perf Brass & Perc 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3820": {
+        "name": "MUAP.3820 Performance Brass And Percussion 5 (Formerly 72.382)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3820/",
+        "id": "007012",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3810 Perf Brass & Perc 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3810"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3910": {
+        "name": "MUAP.3910 Performance Strings 4 (Formerly 72.391)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3910/",
+        "id": "007013",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.2920 Performance Strings 3.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.2920"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.3920": {
+        "name": "MUAP.3920 Performance Strings 5 (Formerly 72.392)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/3920/",
+        "id": "007014",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3910 Performance Strings 4.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3910"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4010": {
+        "name": "MUAP.4010 Applied Keyboard 7 (Formerly 72.401)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4010/",
+        "id": "007015",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3020 Applied Keyboard 6.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3020"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4020": {
+        "name": "MUAP.4020 Applied Keyboard 8 (Formerly 72.402)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4020/",
+        "id": "007016",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.4010 Applied Keyboard 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4010"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4050": {
+        "name": "MUAP.4050 Applied Music Technology 7",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4050/",
+        "id": "042036",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUAP.4050 Applied Music Technology 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4060": {
+        "name": "MUAP.4060 Applied Music Technology 8",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4060/",
+        "id": "042040",
+        "description": "Studio instruction in graduated sequence with music technology as the principal instrument. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "MUAP.4050 Applied Music Technology 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4050"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4110": {
+        "name": "MUAP.4110 Applied Voice 7 (Formerly 72.411)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4110/",
+        "id": "007017",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3120 Applied Voice 6.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3120"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4120": {
+        "name": "MUAP.4120 Applied Voice 8 (Formerly 72.412)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4120/",
+        "id": "007018",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.4110 Applied Voice 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4110"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4210": {
+        "name": "MUAP.4210 Applied Woodwinds 7 (Formerly 72.421)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4210/",
+        "id": "007019",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3220 Applied Woodwinds 6.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3220"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4220": {
+        "name": "MUAP.4220 Applied Woodwinds 8 (Formerly 72.422)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4220/",
+        "id": "007020",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.4210 Applied Woodwinds 7",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4210"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4310": {
+        "name": "MUAP.4310 Applied Brass And Percussion 7 (Formerly 72.431)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4310/",
+        "id": "007021",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3320 Applied Brass & Percussion 6.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3320"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4320": {
+        "name": "MUAP.4320 Applied Brass And  Percussion 8 (Formerly 72.432)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4320/",
+        "id": "007022",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.4310 Applied Brass & Percussion 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4410": {
+        "name": "MUAP.4410 Applied Strings 7 (Formerly 72.441)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4410/",
+        "id": "007023",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.3420 Applied Strings 6.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3420"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4420": {
+        "name": "MUAP.4420 Applied Strings 8 (Formerly 72.442)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4420/",
+        "id": "007024",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "Pre-Req: MUAP.4410 Applied Strings 7.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4410"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4510": {
+        "name": "MUAP.4510 Performance Keyboard 6 (Formerly 72.451)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4510/",
+        "id": "007031",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3520 Performance Keyboard 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3520"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4520": {
+        "name": "MUAP.4520 Performance Keyboard 7 (Formerly 72.452)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4520/",
+        "id": "007032",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP 4510 Performance Keyboard 6, and Co-req: MUAP 4991 Senior Recital.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4510"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUAP.4991"
+                ]
+            ]
+        }
+    },
+    "MUAP.4610": {
+        "name": "MUAP.4610 Performance Voice 6 (Formerly 72.461)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4610/",
+        "id": "007033",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3620 Performance Voice 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3620"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4620": {
+        "name": "MUAP.4620 Performance Voice 7 (Formerly 72.462)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4620/",
+        "id": "007034",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP 4610 Performance Voice 6, and Co-req: MUAP 4991 Senior Recital.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4610"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUAP.4991"
+                ]
+            ]
+        }
+    },
+    "MUAP.4710": {
+        "name": "MUAP.4710 Performance Woodwinds 6 (Formerly 72.471)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4710/",
+        "id": "007035",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3720 Performance Woodwinds 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3720"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4720": {
+        "name": "MUAP.4720 Performance Woodwinds 7 (Formerly 72.472)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4720/",
+        "id": "007036",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP 4710 Performance Woodwinds 6, and Co-req: MUAP 4991 Senior Recital.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4710"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUAP.4991"
+                ]
+            ]
+        }
+    },
+    "MUAP.4810": {
+        "name": "MUAP.4810 Performance  Brass And  Percussion 6 (Formerly 72.481)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4810/",
+        "id": "007037",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3820 Perf Brass & Perc 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3820"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4820": {
+        "name": "MUAP.4820 Performance Brass And Percussion 7 (Formerly 72.482)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4820/",
+        "id": "007038",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP 4810 Perf Brass & Perc 6, and Co-req: MUAP 4991 Senior Recital.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4810"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUAP.4991"
+                ]
+            ]
+        }
+    },
+    "MUAP.4910": {
+        "name": "MUAP.4910 Performance Strings 6 (Formerly 72.491)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4910/",
+        "id": "007039",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP.3920 Performance Strings 5.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.3920"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "MUAP.4920": {
+        "name": "MUAP.4920 Performance Strings 7 (Formerly 72.492)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4920/",
+        "id": "007040",
+        "description": "Studio instruction in graduated sequence. Applied Lessons consist of private instrumental, vocal, compositional, or technological lessons plus additional instruction in a group setting. Specific materials will be assigned by applied and group instructors based on student needs and abilities. Instruction will focus on technique and style building exercises and performances.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MUAP 4910 Performance Strings 6, and Co-req: MUAP 4991 Senior Recital.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MUAP.4910"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "MUAP.4991"
+                ]
+            ]
+        }
+    },
+    "MUAP.4991": {
+        "name": "MUAP.4991 Senior Recital (Formerly 72.499)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/4991/",
+        "id": "007045",
+        "description": "Public performance to be presented, registered concurrently with Applied Music 8 or Performance Applied Music 7.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "Co-req: MUAP.4520 Performance Keyboard 7, or MUAP.4620 Performance Voice 7, MUAP.4720 Performance Woodwinds 7, or MUAP.4820 Performance Brass & Percussion 7, or MUAP.4920 Performance Strings 7.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MUAP.4520",
+                    "MUAP.4620"
+                ],
+                [
+                    "MUAP.4720",
+                    "MUAP.4820",
+                    "MUAP.4920"
+                ]
+            ]
+        }
+    },
+    "MUAP.5010": {
+        "name": "MUAP.5010 Graduate  Applied Keyboard I (Formerly 72.501)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5010/",
+        "id": "007047",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5020": {
+        "name": "MUAP.5020 Graduate Applied Keyboard 2 (Formerly 72.502)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5020/",
+        "id": "007048",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5110": {
+        "name": "MUAP.5110 Graduate Applied Voice I (Formerly 72.511)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5110/",
+        "id": "007049",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5120": {
+        "name": "MUAP.5120 Graduate Applied Voice 2 (Formerly 72.512)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5120/",
+        "id": "007050",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5210": {
+        "name": "MUAP.5210 Graduate Applied Woodwinds 1 (Formerly 72.521)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5210/",
+        "id": "007051",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5220": {
+        "name": "MUAP.5220 Graduate Applied Woodwinds 2 (Formerly 72.522)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5220/",
+        "id": "007052",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5310": {
+        "name": "MUAP.5310 Graduate Applied Brass And  Percussion  1 (Formerly 72.531)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5310/",
+        "id": "007053",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5320": {
+        "name": "MUAP.5320 Graduate Applied  Brass And Percussion 2 (Formerly 72.532)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5320/",
+        "id": "007054",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5410": {
+        "name": "MUAP.5410 Graduate  Applied Strings 1 (Formerly 72.541)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5410/",
+        "id": "007055",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "MUAP.5420": {
+        "name": "MUAP.5420 Graduate Applied Strings 2 (Formerly 72.542)",
+        "url": "https://www.uml.edu/catalog/courses/MUAP/5420/",
+        "id": "007056",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "2",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

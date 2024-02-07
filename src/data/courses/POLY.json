@@ -1,0 +1,289 @@
+{
+    "total": 19,
+    "time": 14.848856687545776,
+    "POLY.5030": {
+        "name": "POLY.5030 Polymer Science I (Formerly 97.503)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/5030/",
+        "id": "008752",
+        "description": "A study of the principles of condensation, free radical, ionic, coordination and ring opening polymerization. The topics include the effect of polymerization techniques on reaction kinetics and molecular weight, and the evaluation of reactivity ratios in copolymerization reactions.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.5040": {
+        "name": "POLY.5040 Polymer Science II (Formerly 97.504)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/5040/",
+        "id": "008753",
+        "description": "Introduction to chain statistics and thermodynamics of macromolecular solutions, methods of study of molecular weight and chain conformation, and the properties of polymers in bulk including viscoelasticity and crystallinity.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.5050": {
+        "name": "POLY.5050 Polymer Preparation Characterization I",
+        "url": "https://www.uml.edu/catalog/courses/POLY/5050/",
+        "id": "008754",
+        "description": "In this graduate-level laboratory class, the students will learn a variety of valuable techniques for the syntheses and characterization of high molecular weight polymers. This course offers a combination of traditional/historical polymer synthesis (i.e. Urea/Formaldehyde thermoset formation, interfacial polymerization of Nylon, determination of reactivity ratios for copolymerizations) and modern polymerization techniques (i.e. RAFT, ATRP, Living ROP) along with relevant polymer characterization techniques used in today's synthetic polymer landscape (i.e. GPC, MALDI, light scattering, NMR, TGA, DSC, etc.).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.5110": {
+        "name": "POLY.5110 Biopolymers (Formerly 97.511)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/5110/",
+        "id": "008756",
+        "description": "Topics include conformation and configuration of vinyl polymers and polypeptides, energetics of chain folding and examination of the forces dictating ordered structures, helix to coil transitions in biopolymers with emphasis on polypeptide structures, instrumental analysis of biopolymer conformation, synthesis of biopolymers including polypeptides, polysaccarides and polynucleotides, and examination of relationships between synthetic polymers and naturally occurring polymers.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.5530": {
+        "name": "POLY.5530 Macromolecules Organic Chemistry (Formerly 97.553)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/5530/",
+        "id": "008759",
+        "description": "An advanced study in polymer science concerned with the synthesis of macromolecules and their mechanisms of formation.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.6010": {
+        "name": "POLY.6010 Polymer Science Seminar  (Formerly 97.601)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/6010/",
+        "id": "008760",
+        "description": "Required of all Polymer Science graduate students. Presentation of current topics in polymer science by graduate students. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.6020": {
+        "name": "POLY.6020 Seminar in Polymer Science  (Formerly 97.602)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/6020/",
+        "id": "008761",
+        "description": "Required of all Polymer Science graduate students. Presentation of current topics in polymer science by graduate students. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "2"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.6030": {
+        "name": "POLY.6030 Polymer Science Colloquium  (Formerly 97.603)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/6030/",
+        "id": "008762",
+        "description": "Required of all Polymer Science graduate students. Presentation of current topics in polymer science by visiting scientists and staff.",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.6040": {
+        "name": "POLY.6040 Polymer Science Colloquium  (Formerly 97.604)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/6040/",
+        "id": "008763",
+        "description": "Required of all Polymer Science graduate students. Presentation of current topics in polymer science by visiting scientists and staff.",
+        "credits": {
+            "min": "0",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.6490": {
+        "name": "POLY.6490 Introduction to Conjugated Polymers  (Formerly 97.649)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/6490/",
+        "id": "008764",
+        "description": "This course is an introduction to the fundamental science and potential applications of conjugated polymers in optical and electronic technologies. The topics covered include history, synthesis and molecular structure, including solid state polymerization; crystallinity and morpholgy, including assembly methods; electronic structure including energy bands, conjugation defects and photoelectron spectroscopy; properties of the insulating forms including light absorption and emission, thermochromism, carrier transport, electroluminescence and nonlinear optical properties; properties of the conducting forms, including \"\"doping\"\"; some specific devices.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7050": {
+        "name": "POLY.7050 Supervised Teaching in Polymer Science  (Formerly 97.705)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7050/",
+        "id": "008767",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7430": {
+        "name": "POLY.7430 Master's Thesis in Polymer Science  (Formerly 97.743)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7430/",
+        "id": "008771",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7460": {
+        "name": "POLY.7460 Master's Thesis in Polymer Science  (Formerly 97.746)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7460/",
+        "id": "008772",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7490": {
+        "name": "POLY.7490 Master's Thesis in Polymer Science  (Formerly 97.749)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7490/",
+        "id": "008773",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7510": {
+        "name": "POLY.7510 Thesis Review  (Formerly 97.751)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7510/",
+        "id": "035642",
+        "description": "This is a one credit thesis review course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7530": {
+        "name": "POLY.7530 Doctoral Dissertation in Polymer Science  (Formerly 97.753)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7530/",
+        "id": "008774",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7560": {
+        "name": "POLY.7560 Doctoral Dissertation in Polymer Science  (Formerly 97.756)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7560/",
+        "id": "008775",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7590": {
+        "name": "POLY.7590 Doctoral Dissertation in Polymer Science  (Formerly 97.759)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7590/",
+        "id": "008776",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "POLY.7690": {
+        "name": "POLY.7690 Continued Graduate Research  (Formerly 97.769)",
+        "url": "https://www.uml.edu/catalog/courses/POLY/7690/",
+        "id": "008779",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,650 @@
+{
+    "total": 40,
+    "time": 29.10111927986145,
+    "ENGY.3310": {
+        "name": "ENGY.3310 Fundamentals of Nuclear Science and Engineering (Formerly 24/10.331)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/3310/",
+        "id": "001263",
+        "description": "Overviews a variety of fundamental nuclear science and engineering concepts that form the basis for most contemporary nuclear technology applications Course topics include concepts from basic atomic and nuclear physics, modern physics, nuclear models and nuclear stability considerations, basic nuclear reactions and the conservation laws that govern these interactions, various radioactive decay processed, and the interaction of neutrons and gamma rays with matter. The energy dependence of neutron and gamma cross sections, the slowing down process, the computation of microscopic and macroscopic reactions rates, and the characterization of different materials used in a variety of nuclear applications are also addressed. A variety of practical applications are highlighted.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Co-Req: MATH 2340 Differential Equations or MATH 2360 Eng Differential Equations.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": [
+                [
+                    "MATH.2340",
+                    "MATH.2360"
+                ]
+            ]
+        }
+    },
+    "ENGY.4190": {
+        "name": "ENGY.4190 Nuclear Reactor Operator Training  (Formerly 24.419)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/4190/",
+        "id": "004047",
+        "description": "This course provides an introductory overview of nuclear physics and related theory and the various systems associated with the operation of the UMASS Lowell Nuclear Research Reactor (UMLRR).  The course is intended for students who want to learn about the operations of the UMLRR and who are interested in a career in nuclear engineering and science.  The course provides a multidisciplinary systems approach to education and training, which emphasizes \"learning by doing\".  In a practical setting, students study and learn basic nuclear theory and design aspects of real-world systems associated with nuclear reactor operations.  Knowledge is gained by working closely with experienced reactor operators and staff, and through independent study.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.4200": {
+        "name": "ENGY.4200 Nuclear Reactor Operator Training II (Formerly 24.420)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/4200/",
+        "id": "004048",
+        "description": "Continuation of 24.419. Upon completion of this course, the student will be given a simulated Reactor Operator examination, including a written test, an oral test about reactor systems, and a controls manipulation test.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: 24.419 Nuclear Reactor Operator Training I.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.4340": {
+        "name": "ENGY.4340 Nuclear Reactor Theory (Formerly 10/24/434)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/4340/",
+        "id": "036717",
+        "description": "Emphasis is placed on neutron interactions in various nuclear core and shield configurations along with the development, solution, and analysis of the neutron balance equation for various situations. Several aspects of nuclear reactor core physics including neutron diffusion, criticality, power production, reactor kinetics, reactivity feedback and control, fuel depletion, fission product poisoning, and some energy removal considerations are treated. General reactor core design and safety considerations are also discussed.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGY 3310 Fund. of Nuclear Science & Engineering, and MATH 2360 Eng. Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGY.3310"
+                ],
+                [
+                    "MATH.2360"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGY.4350": {
+        "name": "ENGY.4350 Nuclear Reactor Engineering",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/4350/",
+        "id": "039663",
+        "description": "This course provides an overview of pertinent topics in basic nuclear heat generation and removal in a nuclear reactor, power conversion, and overall system integration and safety.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGY.4340 Nuclear Reactor Theory, familiarity with thermo, fluids, and heat transfer.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGY.4340"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGY.4390": {
+        "name": "ENGY.4390 Nuclear Systems Design & Analysis (Formerly 24.432 & ENGY.4320)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/4390/",
+        "id": "004052",
+        "description": "A design course that focuses on the use of modern computer analysis tools for the design and analysis of nuclear systems. Reactor physics and shielding codes and thermal and transient analysis of nuclear systems are completed by small design teams with individual responsibility for a particular aspect of the design. Oral and written communication skills are emphasized. (10.432 and 24.432 are the same)",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.4910": {
+        "name": "ENGY.4910 Industrial Experience (Formerly 24.491)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/4910/",
+        "id": "036210",
+        "description": "\"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "12"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.4950": {
+        "name": "ENGY.4950 Directed Studies (Formerly 24.495)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/4950/",
+        "id": "004053",
+        "description": "Special problems in nuclear science and engineering assigned to the individual student, with emphasis on modern research methods and preparation of results for publication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5040": {
+        "name": "ENGY.5040 Energy Engineering Workshop (Formerly 24.504)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5040/",
+        "id": "004057",
+        "description": "A group/individual design project. The design effort will integrate many aspects of the student's engineering background, including design concepts, technical analyses, economic and safety considerations, etc. A formal report and oral presentation are required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5050": {
+        "name": "ENGY.5050 Reactor Physics (Formerly 24.505)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5050/",
+        "id": "004058",
+        "description": "Advanced treatment of several topics in reactor physics, including cross sections and processing methods, development of transport theory, reduction to diffusion theory, and analyses of analytical and numerical solutions of the resultant balance equations.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5060": {
+        "name": "ENGY.5060 Nuclear Reactor Dynamics",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5060/",
+        "id": "042255",
+        "description": "This course covers the dynamics of single-point, nuclear reactors including startup, shutdown, various reactivity perturbations, and coupling to heat removal. The course includes linear and non-linear stability analysis of reactors. The course will include use of computational tools and mathematical approaches to solve reactor dynamic problems.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGY.4340 Nuclear Reactor Theory, or ENGY.5050 Reactor Physics, and Co-req: CHEN.3040 Heat Transfer or equivalent.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGY.4340",
+                    "ENGY.5050"
+                ]
+            ],
+            "corequisites": [
+                [
+                    "CHEN.3040"
+                ]
+            ]
+        }
+    },
+    "ENGY.5070": {
+        "name": "ENGY.5070 Reactor Engineering and Safety (Formerly 24.507)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5070/",
+        "id": "004060",
+        "description": "Modeling and analysis of reactor thermal-hydraulics and safety systems. Topics include nuclear heat generation and transport, single and two-phase flow, boiling crisis, and safety analysis.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5090": {
+        "name": "ENGY.5090 Dynamic Systems Analysis (Formerly 24.509)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5090/",
+        "id": "004062",
+        "description": "Mathematical foundation using the state-variable approach. Topics include matrix methods, Laplace and Fourier transforms, transfer functions, frequency response and stability analyses, and distributed/lumped parameter systems. Applications to mechanical and thermo-fluid systems. Modeling and simulation of systems using Matlab are emphasized. A comprehensive project, including formal written and oral reports, is required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5100": {
+        "name": "ENGY.5100 Nuclear Fuel Cycle (Formerly 24.510)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5100/",
+        "id": "004063",
+        "description": "This course will explore the various stages of the nuclear fuel cycle.  The nuclear fuel cycle is broadly classified into three stages; front end, service stage, and back end.  The course will introduce students to the various sub stages within the three broad stages of the nuclear fuel cycle.  The course will explore the technology that is currently being used in these stages, then compare difference in approaches.  Further modifications to the fuel cycle management will be discussed to make nuclear energy more sustainable.  The course will provide an overview of front end fuel cycle including: mining, milling, enriching, fabrication; back end of the fuel cycle including: waste and recycling (or not); and in core fuel management, burnup calculations; and approaches to balance the cost of electricity production using nuclear reactors.  The students will be introduced to nuclear burnup code such as ORIGEN.  At the conclusion of the course students will be tasked to design and evaluate an aspect of the nuclear cycle that has been discussed in the class including but not limited to: enrichment plant, in-core fuel management, spent fuel management.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGY.3310 Fundamentals of Nuclear Science and Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGY.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGY.5120": {
+        "name": "ENGY.5120 Nuclear Materials (Last Term 2004 Spring)(Formerly 24.522)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5120/",
+        "id": "004070",
+        "description": "Materials in sustainable nuclear energy applications including fission energy, fusion energy, accelerators, and medicine. Review of fundamentals of materials science, radiation physics, nuclear reactions, radioactivity, and ionizing radiation. Study of fundamental phenomena related to radiation-interactions with matter, and radiation damage in structural materials including ion-solid interactions, atomic displacement, defect kinetics, and microstructural changes under irradiation. A final project is required for the course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: MATH 2360 Eng Differential Equations or MATH.2340 Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "MATH.2360",
+                    "MATH.2340"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGY.5140": {
+        "name": "ENGY.5140 Chemical and Nuclear Waste (Formerly 24.514)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5140/",
+        "id": "004066",
+        "description": "History of nuclear waste disposal; engineering design of disposal systems. Present status of waste and the character and quantities of future wastes. Review of disposal concepts on a generic basis. The national plan for waste disposal.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5160": {
+        "name": "ENGY.5160 Radiation Shielding and Protection (Formerly 24.516)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5160/",
+        "id": "038017",
+        "description": "This course will explore the fundamental principles of the interaction of nuclear and atomic radiation with matter and the transport of radiation through materials.  The students will learn characterization of radiation fields and sources, and transport radiation through material.  The course will discuss radiation exposure, dose, dose equivalent in context of radiation shielding and protection.  Consequently, the students will compile each of these topics to learn how to design and analyze radiation shielding and protection.  The students will learn how to use both the SOURCES and ORIGEN (or equivalent) code systems for calculating radiation sources and the MCNP (or equivalent) code system for the transport of radiation.  At the conclusion of the course the students are expected to develop a shielding design for a given constraints typically encountered in the nuclear field.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: ENGY.3310 Fundamentals of Nuclear Science and Engineering.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGY.3310"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGY.5180": {
+        "name": "ENGY.5180 Energy Technology, Economics and Policy",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5180/",
+        "id": "040652",
+        "description": "Survey course where students integrate the knowledge form previous undergraduate courses to explore and interpret energy technologies, economics and policies. This course is an elective course for engineering students and requires a good basic understanding of technical concepts related to the measurement and calculation of energy conversion and engineering economics.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5190": {
+        "name": "ENGY.5190 Reactor Operator Training (Formerly 24.519)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5190/",
+        "id": "004067",
+        "description": "Training, including in-reactor experience and topical lectures, as given to Reactor Operator Trainees who will undergo Federal testing for a Reactor Operator License.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5200": {
+        "name": "ENGY.5200 Reactor Operator Training (Formerly 24.520)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5200/",
+        "id": "004068",
+        "description": "Continuation of 24.519. Upon completion of this course, the student will be given a simulated Reactor Operator examination, including a written test, an oral test about reactor systems, and a controls manipulation test.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5310": {
+        "name": "ENGY.5310 Selected Topics in  Engineering (Formerly 24.531)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5310/",
+        "id": "004077",
+        "description": "Special problems in nuclear science and engineering assigned to the individual student, with emphasis on modern research methods and preparation of results for publication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5320": {
+        "name": "ENGY.5320 Selected Topics: Energy Science (Formerly 24.532)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5320/",
+        "id": "004078",
+        "description": "Special problems in nuclear science and engineering assigned to the individual student, with emphasis on modern research methods and preparation of results for publication.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5330": {
+        "name": "ENGY.5330 Computational Transport Phenomena",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5330/",
+        "id": "042280",
+        "description": "The goal of this course is to present a unified treatment of continuum transport phenomena using computational finite element methods. Therefore serving as a foundation for simulation of coupled fluid flow (multiphase), thermo-mechanics, heat transfer, radiation, reactive mass transfer and electromagnetics. The computational framework used is open source and based on MOOSE: Multiphysics Object-Oriented Simulation Environment. Three-dimensional models will be the end-target of this course, therefore necessary topics in parallel computing will be covered. Basic knowledge of transport phenomena is required in addition to computer programming skills of one or more object oriented languages (e.g. C++ or/and Python).",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "ENGY.4340 Nuclear Reactor Theory, or ENGY.4350 Nuclear Reactor Engineering, or CHEN.5280 Advanced Transport Phenomena, or CHEN.5390 Mathematical Methods for Engineers, or MATH.4450 Partial Differential Equations.",
+        "requirements": {
+            "prerequisites": [
+                [
+                    "ENGY.4340",
+                    "ENGY.4350",
+                    "CHEN.5280",
+                    "CHEN.5390",
+                    "MATH.4450"
+                ]
+            ],
+            "corequisites": []
+        }
+    },
+    "ENGY.5340": {
+        "name": "ENGY.5340 Fundamentals of Nuclear Security and Safeguards (Formerly 24.534)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5340/",
+        "id": "039122",
+        "description": "This course will include technical and policy matters related to nuclear security and safeguards. The students will explore in interplay between technical and social science disciplines. Students will be introduced to fundamental nuclear physics and engineering, material science, risk assessment, computational techniques, modeling and simulation, information technology, measurement techniques, and detector development Those technical disciplines will be combined with social science fields such as political science, international relations, international law, energy policies, and regional studies.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.5360": {
+        "name": "ENGY.5360 Reactor Experiments (Formerly 24.536)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/5360/",
+        "id": "038016",
+        "description": "A laboratory-based course using the U Mass Lowell Research Reactor (UMLRR) to illustrate, validate, and expand upon a mix of topics from reactor core physics, reactor operations, and balance-of-plant/energy removal considerations in nuclear systems.  Typical experiments may include an approach to critical demo, reactivity measurements, generation of blade worth curves, analysis of various reactor kinetics and dynamic scenarios (including temperature and xenon effects), measurement of axial flux profiles and temperature/void coefficients, analysis of loss of flow and other pump transients, etc.  Matlab will be used for data analysis and for reactor simulation.  Other analysis tools such as VENTURE, MCNP, or PARET using existing models of the UMLRR may also be used.  Comprehensive analysis reports that compare/contrast experimental and simulation data will be required.  Oral presentations summarizing the results from the experiments will also be required.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "10.434 or 24.434 Introduction to Nuclear Engineering II.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.6010": {
+        "name": "ENGY.6010 Graduate Research Seminar (Formerly 24.601)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/6010/",
+        "id": "004086",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.6510": {
+        "name": "ENGY.6510 Selected Topics in Energy Engineering (Formerly 24.651)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/6510/",
+        "id": "004088",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7050": {
+        "name": "ENGY.7050 Supervised Tchg - Nuclear Engineering (Formerly 24.705)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7050/",
+        "id": "004092",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7330": {
+        "name": "ENGY.7330 Graduate Project - Energy Engineering (Formerly 24.733)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7330/",
+        "id": "004094",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7390": {
+        "name": "ENGY.7390 Graduate Project - Energy Engineering (Formerly 24.739)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7390/",
+        "id": "004096",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7410": {
+        "name": "ENGY.7410 Thesis Review (Formerly 24.741)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7410/",
+        "id": "035265",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7430": {
+        "name": "ENGY.7430 Master's Thesis - Nuclear Engineering (Formerly 24.743)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7430/",
+        "id": "004098",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7460": {
+        "name": "ENGY.7460 Master's Thesis - Energy Engineering (Formerly 24.746)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7460/",
+        "id": "004099",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7490": {
+        "name": "ENGY.7490 Master's Thesis - Energy Engineering (Formerly 24.749)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7490/",
+        "id": "004100",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7530": {
+        "name": "ENGY.7530 Doctoral Dissertation/Energy Engineering (Formerly 24.753)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7530/",
+        "id": "004102",
+        "description": "Advanced research work required of students performed under the supervision of a senior faculty member in the Nuclear Engineering Program. The dissertation topic must be approved by the doctoral committee.",
+        "credits": {
+            "min": "1",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7560": {
+        "name": "ENGY.7560 Doctoral Dissertation/Energy Engineering (Formerly 24.756)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7560/",
+        "id": "004103",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7590": {
+        "name": "ENGY.7590 Doctoral Dissertation/Energy  (Formerly 24.759)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7590/",
+        "id": "004104",
+        "description": "Advanced research work required of students performed under the supervision of a senior faculty member in the Energy Engineering Program. The dissertation topic must be approved by the doctoral committee.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7660": {
+        "name": "ENGY.7660 Continued Graduate Research (Formerly 24.766)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7660/",
+        "id": "004106",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "6",
+            "max": "6"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7690": {
+        "name": "ENGY.7690 Continued Graduate Research (Formerly 24.769)",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7690/",
+        "id": "004107",
+        "description": "There is currently no description available for this course.",
+        "credits": {
+            "min": "9",
+            "max": "9"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "ENGY.7CPT": {
+        "name": "ENGY.7CPT Curricular Practical Training for Engineering Doctoral Candidates",
+        "url": "https://www.uml.edu/catalog/courses/ENGY/7CPT/",
+        "id": "041749",
+        "description": "Curricular Practical Training (CPT) is a training program for doctoral students in Engineering. Participation in CPT acknowledges that this an integral part of an established curriculum and directly related to the major area of study or thesis.",
+        "credits": {
+            "min": "1",
+            "max": "1"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "total": 12,
+    "time": 10.033257961273193,
+    "HONR.1100": {
+        "name": "HONR.1100 First Year Seminar in Honors: Text in the City (Formerly HON 110)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/1100/",
+        "id": "035506",
+        "description": "The First Year Seminar in Honors (FYSH) uses Lowell as its text.  Rich in history and culture, and the students' home for the next four years, the City of Lowell offers a perfect topic to promote connections while learning how to view the city through the lens of the Humanities.  Students will develop library research skills, including facility with primary and secondary sources, and an appreciation for the narratives that lie in buildings, objects, and what people leave behind.  Activities include field trips, readings, writing, and an artistic interpretation.  As important, students will have the opportunity to form strong connections to each other, to the faculty, and to the community. Note: New course, but combination of current 59.102 and 59.103 in one semester.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Honors College or permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.2001": {
+        "name": "HONR.2001 Honors College: Student Fellowship",
+        "url": "https://www.uml.edu/catalog/courses/HONR/2001/",
+        "id": "041126",
+        "description": "Honors College Student Fellowship is a grant given to a Commonwealth Honors student for pre-approved scholarly engagement that is overseen and guided by a mentor. Fellowships are awarded for research, creativity, theme-based reading, author-based reading, community engagement, curating, or entrepreneurial projects. Each fellowship must have a reading component, a writing component and a speaking component.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Req: Honors College or permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.2002": {
+        "name": "HONR.2002 Honors Experiential Learning",
+        "url": "https://www.uml.edu/catalog/courses/HONR/2002/",
+        "id": "041127",
+        "description": "Honors College Community Engagement Interactive Experience allows students to engage in structured community service. Students collaborate with a community non-profit partner and work with them over the course of a year (two Academic Semesters) and is conducted under the mentorship of a representative of the non-profit organization as well as a member of the Honors College. Students will be required to read articles/texts appropriate to their Community Engagement experience and conduct a public presentation at the completion.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Req: Honors College or permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.2003": {
+        "name": "HONR.2003 Honors College Symposium",
+        "url": "https://www.uml.edu/catalog/courses/HONR/2003/",
+        "id": "041128",
+        "description": "Honors College Symposium consists of three one-month long units of study, resulting in a final syntheses and reflection. A unit of study is defined by a faculty facilitator and consists of: reading, watching, and/or listening to books, articles, plays and/or films; completing pre-discussion assignments; attending and participating in mandatory faculty-led discussion. Following the last unit of study, students execute a persuasive commentary. The Honors College Symposium fulfills an Honors Interactive Experience.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Req: Honors College or permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.3100": {
+        "name": "HONR.3100 Honors Thesis Project Workshop (Formerly 59.258 and HON 310)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/3100/",
+        "id": "035508",
+        "description": "This course is designed to promote the application of interdisciplinary perspectives to problems, issues, concepts, and creations, as well as an appreciation of the research methods that characterize a broad range of disciplines.  It is a writing intensive class with active participation requirements to enhance students' oral and written expository communication skills in preparation for the Honors Thesis/Project. Students complete the CITI module on research ethics and discuss the role of the University Office for Compliance/IRB.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Honors College or permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.3200": {
+        "name": "HONR.3200 Seminar: Special Topics in Honors (Formerly HON 320)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/3200/",
+        "id": "036909",
+        "description": "Seminar: Special Topics in Honors offers students the opportunity to engage in depth with a subject that is of special interest in an Honors-level seminar.  The course will address an inquiry-based topic that spans or falls outside the boundaries of any individual major on campus, but integrates methodology, content, and /or approaches from two or more.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "Pre-Req: Honors College or permission of the instructor.",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.3300": {
+        "name": "HONR.3300 Seminar: Special Topic in Honors (Arts & Humanities Perspective)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/3300/",
+        "id": "040055",
+        "description": "Seminar: Special Topics in Honors offers students the opportunity to engage in depth with a subject that is of special interest in an Honors-level seminar.  The course will address an inquiry-based topic that spans or falls outside the boundaries of any individual major on campus, but integrates methodology, content, and /or approaches from two or more.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.3400": {
+        "name": "HONR.3400 Seminar: Special Topic in Honors (Social Science Perspective)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/3400/",
+        "id": "040056",
+        "description": "Seminar: Special Topics in Honors offers students the opportunity to engage in depth with a subject that is of special interest in an Honors-level seminar.  The course will address an inquiry-based topic that spans or falls outside the boundaries of any individual major on campus, but integrates methodology, content, and /or approaches from two or more.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.3500": {
+        "name": "HONR.3500 Seminar: Special Topic in Honors (STEM Perspective)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/3500/",
+        "id": "040057",
+        "description": "Seminar: Special Topics in Honors offers students the opportunity to engage in depth with a subject that is of special interest in an Honors-level seminar.  The course will address an inquiry-based topic that spans or falls outside the boundaries of any individual major on campus, but integrates methodology, content, and /or approaches from two or more.",
+        "credits": {
+            "min": "3",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.4900": {
+        "name": "HONR.4900 Honors Thesis Research (Formerly HON 490)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/4900/",
+        "id": "035510",
+        "description": "This zero credit course is designed to facilitate tracking of Honors students' thesis progress.  During the first semester of a two semester (6 credit) project, students will register for the appropriate 301 section in their department as well as HONR.4900, for which the Honors College components are required.  These components include a timely and complete thesis proposal as well as an end-of-the-semester progress report, both of which are to be signed by the faculty advisor and committee member and submitted for approval to the Honors Director.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Reqs: Senior Level & Honors College",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.4910": {
+        "name": "HONR.4910 Honors Thesis Project Research (Formerly HON 491)",
+        "url": "https://www.uml.edu/catalog/courses/HONR/4910/",
+        "id": "035511",
+        "description": "Honors students in their final semester of work towards the required Honors project enroll in this course to gain access to the Blackboard and Digication tolls used to track their progress, designate Honors completion, and archive their achievements. Requirements for Honors Projects include the one-time completion of a project proposal approved by the faculty mentor, committee member, and Honors College and development and maintenance of an ePortfolio in which the work is presented both in progress and as a finished, written product. Honors projects conclude with the public presentation of the work and submission of an archivable document and completion paperwork. Honors students sign up for this course in addition to and simultaneously with the credit-bearing course used to satisfy their H8 requirement.",
+        "credits": {
+            "min": "0",
+            "max": "0"
+        },
+        "requirements-text": "Pre-Reqs: Senior Level & Honors College",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    },
+    "HONR.4992": {
+        "name": "HONR.4992 Honors College Directed Study",
+        "url": "https://www.uml.edu/catalog/courses/HONR/4992/",
+        "id": "040051",
+        "description": "Honor's College Directed Study. \"Variable credit course, student chooses appropriate amount of credits when registering.\"",
+        "credits": {
+            "min": "0",
+            "max": "3"
+        },
+        "requirements-text": "",
+        "requirements": {
+            "prerequisites": [],
+            "corequisites": []
+        }
+    }
+}
